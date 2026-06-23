@@ -1,0 +1,48 @@
+name: Post Daily Marketing News
+
+on:
+  schedule:
+    # Запуск каждый день в 07:00 UTC (10:00 по Московскому времени)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    # Позволяет запускать рабочий процесс вручную из вкладки Actions на GitHub
+
+permissions:
+  contents: write  # Разрешение на коммит и пуш изменений базы данных обратно в репозиторий
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run news pipeline
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python scheduler.py
+
+    - name: Commit and push database changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add processed_articles.json
+        # Коммитим только если есть изменения
+        git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update processed articles list [skip ci]" && git push)
