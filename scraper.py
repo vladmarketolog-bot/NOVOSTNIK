@@ -16,13 +16,31 @@ HEADERS = {
 }
 TIMEOUT = 15.0
 
+try:
+    from googlenewsdecoder import gnewsdecoder
+except ImportError:
+    gnewsdecoder = None
+
 def resolve_url(url: str) -> str:
     """
-    Некоторые RSS-ленты (например, Google News) используют ссылки-редиректы.
-    Функция переходит по редиректам и возвращает конечный URL.
+    Если ссылка ведет на Google News, декодирует её для получения оригинального URL.
+    В противном случае переходит по редиректам с помощью HEAD запроса.
     """
     if "news.google.com" not in url:
         return url
+    
+    # Пытаемся раскодировать URL через Google News Decoder
+    if gnewsdecoder:
+        try:
+            decoded = gnewsdecoder(url)
+            if decoded.get("status"):
+                decoded_url = decoded["decoded_url"]
+                logger.info(f"Успешно декодирован Google News URL: {decoded_url}")
+                return decoded_url
+        except Exception as e:
+            logger.warning(f"Не удалось декодировать Google News URL через библиотеку: {e}")
+            
+    # Резервный метод с обычным HEAD-запросом
     try:
         with httpx.Client(headers=HEADERS, follow_redirects=True, timeout=TIMEOUT) as client:
             resp = client.head(url)
@@ -30,6 +48,7 @@ def resolve_url(url: str) -> str:
     except Exception as e:
         logger.warning(f"Не удалось разрешить редирект для {url}: {e}")
         return url
+
 
 def fetch_article_text(url: str) -> str:
     """
