@@ -71,11 +71,19 @@ def fetch_article_text(url: str) -> str:
 def get_articles_from_rss(feed_url: str, source_name: str) -> list:
     """
     Парсит RSS-ленту и возвращает список новых статей.
+    Использует httpx для обхода блокировок по User-Agent.
     """
     logger.info(f"Парсинг RSS ленты: {feed_url} ({source_name})")
     articles = []
     try:
-        feed = feedparser.parse(feed_url)
+        with httpx.Client(headers=HEADERS, follow_redirects=True, timeout=TIMEOUT) as client:
+            resp = client.get(feed_url)
+            if resp.status_code != 200:
+                logger.warning(f"Не удалось получить RSS-ленту {feed_url}: статус {resp.status_code}")
+                return []
+            xml_data = resp.content
+
+        feed = feedparser.parse(xml_data)
         for entry in feed.entries[:10]: # Ограничиваемся последними 10 записями
             url = getattr(entry, 'link', None)
             if not url:
@@ -100,6 +108,7 @@ def get_articles_from_rss(feed_url: str, source_name: str) -> list:
     except Exception as e:
         logger.error(f"Ошибка при парсинге RSS {feed_url}: {e}")
     return articles
+
 
 def get_google_news_articles() -> list:
     """
