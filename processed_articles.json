@@ -478,5 +478,125 @@
     "processed_at": "2026-06-23T14:00:54.278720",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html": {
+    "title": "Meta Has Created a Prediction Markets App",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 23 Jun 2026 22:42:38 +0000",
+    "processed_at": "2026-06-24T10:20:32.628999",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html": {
+    "title": "U.S. Presses Meta to Agree to A.I. Reviews",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 23 Jun 2026 21:45:20 +0000",
+    "processed_at": "2026-06-24T10:20:32.714621",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html": {
+    "title": "Your Home Could Help Solve AI’s Growing Power Demand",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 24 Jun 2026 09:02:13 +0000",
+    "processed_at": "2026-06-24T10:20:32.784705",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html": {
+    "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 23 Jun 2026 21:15:16 +0000",
+    "processed_at": "2026-06-24T10:20:32.876945",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://londonlovesbusiness.com/five-marketing-metrics-huta-digital-ou-tracks-to-measure-campaign-efficiency/": {
+    "title": "Five marketing metrics Huta Digital OÜ tracks to measure campaign efficiency - London Business News",
+    "source": "Google News Search",
+    "published_at": "Tue, 23 Jun 2026 14:59:40 GMT",
+    "processed_at": "2026-06-24T10:30:05.915956",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wwd.com/business-news/retail/gap-inc-ai-google-zeta-publicis-sapient-1239017796/": {
+    "title": "Gap Inc. Leverages AI to Optimize Marketing and Personalization - WWD",
+    "source": "Google News Search",
+    "published_at": "Mon, 22 Jun 2026 16:00:23 GMT",
+    "processed_at": "2026-06-24T10:30:06.252627",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.salontoday.com/articles/2026-salon-today-200-technology-and-client-retention-and-referral": {
+    "title": "2026 SALON TODAY 200: Technology and Client Retention and Referral - Salon Today",
+    "source": "Google News Search",
+    "published_at": "Tue, 23 Jun 2026 23:42:07 GMT",
+    "processed_at": "2026-06-24T10:30:08.144285",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.einnews.com/amp/pr_news/921341205/unified-essentials-launches-integrated-marketing-suite-for-business-growth": {
+    "title": "Unified Essentials Launches Integrated Marketing Suite for Business Growth - EIN News",
+    "source": "Google News Search",
+    "published_at": "Mon, 22 Jun 2026 17:29:20 GMT",
+    "processed_at": "2026-06-24T10:30:08.287796",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://restauranttechnologynews.com/2026/06/paytronix-turns-guest-data-into-loyalty-personalized-engagement-and-restaurant-revenue-growth/": {
+    "title": "Paytronix Turns Guest Data Into Loyalty, Personalized Engagement and Restaurant Revenue Growth - Restaurant Technology News",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 09:57:20 GMT",
+    "processed_at": "2026-06-24T10:30:08.566331",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.thinkadvisor.com/2026/06/18/why-succession-planning-is-now-a-retention-strategy/": {
+    "title": "Why Succession Planning Is Now a Retention Strategy - ThinkAdvisor",
+    "source": "Google News Search",
+    "published_at": "Thu, 18 Jun 2026 19:50:58 GMT",
+    "processed_at": "2026-06-24T10:30:09.149064",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nyu.edu/about/news-publications/news/2026/june/nurse-turnover-study.html": {
+    "title": "Job Dissatisfaction, Education Drive Nurse Turnover - New York University",
+    "source": "Google News Search",
+    "published_at": "Tue, 23 Jun 2026 13:53:27 GMT",
+    "processed_at": "2026-06-24T10:30:09.495338",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://healthexec.com/topics/healthcare-management/healthcare-staffing/why-nurses-leave-and-what-hospitals-can-do": {
+    "title": "Why nurses leave and what hospitals can do to incentivize staying - HealthExec",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 00:55:37 GMT",
+    "processed_at": "2026-06-24T10:30:09.562588",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.netsuite.com/portal/resource/articles/crm/nonprofit-trends.shtml": {
+    "title": "The Top Nonprofit Trends to Watch Today - Oracle NetSuite",
+    "source": "Google News Search",
+    "published_at": "Fri, 19 Jun 2026 07:29:40 GMT",
+    "processed_at": "2026-06-24T10:30:09.656517",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://legis1.com/news/military-child-care-staffing-pentagon-struggles": {
+    "title": "Pentagon Child Care Crisis Threatens Military Readiness - Legis1",
+    "source": "Google News Search",
+    "published_at": "Mon, 22 Jun 2026 18:32:49 GMT",
+    "processed_at": "2026-06-24T10:30:10.176700",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/expert-interviews/mayowa-aderogbin-interview": {
+    "title": "The Best Testing Stacks Are Built for Speed and Learning, Not Complexity",
+    "source": "vwo.com",
+    "published_at": "Wed, 24 Jun 2026 05:37:39 +0000",
+    "processed_at": "2026-06-24T10:30:11.286874",
+    "status": "posted",
+    "telegram_message_id": 62
   }
 }
