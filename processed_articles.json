@@ -598,5 +598,125 @@
     "processed_at": "2026-06-24T10:30:11.286874",
     "status": "posted",
     "telegram_message_id": 62
+  },
+  "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html": {
+    "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 25 Jun 2026 10:00:16 +0000",
+    "processed_at": "2026-06-25T10:14:12.637864",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html": {
+    "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 24 Jun 2026 21:41:41 +0000",
+    "processed_at": "2026-06-25T10:14:12.726118",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/backlink-analysis-tools/": {
+    "title": "Best Backlink Analysis Tools: Compare Free and Paid Options",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 24 Jun 2026 19:00:00 +0000",
+    "processed_at": "2026-06-25T10:14:12.771295",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/gdpr-compliant-ab-testing/": {
+    "title": "GDPR-Compliant A/B Testing: How to Run Privacy-Safe Experiments",
+    "source": "vwo.com",
+    "published_at": "Thu, 25 Jun 2026 06:32:42 +0000",
+    "processed_at": "2026-06-25T10:14:23.826710",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.financialreporter.co.uk/gb-bank-cuts-core-buy-to-let-rates.html": {
+    "title": "GB Bank cuts core buy-to-let rates - Financial Reporter",
+    "source": "Google News Search",
+    "published_at": "Thu, 25 Jun 2026 07:38:12 GMT",
+    "processed_at": "2026-06-25T10:14:24.382159",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.fastcompany.com/91563421/why-customer-experience-is-now-the-primary-growth-driver": {
+    "title": "Why customer experience is now the primary growth driver - Fast Company",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 12:57:16 GMT",
+    "processed_at": "2026-06-25T10:14:24.497943",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://adage.com/opinion/aa-cmo-growth-impact-measurement/": {
+    "title": "How CMOs can prove their growth impact—the metrics that matter - Ad Age",
+    "source": "Google News Search",
+    "published_at": "Thu, 18 Jun 2026 16:00:00 GMT",
+    "processed_at": "2026-06-25T10:14:25.243280",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://thewisemarketer.com/kobie-2026-heart-of-loyalty-report-reveals-growing-gap-between-consumer-expectations-and-brand-loyalty-strategies/": {
+    "title": "Kobie 2026 Heart of Loyalty Report Reveals Growing Gap Between Consumer Expectations and Brand Loyalty Strategies - The Wise Marketer",
+    "source": "Google News Search",
+    "published_at": "Tue, 23 Jun 2026 20:48:46 GMT",
+    "processed_at": "2026-06-25T10:14:25.312402",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.digitalcommerce360.com/2026/06/24/gap-ai-marketing-overhaul-google-cloud-zeta-publicis-sapient/amp/": {
+    "title": "Gap launches AI marketing overhaul with Google Cloud, Zeta and Publicis Sapient - Digital Commerce 360",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 19:46:54 GMT",
+    "processed_at": "2026-06-25T10:14:25.393334",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.citybiz.co/article/865093/touchtunes-appoints-james-moore-cro-cassie-parham-svp-of-marketing/": {
+    "title": "TouchTunes Appoints James Moore CRO, Cassie Parham SVP of Marketing - citybiz",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 14:30:18 GMT",
+    "processed_at": "2026-06-25T10:14:26.923554",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.forbes.com/sites/markmurphy/2026/06/24/5-employee-retention-warning-signs-your-best-people-will-quit-this-year/": {
+    "title": "5 Employee Retention Warning Signs Your Best People Will Quit This Year - Forbes",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 12:17:36 GMT",
+    "processed_at": "2026-06-25T10:14:27.168390",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.truckinginfo.com/videos/why-do-drivers-stay-lessons-from-top-trucking-fleets-video": {
+    "title": "How Top Trucking Fleets Improve Driver Retention [Video] - Heavy Duty Trucking",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 21:27:20 GMT",
+    "processed_at": "2026-06-25T10:14:27.664588",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shrm.org/mena/topics-tools/news/career-architecture-is-engagement-retentions-missing-link": {
+    "title": "Career Architecture is Engagement and Retention’s Missing Link - SHRM",
+    "source": "Google News Search",
+    "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
+    "processed_at": "2026-06-25T10:14:28.426984",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.postnewsgroup.com/work-life-balance-remains-a-top-concern-for-employees-nationwide/amp/": {
+    "title": "Work-Life Balance Remains a Top Concern for Employees Nationwide - Post News Group",
+    "source": "Google News Search",
+    "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+    "processed_at": "2026-06-25T10:14:29.258778",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.reuters.com/legal/legalindustry/winning-talent-tournament-lateral-hiring-integration-retention-competitive--pracin-2026-06-24/": {
+    "title": "Winning the talent tournament — Lateral hiring, integration, and retention in a competitive market - Reuters",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 21:15:09 GMT",
+    "processed_at": "2026-06-25T10:14:29.400704",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
