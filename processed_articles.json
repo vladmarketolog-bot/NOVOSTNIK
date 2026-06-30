@@ -1142,5 +1142,125 @@
     "processed_at": "2026-06-29T11:59:47.598484",
     "status": "posted",
     "telegram_message_id": 66
+  },
+  "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html": {
+    "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 29 Jun 2026 16:27:45 +0000",
+    "processed_at": "2026-06-30T10:30:33.260107",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html": {
+    "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 29 Jun 2026 09:00:52 +0000",
+    "processed_at": "2026-06-30T10:30:33.356252",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html": {
+    "title": "How A.I. Is Changing the Way Politicians Run for Office",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 30 Jun 2026 04:46:32 +0000",
+    "processed_at": "2026-06-30T10:30:33.426905",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html": {
+    "title": "Many Child Safety Features on Social Apps Don’t Work, Report Finds",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 29 Jun 2026 16:24:40 +0000",
+    "processed_at": "2026-06-30T10:30:33.514542",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/what-is-an-seo-consultant/": {
+    "title": "What Is an SEO Consultant & What Services Do They Offer?",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 29 Jun 2026 19:00:00 +0000",
+    "processed_at": "2026-06-30T10:30:33.553929",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vocal.media/geeks/the-ghost-in-the-funnel-resolving-post-conversion-subscription-abuse-in-modern-saa-s": {
+    "title": "The Ghost in the Funnel: Resolving Post-Conversion Subscription Abuse in Modern SaaS - vocal.media",
+    "source": "Google News Search",
+    "published_at": "Sat, 27 Jun 2026 23:22:33 GMT",
+    "processed_at": "2026-06-30T10:30:48.606093",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://adage.com/technology/data/aa-brands-using-ai-for-datasets-and-targeting/": {
+    "title": "How brands are using AI to crack challenging datasets to improve targeting - Ad Age",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 09:10:00 GMT",
+    "processed_at": "2026-06-30T10:31:13.684206",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.einnews.com/amp/pr_news/923099864/northwestern-marketing-concepts-examines-workplace-factors-contributing-to-employee-retention-and-development": {
+    "title": "Northwestern Marketing Concepts Examines Workplace Factors Contributing to Employee Retention and Development - EIN News",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 20:55:40 GMT",
+    "processed_at": "2026-06-30T10:31:28.396093",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.chromatographyonline.com/view/chromatographic-lc-ms-strategies-therapeutic-oligonucleotide-characterization": {
+    "title": "Chromatographic and LC–MS Strategies for Therapeutic Oligonucleotide Characterization - Chromatography Online",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 13:36:15 GMT",
+    "processed_at": "2026-06-30T10:31:28.515671",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.labmanager.com/why-lab-managers-should-prioritize-workplace-mental-health-35647": {
+    "title": "NAMI Poll Highlights Strategies to Reduce Employee Burnout and Improve Retention - Lab Manager",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 01:58:00 GMT",
+    "processed_at": "2026-06-30T10:31:28.657585",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://igamingfuture.com/uplatform-case-2-when-high-conversion-hides-weak-growth/": {
+    "title": "Uplatform Case 2: When High Conversion Hides Weak Growth - iGamingFuture",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 07:00:54 GMT",
+    "processed_at": "2026-06-30T10:31:31.753321",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://ascendants.in/founders-corner/khushboo-mulani-d2c-unit-economics-india-2026/": {
+    "title": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026 - ascendants.in",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 18:15:21 GMT",
+    "processed_at": "2026-06-30T10:31:52.598636",
+    "status": "posted",
+    "telegram_message_id": 67
+  },
+  "https://brandequity.economictimes.indiatimes.com/news/marketing/how-omnichannel-marketing-is-helping-brands-build-stronger-customer-loyalty/132072031": {
+    "title": "How omnichannel marketing is helping brands build stronger customer loyalty - ET BrandEquity",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 12:29:28 GMT",
+    "processed_at": "2026-06-30T10:31:52.601309",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.roofingcontractor.com/articles/102383-6-marketing-metrics-every-roofing-contractor-needs": {
+    "title": "6 Marketing Metrics Every Roofing Contractor Needs - Roofing Contractor",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 17:33:12 GMT",
+    "processed_at": "2026-06-30T10:31:52.603286",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.whio.com/contributor/unlocking-power-ai/MZRWLEORWM727ANY7VCB7YWNUQ/": {
+    "title": "Unlocking the power of AI-driven marketing - WHIO TV",
+    "source": "Google News Search",
+    "published_at": "Wed, 24 Jun 2026 08:35:49 GMT",
+    "processed_at": "2026-06-30T10:31:52.605128",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
