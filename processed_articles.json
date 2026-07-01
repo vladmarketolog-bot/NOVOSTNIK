@@ -1262,5 +1262,125 @@
     "processed_at": "2026-06-30T10:31:52.605128",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html": {
+    "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 01 Jul 2026 03:17:31 +0000",
+    "processed_at": "2026-07-01T10:39:54.560166",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html": {
+    "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 30 Jun 2026 18:43:00 +0000",
+    "processed_at": "2026-07-01T10:39:54.651814",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html": {
+    "title": "Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 30 Jun 2026 23:02:46 +0000",
+    "processed_at": "2026-07-01T10:39:54.742504",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html": {
+    "title": "The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 01 Jul 2026 09:01:47 +0000",
+    "processed_at": "2026-07-01T10:39:54.837344",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html": {
+    "title": "BMW Will Build a New Electric S.U.V. in South Carolina",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 30 Jun 2026 21:49:52 +0000",
+    "processed_at": "2026-07-01T10:39:54.947072",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessoffashion.com/articles/beauty/new-rules-beauty-brand-loyalty-strategy-crm-klaviyo-ilia/": {
+    "title": "The New Rules of Beauty Brand Loyalty - The Business of Fashion",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 04:00:00 GMT",
+    "processed_at": "2026-07-01T10:39:55.034082",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/how-omnichannel-marketing-is-helping-brands-build-stronger-customer-loyalty/132072031": {
+    "title": "How omnichannel marketing is helping brands build stronger customer loyalty - ET BrandEquity",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 12:29:28 GMT",
+    "processed_at": "2026-07-01T10:40:34.777381",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingweek.com/story-of-my-cv-hannah-fisher/": {
+    "title": "One CMO on combining ‘commercial rigour’ with ‘customer understanding’ to turn brands into growth engines - Marketing Week",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 12:49:45 GMT",
+    "processed_at": "2026-07-01T10:43:18.684449",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.rismedia.com/2026/06/30/the-shrinking-agent-population-how-its-changing-recruiting-and-retention-strategies/": {
+    "title": "The Shrinking Agent Population: How It’s Changing Recruiting and Retention Strategies - RISMedia",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 18:24:48 GMT",
+    "processed_at": "2026-07-01T10:43:19.119230",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hinshawlaw.com/en/insights/press-release/lauren-symington-joins-hinshaw-as-chief-talent-officer": {
+    "title": "Lauren Symington Joins Hinshaw as Chief Talent Officer - Hinshaw & Culbertson LLP",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 21:17:43 GMT",
+    "processed_at": "2026-07-01T10:44:28.460456",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://entrackr.com/guest-post/microdrama-has-a-retention-problem-everything-else-flows-from-it-12121705": {
+    "title": "Microdrama has a retention problem. Everything else flows from it - Entrackr",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 02:56:56 GMT",
+    "processed_at": "2026-07-01T10:45:54.924807",
+    "status": "posted",
+    "telegram_message_id": 68
+  },
+  "https://www.campaignlive.com/article/brands-escaping-discount-trap/1963305": {
+    "title": "The brands escaping the discount trap - Campaign US",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 18:45:30 GMT",
+    "processed_at": "2026-07-01T10:45:54.926970",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.carriermanagement.com/features/2026/06/30/289573.htm": {
+    "title": "The Price of Loyalty: How Higher Premiums Are Reshaping Carrier Retention - Carrier Management",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 10:09:40 GMT",
+    "processed_at": "2026-07-01T10:45:54.928905",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.business.com/articles/keep-customers-on-your-website/": {
+    "title": "Tips for Keeping Consumers Engaged on Your Website - Business.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 26 Jun 2026 07:00:00 GMT",
+    "processed_at": "2026-07-01T10:45:54.930878",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.thehypemagazine.com/2026/06/29/20-fitness-challenge-ideas-to-boost-client-engagement-and-retention/": {
+    "title": "20 Fitness Challenge Ideas to Boost Client Engagement and Retention The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fashion, Gam - The Hype Magazine",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 17:47:41 GMT",
+    "processed_at": "2026-07-01T10:45:54.932832",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
