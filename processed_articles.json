@@ -1494,5 +1494,125 @@
     "processed_at": "2026-07-02T10:01:21.647022",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html": {
+    "title": "Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 03 Jul 2026 09:04:25 +0000",
+    "processed_at": "2026-07-03T09:54:38.390910",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html": {
+    "title": "Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 03 Jul 2026 00:01:43 +0000",
+    "processed_at": "2026-07-03T09:54:38.490583",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html": {
+    "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 02 Jul 2026 18:54:00 +0000",
+    "processed_at": "2026-07-03T09:54:38.590795",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html": {
+    "title": "Tesla Sales Surge 25% on Recovery in Europe",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 02 Jul 2026 15:07:49 +0000",
+    "processed_at": "2026-07-03T09:54:38.678378",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://americancoinop.com/articles/remote-management-best-practices-part-2": {
+    "title": "Remote Management Best Practices (Part 2) - American Coin-Op",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 14:11:39 GMT",
+    "processed_at": "2026-07-03T09:55:44.591658",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.investopedia.com/strategic-client-management-how-to-build-stronger-financial-advisory-relationships-11969136": {
+    "title": "Strategic Client Management: How to Build Stronger Financial Advisory Relationships - Investopedia",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 17:53:45 GMT",
+    "processed_at": "2026-07-03T09:56:11.086835",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.finsmes.com/2026/06/ai-personalization-drives-retention-for-free-to-play-game-platforms.html": {
+    "title": "AI Personalization Drives Retention for Free-to-Play Game Platforms - FinSMEs",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 09:37:27 GMT",
+    "processed_at": "2026-07-03T09:56:22.013786",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/ai-email-personalization/": {
+    "title": "How AI Impacts Email Personalization in 2026",
+    "source": "neilpatel.com",
+    "published_at": "Thu, 02 Jul 2026 16:00:00 +0000",
+    "processed_at": "2026-07-03T09:56:22.868711",
+    "status": "posted",
+    "telegram_message_id": 70
+  },
+  "https://vwo.com/blog/how-vwo-approaches-sequential-testing/": {
+    "title": "Rigor You Can Read: How VWO Approaches Sequential Testing",
+    "source": "vwo.com",
+    "published_at": "Fri, 03 Jul 2026 06:40:30 +0000",
+    "processed_at": "2026-07-03T09:56:22.871083",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/why-experimentation-ai-belongs-inside-your-testing-platform/": {
+    "title": "Why Experimentation AI Belongs Inside Your Testing Platform",
+    "source": "vwo.com",
+    "published_at": "Thu, 02 Jul 2026 12:24:04 +0000",
+    "processed_at": "2026-07-03T09:56:22.873283",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://consumergoods.com/spanx-dermalogica-beauty-pilot-marketing-cx-ai-agents": {
+    "title": "Spanx, Dermalogica, AS Beauty Pilot Marketing, CX AI Agents - Consumer Goods Technology",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 15:29:35 GMT",
+    "processed_at": "2026-07-03T09:56:22.875468",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.proactiveinvestors.com/companies/news/1094861/loyalty-economics-what-investors-can-learn-from-reward-based-business-models-1094861.html": {
+    "title": "Loyalty Economics: What investors can learn from reward-based business models - Proactive financial news",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 08:19:00 GMT",
+    "processed_at": "2026-07-03T09:56:22.877659",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.yogonet.com/international/news/2026/07/02/125190-infingame-and-the-playa-highlight-growing-role-of-ai-recommendation-systems-in-igaming-retention-strategies": {
+    "title": "Infingame and The Playa highlight growing role of AI recommendation systems in iGaming retention strategies - Yogonet",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 17:53:12 GMT",
+    "processed_at": "2026-07-03T09:56:22.879856",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260701cl96606/discover-strength-opens-seven-new-locations-while-maintaining-industry-leading-customer-satisfaction-and-retention": {
+    "title": "Discover Strength Opens Seven New Locations While Maintaining Industry-Leading Customer Satisfaction and Retention - Morningstar",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 17:00:00 GMT",
+    "processed_at": "2026-07-03T09:56:22.882083",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://techbullion.com/the-future-of-saas-growth-through-ai-powered-digital-marketing/": {
+    "title": "The Future of SaaS Growth Through AI-Powered Digital Marketing - TechBullion",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 12:25:44 GMT",
+    "processed_at": "2026-07-03T09:56:22.884354",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
