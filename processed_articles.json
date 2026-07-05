@@ -1694,5 +1694,85 @@
     "processed_at": "2026-07-04T09:21:35.744694",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html": {
+    "title": "How Meta’s Threads Became as Popular as X",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 05 Jul 2026 09:01:41 +0000",
+    "processed_at": "2026-07-05T09:40:23.893947",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://bridgingandcommercial.co.uk/glenhawk-delivers-31m-residential-marketing-loan-for-essex-private-estate": {
+    "title": "Glenhawk delivers £3.1m residential marketing loan for Essex private estate - Bridging & Commercial",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 04:40:00 GMT",
+    "processed_at": "2026-07-05T09:40:29.012814",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://bridgingandcommercial.co.uk/funding-365-introduces-75-ltv-net-for-refurbishment-loans": {
+    "title": "Funding 365 introduces 75% LTV net for refurbishment loans - Bridging & Commercial",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 07:40:00 GMT",
+    "processed_at": "2026-07-05T09:40:33.566194",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wfin.com/agnet/aem-members-building-workforce-solutions-from-the-classroom-to-the-career-path/": {
+    "title": "AEM members building workforce solutions from the classroom to the career path - WFIN",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 19:55:07 GMT",
+    "processed_at": "2026-07-05T09:40:45.067072",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://jbhe.com/jbhejobs/city-tech-president/": {
+    "title": "President - The Journal of Blacks in Higher Education",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 15:25:23 GMT",
+    "processed_at": "2026-07-05T09:40:48.822475",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/hk-en/blog/ecommerce-growth": {
+    "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 19:04:45 GMT",
+    "processed_at": "2026-07-05T09:41:13.997310",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/3035134/neurocrine-biosciences-and-ryanair-have-been-highlighted-as-zacks-bull-and-bear-of-the-day/": {
+    "title": "Neurocrine Biosciences and Ryanair have been highlighted as Zacks Bull and Bear of the Day - The Globe and Mail",
+    "source": "Google News Search",
+    "published_at": "Mon, 29 Jun 2026 14:40:00 GMT",
+    "processed_at": "2026-07-05T09:41:14.938013",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/media-advertising/articles/five-belows-digital-marketing-investments-143000413.html": {
+    "title": "Five Below's Digital Marketing Investments Boost Customer Reach - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 14:30:00 GMT",
+    "processed_at": "2026-07-05T09:41:15.608337",
+    "status": "posted",
+    "telegram_message_id": 72
+  },
+  "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/42-of-issuers-say-fraud-and-disputes-are-driving-up-costs/": {
+    "title": "42% of Issuers Say Fraud and Disputes Are Driving Up Costs - PYMNTS.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 08:01:44 GMT",
+    "processed_at": "2026-07-05T09:41:15.610948",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.salontoday.com/articles/the-power-of-technology-5-questions-for-jerry-nettuno": {
+    "title": "The Power of Technology: 5 Questions for Jerry Nettuno - Salon Today",
+    "source": "Google News Search",
+    "published_at": "Fri, 03 Jul 2026 15:34:01 GMT",
+    "processed_at": "2026-07-05T09:41:15.613372",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
