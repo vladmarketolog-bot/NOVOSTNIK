@@ -1870,5 +1870,125 @@
     "processed_at": "2026-07-06T11:29:46.352769",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html": {
+    "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 06 Jul 2026 16:04:08 +0000",
+    "processed_at": "2026-07-07T10:23:36.263770",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html": {
+    "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 06 Jul 2026 16:05:26 +0000",
+    "processed_at": "2026-07-07T10:23:36.357365",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html": {
+    "title": "Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 06 Jul 2026 14:19:28 +0000",
+    "processed_at": "2026-07-07T10:23:36.430017",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/aeo-geo-profitability/": {
+    "title": "How To Make AEO and GEO Profitable",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 06 Jul 2026 16:00:00 +0000",
+    "processed_at": "2026-07-07T10:26:30.678233",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.lawnandlandscape.com/article/landscaping-customer-retention-starts-long-before-renewal-season/": {
+    "title": "Waiting until renewal season is not a retention strategy - Lawn & Landscape",
+    "source": "Google News Search",
+    "published_at": "Mon, 06 Jul 2026 14:25:31 GMT",
+    "processed_at": "2026-07-07T10:27:01.039389",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www2.southernminn.com/owatonna_peoples_press/community/free-careerforce-webinar-series-on-recruiting-retention-strategies/article_57bb0e7c-3372-11ed-89f3-9b79051933f9.html": {
+    "title": "Free CareerForce webinar series on recruiting, retention strategies - southernminn.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 23:25:10 GMT",
+    "processed_at": "2026-07-07T10:27:42.552688",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://hrexecutive.com/why-hr-must-lead-the-ai-culture-shift/": {
+    "title": "Why HR must lead the AI culture shift - HR Executive",
+    "source": "Google News Search",
+    "published_at": "Mon, 06 Jul 2026 11:45:59 GMT",
+    "processed_at": "2026-07-07T10:27:56.889609",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://central.cvca.ca/opinion/private-equity-executive-compensation-value-creation/": {
+    "title": "The Evolution of Executive Compensation in Private Equity: From Retention Tool to Value Creation Engine - CVCA Central",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 03:38:00 GMT",
+    "processed_at": "2026-07-07T10:28:07.328550",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.psychiatrictimes.com/view/presenting-our-july-2026-theme-substance-use": {
+    "title": "Presenting Our July 2026 Theme: Substance Use - Psychiatric Times",
+    "source": "Google News Search",
+    "published_at": "Mon, 06 Jul 2026 16:23:39 GMT",
+    "processed_at": "2026-07-07T10:28:42.661316",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cxtoday.com/crm/isg-customer-experience-management-buyers-guide-2026/": {
+    "title": "The ISG Customer Experience Management Advanced Buyers Guide 2026: 6 Top Takeaways - CX Today",
+    "source": "Google News Search",
+    "published_at": "Tue, 30 Jun 2026 14:53:32 GMT",
+    "processed_at": "2026-07-07T10:28:43.497745",
+    "status": "posted",
+    "telegram_message_id": 74
+  },
+  "https://thedesk.net/2026/07/hub-streaming-app-experience-linked-to-customer-retention-churn/": {
+    "title": "Hub: Streaming app experience linked to customer retention, churn - TheDesk.net",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 05:52:35 GMT",
+    "processed_at": "2026-07-07T10:28:43.500798",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/uk/blog/pos-loyalty-program": {
+    "title": "POS Loyalty Programs: Benefits and Setup Guide (2026) - Shopify",
+    "source": "Google News Search",
+    "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-07T10:28:43.503442",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/insights/cpi-vs-cpe-which-performance-model-is-more-effective-for-scaling-finance-apps/": {
+    "title": "CPI vs. CPE: which performance model is more effective for scaling finance apps? - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Mon, 06 Jul 2026 15:54:56 GMT",
+    "processed_at": "2026-07-07T10:28:43.505964",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/feature-flag-best-practices/": {
+    "title": "8 Feature Flag Best Practices for Product and Engineering Teams",
+    "source": "vwo.com",
+    "published_at": "Tue, 07 Jul 2026 06:39:11 +0000",
+    "processed_at": "2026-07-07T10:28:43.508482",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.martechcube.com/ai-trust-b2b-marketing/": {
+    "title": "The AI Trust Paradox and How B2B Marketers Can Win When Buyers Doubt AI - MarTech Cube",
+    "source": "Google News Search",
+    "published_at": "Mon, 06 Jul 2026 12:56:52 GMT",
+    "processed_at": "2026-07-07T10:28:43.511002",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
