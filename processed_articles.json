@@ -1990,5 +1990,109 @@
     "processed_at": "2026-07-07T10:28:43.511002",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html": {
+    "title": "Meta Unveils an A.I. Image Generator",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 07 Jul 2026 19:50:55 +0000",
+    "processed_at": "2026-07-08T09:23:53.954621",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html": {
+    "title": "Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 07 Jul 2026 15:07:00 +0000",
+    "processed_at": "2026-07-08T09:23:54.043552",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://thewisemarketer.com/what-ai-is-changing-in-loyalty-and-promotions/": {
+    "title": "What AI is Changing in Loyalty and Promotions - The Wise Marketer",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 20:01:09 GMT",
+    "processed_at": "2026-07-08T09:24:15.311443",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.fsrmagazine.com/feature/when-legal-labor-pathways-get-murky-restaurant-staffing-gets-harder/": {
+    "title": "When Legal Labor Pathways Get Murky, Restaurant Staffing Gets Harder - FSR magazine",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 12:13:51 GMT",
+    "processed_at": "2026-07-08T09:24:19.145971",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://coverager.com/hub-international-appoints-samuel-garvey-to-lead-commercial-lines-analytics/": {
+    "title": "Hub International appoints Samuel Garvey to lead commercial lines analytics - Coverager",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 14:59:26 GMT",
+    "processed_at": "2026-07-08T09:24:33.578182",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/zacks:57b85720a094b:0-verizon-stock-underperforms-industry-in-a-year-buy-sell-or-hold/": {
+    "title": "Verizon Stock Underperforms Industry in a Year: Buy, Sell or Hold? - TradingView",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 16:56:00 GMT",
+    "processed_at": "2026-07-08T09:24:42.857151",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/enterprise/blog/customer-data-platform": {
+    "title": "Customer Data Platform: Types & When it’s Time to Find a Standalone CDP (2026) - Shopify",
+    "source": "Google News Search",
+    "published_at": "Mon, 06 Jul 2026 19:56:14 GMT",
+    "processed_at": "2026-07-08T09:24:43.197668",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.trendhunter.com/amp/trends/baby-sleep-assistant": {
+    "title": "AI Baby Sleep Assistants - Trend Hunter",
+    "source": "Google News Search",
+    "published_at": "Sun, 05 Jul 2026 18:13:05 GMT",
+    "processed_at": "2026-07-08T09:24:43.383869",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/financial-advisor-practice-for-sale": {
+    "title": "How to Find a Financial Advisor Practice for Sale - SmartAsset.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-08T09:24:48.478848",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.business.com/articles/clover-vs-toast/": {
+    "title": "Clover vs. Toast Comparison 2026 - Business.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-08T09:24:48.953065",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://massmarketretailers.com/report-social-platforms-are-becoming-the-new-storefronts/": {
+    "title": "Report: Social platforms are becoming the new storefronts - Mass Market Retailers",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 18:53:00 GMT",
+    "processed_at": "2026-07-08T09:24:49.779463",
+    "status": "posted",
+    "telegram_message_id": 75
+  },
+  "https://chaindrugreview.com/sap-ai-reshapes-social-marketing/": {
+    "title": "SAP: AI reshapes social marketing - Chain Drug Review",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 19:54:44 GMT",
+    "processed_at": "2026-07-08T09:24:49.782506",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://augustafreepress.com/commercial/how-online-gambling-platforms-are-evolving-their-promotional-strategies-in-a-competitive-digital-market/": {
+    "title": "How online gambling platforms are evolving their promotional strategies in a competitive digital market - Augusta Free Press",
+    "source": "Google News Search",
+    "published_at": "Tue, 07 Jul 2026 14:00:12 GMT",
+    "processed_at": "2026-07-08T09:24:49.785310",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
