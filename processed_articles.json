@@ -2214,5 +2214,125 @@
     "processed_at": "2026-07-09T10:27:55.567049",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html": {
+    "title": "A Top OpenAI Executive, Fidji Simo, Steps Down",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 10 Jul 2026 00:38:03 +0000",
+    "processed_at": "2026-07-10T10:21:13.000664",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html": {
+    "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 09 Jul 2026 18:11:41 +0000",
+    "processed_at": "2026-07-10T10:21:13.076502",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html": {
+    "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 09 Jul 2026 19:34:23 +0000",
+    "processed_at": "2026-07-10T10:21:13.180307",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html": {
+    "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 09 Jul 2026 18:55:41 +0000",
+    "processed_at": "2026-07-10T10:21:13.278170",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html": {
+    "title": "John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 09 Jul 2026 21:07:27 +0000",
+    "processed_at": "2026-07-10T10:21:13.380679",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html": {
+    "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 10 Jul 2026 01:01:55 +0000",
+    "processed_at": "2026-07-10T10:21:13.475147",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/introducing-commerce-platform/": {
+    "title": "Introducing Commerce: One Platform for Search, Recommendations, and Merchandising",
+    "source": "vwo.com",
+    "published_at": "Thu, 09 Jul 2026 12:59:07 +0000",
+    "processed_at": "2026-07-10T10:22:53.068225",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/weebet-announces-partnership-with-optimove-that-elevates-crm-and-marketing-strategies-for-brazilian-operators/2381959/amp": {
+    "title": "Weebet Announces Partnership with Optimove that Elevates CRM and Marketing Strategies for Brazilian Operators - The Manila Times",
+    "source": "Google News Search",
+    "published_at": "Thu, 09 Jul 2026 17:52:09 GMT",
+    "processed_at": "2026-07-10T10:23:00.853584",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://igamingbusiness.com/marketing-affiliates/the-advertising-paradox-brand-becomes-more-important-than-ever/": {
+    "title": "The advertising paradox: Brand becomes more important than ever - igamingbusiness.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 08 Jul 2026 11:25:10 GMT",
+    "processed_at": "2026-07-10T10:23:00.981911",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.practicalecommerce.com/ai-marketing-looks-familiar": {
+    "title": "AI Marketing Looks Familiar - Practical Ecommerce",
+    "source": "Google News Search",
+    "published_at": "Thu, 09 Jul 2026 12:23:29 GMT",
+    "processed_at": "2026-07-10T10:23:01.222807",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://natlawreview.com/press-releases/bright-creation-marks-seven-years-supporting-digital-growth-uk-small": {
+    "title": "Bright Creation Marks Seven Years of Supporting Digital Growth for UK Small Businesses - The National Law Review",
+    "source": "Google News Search",
+    "published_at": "Fri, 10 Jul 2026 07:09:53 GMT",
+    "processed_at": "2026-07-10T10:23:01.305117",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.seyfarth.com/news-insights/washingtons-noncompete-ban-is-coming-health-care-employers-should-start-panicking-just-a-little.html": {
+    "title": "Washington’s Noncompete Ban Is Coming. Health care Employers Should Start Panicking (Just a Little). - Seyfarth Shaw",
+    "source": "Google News Search",
+    "published_at": "Fri, 10 Jul 2026 05:13:26 GMT",
+    "processed_at": "2026-07-10T10:23:01.434001",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.pinsentmasons.com/out-law/news/uk-employers-rethink-retention-strategies-to-avoid-retirement-cliff": {
+    "title": "UK employers rethink retention strategies to avoid ‘retirement cliff’ - Pinsent Masons",
+    "source": "Google News Search",
+    "published_at": "Thu, 09 Jul 2026 18:13:02 GMT",
+    "processed_at": "2026-07-10T10:23:02.842215",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://eliteagent.com/why-good-agents-leave-and-how-smart-agency-leaders-build-teams-that-stay/": {
+    "title": "The leadership playbook that keeps top agents from walking out the door - Elite Agent",
+    "source": "Google News Search",
+    "published_at": "Fri, 10 Jul 2026 01:51:19 GMT",
+    "processed_at": "2026-07-10T10:23:03.862985",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/best-ab-testing-tools-for-e-commerce/": {
+    "title": "7 Best A/B Testing Tools for eCommerce Businesses in 2026",
+    "source": "vwo.com",
+    "published_at": "Fri, 10 Jul 2026 07:25:00 +0000",
+    "processed_at": "2026-07-10T10:23:04.964519",
+    "status": "posted",
+    "telegram_message_id": 77
   }
 }
