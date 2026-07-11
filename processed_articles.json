@@ -2334,5 +2334,109 @@
     "processed_at": "2026-07-10T10:23:04.964519",
     "status": "posted",
     "telegram_message_id": 77
+  },
+  "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html": {
+    "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 10 Jul 2026 23:23:26 +0000",
+    "processed_at": "2026-07-11T08:44:45.362872",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html": {
+    "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 11 Jul 2026 02:03:34 +0000",
+    "processed_at": "2026-07-11T08:44:45.524243",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html": {
+    "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 10 Jul 2026 18:20:39 +0000",
+    "processed_at": "2026-07-11T08:44:45.655999",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html": {
+    "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 10 Jul 2026 11:00:04 +0000",
+    "processed_at": "2026-07-11T08:44:45.783095",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html": {
+    "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 10 Jul 2026 14:10:45 +0000",
+    "processed_at": "2026-07-11T08:44:45.903894",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/franchise-ppc/": {
+    "title": "PPC / SEM Tips for Franchises: A Guide for Google Ads",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 10 Jul 2026 16:00:00 +0000",
+    "processed_at": "2026-07-11T08:44:45.974450",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://tech.einnews.com/pr_news/925676488/bright-creation-marks-seven-years-of-supporting-digital-growth-for-uk-small-businesses": {
+    "title": "Bright Creation Marks Seven Years of Supporting Digital Growth for UK Small Businesses - EIN News",
+    "source": "Google News Search",
+    "published_at": "Fri, 10 Jul 2026 05:48:30 GMT",
+    "processed_at": "2026-07-11T08:44:46.368398",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.whio.com/contributor/companies-are-making/DBWCX37PIQ4D7LHCWBXFF5BQ5M/": {
+    "title": "Companies are making employee retention a top priority as workers rethink job loyalty - WHIO TV",
+    "source": "Google News Search",
+    "published_at": "Thu, 09 Jul 2026 14:44:15 GMT",
+    "processed_at": "2026-07-11T08:44:56.691243",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.msn.com/en-us/news/insight/netflix-weighs-always-on-channels-and-bundles-amid-engagement-dip/gm-GMC5939759?gemSnapshotKey=GMC5939759-snapshot-1&uxmode=ruby": {
+    "title": "Netflix weighs always-on channels and bundles amid engagement dip - MSN",
+    "source": "Google News Search",
+    "published_at": "Fri, 10 Jul 2026 18:04:12 GMT",
+    "processed_at": "2026-07-11T08:44:56.848387",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.enterprisetimes.co.uk/2026/07/10/gainsight-strengthens-ai-native-customer-retention-team-with-three-executive-appointments/": {
+    "title": "Gainsight strengthens AI-Native customer retention team with three executive appointments - - Enterprise Times",
+    "source": "Google News Search",
+    "published_at": "Fri, 10 Jul 2026 15:19:38 GMT",
+    "processed_at": "2026-07-11T08:45:38.984687",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/marketplace/app-analytics/mobile-measurement-partners/": {
+    "title": "Top Mobile Measurement Partners (MMP) (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Mon, 06 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-11T08:45:54.872025",
+    "status": "posted",
+    "telegram_message_id": 78
+  },
+  "https://nerdbot.com/2026/07/09/ecommerce-tips-to-scale-your-business/": {
+    "title": "Ecommerce Tips for Success: 6 Ways to Scale in 2026 - nerdbot",
+    "source": "Google News Search",
+    "published_at": "Thu, 09 Jul 2026 16:42:41 GMT",
+    "processed_at": "2026-07-11T08:45:54.875636",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/weebet-announces-partnership-with-optimove-that-elevates-crm-and-marketing-strategies-for-brazilian-operators/2381959": {
+    "title": "Weebet Announces Partnership with Optimove that Elevates CRM and Marketing Strategies for Brazilian Operators - The Manila Times",
+    "source": "Google News Search",
+    "published_at": "Thu, 09 Jul 2026 17:52:09 GMT",
+    "processed_at": "2026-07-11T08:45:54.879076",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
