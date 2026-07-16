@@ -2822,5 +2822,109 @@
     "processed_at": "2026-07-15T09:09:38.203983",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html": {
+    "title": "Europe Finds It Hard to Break Up With American and Chinese Technology",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 16 Jul 2026 08:20:56 +0000",
+    "processed_at": "2026-07-16T09:10:54.375946",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html": {
+    "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 15 Jul 2026 18:58:16 +0000",
+    "processed_at": "2026-07-16T09:10:54.476451",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/human-led-seo/": {
+    "title": "The Human Edge: What AI Still Can’t Do in SEO",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 15 Jul 2026 16:00:00 +0000",
+    "processed_at": "2026-07-16T09:10:54.528578",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/wingify-the-unified-digital-experience/": {
+    "title": "Wingify: The Unified Digital Experience Suite Powered by VWO and AB Tasty",
+    "source": "vwo.com",
+    "published_at": "Wed, 15 Jul 2026 10:12:54 +0000",
+    "processed_at": "2026-07-16T09:11:21.183967",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.fastcompany.com/91572922/the-ai-industrys-trillion-dollar-marketing-disaster": {
+    "title": "The AI industry’s trillion-dollar marketing disaster - Fast Company",
+    "source": "Google News Search",
+    "published_at": "Wed, 15 Jul 2026 15:01:26 GMT",
+    "processed_at": "2026-07-16T09:11:47.526637",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.travelmarketreport.com/packaged-travel/articles/kensington-names-tara-powadiuk-svp-marketing": {
+    "title": "Kensington Names Tara Powadiuk SVP, Marketing - Travel Market Report",
+    "source": "Google News Search",
+    "published_at": "Mon, 13 Jul 2026 16:35:58 GMT",
+    "processed_at": "2026-07-16T09:12:22.572327",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://malaysia.news.yahoo.com/beyond-shiny-objects-3-strategies-120000623.html": {
+    "title": "Beyond Shiny Objects, 3 Strategies That Really Boost Workplace Culture - Yahoo",
+    "source": "Google News Search",
+    "published_at": "Sun, 12 Jul 2026 12:00:00 GMT",
+    "processed_at": "2026-07-16T09:12:39.443410",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.almcorp.com/google-analytics-updates-2026-guide/": {
+    "title": "Google Analytics Updates 2026: Complete Guide to AI Insights, Privacy & Best Practices - ALM Corp",
+    "source": "Google News Search",
+    "published_at": "Tue, 14 Jul 2026 15:48:01 GMT",
+    "processed_at": "2026-07-16T09:13:07.163020",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.broadbandtvnews.com/2026/07/15/cable-broadband-losses-ease-in-us/": {
+    "title": "Cable broadband losses ease in US - Broadband TV News",
+    "source": "Google News Search",
+    "published_at": "Wed, 15 Jul 2026 11:17:48 GMT",
+    "processed_at": "2026-07-16T09:13:07.218886",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.eurekaspringstimesecho.net/premium/stacker/stories/the-4-flashpoint-why-americans-are-quietly-dumping-traditional-bank-accounts,30810": {
+    "title": "The 4% flashpoint: Why Americans are quietly dumping traditional bank accounts - Eureka Springs Times-Echo",
+    "source": "Google News Search",
+    "published_at": "Wed, 15 Jul 2026 14:00:05 GMT",
+    "processed_at": "2026-07-16T09:13:07.609568",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/": {
+    "title": "The PPC Metrics Your CFO Actually Cares About (And How To Report Them) - Search Engine Journal",
+    "source": "Google News Search",
+    "published_at": "Wed, 15 Jul 2026 09:30:15 GMT",
+    "processed_at": "2026-07-16T09:13:08.273935",
+    "status": "posted",
+    "telegram_message_id": 83
+  },
+  "https://itbrief.com.au/story/ai-reshapes-customer-data-loyalty-and-marketing-decisions": {
+    "title": "AI reshapes customer data, loyalty and marketing decisions - IT Brief Australia",
+    "source": "Google News Search",
+    "published_at": "Thu, 16 Jul 2026 02:00:00 GMT",
+    "processed_at": "2026-07-16T09:13:08.278411",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/ai-lead-scoring-for-financial-advisors": {
+    "title": "How to Use AI Lead Scoring as a Financial Advisor - SmartAsset.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 15 Jul 2026 14:07:32 GMT",
+    "processed_at": "2026-07-16T09:13:08.283265",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
