@@ -3046,5 +3046,125 @@
     "processed_at": "2026-07-17T09:08:20.206282",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html": {
+    "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 17 Jul 2026 20:04:57 +0000",
+    "processed_at": "2026-07-18T08:46:42.606296",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html": {
+    "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 17 Jul 2026 17:44:24 +0000",
+    "processed_at": "2026-07-18T08:46:42.710654",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html": {
+    "title": "The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 17 Jul 2026 11:00:03 +0000",
+    "processed_at": "2026-07-18T08:46:42.821523",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html": {
+    "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 17 Jul 2026 14:13:29 +0000",
+    "processed_at": "2026-07-18T08:46:42.916264",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/ubersuggest-mcp-connector-guide/": {
+    "title": "Ubersuggest MCP Connector: Use 37 SEO Tools Inside Claude, Cursor and More",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 17 Jul 2026 19:00:00 +0000",
+    "processed_at": "2026-07-18T08:46:42.987412",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.einnews.com/pr_news/923298344/marketing-agencies-turn-to-white-label-pay-per-call-as-client-retention-becomes-industry-challenge": {
+    "title": "Marketing Agencies Turn to White Label Pay Per Call as Client Retention Becomes Industry Challenge - EIN News",
+    "source": "Google News Search",
+    "published_at": "Fri, 17 Jul 2026 13:41:00 GMT",
+    "processed_at": "2026-07-18T08:46:52.421098",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cnbcafrica.com/media/AjPDJeoOqcE/marketing-media-money-business-insights-on-loyalty-programmes": {
+    "title": "Marketing Media Money: Business Insights on Loyalty Programmes - CNBC Africa",
+    "source": "Google News Search",
+    "published_at": "Fri, 17 Jul 2026 13:29:12 GMT",
+    "processed_at": "2026-07-18T08:46:53.461529",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.msn.com/en-us/news/insight/us-companies-rethink-morale-engagement-and-retention-strategies/gm-GM069AF27A?gemSnapshotKey=GM069AF27A-snapshot-0&uxmode=ruby": {
+    "title": "US companies rethink morale, engagement and retention strategies - MSN",
+    "source": "Google News Search",
+    "published_at": "Fri, 17 Jul 2026 14:51:32 GMT",
+    "processed_at": "2026-07-18T08:46:53.590878",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.jems.com/ems-management/how-to-keep-the-new-hire-ems-retention-for-every-generation/": {
+    "title": "How to Keep the New Hire: EMS Retention for Every Generation - jems.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 17 Jul 2026 12:47:33 GMT",
+    "processed_at": "2026-07-18T08:46:58.776419",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.afge.org/article/afge-membership-rebounding-thanks-to-legal-wins-focused-outreach/": {
+    "title": "AFGE Membership Rebounding Thanks to Legal Wins, Focused Outreach - AFGE",
+    "source": "Google News Search",
+    "published_at": "Mon, 13 Jul 2026 20:28:38 GMT",
+    "processed_at": "2026-07-18T08:46:59.078009",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.supplyht.com/articles/107311-retention-the-best-exit-strategy": {
+    "title": "Retention: The Best Exit Strategy - Supply House Times",
+    "source": "Google News Search",
+    "published_at": "Thu, 16 Jul 2026 17:00:00 GMT",
+    "processed_at": "2026-07-18T08:47:03.550404",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.thedailyupside.com/advisor/practice-management/rias-excel-in-client-retention-but-need-a-strategy-for-boosting-referral-business/": {
+    "title": "RIAs Excel in Client Retention but Need a Strategy for Boosting Referral Business - The Daily Upside",
+    "source": "Google News Search",
+    "published_at": "Thu, 16 Jul 2026 04:04:07 GMT",
+    "processed_at": "2026-07-18T08:47:12.341990",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.msn.com/en-us/news/insight/us-companies-rethink-morale-engagement-and-retention-strategies/gm-GM069AF27A?gemSnapshotKey=GM069AF27A-snapshot-0": {
+    "title": "US companies rethink morale, engagement and retention strategies - MSN",
+    "source": "Google News Search",
+    "published_at": "Thu, 16 Jul 2026 13:41:12 GMT",
+    "processed_at": "2026-07-18T08:47:12.465044",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/voice-of-customer-audit/": {
+    "title": "Voice of Customer Audit: How to Find the Revenue You’re Leaking to Customer Friction",
+    "source": "vwo.com",
+    "published_at": "Fri, 17 Jul 2026 10:42:37 +0000",
+    "processed_at": "2026-07-18T08:47:21.812300",
+    "status": "posted",
+    "telegram_message_id": 85
+  },
+  "https://www.proactiveinvestors.co.uk/companies/news/1095634/rocketplay-and-the-business-of-user-retention-1095634.html": {
+    "title": "Rocketplay and the business of user retention - Proactive Investors",
+    "source": "Google News Search",
+    "published_at": "Fri, 17 Jul 2026 13:09:00 GMT",
+    "processed_at": "2026-07-18T08:47:21.815962",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
