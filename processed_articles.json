@@ -3166,5 +3166,85 @@
     "processed_at": "2026-07-18T08:47:21.815962",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html": {
+    "title": "Politicians Are Trying to Change What Chatbots Say About Them",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 19 Jul 2026 09:00:38 +0000",
+    "processed_at": "2026-07-19T09:03:23.535354",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html": {
+    "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 19 Jul 2026 09:00:24 +0000",
+    "processed_at": "2026-07-19T09:03:23.624638",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html": {
+    "title": "Your ‘Live’ World Cup Broadcast Is Not Really Live",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 18 Jul 2026 15:48:06 +0000",
+    "processed_at": "2026-07-19T09:03:23.715670",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://influencermarketinghub.com/weight-loss-social-media-marketing-campaigns/": {
+    "title": "Top Weight Loss Social Media Marketing Campaigns - Influencer Marketing Hub",
+    "source": "Google News Search",
+    "published_at": "Wed, 15 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-19T09:03:34.268001",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.forbes.com/advisor/business/software/email-marketing-statistics/": {
+    "title": "49 Top Email Marketing Statistics - Forbes",
+    "source": "Google News Search",
+    "published_at": "Tue, 14 Jul 2026 10:45:00 GMT",
+    "processed_at": "2026-07-19T09:03:42.691492",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/marketplace/growth-marketing/": {
+    "title": "Top Growth Marketing Agencies (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-19T09:03:55.438885",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260716ln94516/new-research-reveals-loyalty-crisis-as-only-15-of-consumers-say-brand-marketing-feels-relevant-dotdigital-launches-ai-powered-loyalty-platform-to-help-marketers-fight-back": {
+    "title": "New research reveals loyalty crisis as only 15% of consumers say brand marketing feels relevant - Dotdigital launches AI-powered loyalty platform to help marketers fight back - Morningstar",
+    "source": "Google News Search",
+    "published_at": "Thu, 16 Jul 2026 11:20:00 GMT",
+    "processed_at": "2026-07-19T09:04:04.846538",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bradenton.com/news/business/article316518699.html": {
+    "title": "The 4% flashpoint: Why Americans are quietly dumping traditional bank accounts - Bradenton Herald",
+    "source": "Google News Search",
+    "published_at": "Wed, 15 Jul 2026 14:13:07 GMT",
+    "processed_at": "2026-07-19T09:04:20.028725",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/enterprise/blog/subscription-management-software": {
+    "title": "Ecommerce Subscription Management Software: Top Picks & Features (2026) - Shopify",
+    "source": "Google News Search",
+    "published_at": "Sun, 19 Jul 2026 03:30:53 GMT",
+    "processed_at": "2026-07-19T09:04:20.824670",
+    "status": "posted",
+    "telegram_message_id": 86
+  },
+  "https://www.capgemini.com/us-en/news/client-stories/global-life-insurer-boosts-customer-loyalty-and-achieves-a-24-uplift-in-email-open-rates/": {
+    "title": "Global life insurer boosts customer loyalty and achieves a 24% uplift in email open rates - Capgemini",
+    "source": "Google News Search",
+    "published_at": "Thu, 16 Jul 2026 15:20:08 GMT",
+    "processed_at": "2026-07-19T09:04:20.829415",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
