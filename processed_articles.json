@@ -3310,5 +3310,125 @@
     "processed_at": "2026-07-20T09:58:17.899547",
     "status": "posted",
     "telegram_message_id": 87
+  },
+  "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html": {
+    "title": "How Google’s A.I. Search Is Imperiling the Open Web",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 21 Jul 2026 01:50:36 +0000",
+    "processed_at": "2026-07-21T09:25:13.553897",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html": {
+    "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 20 Jul 2026 14:02:31 +0000",
+    "processed_at": "2026-07-21T09:25:13.652263",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html": {
+    "title": "When Listening to Music Was a Team Sport",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 21 Jul 2026 09:01:07 +0000",
+    "processed_at": "2026-07-21T09:25:13.732607",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html": {
+    "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 20 Jul 2026 22:45:52 +0000",
+    "processed_at": "2026-07-21T09:25:13.833234",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/travel-seo/": {
+    "title": "14 Effective SEO Tips for Travel Websites",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 20 Jul 2026 19:00:00 +0000",
+    "processed_at": "2026-07-21T09:25:13.874383",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/interpret-a-b-test-results-from-software/": {
+    "title": "How to Interpret A/B Test Results From Your Testing Platform (Step-by-Step Guide)",
+    "source": "vwo.com",
+    "published_at": "Mon, 20 Jul 2026 06:13:22 +0000",
+    "processed_at": "2026-07-21T09:25:24.209680",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://tech.einnews.com/pr_news/928003483/gold-standard-solutions-named-an-alpine-iq-preferred-partner-for-cannabis-dispensary-retention-marketing": {
+    "title": "Gold Standard Solutions Named an Alpine IQ Preferred Partner for Cannabis Dispensary Retention Marketing - EIN News",
+    "source": "Google News Search",
+    "published_at": "Mon, 20 Jul 2026 13:42:55 GMT",
+    "processed_at": "2026-07-21T09:25:24.400236",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://ca.finance.yahoo.com/news/alchemy-avenue-launches-expanded-ai-134700601.html": {
+    "title": "Alchemy Avenue Launches Expanded AI-Powered Marketing Solutions to Help Businesses Scale Customer Acquisition and Growth - Yahoo! Finance Canada",
+    "source": "Google News Search",
+    "published_at": "Mon, 20 Jul 2026 13:47:00 GMT",
+    "processed_at": "2026-07-21T09:25:40.710657",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://hbr.org/2026/07/stop-ai-from-eroding-your-brand": {
+    "title": "Stop AI from Eroding Your Brand - Harvard Business Review",
+    "source": "Google News Search",
+    "published_at": "Thu, 16 Jul 2026 20:22:44 GMT",
+    "processed_at": "2026-07-21T09:25:41.035253",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.truenorthradionetwork.com/online_features/press_releases/alchemy-avenue-turns-marketing-into-measurable-growth-with-ai-powered-full-funnel-strategy-in-2026/article_bd07cf02-e95d-50f2-88da-2fb54642de97.html": {
+    "title": "Alchemy Avenue Turns Marketing Into Measurable Growth with AI-Powered Full-Funnel Strategy in 2026 - True North Radio Network",
+    "source": "Google News Search",
+    "published_at": "Fri, 17 Jul 2026 11:02:35 GMT",
+    "processed_at": "2026-07-21T09:25:41.553825",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.iadvanceseniorcare.com/predicting-workforce-turnover-in-senior-care-how-to-stay-ahead/": {
+    "title": "Predicting Workforce Turnover in Senior Care: How to Stay Ahead - I Advance Senior Care",
+    "source": "Google News Search",
+    "published_at": "Tue, 21 Jul 2026 04:24:23 GMT",
+    "processed_at": "2026-07-21T09:25:41.703132",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.brainerddispatch.com/news/local/crosby-among-3-communities-tapped-for-business-growth-retention-program": {
+    "title": "Crosby among 3 communities tapped for business growth, retention program - Brainerd Dispatch",
+    "source": "Google News Search",
+    "published_at": "Sun, 19 Jul 2026 14:02:52 GMT",
+    "processed_at": "2026-07-21T09:25:45.860744",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260714da03072/homecare-homebase-report-explores-what-clinicians-really-want-from-their-employers": {
+    "title": "Homecare Homebase Report Explores What Clinicians Really Want from Their Employers - Morningstar",
+    "source": "Google News Search",
+    "published_at": "Tue, 14 Jul 2026 13:11:00 GMT",
+    "processed_at": "2026-07-21T09:25:52.508010",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://clickz.com/klaviyos-james-white-on-why-retention-beats-discounting/273419/": {
+    "title": "Klaviyo's James White on Why Retention Beats Discounting - ClickZ",
+    "source": "Google News Search",
+    "published_at": "Mon, 20 Jul 2026 18:12:57 GMT",
+    "processed_at": "2026-07-21T09:26:01.618880",
+    "status": "posted",
+    "telegram_message_id": 88
+  },
+  "https://www.browndailyherald.com/article/2026/07/top-free-vs-paid-self-improvement-apps-whats-the-difference": {
+    "title": "The Brown Daily Herald - The Brown Daily Herald",
+    "source": "Google News Search",
+    "published_at": "Mon, 20 Jul 2026 18:47:17 GMT",
+    "processed_at": "2026-07-21T09:26:01.623682",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
