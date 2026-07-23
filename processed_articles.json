@@ -3550,5 +3550,125 @@
     "processed_at": "2026-07-22T09:27:30.725462",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html": {
+    "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 23 Jul 2026 00:43:11 +0000",
+    "processed_at": "2026-07-23T09:22:49.492542",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html": {
+    "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 22 Jul 2026 22:18:54 +0000",
+    "processed_at": "2026-07-23T09:22:49.555625",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html": {
+    "title": "Tesla Profit Falls Even as Car Sales Rebound",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 22 Jul 2026 22:45:06 +0000",
+    "processed_at": "2026-07-23T09:22:49.615186",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html": {
+    "title": "Lawsuit Against Meta Over Social Media Addiction Is Dropped",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 22 Jul 2026 18:47:15 +0000",
+    "processed_at": "2026-07-23T09:22:49.688059",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html": {
+    "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 23 Jul 2026 09:05:32 +0000",
+    "processed_at": "2026-07-23T09:22:49.753269",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html": {
+    "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 23 Jul 2026 09:01:50 +0000",
+    "processed_at": "2026-07-23T09:22:49.806620",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/google-ai-link-attribution/": {
+    "title": "Google Enhances AI Link Attribution: What It Means for SEO",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 22 Jul 2026 16:00:00 +0000",
+    "processed_at": "2026-07-23T09:22:49.854229",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/expert-interviews/apurva-sandbhor-interview": {
+    "title": "Chasing Just Win Rates Incentivizes Your Team to Test Low-Reward Ideas",
+    "source": "vwo.com",
+    "published_at": "Thu, 23 Jul 2026 04:59:46 +0000",
+    "processed_at": "2026-07-23T09:23:06.150195",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://influencermarketinghub.com/dtc-marketing-agencies-for-paid-social/": {
+    "title": "Best DTC Marketing Agencies for Paid Social Growth - Influencer Marketing Hub",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 16:19:11 GMT",
+    "processed_at": "2026-07-23T09:23:29.629958",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingweek.com/customer-loyalty-acquisition-retention/": {
+    "title": "Customer loyalty is as much about acquisition as it is retention - Marketing Week",
+    "source": "Google News Search",
+    "published_at": "Thu, 23 Jul 2026 06:09:14 GMT",
+    "processed_at": "2026-07-23T09:23:29.754965",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tirereview.com/lifestyle-branding-tire-dealers/": {
+    "title": "Lifestyle Branding Can Help Tire Dealers Build Loyalty - Tire Review Magazine",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "processed_at": "2026-07-23T09:23:45.519743",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/media-advertising/articles/alchemy-avenue-launches-expanded-ai-134700601.html": {
+    "title": "Alchemy Avenue Launches Expanded AI-Powered Marketing Solutions to Help Businesses Scale Customer Acquisition and Growth - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Mon, 20 Jul 2026 13:47:00 GMT",
+    "processed_at": "2026-07-23T09:23:58.887009",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://entrepreneurship.babson.edu/how-to-upskill-employees/": {
+    "title": "How to Upskill Your Employees, and Why You Should · Babson Thought & Action - Babson College",
+    "source": "Google News Search",
+    "published_at": "Thu, 23 Jul 2026 03:42:42 GMT",
+    "processed_at": "2026-07-23T09:24:27.286190",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://iapp.org/resources/article/managing-data-retention-schedules-during-m-a-relocations-and-bankruptcy": {
+    "title": "Managing data retention schedules during M&A, relocations and bankruptcy - IAPP",
+    "source": "Google News Search",
+    "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-23T09:24:37.298895",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.qsrweb.com/articles/the-next-generation-of-qsrs-part-2-how-ai-personalization-are-turning-loyalty-into-a-growth-engine/": {
+    "title": "The next generation of QSRs Part 2: How AI, personalization are turning loyalty into a growth engine - QSR Web",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 11:31:29 GMT",
+    "processed_at": "2026-07-23T09:24:37.717127",
+    "status": "posted",
+    "telegram_message_id": 92
   }
 }
