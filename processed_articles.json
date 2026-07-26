@@ -3910,5 +3910,77 @@
     "processed_at": "2026-07-25T08:59:58.788583",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html": {
+    "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 25 Jul 2026 20:07:33 +0000",
+    "processed_at": "2026-07-26T09:09:47.672895",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html": {
+    "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 26 Jul 2026 09:00:26 +0000",
+    "processed_at": "2026-07-26T09:09:47.768421",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html": {
+    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 26 Jul 2026 09:00:24 +0000",
+    "processed_at": "2026-07-26T09:09:47.876468",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html": {
+    "title": "QR Codes Make Their Way Down Wedding Aisles",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 25 Jul 2026 13:10:29 +0000",
+    "processed_at": "2026-07-26T09:09:47.980237",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://uswheat.org/wheatletter/wheats-on-your-mind-podcast-features-usws-brian-liedl-discussing-customer-retention-and-the-global-wheat-market/": {
+    "title": "Brian Liedl Talks World Markets on 'Wheat’s On Your Mind' Podcast - U.S. Wheat Associates",
+    "source": "Google News Search",
+    "published_at": "Thu, 23 Jul 2026 15:33:40 GMT",
+    "processed_at": "2026-07-26T09:09:48.213390",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://rbj.net/2026/07/22/rochester-workforce-leaders-discuss-labor-market-challenges/": {
+    "title": "Rochester workforce leaders discuss evolving labor market challenges - Rochester Business Journal",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 11:16:56 GMT",
+    "processed_at": "2026-07-26T09:09:48.302942",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.ncoa.org/article/best-practices-for-sail-classes/": {
+    "title": "Stay Active and Independent for Life (SAIL) Best Practices - The National Council on Aging (NCOA)",
+    "source": "Google News Search",
+    "published_at": "Fri, 24 Jul 2026 16:58:00 GMT",
+    "processed_at": "2026-07-26T09:09:58.797848",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smallbiztrends.com/customer-engagement-trends/": {
+    "title": "7 Key Customer Engagement Trends - Small Business Trends",
+    "source": "Google News Search",
+    "published_at": "Thu, 23 Jul 2026 16:31:00 GMT",
+    "processed_at": "2026-07-26T09:10:40.681708",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/12-ai-productivity-solutions-for-financial-advisors": {
+    "title": "12 AI Productivity Solutions for Financial Advisors - SmartAsset",
+    "source": "Google News Search",
+    "published_at": "Fri, 24 Jul 2026 22:22:11 GMT",
+    "processed_at": "2026-07-26T09:10:41.275329",
+    "status": "posted",
+    "telegram_message_id": 95
   }
 }
