@@ -3982,5 +3982,77 @@
     "processed_at": "2026-07-26T09:10:41.275329",
     "status": "posted",
     "telegram_message_id": 95
+  },
+  "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html": {
+    "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 27 Jul 2026 09:00:20 +0000",
+    "processed_at": "2026-07-27T10:39:17.958065",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://fxnewsgroup.com/forex-news/retail-forex/forex-marketing-ideas-that-generate-valuable-traders/": {
+    "title": "Forex Marketing Ideas That Generate Valuable Traders - FX News Group",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 09:21:04 GMT",
+    "processed_at": "2026-07-27T10:39:18.104886",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.gartner.com/en/articles/gtm-orchestrator-in-product-marketing": {
+    "title": "The Rise of the Strategic GTM Orchestrator in Product Marketing - Gartner",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 20:48:15 GMT",
+    "processed_at": "2026-07-27T10:39:18.228842",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.business.com/hr-software/compensation-management/": {
+    "title": "The Complete Guide to Compensation Management - Business.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-27T10:39:40.149316",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/average-aum-for-a-financial-advisor": {
+    "title": "Average Assets Under Management (AUM) for Financial Advisors - SmartAsset.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-27T10:39:54.376885",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.houseandgarden.co.uk/article/tips-for-having-a-nice-house-with-dogs-and-children": {
+    "title": "Dear Fiona: how do you keep your house looking its best with dogs and children? - House & Garden",
+    "source": "Google News Search",
+    "published_at": "Fri, 24 Jul 2026 05:00:00 GMT",
+    "processed_at": "2026-07-27T10:39:57.682413",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.thestreet.com/retail/t-mobile-ends-bill-pay-through-customer-support": {
+    "title": "T-Mobile customers face new restriction when paying bills - thestreet.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 18:33:00 GMT",
+    "processed_at": "2026-07-27T10:39:57.789681",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://buttondown.com/downstream/archive/u1f9e0-why-is-context-re-entry-killing-ai/": {
+    "title": "🧠 Why is context re-entry killing AI retention? - Buttondown",
+    "source": "Google News Search",
+    "published_at": "Sun, 26 Jul 2026 20:28:44 GMT",
+    "processed_at": "2026-07-27T10:39:58.515237",
+    "status": "posted",
+    "telegram_message_id": 96
+  },
+  "https://www.nationalgeographic.org/about/leadership/jennifer-chick": {
+    "title": "Jennifer Chick - nationalgeographic.org",
+    "source": "Google News Search",
+    "published_at": "Mon, 20 Jul 2026 15:48:57 GMT",
+    "processed_at": "2026-07-27T10:39:58.519970",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
