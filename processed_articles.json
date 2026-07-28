@@ -4054,5 +4054,125 @@
     "processed_at": "2026-07-27T10:39:58.519970",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html": {
+    "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 03:08:44 +0000",
+    "processed_at": "2026-07-28T09:33:48.948105",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html": {
+    "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 27 Jul 2026 20:34:32 +0000",
+    "processed_at": "2026-07-28T09:33:49.063842",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html": {
+    "title": "Microsoft Unveils A.I. Cybersecurity Tools",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 27 Jul 2026 16:51:15 +0000",
+    "processed_at": "2026-07-28T09:33:49.186916",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html": {
+    "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 09:02:46 +0000",
+    "processed_at": "2026-07-28T09:33:49.300375",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html": {
+    "title": "Police Say Binance Is Making It Harder to Fight Crime",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 09:00:48 +0000",
+    "processed_at": "2026-07-28T09:33:49.434100",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html": {
+    "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 27 Jul 2026 18:32:35 +0000",
+    "processed_at": "2026-07-28T09:33:49.540486",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html": {
+    "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 27 Jul 2026 19:11:28 +0000",
+    "processed_at": "2026-07-28T09:33:49.655142",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html": {
+    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 27 Jul 2026 13:45:01 +0000",
+    "processed_at": "2026-07-28T09:33:49.789981",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.itv.com/": {
+    "title": "ITVX - The Streaming Home For All Of ITV And So Much More! - ITVX",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 08:36:53 GMT",
+    "processed_at": "2026-07-28T09:34:28.321496",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.techfunnel.com/martech/customer-data-platforms-marketers-guide-2026/": {
+    "title": "Customer Data Platforms: Marketers’ Guide 2026 - Techfunnel",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 20:24:34 GMT",
+    "processed_at": "2026-07-28T09:34:28.625039",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.demandgenreport.com/case-studies/from-promotions-to-personalization-how-simply-fish-used-dishio-to-drive-measurable-growth/53717/": {
+    "title": "From Promotions to Personalization: How Simply Fish Used Dishio to Drive Measurable Growth - Demand Gen Report",
+    "source": "Google News Search",
+    "published_at": "Thu, 23 Jul 2026 11:03:20 GMT",
+    "processed_at": "2026-07-28T09:34:49.052967",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.eventmarketer.com/article/paycom-shrm26/": {
+    "title": "Paycom Leans into Experiential to Make a Loyalty Play at SHRM26 - Event Marketer",
+    "source": "Google News Search",
+    "published_at": "Thu, 23 Jul 2026 19:55:37 GMT",
+    "processed_at": "2026-07-28T09:34:49.168793",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mobileappdaily.com/opinion/paywall-is-part-of-onboarding": {
+    "title": "Expert Opinions and Insights from the Tech Industry - MobileAppDaily",
+    "source": "Google News Search",
+    "published_at": "Fri, 24 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-07-28T09:34:49.896999",
+    "status": "posted",
+    "telegram_message_id": 97
+  },
+  "https://www.franchising.com/articles/20260727_how_do_you_get_the_most_bang_out_of_your_marketing_dollars.html": {
+    "title": "How do you get the most bang out of your marketing dollars? - Franchising.com",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 16:47:47 GMT",
+    "processed_at": "2026-07-28T09:34:49.903458",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/google-ends-faq-rich-results/": {
+    "title": "Google Officially Ends FAQ Rich Results: Should You Remove FAQ Schema?",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 27 Jul 2026 16:00:00 +0000",
+    "processed_at": "2026-07-28T09:34:49.909560",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
