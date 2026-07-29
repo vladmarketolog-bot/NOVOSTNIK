@@ -4174,5 +4174,125 @@
     "processed_at": "2026-07-28T09:34:49.909560",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html": {
+    "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 29 Jul 2026 00:59:08 +0000",
+    "processed_at": "2026-07-29T09:35:09.404974",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html": {
+    "title": "What Is Open-Weights A.I.?",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 22:38:23 +0000",
+    "processed_at": "2026-07-29T09:35:09.489316",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html": {
+    "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 17:00:06 +0000",
+    "processed_at": "2026-07-29T09:35:09.545016",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html": {
+    "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 12:35:43 +0000",
+    "processed_at": "2026-07-29T09:35:09.612897",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html": {
+    "title": "Couple Stalked by eBay Settle for $56 Million",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 21:02:51 +0000",
+    "processed_at": "2026-07-29T09:35:09.684318",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html": {
+    "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 28 Jul 2026 20:24:33 +0000",
+    "processed_at": "2026-07-29T09:35:09.764270",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.sportschosun.com/en/culture/2026-07-29/202607290100182150011734": {
+    "title": "Marketing to Ease the Burden on End-Users Amid the Triple Crisis Intensifies... 'Hillstate Hoeryong Station Park View' Introduces a Fixed 5 Million Won Down Payment Plan - 스포츠조선",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 02:40:44 GMT",
+    "processed_at": "2026-07-29T09:35:16.575099",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.inbox.lv/150k83w-booze-sales-restrictions-have-not-changed-consumption-much-in-latvia?language=en": {
+    "title": "Booze sales restrictions have not changed consumption much in Latvia - Inbox.lv",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 06:58:45 GMT",
+    "processed_at": "2026-07-29T09:35:17.318496",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://business.adobe.com/blog/loyalty-orchestration-brand-relationships-ai-cant-intermediate": {
+    "title": "AI-Powered Loyalty Orchestration with Adobe Journey Optimizer - Adobe for Business",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 15:51:03 GMT",
+    "processed_at": "2026-07-29T09:35:32.379074",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cioreview.com/leadership-perspectives/without-a-strategic-ciso-even-brilliant-marketing-wont-keep-customers-nid-6430-cid-21.html": {
+    "title": "Without a Strategic CISO, Even Brilliant Marketing won't Keep Customers - CIOReview",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 08:52:03 GMT",
+    "processed_at": "2026-07-29T09:35:48.545584",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.ccdaily.com/2026/07/why-community-colleges-may-be-rural-americas-best-retention-strategy/": {
+    "title": "Why community colleges may be rural America’s best retention strategy - Community College Daily",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 16:27:18 GMT",
+    "processed_at": "2026-07-29T09:35:48.685861",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.ama-assn.org/medical-residents/transition-resident-attending/how-ask-about-retention-your-first-physician-job": {
+    "title": "How to ask about retention in your first physician job - American Medical Association | AMA",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 12:00:00 GMT",
+    "processed_at": "2026-07-29T09:35:53.785140",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cbia.com/news/hr-safety/connecticut-ny-stay-or-pay-agreements/": {
+    "title": "Connecticut, New York Tighten Screws on ‘Stay or Pay’ Agreements - CBIA",
+    "source": "Google News Search",
+    "published_at": "Wed, 22 Jul 2026 14:02:23 GMT",
+    "processed_at": "2026-07-29T09:35:57.718939",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.edweek.org/teaching-learning/opinion-teacher-tested-strategies-for-improving-reading-instruction/2026/07": {
+    "title": "Teacher-Tested Strategies for Improving Reading Instruction (Opinion) - Education Week",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 18:08:31 GMT",
+    "processed_at": "2026-07-29T09:36:01.557641",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.rismedia.com/2026/07/27/ceo-panel-shrinking-agent-population-changing-recruiting/": {
+    "title": "CEO Panel: The Shrinking Agent Population and How It’s Changing Recruiting - RISMedia",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 20:08:28 GMT",
+    "processed_at": "2026-07-29T09:36:06.592923",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
