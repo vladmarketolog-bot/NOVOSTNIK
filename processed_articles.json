@@ -4414,5 +4414,125 @@
     "processed_at": "2026-07-30T09:28:37.951679",
     "status": "posted",
     "telegram_message_id": 98
+  },
+  "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html": {
+    "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 30 Jul 2026 21:30:12 +0000",
+    "processed_at": "2026-07-31T09:41:07.502873",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html": {
+    "title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 02:20:58 +0000",
+    "processed_at": "2026-07-31T09:41:07.646072",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html": {
+    "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 09:05:03 +0000",
+    "processed_at": "2026-07-31T09:41:07.786145",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html": {
+    "title": "We All Do Errands. Noah Blau Films Them.",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 09:04:17 +0000",
+    "processed_at": "2026-07-31T09:41:07.928335",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html": {
+    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 09:03:59 +0000",
+    "processed_at": "2026-07-31T09:41:08.071713",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html": {
+    "title": "What You Need to Know About Installing Plug-In Solar Panels",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 09:02:28 +0000",
+    "processed_at": "2026-07-31T09:41:08.206094",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html": {
+    "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 09:02:23 +0000",
+    "processed_at": "2026-07-31T09:41:08.363449",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html": {
+    "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 09:00:48 +0000",
+    "processed_at": "2026-07-31T09:41:08.497888",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.inbox.lv/150k83w-booze-sales-restrictions-have-not-changed-consumption-much-in-latvia?language=en&source=portal": {
+    "title": "Booze sales restrictions have not changed consumption much in Latvia - Inbox.lv",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 06:58:45 GMT",
+    "processed_at": "2026-07-31T09:41:40.829593",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.inc.com/cristina-montemayor/this-founder-refunded-8000-in-customer-orders-in-one-day-heres-why/91381674": {
+    "title": "This Founder Refunded $8,000 in Customer Orders in One Day. Here’s Why - inc.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 16:48:17 GMT",
+    "processed_at": "2026-07-31T09:41:41.015551",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://blog.hootsuite.com/social-media-customer-engagement/": {
+    "title": "Social media customer engagement: 2026 enterprise guide - Hootsuite Blog",
+    "source": "Google News Search",
+    "published_at": "Thu, 30 Jul 2026 18:33:00 GMT",
+    "processed_at": "2026-07-31T09:42:48.438963",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.wsj.com/cmo-today/the-latest-darlings-of-social-media-marketing-regular-people-with-500-followers-62170067": {
+    "title": "The Latest Darlings of Social-Media Marketing? Regular People With 500 Followers - WSJ",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 11:00:00 GMT",
+    "processed_at": "2026-07-31T09:42:48.576608",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.streetinsider.com/Press+Releases/West+Fourth+Agency+and+Sprouthouse+Agency+Partner+to+Deliver+Integrated+Communications+and+Growth+Marketing+Solutions/26831971.html": {
+    "title": "West Fourth Agency and Sprouthouse Agency Partner to Deliver Integrated Communications and Growth Marketing Solutions - StreetInsider",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 13:41:04 GMT",
+    "processed_at": "2026-07-31T09:42:48.679189",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/implementing-ab-testing-without-a-dedicated-tool/": {
+    "title": "Implementing A/B Testing Without a Dedicated Tool: How It Works",
+    "source": "vwo.com",
+    "published_at": "Thu, 30 Jul 2026 10:02:40 +0000",
+    "processed_at": "2026-07-31T09:42:49.448829",
+    "status": "posted",
+    "telegram_message_id": 99
+  },
+  "https://www.adweek.com/webinars/the-metric-that-matters-more-than-conversion/": {
+    "title": "The Metric That Matters More Than Conversion - ADWEEK",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "processed_at": "2026-07-31T09:42:49.453399",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
