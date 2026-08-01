@@ -4534,5 +4534,125 @@
     "processed_at": "2026-07-31T09:42:49.453399",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html": {
+    "title": "Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 31 Jul 2026 11:00:03 +0000",
+    "processed_at": "2026-08-01T09:02:43.802829",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html": {
+    "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 01 Aug 2026 02:41:12 +0000",
+    "processed_at": "2026-08-01T09:02:43.895626",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/how-to-use-new-answerthepublic-guide/": {
+    "title": "How to Get the Most Out of the New AnswerThePublic (2026 Guide)",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
+    "processed_at": "2026-08-01T09:02:54.320605",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.pitchonnet.com/on-the-move/abhishek-b-steps-down-from-jiostar-40556.html": {
+    "title": "Abhishek B. steps down from JioStar - pitchonnet.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 18:15:53 GMT",
+    "processed_at": "2026-08-01T09:02:59.133275",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.salesforce.com/blog/tom-tailor-loyalty-program/": {
+    "title": "How Tom Tailor Revamped and Future-Proofed Its Loyalty Program - Salesforce",
+    "source": "Google News Search",
+    "published_at": "Fri, 31 Jul 2026 18:49:13 GMT",
+    "processed_at": "2026-08-01T09:03:08.132653",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.autonews.com/retail/an-group-1-us-branding-dealerships-0730/": {
+    "title": "Group 1 Automotive bets national brand will trump local dealership loyalty - Automotive News",
+    "source": "Google News Search",
+    "published_at": "Thu, 30 Jul 2026 19:17:00 GMT",
+    "processed_at": "2026-08-01T09:03:09.011405",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.oncnursingnews.com/view/supporting-oncology-nurses-beyond-resilience-to-retention-strategies": {
+    "title": "Supporting Oncology Nurses: Beyond Resilience to Retention Strategies - Oncology Nursing News",
+    "source": "Google News Search",
+    "published_at": "Fri, 31 Jul 2026 13:05:12 GMT",
+    "processed_at": "2026-08-01T09:03:18.388606",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.resonate.com/blog/how-predictive-consumer-intelligence-turns-retention-into-a-revenue-strategy/": {
+    "title": "How Predictive Consumer Intelligence Turns Retention Into a Revenue Strategy - resonate.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 17:31:59 GMT",
+    "processed_at": "2026-08-01T09:03:18.505475",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hr-brew.com/stories/prioritizing-employee-well-being-helped-this-cpo-improve-retention": {
+    "title": "Prioritizing employee well-being helped this CPO improve retention - HR Brew",
+    "source": "Google News Search",
+    "published_at": "Thu, 30 Jul 2026 20:48:51 GMT",
+    "processed_at": "2026-08-01T09:03:22.125046",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://stories.tamu.edu/news/2026/07/31/why-your-doctors-keep-leaving/": {
+    "title": "Why your doctors keep leaving - Texas A&M Stories",
+    "source": "Google News Search",
+    "published_at": "Fri, 31 Jul 2026 14:13:07 GMT",
+    "processed_at": "2026-08-01T09:03:31.970230",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://europeangaming.eu/portal/player-retention-strategies/": {
+    "title": "Player retention strategies in iGaming: What works in 2026 - European Gaming",
+    "source": "Google News Search",
+    "published_at": "Thu, 30 Jul 2026 07:56:31 GMT",
+    "processed_at": "2026-08-01T09:03:32.213025",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://techrseries.com/recruitment-and-on-boarding/serval-launches-program-to-transform-employees-into-future-founders/": {
+    "title": "Serval Launches Program to Transform Employees Into Future Founders - HRTech Series",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 08:46:48 GMT",
+    "processed_at": "2026-08-01T09:03:33.809394",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.financialexpress.com/life/technology/youre-wasting-hours-uk-based-ai-entrepreneur-shares-20-claude-prompts-for-business-growth/4304913/": {
+    "title": "‘You’re wasting hours’: UK-based AI entrepreneur shares 20 Claude prompts for business growth - financialexpress.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 17:02:55 GMT",
+    "processed_at": "2026-08-01T09:03:33.972598",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/data/mobile-game-retention-rates/": {
+    "title": "Mobile Game Retention Rates (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-08-01T09:03:34.625456",
+    "status": "posted",
+    "telegram_message_id": 100
+  },
+  "https://brand-innovators.com/events/evolution-of-commerce-summit-lowes/": {
+    "title": "Future of Retail & Commerce - Brand Innovators",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-08-01T09:03:34.632476",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
