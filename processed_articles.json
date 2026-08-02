@@ -4654,5 +4654,61 @@
     "processed_at": "2026-08-01T09:03:34.632476",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://finance.biggo.com/news/3315a198-8a7e-4ac7-a336-83d0083f6ad4": {
+    "title": "From Bike-Sharing Monthly Passes to AI \"Nomads\": Why Are Product Managers Collectively Silent on User Retention? - finance.biggo.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 00:56:00 GMT",
+    "processed_at": "2026-08-02T09:07:52.289143",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260727sf12084/corelight-welcomes-veteran-customer-advocate-amanda-berger-as-chief-customer-officer": {
+    "title": "Corelight Welcomes Veteran Customer Advocate Amanda Berger as Chief Customer Officer - Morningstar",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 12:19:18 GMT",
+    "processed_at": "2026-08-02T09:07:58.509878",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.dealershipguy.com/p/most-dealers-don-t-know-their-customer-connectivity-rate-industry-veteran-says": {
+    "title": "Most dealers don't know their customer connectivity rate, industry veteran says - Car Dealership Guy News",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 22:56:20 GMT",
+    "processed_at": "2026-08-02T09:07:59.138403",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/": {
+    "title": "Automating customer retention workflows in Amazon Quick | Artificial Intelligence - Amazon Web Services (AWS)",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 15:24:21 GMT",
+    "processed_at": "2026-08-02T09:07:59.717559",
+    "status": "posted",
+    "telegram_message_id": 101
+  },
+  "https://www.jpmorgan.com/insights/business-planning/how-startups-can-assess-product-market-fit": {
+    "title": "How Startups Can Assess Product-Market Fit - J.P. Morgan",
+    "source": "Google News Search",
+    "published_at": "Mon, 27 Jul 2026 14:29:32 GMT",
+    "processed_at": "2026-08-02T09:07:59.723096",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mediapost.com/publications/article/413663/crunch-fitness-bealls-helzberg-shein-tecovas.html?edition=142032": {
+    "title": "Crunch Fitness, Bealls, Helzberg, SHEIN, Tecovas, Lead Insights at our Retail Brand Insider Summit - MediaPost",
+    "source": "Google News Search",
+    "published_at": "Fri, 31 Jul 2026 03:22:07 GMT",
+    "processed_at": "2026-08-02T09:07:59.728485",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.findarticles.com/digital-marketing-strategies-for-local-businesses-in-2026/": {
+    "title": "Digital Marketing Strategies for Local Businesses in 2026 - findarticles.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 05:43:17 GMT",
+    "processed_at": "2026-08-02T09:07:59.733783",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
