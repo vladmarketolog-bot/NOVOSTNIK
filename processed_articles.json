@@ -4710,5 +4710,69 @@
     "processed_at": "2026-08-02T09:07:59.733783",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html": {
+    "title": "If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 03 Aug 2026 09:00:31 +0000",
+    "processed_at": "2026-08-03T10:38:56.557568",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html": {
+    "title": "For a Day, Google Made It Easy to Spoof Satellite Imagery",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 02 Aug 2026 19:25:56 +0000",
+    "processed_at": "2026-08-03T10:38:56.652979",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.coursera.org/articles/marketing-trends": {
+    "title": "9 Top Marketing Trends of 2026 - Coursera",
+    "source": "Google News Search",
+    "published_at": "Sat, 01 Aug 2026 01:02:00 GMT",
+    "processed_at": "2026-08-03T10:39:07.358230",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hospitalitynet.org/opinion/4133768/the-heart-of-hospitality-a-deep-dive-into-modern-hotel-human-resources": {
+    "title": "The Heart of Hospitality: A Deep Dive into Modern Hotel Human Resources - Hospitality Net",
+    "source": "Google News Search",
+    "published_at": "Mon, 03 Aug 2026 08:11:11 GMT",
+    "processed_at": "2026-08-03T10:39:07.681080",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businesswire.com/news/home/20260728990220/en/Serval-Launches-Program-to-Transform-Employees-Into-Future-Founders": {
+    "title": "Serval Launches Program to Transform Employees Into Future Founders - Business Wire",
+    "source": "Google News Search",
+    "published_at": "Tue, 28 Jul 2026 13:00:00 GMT",
+    "processed_at": "2026-08-03T10:39:07.823098",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://es.tradingview.com/news/marketbeat:4908b3d96094b:0-roblox-q2-earnings-call-highlights/": {
+    "title": "Roblox Q2 Earnings Call Highlights - TradingView",
+    "source": "Google News Search",
+    "published_at": "Sat, 01 Aug 2026 01:03:00 GMT",
+    "processed_at": "2026-08-03T10:39:18.072087",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/redtail-crm": {
+    "title": "Redtail CRM Review 2026: Pricing, Pros and Cons - SmartAsset.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-08-03T10:39:39.067964",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.forbes.com/sites/paultassi/2026/07/31/sony-addresses-bungies-marathon-performance-in-earnings-report/": {
+    "title": "Sony Addresses Bungie’s ‘Marathon’ Performance In Earnings Report - Forbes",
+    "source": "Google News Search",
+    "published_at": "Fri, 31 Jul 2026 13:11:46 GMT",
+    "processed_at": "2026-08-03T10:39:39.989875",
+    "status": "posted",
+    "telegram_message_id": 102
   }
 }
