@@ -4878,5 +4878,125 @@
     "processed_at": "2026-08-04T09:38:33.070443",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html": {
+    "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 04 Aug 2026 22:52:45 +0000",
+    "processed_at": "2026-08-05T09:34:07.537306",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html": {
+    "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 04 Aug 2026 18:32:54 +0000",
+    "processed_at": "2026-08-05T09:34:07.632609",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html": {
+    "title": "Trump White House Readies AI Framework to Review Security Risks",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 05 Aug 2026 00:17:54 +0000",
+    "processed_at": "2026-08-05T09:34:07.736603",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html": {
+    "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 04 Aug 2026 17:12:58 +0000",
+    "processed_at": "2026-08-05T09:34:07.854918",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html": {
+    "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 04 Aug 2026 14:44:08 +0000",
+    "processed_at": "2026-08-05T09:34:07.946936",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://tribuna.com/amp/en/casino/news/2026-08-04-martin-varrand-ceo-at-marketing-minds-if-your-entire-acquisition-strategy-is-built-on-lis/": {
+    "title": "Martin Varrand, CEO at Marketing Minds: “If your entire acquisition strategy is built on listing fees and CPA networks in 2026, you're funding everyone's business except your own” - Tribuna.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 04 Aug 2026 08:15:00 GMT",
+    "processed_at": "2026-08-05T09:34:08.005429",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.markhub24.com/post/lifecycle-marketing-engaging-customers-at-every-stage": {
+    "title": "Lifecycle Marketing: Engaging Customers at Every Stage - MarkHub24",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 04:53:10 GMT",
+    "processed_at": "2026-08-05T09:34:40.675306",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://thewisemarketer.com/ai-is-rewriting-the-customer-journey-and-your-marketing-measurement-needs-to-catch-up/": {
+    "title": "AI Is Rewriting the Customer Journey - And Your Marketing Measurement Needs to Catch Up - The Wise Marketer",
+    "source": "Google News Search",
+    "published_at": "Tue, 04 Aug 2026 22:48:24 GMT",
+    "processed_at": "2026-08-05T09:34:40.748161",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.martechcube.com/drivecentric-launches-service-engagement-hub/": {
+    "title": "DriveCentric Launches Service Engagement Hub - MarTech Cube",
+    "source": "Google News Search",
+    "published_at": "Tue, 04 Aug 2026 12:32:30 GMT",
+    "processed_at": "2026-08-05T09:34:40.933014",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.fico.com/blogs/customer-level-decisioning-achieving-lifetime-loyalty-hyper-scale": {
+    "title": "Customer-Level Decisioning: Achieving Lifetime Loyalty at Hyper Scale - FICO",
+    "source": "Google News Search",
+    "published_at": "Tue, 04 Aug 2026 09:35:00 GMT",
+    "processed_at": "2026-08-05T09:35:24.541251",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cfodive.com/news/fewer-companies-plan-peanut-butter-pay-increases-in-2027-payscale/827012/": {
+    "title": "Fewer companies plan ‘peanut-butter’ pay increases in 2027: Payscale - CFO Dive",
+    "source": "Google News Search",
+    "published_at": "Tue, 04 Aug 2026 20:48:48 GMT",
+    "processed_at": "2026-08-05T09:36:05.743931",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.storyboard18.com/how-it-works/why-cmos-are-starting-to-treat-loyalty-budgets-like-media-budgets-106388.htm": {
+    "title": "Why CMOs are starting to treat loyalty budgets like media budgets - Storyboard18",
+    "source": "Google News Search",
+    "published_at": "Tue, 04 Aug 2026 02:01:02 GMT",
+    "processed_at": "2026-08-05T09:36:06.672577",
+    "status": "posted",
+    "telegram_message_id": 104
+  },
+  "https://www.nonprofitpro.com/article/repeat-and-recaptured-donors-power-growth-on-a-shrinking-donor-base-new-data-shows/": {
+    "title": "Donor Retention Drives Fundraising Growth in 2026 - NonProfit PRO",
+    "source": "Google News Search",
+    "published_at": "Wed, 29 Jul 2026 16:18:54 GMT",
+    "processed_at": "2026-08-05T09:36:06.679820",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://elitebusinessmagazine.co.uk/people/engagement/item/how-small-frictions-undermine-customer-retention": {
+    "title": "How small frictions undermine customer retention - Elite Business Magazine",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 07:22:25 GMT",
+    "processed_at": "2026-08-05T09:36:06.686842",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://stockstory.org/us/stocks/nyse/rsi/news/earnings-call/rsi-q2-deep-dive-online-casino-momentum-and-marketing-drive-guidance-lift": {
+    "title": "RSI Q2 Deep Dive: Online Casino Momentum and Marketing Drive Guidance Lift - StockStory",
+    "source": "Google News Search",
+    "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
+    "processed_at": "2026-08-05T09:36:06.693929",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
