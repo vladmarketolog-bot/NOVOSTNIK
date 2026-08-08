@@ -5238,5 +5238,125 @@
     "processed_at": "2026-08-07T08:12:07.295164",
     "status": "posted",
     "telegram_message_id": 105
+  },
+  "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html": {
+    "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 07 Aug 2026 14:11:57 +0000",
+    "processed_at": "2026-08-08T07:45:16.647963",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/saas-seo/": {
+    "title": "SEO Guide for SaaS Companies",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 07 Aug 2026 19:00:00 +0000",
+    "processed_at": "2026-08-08T07:45:26.650457",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/adaptivecx-real-time-ai-personalization/": {
+    "title": "AdaptiveCX: Real-Time AI Personalization for Every Visitor",
+    "source": "vwo.com",
+    "published_at": "Fri, 07 Aug 2026 11:09:19 +0000",
+    "processed_at": "2026-08-08T07:45:37.563521",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://ask-luca.com/blogs/lifetimely-alternatives": {
+    "title": "10 Best Lifetimely Alternatives That Let You Redefine LTV and CAC Yourself - Ask Luca",
+    "source": "Google News Search",
+    "published_at": "Fri, 07 Aug 2026 20:10:35 GMT",
+    "processed_at": "2026-08-08T07:45:59.072011",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://focusgn.com/n1-product-voices-end-of-pure-performance-era": {
+    "title": "N1 Product Voices: End of pure performance era? - Focus Gaming News",
+    "source": "Google News Search",
+    "published_at": "Fri, 07 Aug 2026 09:59:19 GMT",
+    "processed_at": "2026-08-08T07:46:09.212853",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://sccgmanagement.com/sccg-articles/2026/08/07/draftkings-q2-2026-handle-rises-15-percent-to-131-billion-while-revenue-falls-5-percent/": {
+    "title": "DraftKings Q2 2026 Handle Rises 15 Percent to $13.1 Billion While Revenue Falls 5 Percent - sccgmanagement.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 07 Aug 2026 12:00:44 GMT",
+    "processed_at": "2026-08-08T07:46:18.624873",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://financefeeds.com/why-the-best-brokers-measure-survivorship-not-just-active-traders/": {
+    "title": "Broker Retention Metrics: Survivorship Inflates LTV 2x - FinanceFeeds",
+    "source": "Google News Search",
+    "published_at": "Thu, 06 Aug 2026 12:50:31 GMT",
+    "processed_at": "2026-08-08T07:46:31.245367",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cxtoday.com/community-social-engagement/bettermode-customer-community-retention-jpg/": {
+    "title": "Bettermode Connects Community, AI Discovery, and Retention - CX Today",
+    "source": "Google News Search",
+    "published_at": "Thu, 06 Aug 2026 15:03:06 GMT",
+    "processed_at": "2026-08-08T07:46:42.489378",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.webull.com/news/15350121295520768": {
+    "title": "Plume Names Rebecca Stone Chief Customer and Marketing Officer, Creating a Dedicated C-Suite Voice for Global ISP Customer Success - webull.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-08T07:46:51.395126",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.multihousingnews.com/for-operators-resident-retention-is-an-noi-strategy/": {
+    "title": "For Operators, Resident Retention Is an NOI Strategy - Multifamily Housing News",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 17:43:55 GMT",
+    "processed_at": "2026-08-08T07:47:05.847368",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.2news.com/2plusyounevada/family/the-childrens-cabinet-best-place-for-working-parents-family-friendly-workplace-benefits/video_b74d36cc-87df-51bf-a915-27a53cf84589.html": {
+    "title": "The Children's Cabinet | Best Place for Working Parents & Family-Friendly Workplace Benefits - KTVN",
+    "source": "Google News Search",
+    "published_at": "Thu, 06 Aug 2026 20:03:00 GMT",
+    "processed_at": "2026-08-08T07:47:09.034391",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.healthleadersmedia.com/ceo/healthcare-job-openings-drop-sharply-organizations-turn-internal-talent": {
+    "title": "Healthcare Job Openings Drop Sharply as Organizations Turn to Internal Talent - healthleadersmedia.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 06 Aug 2026 10:06:56 GMT",
+    "processed_at": "2026-08-08T07:47:09.528192",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.iam-media.com/article/inventor-network-analysis-highlights-opportunities-and-risks-in-danahers-acquisition-of-masimo": {
+    "title": "Inventor network analysis highlights opportunities and risks in Danaher's acquisition of Masimo - IAM Patent",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 10:24:15 GMT",
+    "processed_at": "2026-08-08T07:47:14.464090",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://sccgmanagement.com/sccg-articles/2026/08/07/n1-partners-highlights-shift-from-ftd-volume-to-retention-and-ltv-in-igaming-affiliate-marketing/": {
+    "title": "N1 Partners Highlights Shift from FTD Volume to Retention and LTV in iGaming Affiliate Marketing - sccgmanagement.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 07 Aug 2026 12:28:21 GMT",
+    "processed_at": "2026-08-08T07:47:15.144181",
+    "status": "posted",
+    "telegram_message_id": 106
+  },
+  "https://www.kulr8.com/news/national/halo-programs-launches-self-service-crm-registration-while-preserving-white-glove-service/article_6a5765e1-a969-50d9-9c83-7346fbf73ae8.html": {
+    "title": "Halo Programs Launches Self-Service CRM Registration While Preserving White-Glove Service - NonStop Local Billings",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 21:08:40 GMT",
+    "processed_at": "2026-08-08T07:47:15.150215",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
