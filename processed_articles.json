@@ -5478,5 +5478,37 @@
     "processed_at": "2026-08-09T07:52:41.321963",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.marketingweek.com/retention-acquisition-ai/": {
+    "title": "Retention versus acquisition is the wrong question in the age of AI - Marketing Week",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 06:12:26 GMT",
+    "processed_at": "2026-08-10T08:25:01.182216",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://turbotax.intuit.com/tax-tips/tax-planning-and-checklists/video-irs-tax-return-retention-requirements/L9GRGgczD": {
+    "title": "Video: IRS Tax Return Retention Requirements - TurboTax",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-10T08:25:05.427284",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smallbiztrends.com/customer-engagement-techniques/": {
+    "title": "10 Proven Customer Engagement Techniques to Boost Loyalty - Small Business Trends",
+    "source": "Google News Search",
+    "published_at": "Sun, 09 Aug 2026 16:31:00 GMT",
+    "processed_at": "2026-08-10T08:25:15.778196",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketgrowthreports.com/market-reports/mobile-analytics-market-125881": {
+    "title": "Mobile Analytics Market Overview - Market Growth Reports",
+    "source": "Google News Search",
+    "published_at": "Wed, 05 Aug 2026 05:52:06 GMT",
+    "processed_at": "2026-08-10T08:25:30.153052",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
