@@ -5510,5 +5510,125 @@
     "processed_at": "2026-08-10T08:25:30.153052",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html": {
+    "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 20:37:37 +0000",
+    "processed_at": "2026-08-11T08:07:34.115939",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html": {
+    "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 09:02:19 +0000",
+    "processed_at": "2026-08-11T08:07:34.212730",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html": {
+    "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 18:00:55 +0000",
+    "processed_at": "2026-08-11T08:07:34.302022",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html": {
+    "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 20:04:24 +0000",
+    "processed_at": "2026-08-11T08:07:34.394138",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html": {
+    "title": "Can A.I. Get You Where You Want to Go for Less?",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 11:24:07 +0000",
+    "processed_at": "2026-08-11T08:07:34.496728",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/article/flock-safety-camera-technology.html": {
+    "title": "Why Are So Many People Upset About Flock Cameras?",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 15:58:27 +0000",
+    "processed_at": "2026-08-11T08:07:34.568535",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html": {
+    "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 09:00:29 +0000",
+    "processed_at": "2026-08-11T08:07:34.662396",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/seo-for-franchises/": {
+    "title": "SEO Tips and Strategies for Franchises: A Guide for 2026",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 10 Aug 2026 19:00:00 +0000",
+    "processed_at": "2026-08-11T08:07:49.838418",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.gamingintelligence.com/studio-showcase/news/fruit-slots-lead-the-1spin4win-bet-count-and-ltv-rankings/": {
+    "title": "Fruit slots lead the 1spin4win bet count and LTV rankings - gamingintelligence.com",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 12:30:12 GMT",
+    "processed_at": "2026-08-11T08:08:13.892748",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.aninews.in/news/business/adymize-founder-breaks-down-what-actually-makes-a-performance-marketing-agency-best-for-d2c-brands20260808131138": {
+    "title": "Adymize Founder Breaks Down What Actually Makes a Performance Marketing Agency \"Best\" for D2C Brands - ANI News",
+    "source": "Google News Search",
+    "published_at": "Sat, 08 Aug 2026 07:41:00 GMT",
+    "processed_at": "2026-08-11T08:08:24.111340",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://theintermediary.co.uk/2026/08/sdka-delivers-100-ltv-bridge-for-stockport-hmo-project/": {
+    "title": "SDKA delivers 100% LTV bridge for Stockport HMO project - The Intermediary",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 07:38:41 GMT",
+    "processed_at": "2026-08-11T08:08:28.636846",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/": {
+    "title": "AI is becoming retail’s operating system - Retail Dive",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 09:02:08 GMT",
+    "processed_at": "2026-08-11T08:08:49.910881",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/analyze-ab-test-results-in-free-tool/": {
+    "title": "How to Analyze A/B Test Results in a Free Tool Accurately",
+    "source": "vwo.com",
+    "published_at": "Mon, 10 Aug 2026 10:32:47 +0000",
+    "processed_at": "2026-08-11T08:09:00.939260",
+    "status": "posted",
+    "telegram_message_id": 108
+  },
+  "https://learn.g2.com/best-loyalty-management-software": {
+    "title": "5 Best Loyalty Management Software I Found for Retention - G2 Learning Hub",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 00:07:48 GMT",
+    "processed_at": "2026-08-11T08:09:00.947170",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.onrec.com/news/top-12-marketing-agencies-helping-businesses-grow-2026": {
+    "title": "Top 12 Marketing Agencies Helping Businesses Grow (2026) - Onrec",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 14:05:38 GMT",
+    "processed_at": "2026-08-11T08:09:00.954876",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
