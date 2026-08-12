@@ -5630,5 +5630,125 @@
     "processed_at": "2026-08-11T08:09:00.954876",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html": {
+    "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 11 Aug 2026 13:23:38 +0000",
+    "processed_at": "2026-08-12T08:13:35.737728",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html": {
+    "title": "His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 11 Aug 2026 13:50:25 +0000",
+    "processed_at": "2026-08-12T08:13:35.843440",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html": {
+    "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 10 Aug 2026 23:28:14 +0000",
+    "processed_at": "2026-08-12T08:13:35.956147",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html": {
+    "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 11 Aug 2026 19:59:45 +0000",
+    "processed_at": "2026-08-12T08:13:36.062723",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html": {
+    "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 11 Aug 2026 22:07:23 +0000",
+    "processed_at": "2026-08-12T08:13:36.269276",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vwo.com/blog/emotional-audience-segments/": {
+    "title": "UX and AI: 10 Emotional Audience Segments That Transform Personalization",
+    "source": "vwo.com",
+    "published_at": "Tue, 11 Aug 2026 10:10:31 +0000",
+    "processed_at": "2026-08-12T08:13:47.733430",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.aol.com/articles/ehealth-ehth-q2-2026-earnings-000000000.html": {
+    "title": "eHealth (EHTH) Q2 2026 Earnings Call Transcript - AOL.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 00:18:03 GMT",
+    "processed_at": "2026-08-12T08:13:59.891444",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://1851franchise.com/measure-franchise-marketing-roi-2732797": {
+    "title": "How to Measure Franchise Marketing ROI Effectively - 1851 Franchise",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 21:00:40 GMT",
+    "processed_at": "2026-08-12T08:14:24.105259",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.crainsdetroit.com/crains-content-studio/quicktake/cdb-employee-retention-strategies-that-work/": {
+    "title": "How to improve employee retention: Strategies to boost engagement and reduce turnover - Crain's Detroit",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 09:00:00 GMT",
+    "processed_at": "2026-08-12T08:14:24.279401",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bizjournals.com/austin/news/2026/08/10/employee-turnover-integrated-care-models-edge.html": {
+    "title": "Employee turnover plagues every industry. Here’s how integrated care models can give you an edge. - The Business Journals",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 05:00:00 GMT",
+    "processed_at": "2026-08-12T08:14:24.464318",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cbtnews.com/retention-expert-shares-strategy/": {
+    "title": "Retention expert reveals future-focused strategy dealers need to keep top talent - CBT News",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 09:03:53 GMT",
+    "processed_at": "2026-08-12T08:14:32.758311",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/media-advertising/articles/duolingo-user-retention-hits-time-070000172.html": {
+    "title": "Duolingo’s user retention hits all-time high as app boosts stickiness - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-12T08:15:13.926902",
+    "status": "posted",
+    "telegram_message_id": 109
+  },
+  "https://www.multifamilyexecutive.com/sponsored/data-shows-more-half-resident-turnover-preventable": {
+    "title": "Data Shows More Than Half of Resident Turnover is Preventable - Multifamily Executive",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 13:00:00 GMT",
+    "processed_at": "2026-08-12T08:15:13.934898",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://learn.g2.com/best-loyalty-management-software?hs_amp=true": {
+    "title": "5 Best Loyalty Management Software I Found for Retention - G2 Learning Hub",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 22:51:34 GMT",
+    "processed_at": "2026-08-12T08:15:13.942354",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tycoonstory.com/digital-marketing-android-app-seo-website-development/": {
+    "title": "Why Digital Marketing Android App SEO Website Development Matters in 2026 - Tycoonstory Media",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 07:21:28 GMT",
+    "processed_at": "2026-08-12T08:15:13.949609",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
