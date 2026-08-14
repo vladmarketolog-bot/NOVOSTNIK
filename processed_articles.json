@@ -5870,5 +5870,125 @@
     "processed_at": "2026-08-13T08:18:38.134675",
     "status": "posted",
     "telegram_message_id": 110
+  },
+  "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html": {
+    "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 13 Aug 2026 09:04:41 +0000",
+    "processed_at": "2026-08-14T08:12:08.818890",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html": {
+    "title": "America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 13 Aug 2026 11:25:30 +0000",
+    "processed_at": "2026-08-14T08:12:08.961785",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html": {
+    "title": "Judge Affirms Settlement Allowing HPE’s Deal for Juniper",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 13 Aug 2026 22:50:07 +0000",
+    "processed_at": "2026-08-14T08:12:09.056378",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html": {
+    "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 13 Aug 2026 21:15:41 +0000",
+    "processed_at": "2026-08-14T08:12:09.132564",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://hackernoon.com/turns-out-the-secret-to-marketing-roi-is-fun": {
+    "title": "Turns Out the Secret to Marketing ROI Is... Fun - HackerNoon",
+    "source": "Google News Search",
+    "published_at": "Thu, 13 Aug 2026 16:33:26 GMT",
+    "processed_at": "2026-08-14T08:12:17.873079",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bignewsnetwork.com/news/279227220/adymize-founder-breaks-down-what-actually-makes-a-performance-marketing-agency-best-for-d2c-brands": {
+    "title": "Adymize Founder Breaks Down What Actually Makes a Performance Marketing Agency \"Best\" for D2C Brands - Big News Network.com",
+    "source": "Google News Search",
+    "published_at": "Sat, 08 Aug 2026 06:45:00 GMT",
+    "processed_at": "2026-08-14T08:12:18.273192",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://montco.today/2026/08/ai-agents-in-marketing-towers/": {
+    "title": "Putting AI Agents to Work in Marketing - MONTCO.Today",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 09:23:00 GMT",
+    "processed_at": "2026-08-14T08:12:18.343546",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://restauranttechnologynews.com/2026/08/mcdonalds-unifies-data-from-nearly-220-million-loyalty-users-as-global-ai-strategy-takes-shape/": {
+    "title": "McDonald’s Unifies Data from Nearly 220 Million Loyalty Users as Global AI Strategy Takes Shape - Restaurant Technology News",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-14T08:12:18.601463",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://progressivegrocer.com/trigs-markets-launches-loyalty-and-fuel-rewards-platform": {
+    "title": "Trig’s Markets Launches Loyalty and Fuel Rewards Platform - Progressive Grocer",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 13:51:14 GMT",
+    "processed_at": "2026-08-14T08:12:18.729822",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.martechcube.com/sila-launches-announces-singapore-loyalty-leaders-summit/": {
+    "title": "SILA Launches, Announces Singapore Loyalty Leaders Summit - MarTech Cube",
+    "source": "Google News Search",
+    "published_at": "Thu, 13 Aug 2026 08:03:52 GMT",
+    "processed_at": "2026-08-14T08:12:18.785034",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://es.tradingview.com/news/marketbeat:965cf151c094b:0-plus500-h1-earnings-call-highlights/": {
+    "title": "Plus500 H1 Earnings Call Highlights - TradingView",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 10:02:10 GMT",
+    "processed_at": "2026-08-14T08:12:19.439987",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://us.bbrown.com/blog/executive-retention-strategies-for-a-competitive-talent-market?hsLang=en": {
+    "title": "Executive Retention Strategies for a Competitive Talent Market - Brown & Brown",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 15:28:06 GMT",
+    "processed_at": "2026-08-14T08:12:19.954196",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.12news.com/article/news/investigations/i-team/education-impact/tackling-teacher-retention-inside-arizona-districts-beating-the-odds-education-impact/75-c97adffb-7501-4ead-b045-763aea324d1e": {
+    "title": "Tackling teacher retention: Inside the Arizona districts beating the odds - 12News",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 17:20:00 GMT",
+    "processed_at": "2026-08-14T08:12:35.100584",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.daytonatimes.com/community/workshop-to-help-employers-tap-into-local-military-talent/article_ac6a99bc-211b-4d0b-a2f6-967abe49a5bf.html": {
+    "title": "Workshop to help employers tap into local military talent - Daytona Times",
+    "source": "Google News Search",
+    "published_at": "Thu, 13 Aug 2026 10:30:00 GMT",
+    "processed_at": "2026-08-14T08:12:35.613473",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.miamitimesonline.com/education/the-teacher-shortage-crisis-has-a-hidden-solution-invest-in-mentor-teachers/article_dc254cca-e637-4c99-be66-ed0cd47324bc.amp.html": {
+    "title": "The teacher shortage crisis has a hidden solution: Invest in mentor teachers - The Miami Times",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 20:40:00 GMT",
+    "processed_at": "2026-08-14T08:12:35.884306",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
