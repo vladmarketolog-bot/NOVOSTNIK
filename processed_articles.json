@@ -5990,5 +5990,125 @@
     "processed_at": "2026-08-14T08:12:35.884306",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html": {
+    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 14 Aug 2026 18:54:36 +0000",
+    "processed_at": "2026-08-15T07:26:20.651222",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html": {
+    "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 14 Aug 2026 14:55:08 +0000",
+    "processed_at": "2026-08-15T07:26:20.728272",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html": {
+    "title": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 14 Aug 2026 11:00:04 +0000",
+    "processed_at": "2026-08-15T07:26:20.819753",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html": {
+    "title": "Chatbots Are Pushing Us Toward a Post-Human Internet",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 14 Aug 2026 09:00:28 +0000",
+    "processed_at": "2026-08-15T07:26:20.927905",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/google-search-becoming-ai-search/": {
+    "title": "Google Search Is Becoming AI Search: What This Means for Your Brand",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 14 Aug 2026 16:00:00 +0000",
+    "processed_at": "2026-08-15T07:26:31.527577",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://foodondemand.com/08122026/restaurant-marketing-expert-breaks-down-loyalty-program-lessons/": {
+    "title": "Restaurant Marketing Expert Breaks Down Loyalty Program Lessons - Food On Demand",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 13:12:08 GMT",
+    "processed_at": "2026-08-15T07:26:52.025921",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mediapost.com/publications/article/417240/agency-feedback-on-apple-ads-on-maps-runs-hot-c.html": {
+    "title": "Agency Feedback On Apple 'Ads On Maps' Runs Hot, Cold On Eligibility 08/14/2026 - MediaPost",
+    "source": "Google News Search",
+    "published_at": "Fri, 14 Aug 2026 18:27:21 GMT",
+    "processed_at": "2026-08-15T07:27:12.794673",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nysenate.gov/newsroom/press-releases/2026/pete-harckham/harckham-and-adirondack-council-host-environmental": {
+    "title": "Harckham and the Adirondack Council Host Environmental Roundtable with Lake Associations - The New York State Senate (.gov)",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 20:21:46 GMT",
+    "processed_at": "2026-08-15T07:27:12.905910",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.resourcefulfinancepro.com/articles/payroll-as-a-retention-tool/": {
+    "title": "Payroll is an Underutilized Retention Tool: 3 Ways to Unlock Its Strategic Value - Resourceful Finance Pro",
+    "source": "Google News Search",
+    "published_at": "Fri, 14 Aug 2026 10:36:00 GMT",
+    "processed_at": "2026-08-15T07:27:16.019427",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.manilatimes.net/2026/08/15/tmt-newswire/globenewswire/air-launches-business-unit-focused-on-growth-journey-optimization-and-data-and-ai-driven-growth/2406075/amp": {
+    "title": "AI/R Launches Business Unit Focused on Growth, Journey Optimization, and Data and AI-driven Growth - The Manila Times",
+    "source": "Google News Search",
+    "published_at": "Fri, 14 Aug 2026 21:45:15 GMT",
+    "processed_at": "2026-08-15T07:27:16.365291",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.microsoft.com/insidetrack/blog/empowering-employees-after-the-call-enabling-and-securing-microsoft-teams-meeting-data-retention-at-microsoft/": {
+    "title": "Empowering employees after the call: Enabling and securing Microsoft Teams meeting data retention at Microsoft - Microsoft",
+    "source": "Google News Search",
+    "published_at": "Thu, 13 Aug 2026 16:00:00 GMT",
+    "processed_at": "2026-08-15T07:27:16.943530",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/id/blog/customer-attrition": {
+    "title": "Customer Attrition and How To Reduce Churn (2026) - Shopify",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-15T07:27:17.760742",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://retail.economictimes.indiatimes.com/news/industry/retailers-rethink-customer-retention-as-shoppers-become-channel-agnostic/133229681": {
+    "title": "Retailers rethink customer retention as shoppers become channel agnostic - ET Retail",
+    "source": "Google News Search",
+    "published_at": "Fri, 14 Aug 2026 05:48:26 GMT",
+    "processed_at": "2026-08-15T07:27:18.525851",
+    "status": "posted",
+    "telegram_message_id": 111
+  },
+  "https://www.bignewsnetwork.com/news/279227316/adymize-founder-breaks-down-what-actually-makes-a-performance-marketing-agency-best-for-d2c-brands": {
+    "title": "Adymize Founder Breaks Down What Actually Makes a Performance Marketing Agency \"Best\" for D2C Brands - Big News Network.com",
+    "source": "Google News Search",
+    "published_at": "Sat, 08 Aug 2026 08:31:00 GMT",
+    "processed_at": "2026-08-15T07:27:18.534330",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/my/blog/loyalty-software": {
+    "title": "Top 9 Customer Loyalty Software Tools (2026) - Shopify",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 20:23:26 GMT",
+    "processed_at": "2026-08-15T07:27:18.542481",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
