@@ -6110,5 +6110,85 @@
     "processed_at": "2026-08-15T07:27:18.542481",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html": {
+    "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 15 Aug 2026 09:30:14 +0000",
+    "processed_at": "2026-08-16T07:27:20.367813",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://getlatka.com/companies/treet.co": {
+    "title": "Treet Revenue 2025: $12.9M ARR (Bootstrapped) - GetLatka",
+    "source": "Google News Search",
+    "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-16T07:27:38.968097",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.miamitimesonline.com/education/the-teacher-shortage-crisis-has-a-hidden-solution-invest-in-mentor-teachers/article_dc254cca-e637-4c99-be66-ed0cd47324bc.html": {
+    "title": "The teacher shortage crisis has a hidden solution: Invest in mentor teachers - The Miami Times",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 20:40:00 GMT",
+    "processed_at": "2026-08-16T07:28:25.309846",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/etoro-group-ltd-q2-2026-012612103.html": {
+    "title": "eToro Group Ltd. Q2 2026 Earnings Call Summary - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 01:26:00 GMT",
+    "processed_at": "2026-08-16T07:28:47.134967",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://seekingalpha.com/article/4936182-adt-inc-recurring-customer-base-is-still-weak": {
+    "title": "ADT Inc.: Recurring Customer Base Is Still Weak - Seeking Alpha",
+    "source": "Google News Search",
+    "published_at": "Thu, 13 Aug 2026 16:30:09 GMT",
+    "processed_at": "2026-08-16T07:28:47.344574",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.trendhunter.com/trends/frigade": {
+    "title": "AI Onboarding Platforms - Trend Hunter",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 16:18:45 GMT",
+    "processed_at": "2026-08-16T07:28:47.565758",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.record-courier.com/story/special/contributor-content/2026/08/12/why-real-time-digital-asset-data-is-becoming-a-local-business-planning-tool/91276791007/": {
+    "title": "Why Real-Time Digital Asset Data Is Becoming a Local Business Planning Tool - Record-Courier",
+    "source": "Google News Search",
+    "published_at": "Wed, 12 Aug 2026 19:16:00 GMT",
+    "processed_at": "2026-08-16T07:29:51.091160",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://fortune.com/article/att-cmo-tied-brand-love-customer-churn-marketing-cmo-revenue-growth/": {
+    "title": "How AT&T tied ‘brand love’ to customer growth: 60% higher sign-ups and 3x lower churn - Fortune",
+    "source": "Google News Search",
+    "published_at": "Fri, 14 Aug 2026 16:15:00 GMT",
+    "processed_at": "2026-08-16T07:31:27.933830",
+    "status": "posted",
+    "telegram_message_id": 112
+  },
+  "https://www.globalbankingandfinance.com/rise-ai-shopping-pushes-merchants-protect-loyalty-adyen/": {
+    "title": "AI Shopping Spurs Merchants to Defend Loyalty, Says Adyen - Global Banking & Finance Review",
+    "source": "Google News Search",
+    "published_at": "Thu, 13 Aug 2026 09:11:37 GMT",
+    "processed_at": "2026-08-16T07:31:27.940613",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.triplewhale.com/blog/conversion-rate-optimization-cro": {
+    "title": "Conversion Rate Optimization (CRO): 19 Strategies for 2026 - Triple Whale",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-16T07:31:27.947340",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
