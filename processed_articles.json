@@ -6238,5 +6238,109 @@
     "processed_at": "2026-08-17T07:49:32.666852",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/17/technology/ai-slop.html": {
+    "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 17 Aug 2026 19:51:10 +0000",
+    "processed_at": "2026-08-18T07:33:59.795155",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html": {
+    "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 17 Aug 2026 21:13:00 +0000",
+    "processed_at": "2026-08-18T07:33:59.884479",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html": {
+    "title": "China Wants Its Data to Power the World’s A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 17 Aug 2026 11:10:29 +0000",
+    "processed_at": "2026-08-18T07:33:59.964449",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html": {
+    "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 16 Aug 2026 09:00:38 +0000",
+    "processed_at": "2026-08-18T07:34:00.060618",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://seekingalpha.com/article/4937450-sprout-socialnears-operatingbreakevenasaisystemboostscustomerretention": {
+    "title": "Sprout Social Nears Operating Breakeven As AI System Boosts Customer Retention (SPT) - Seeking Alpha",
+    "source": "Google News Search",
+    "published_at": "Mon, 17 Aug 2026 21:39:57 GMT",
+    "processed_at": "2026-08-18T07:34:27.413414",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.drugtopics.com/view/strategic-technician-recruitment-and-retention-for-independent-pharmacies": {
+    "title": "Strategic Technician Recruitment and Retention for Independent Pharmacies - Drug Topics",
+    "source": "Google News Search",
+    "published_at": "Mon, 17 Aug 2026 18:00:00 GMT",
+    "processed_at": "2026-08-18T07:34:27.544978",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.picketfencemedia.com/danapointtimes/eye-on-dp/octa-coastal-rail-study-draws-calls-for-sand-first-approach-in-south-orange-county/article_46fd0a92-3735-47c7-b313-bc2bc749d5a8.html": {
+    "title": "OCTA Coastal Rail Study Draws Calls for ‘Sand-First’ Approach in South Orange County - picketfencemedia.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 14 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-18T07:34:30.276035",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4005570:0-unit-record-fiber-growth-robust-m-a-activity-and-ai-driven-retention-fuel-strong-outlook/": {
+    "title": "UNIT: Record fiber growth, robust M&A activity, and AI-driven retention fuel strong outlook - TradingView",
+    "source": "Google News Search",
+    "published_at": "Tue, 11 Aug 2026 23:40:57 GMT",
+    "processed_at": "2026-08-18T07:34:30.816902",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cxtoday.com/community-social-engagement/gainsight-community-platform-digital-customer-hub/": {
+    "title": "How Gainsight Is Expanding Its Customer Community Platform - cxtoday.com",
+    "source": "Google News Search",
+    "published_at": "Mon, 17 Aug 2026 15:54:21 GMT",
+    "processed_at": "2026-08-18T07:34:41.150214",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://natlawreview.com/press-releases/influential-women-profiles-ashley-deknes-razevich-driving-customer": {
+    "title": "Influential Women Profiles Ashley Deknes-Razevich: Driving Customer Experience And Operational Excellence - The National Law Review",
+    "source": "Google News Search",
+    "published_at": "Mon, 17 Aug 2026 12:24:05 GMT",
+    "processed_at": "2026-08-18T07:34:41.221309",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.wboc.com/online_features/press_releases/baosheng-pursues-strategic-acquisition-of-blue-intelligence-cloud-innovation-technology-to-accelerate-its-expansion-into/article_92fd8c4a-1367-595b-a9dc-b6190baa51a6.html": {
+    "title": "Baosheng Pursues Strategic Acquisition of Blue Intelligence Cloud Innovation Technology to Accelerate Its Expansion into AI Marketing - WBOC TV",
+    "source": "Google News Search",
+    "published_at": "Mon, 17 Aug 2026 13:25:00 GMT",
+    "processed_at": "2026-08-18T07:34:53.753674",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hr-brew.com/stories/ai-workplace-loneliness": {
+    "title": "AI may be making our loneliness problem worse, but HR can help by connecting people at work - HR Brew",
+    "source": "Google News Search",
+    "published_at": "Mon, 17 Aug 2026 16:03:06 GMT",
+    "processed_at": "2026-08-18T07:34:58.225322",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/chatgpt-query-source-preferences/": {
+    "title": "Inside ChatGPT’s Source Preferences: What Query Fanouts Reveal About AI Discoverability",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 17 Aug 2026 16:00:00 +0000",
+    "processed_at": "2026-08-18T07:34:58.827829",
+    "status": "posted",
+    "telegram_message_id": 113
   }
 }
