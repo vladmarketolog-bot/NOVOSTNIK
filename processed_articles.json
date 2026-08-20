@@ -6462,5 +6462,125 @@
     "processed_at": "2026-08-19T07:35:20.567468",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html": {
+    "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 19 Aug 2026 20:02:11 +0000",
+    "processed_at": "2026-08-20T07:37:26.997987",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html": {
+    "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 19 Aug 2026 19:06:05 +0000",
+    "processed_at": "2026-08-20T07:37:27.080071",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html": {
+    "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 19 Aug 2026 16:50:35 +0000",
+    "processed_at": "2026-08-20T07:37:27.177261",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html": {
+    "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 19 Aug 2026 20:05:47 +0000",
+    "processed_at": "2026-08-20T07:37:27.245298",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html": {
+    "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 19 Aug 2026 21:49:10 +0000",
+    "processed_at": "2026-08-20T07:37:27.313286",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html": {
+    "title": "Some Stand-Up Comics Are Pivoting Away From Video on Social Media",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 19 Aug 2026 16:13:49 +0000",
+    "processed_at": "2026-08-20T07:37:27.381069",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/seo-forecasting/": {
+    "title": "SEO Forecasting: How to Predict Your Traffic in an AI Era",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 19 Aug 2026 16:00:00 +0000",
+    "processed_at": "2026-08-20T07:37:27.581078",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://thewisemarketer.com/the-loyalty-newswire-august-17-2026/": {
+    "title": "The Loyalty Newswire August 17, 2026 - The Wise Marketer",
+    "source": "Google News Search",
+    "published_at": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-20T07:38:46.635464",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://mymotherlode.com/news/local/11076190/sonora-council-adopts-economic-development-strategy.html": {
+    "title": "Sonora Council Adopts Economic Development Strategy - myMotherLode.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 18 Aug 2026 23:55:49 GMT",
+    "processed_at": "2026-08-20T07:39:12.509922",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://mexicobusiness.news/health/news/eurofarma-named-top-pharma-employer-latin-america": {
+    "title": "Eurofarma Named Top Pharma Employer in Latin America - Mexico Business News",
+    "source": "Google News Search",
+    "published_at": "Tue, 18 Aug 2026 14:26:41 GMT",
+    "processed_at": "2026-08-20T07:39:17.631040",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://pressgazette.co.uk/publishers/digital-journalism/subscriber-retention-mastery-tips-for-publishers-from-the-economist/": {
+    "title": "Subscriber retention mastery: Tips for publishers from The Economist - Press Gazette",
+    "source": "Google News Search",
+    "published_at": "Tue, 18 Aug 2026 08:54:46 GMT",
+    "processed_at": "2026-08-20T07:39:17.877050",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://es.tradingview.com/news/financemagnates:72ff7eca5094b:0-latam-broker-growth-is-not-just-about-direct-marketing-but-ibs-and-trust/": {
+    "title": "LATAM Broker Growth Is Not Just About Direct Marketing but IBs and Trust - TradingView",
+    "source": "Google News Search",
+    "published_at": "Wed, 19 Aug 2026 05:00:00 GMT",
+    "processed_at": "2026-08-20T07:39:18.505612",
+    "status": "posted",
+    "telegram_message_id": 115
+  },
+  "https://www.restaurantdive.com/news/points-based-restaurant-loyalty-gamification-personalizaton/828040/": {
+    "title": "Why restaurant loyalty programs need to go beyond the points-based game - Restaurant Dive",
+    "source": "Google News Search",
+    "published_at": "Wed, 19 Aug 2026 12:58:12 GMT",
+    "processed_at": "2026-08-20T07:39:18.512805",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://customerthink.com/the-top-7-sms-marketing-platforms-for-2026/": {
+    "title": "The Top 7 SMS Marketing Platforms for 2026 - Customer Think",
+    "source": "Google News Search",
+    "published_at": "Tue, 18 Aug 2026 22:48:04 GMT",
+    "processed_at": "2026-08-20T07:39:18.519676",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.prnewswire.com/news-releases/bluefaucet-launches-autonomous-ai-agent-crm-for-solopreneurs-and-small-merchants-302854399.html": {
+    "title": "BlueFaucet Launches Autonomous AI Agent CRM for Solopreneurs and Small Merchants - PR Newswire",
+    "source": "Google News Search",
+    "published_at": "Wed, 19 Aug 2026 12:36:00 GMT",
+    "processed_at": "2026-08-20T07:39:18.526564",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
