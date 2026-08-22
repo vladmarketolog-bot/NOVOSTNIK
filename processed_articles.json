@@ -6694,5 +6694,125 @@
     "processed_at": "2026-08-21T07:39:52.583727",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html": {
+    "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 22 Aug 2026 00:24:20 +0000",
+    "processed_at": "2026-08-22T07:27:59.939450",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html": {
+    "title": "TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 21 Aug 2026 23:24:04 +0000",
+    "processed_at": "2026-08-22T07:28:00.023253",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html": {
+    "title": "Mark Zuckerberg Buys an Irish Castle",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 21 Aug 2026 19:16:03 +0000",
+    "processed_at": "2026-08-22T07:28:00.103773",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html": {
+    "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 21 Aug 2026 11:32:51 +0000",
+    "processed_at": "2026-08-22T07:28:00.191924",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html": {
+    "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 21 Aug 2026 20:23:13 +0000",
+    "processed_at": "2026-08-22T07:28:00.258328",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html": {
+    "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 21 Aug 2026 09:02:32 +0000",
+    "processed_at": "2026-08-22T07:28:00.315487",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/paid-media-forecasting/": {
+    "title": "Paid Media Forecasting: How to Predict Ad Performance (Without Getting It Wrong)",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 21 Aug 2026 16:00:00 +0000",
+    "processed_at": "2026-08-22T07:28:00.372294",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://thewisemarketer.com/loyalty-marketing-is-making-headlines-for-the-wrong-reason-and-what-you-should-do-about-it/": {
+    "title": "Loyalty Marketing is Making Headlines for the Wrong Reason – and What You Should Do About It - The Wise Marketer",
+    "source": "Google News Search",
+    "published_at": "Fri, 21 Aug 2026 12:17:11 GMT",
+    "processed_at": "2026-08-22T07:28:00.435892",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.martechcube.com/bluefaucet-unveils-autonomous-ai-agent-crm-for-solopreneurs-small-merchants/": {
+    "title": "BlueFaucet Unveils Autonomous AI Agent CRM for Solopreneurs, Small Merchants - MarTech Cube",
+    "source": "Google News Search",
+    "published_at": "Thu, 20 Aug 2026 07:51:05 GMT",
+    "processed_at": "2026-08-22T07:28:00.569698",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.medicaleconomics.com/view/on-days-to-fill-cost-to-hire-and-developing-a-physician-retention-strategy": {
+    "title": "On days to fill, cost to hire and developing a physician retention strategy - Medical Economics",
+    "source": "Google News Search",
+    "published_at": "Fri, 21 Aug 2026 19:16:29 GMT",
+    "processed_at": "2026-08-22T07:28:14.131116",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.edweek.org/leadership/how-to-nurture-teacher-retention-in-far-flung-rural-districts/2026/08": {
+    "title": "How to Nurture Teacher Retention in Far-Flung Rural Districts - Education Week",
+    "source": "Google News Search",
+    "published_at": "Fri, 21 Aug 2026 20:57:10 GMT",
+    "processed_at": "2026-08-22T07:28:18.585055",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.jems.com/ems-management/rebuilding-the-ems-workforce-why-high-school-pipelines-are-the-future/": {
+    "title": "Rebuilding the EMS Workforce: Why High School Pipelines, Not Retention Alone, Are the Future - jems.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 18 Aug 2026 14:13:54 GMT",
+    "processed_at": "2026-08-22T07:28:24.495474",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.technology.org/2026/08/21/ai-messaging-customer-engagement-strategies-responsive-digital-communication-systems/": {
+    "title": "AI Messaging and Customer Engagement: Strategies for Building More Responsive Digital Communication Systems - Technology Org",
+    "source": "Google News Search",
+    "published_at": "Fri, 21 Aug 2026 17:30:52 GMT",
+    "processed_at": "2026-08-22T07:28:33.422824",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/markets/options/articles/options-trading-volume-customer-retention-110520682.html": {
+    "title": "Options Trading Volume, Customer Retention, Strong Trading Activity - What Worked for Webull in Q2 - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Thu, 20 Aug 2026 11:05:20 GMT",
+    "processed_at": "2026-08-22T07:28:33.895085",
+    "status": "posted",
+    "telegram_message_id": 117
+  },
+  "https://www.coursera.org/articles/email-marketing-roles": {
+    "title": "5 Email Marketing Roles and How to Get Started - Coursera",
+    "source": "Google News Search",
+    "published_at": "Wed, 19 Aug 2026 20:44:00 GMT",
+    "processed_at": "2026-08-22T07:28:33.904545",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
