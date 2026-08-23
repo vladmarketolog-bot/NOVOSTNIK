@@ -6814,5 +6814,77 @@
     "processed_at": "2026-08-22T07:28:33.904545",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html": {
+    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 23 Aug 2026 04:01:08 +0000",
+    "processed_at": "2026-08-23T07:29:39.699597",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html": {
+    "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 22 Aug 2026 15:34:31 +0000",
+    "processed_at": "2026-08-23T07:29:39.800578",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.houseandgarden.co.uk/article/dear-fiona-help-my-son-wants-to-paint-his-bedroom-black": {
+    "title": "Dear Fiona: Help! My son wants to paint his bedroom black - House & Garden",
+    "source": "Google News Search",
+    "published_at": "Fri, 21 Aug 2026 05:00:00 GMT",
+    "processed_at": "2026-08-23T07:30:25.756098",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://cybernews.com/ai-news/openai-zero-data-retention-update/": {
+    "title": "OpenAI promises more zero data retention after HuggingFace hack exposed agent escape - Cybernews",
+    "source": "Google News Search",
+    "published_at": "Thu, 20 Aug 2026 09:43:10 GMT",
+    "processed_at": "2026-08-23T07:30:34.851234",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/zacks:465b445ca094b:0-figs-customer-base-expands-as-repeat-engagement-strengthens/": {
+    "title": "FIGS' Customer Base Expands as Repeat Engagement Strengthens - TradingView",
+    "source": "Google News Search",
+    "published_at": "Thu, 20 Aug 2026 12:25:00 GMT",
+    "processed_at": "2026-08-23T07:30:35.372811",
+    "status": "posted",
+    "telegram_message_id": 118
+  },
+  "https://www.shopify.com/uk/blog/ecommerce-customer-segmentation": {
+    "title": "Ecommerce Customer Segmentation: Strategies, Examples, and Tools for 2026 - Shopify",
+    "source": "Google News Search",
+    "published_at": "Wed, 19 Aug 2026 22:56:16 GMT",
+    "processed_at": "2026-08-23T07:30:35.382369",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.cision.com/igaming-news/r/market-dna--dach-geos-unpacked,c4384876": {
+    "title": "Market DNA: DACH Geos Unpacked - Cision News",
+    "source": "Google News Search",
+    "published_at": "Tue, 18 Aug 2026 15:35:00 GMT",
+    "processed_at": "2026-08-23T07:30:35.391740",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.techradar.com/pro/why-ai-powered-marketing-is-the-new-secret-weapon-for-customer-trust": {
+    "title": "Why AI-powered marketing is the new secret weapon for customer trust - TechRadar",
+    "source": "Google News Search",
+    "published_at": "Thu, 20 Aug 2026 08:52:23 GMT",
+    "processed_at": "2026-08-23T07:30:35.401076",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/pk-ur/case-studies/snuggle-hunny": {
+    "title": "Snuggle Hunny beats biggest sales day by 75% - Shopify",
+    "source": "Google News Search",
+    "published_at": "Tue, 18 Aug 2026 07:18:57 GMT",
+    "processed_at": "2026-08-23T07:30:35.410418",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
