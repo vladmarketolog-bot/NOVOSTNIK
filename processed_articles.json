@@ -1,484 +1,4 @@
 {
-  "https://www.nytimes.com/2026/06/18/technology/ai-token-minimizing.html": {
-    "title": "Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It.",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 18 Jun 2026 15:19:00 +0000",
-    "processed_at": "2026-06-23T13:44:03.311364",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html": {
-    "title": "New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 18 Jun 2026 18:44:22 +0000",
-    "processed_at": "2026-06-23T13:44:03.395203",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/18/technology/apple-intel-trump-chips.html": {
-    "title": "Trump Says Apple to Buy Computer Chips from Intel",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 18 Jun 2026 18:08:57 +0000",
-    "processed_at": "2026-06-23T13:44:03.485567",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html": {
-    "title": "Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 18 Jun 2026 22:05:49 +0000",
-    "processed_at": "2026-06-23T13:44:03.567577",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html": {
-    "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 23 Jun 2026 09:02:27 +0000",
-    "processed_at": "2026-06-23T13:44:03.632909",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html": {
-    "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 22 Jun 2026 22:53:42 +0000",
-    "processed_at": "2026-06-23T13:44:03.696088",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html": {
-    "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 21 Jun 2026 19:49:15 +0000",
-    "processed_at": "2026-06-23T13:44:03.759136",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html": {
-    "title": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 20 Jun 2026 15:58:09 +0000",
-    "processed_at": "2026-06-23T13:44:03.824196",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/19/podcasts/hard-fork-live-part-3-differing-visions-of-an-ai-future.html": {
-    "title": "‘Hard Fork’ Live, Part 3: Differing Visions of an A.I. Future",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 19 Jun 2026 11:00:03 +0000",
-    "processed_at": "2026-06-23T13:44:03.925801",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html": {
-    "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 20 Jun 2026 18:11:07 +0000",
-    "processed_at": "2026-06-23T13:44:04.008081",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/what-is-an-ai-audit/": {
-    "title": "What Is an AI Citation Audit & What Can It Tell You About Your Content",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 22 Jun 2026 19:00:00 +0000",
-    "processed_at": "2026-06-23T13:44:04.037061",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/how-to-monitor-ai-search-visibility/": {
-    "title": "How We Rebuilt AI Visibility Measurement From The Ground Up",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 19 Jun 2026 19:00:00 +0000",
-    "processed_at": "2026-06-23T13:44:04.075169",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/ai-brand-visibility-tracking/": {
-    "title": "AI Brand Visibility: You’re Tracking It Wrong",
-    "source": "neilpatel.com",
-    "published_at": "Wed, 17 Jun 2026 19:00:00 +0000",
-    "processed_at": "2026-06-23T13:44:04.112510",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/chatgpt-ads-manager/": {
-    "title": "ChatGPT Opens Ads for All: How to React to This Shift",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 15 Jun 2026 19:00:00 +0000",
-    "processed_at": "2026-06-23T13:44:04.140177",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/tiktok-premium-ads/": {
-    "title": "Why TikTok Is Expanding Its Premium Ads Push and What That Means for You",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 12 Jun 2026 19:00:00 +0000",
-    "processed_at": "2026-06-23T13:44:04.181949",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/ai-brand-reputation-management/": {
-    "title": "Using AI to Support and Defend Your Brand",
-    "source": "neilpatel.com",
-    "published_at": "Wed, 10 Jun 2026 17:30:27 +0000",
-    "processed_at": "2026-06-23T13:48:45.305661",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/google-sponsored-shops/": {
-    "title": "Google Is Testing Sponsored Shops in SERPs: What This Means for Advertisers",
-    "source": "neilpatel.com",
-    "published_at": "Tue, 09 Jun 2026 18:13:49 +0000",
-    "processed_at": "2026-06-23T13:48:45.352140",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/referral-traffic-decline-publishers/": {
-    "title": "Referral Traffic Is Declining for Smaller Publishers: What This Means and How to React",
-    "source": "neilpatel.com",
-    "published_at": "Tue, 02 Jun 2026 16:42:04 +0000",
-    "processed_at": "2026-06-23T13:48:45.411240",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/robots-txt/": {
-    "title": "How to Create and Optimize Your Robots.txt File",
-    "source": "neilpatel.com",
-    "published_at": "Tue, 26 May 2026 19:00:00 +0000",
-    "processed_at": "2026-06-23T13:48:45.446880",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/ai-powered-lead-generation/": {
-    "title": "AI-Powered Lead Gen: The New Way Multi-Location, Franchises, and Global Companies Scale",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 22 May 2026 19:00:00 +0000",
-    "processed_at": "2026-06-23T13:48:45.513421",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/common-pitfalls-in-scaling-ab-testing-programs/": {
-    "title": "Common Pitfalls in Scaling A/B Testing Programs",
-    "source": "vwo.com",
-    "published_at": "Tue, 23 Jun 2026 07:20:13 +0000",
-    "processed_at": "2026-06-23T13:48:45.864325",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/best-practices-for-ab-testing-in-enterprise/": {
-    "title": "20 Best Practices for A/B Testing in Enterprise Web Experiences",
-    "source": "vwo.com",
-    "published_at": "Mon, 22 Jun 2026 05:54:02 +0000",
-    "processed_at": "2026-06-23T13:48:46.205592",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/scale-ab-testing/": {
-    "title": "How to Scale A/B Testing for Better Decisions, Managed Risk, and Sustainable Growth",
-    "source": "vwo.com",
-    "published_at": "Mon, 15 Jun 2026 08:11:13 +0000",
-    "processed_at": "2026-06-23T13:48:46.466770",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/simple-ab-testing-software-for-beginners/": {
-    "title": "6 Simple A/B Testing Software for Beginners: A 2026 Starter Guide",
-    "source": "vwo.com",
-    "published_at": "Fri, 05 Jun 2026 06:40:35 +0000",
-    "processed_at": "2026-06-23T13:48:46.789933",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/advanced-ab-testing/": {
-    "title": "Advanced A/B Testing: Techniques, Tools, and Growth Strategies",
-    "source": "vwo.com",
-    "published_at": "Fri, 29 May 2026 06:20:30 +0000",
-    "processed_at": "2026-06-23T13:48:47.069944",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/amplitude-statsig-partnership/": {
-    "title": "Amplitude-Statsig Partnership: Reading Between the Lines of Experimentation’s Next Era",
-    "source": "vwo.com",
-    "published_at": "Thu, 28 May 2026 09:47:04 +0000",
-    "processed_at": "2026-06-23T13:48:47.384716",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/expert-interviews/carlos-neto-interview": {
-    "title": "Teams May Perform, but the Growth System Still Fails When KPIs Don’t Connect",
-    "source": "vwo.com",
-    "published_at": "Thu, 21 May 2026 06:31:34 +0000",
-    "processed_at": "2026-06-23T13:48:47.693800",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/open-source-vs-commercial-a-b-testing-tools/": {
-    "title": "Open Source vs Commercial A/B Testing Tools: Which Is Right for You?",
-    "source": "vwo.com",
-    "published_at": "Fri, 15 May 2026 06:11:18 +0000",
-    "processed_at": "2026-06-23T13:48:48.021421",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/open-source-ab-testing-tools/": {
-    "title": "6 Open Source A/B Testing Tools You Can Start Using Today",
-    "source": "vwo.com",
-    "published_at": "Fri, 08 May 2026 05:42:10 +0000",
-    "processed_at": "2026-06-23T13:48:48.280233",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFZzMnZZQ3RGQXVqUUdjbE9ReGxhS2tfZ1NWaFhLbHB0YUoxWTJGM3JLT0NaYXMyY1VSYXBEUXl0SE5HZUJHWFF2aVBOaHA3aVpqRl9uOEtCelBaRjlpeUpyaHhNM1JJWjRSNVROZnctMi02ZTZ0WVNNNlZJYlZJQkhiWDNrRDNQRUh4UnA2V3ZQMElidFZBR0NVNzV1bUM4eWJZRF9JbC1GaTg1enB0OFJyM2k?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "How Fanatics moved from audience targeting to optimizing campaigns for customer LTV - Digiday",
-    "source": "Google News Search",
-    "published_at": "Fri, 19 Jun 2026 18:07:47 GMT",
-    "processed_at": "2026-06-23T13:48:48.379677",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWk92YkpNYmlheUN2YTNMQkVra0czZzZDcUItMWdUNHZ4bW00RllvYVRfMXFMcm5TNXcwQWEyZ0RYVXUtbnBZalkzclpMSGRZZmpUVGdMSTBBTEhITEd2NW1QNEpkUERtNjVQVWcxLUFwZzc4T0tsb08zSVcwWlUyei1sMmd4eGVBY3o4?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "How Adobe and WPP connect paid media and owned experiences - Adobe for Business",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 00:37:20 GMT",
-    "processed_at": "2026-06-23T13:51:19.855656",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEYxWVRzYXJRYnduSDlqbm9kcnY0dlBqYVhpQUZkUTRkcGxnUkJSc0I2aWE1TnRYVWRhSlRlNHh3OFNXVldyMExvLUFkWGJGeDE0UHhzdHF5VzhjQTB1TmFUb1NnQzBGVC1HNkFkc0ZpQzRScFlER2hKNVBBM2NhSHY0QzRYMkk?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "All your marketing data, one AI-powered app - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 01:24:43 GMT",
-    "processed_at": "2026-06-23T13:51:19.976782",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdUlGcU9mMTBLOWFmMVpYeDNYU0xvdkZfRkVtUldSSnZiQWdqelpoeXNRWk1ndk95YzZjRGRKeTJiOGRJQ2JfWmtfMGpFUGoxYXl1R3JjVXludWZIUjcyLWFSRWF6dUJLcTJwZjdqYXh4a0RjcnNLbVExNjlKak5TZlJTOUgyMmJMNDhVbzhXVWQ4N19MdUgyX05rRHpsdjMtU2U1UWs2cmtXN3laR0Z2aU5TTUZaNm5XVTZqVVpMbTlMMWNJbHB2aXV5eFBBX09DNXFUdnBiNTllMFJvZE91V3d3UzAwNTlDOW9wYXVDQdIB9AFBVV95cUxOVEgwaW1pMDkxSmZTbHQ5cjFiRXhGVFdGMXhZQVc5RHZjQk8zbFhGdmR3ekg2bVc3VFBEMlg4SVRCMHllUWpCSnUxcENmeUE0RXlaaTBwaEIycFlwRzVra1lFTWg1T1VCZlZ5eEZ3MDFNellFS2dQRk5UbVNwSDdfckRrNWpNdlhILW1LRFVUaGRBNHhsZDlJMjh5ZGhkV1hIazNNWVVqQ01PZTlKNF9aYzRiRzh3cktRQXNxRTBfTDJtYVJObUNzRnVQYmJiTnFmekZQNzNud3c0YVVhQ3J3cmltU05Qd3VjMmxaU3JoYnNLTmpr?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Big Deal Agency of Fort Lauderdale, FL, Wins Top Digital Marketing Agency of 2026 Award by the Digital - EIN News",
-    "source": "Google News Search",
-    "published_at": "Tue, 16 Jun 2026 19:29:00 GMT",
-    "processed_at": "2026-06-23T13:51:20.118123",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nY044cUE4MlJwb2hnTnIwT2ZJbjdaQzJiVzNYTXUzLWQ5WEhXUmh6X1ZJdnR5bHU4cG5zNUx1cGRQTk9TOThLSnY5NUhva0VBZlU4Ujl2SEhLS1p2ZzRmcE4xMlpqYlVOWXk3QW1NZDBSQzhJWnpBbW9nWTJfeTA?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Your Churn Threshold Is a Pricing Decision - Towards Data Science",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 16:30:00 GMT",
-    "processed_at": "2026-06-23T13:51:20.268842",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMipAJBVV95cUxQOUhHNGNIay1QbHdFQUNqM2YtNFdaejFGLTRDd1lVSGpLN3ZpVUlRODUxaXBRRVJvMGhsX0E5U1Q4VTZQc1hqMkFNMWRnZmlzQ0hCNW92cVB1ajYyNkRzMTZfNFY5b25NRWVqakdvQzFtTnY4NjdRRzlaaWlUVGZyUWcyVkdsbXhkZnh5MHdwNUpvTlBrc0J4Vk1mLTFXQi01eG9iUHlsRHg3X1BYckJRN0hoS2h0R0xKMFhjNTh5WEViVHAyUExER284OVdURi11bW1FYThER201QUFhVlI3UUZ4aFRuSkNHWWRaWEI5S2FBcmY1bHlrYlh1NDJ4Mkg3a2JCcjBreFlHOEszdUNxbU40S3BzVWFfWHVlYVFicUgwVU430gGqAkFVX3lxTE0wdHg5dUs5MC14UkVJNlMtZ3ZXODFBeFBOMkVzaTZYeXEtc3I3WExXU3NYT0hhOFRUOW9TZl9aNFFkNFNYcUxSUE1NN1ZFUDVOdlI2M1pRaHVOTWRzUXN4WWtCd2N3TFVQYTBMTk12N1RadDZ2XzNGbFl4Vmd0SG5WRFZPVzZGbTduZlpycmtJRGpwVXd5NkJ0LUgzSmFrazdCWlU5OUhMYktISXFDTmU5VTRiWW1vS3NYOE9fVkdlbTgyV1p5UzFTQnJ5MlRGSVhUS2V6NFRKRk1HZTN3TE5INnY5YnB1Zks0bFRuZnluSGJZWjlxdGFDaEdMYjJjSjNYbzNBSC1tVzVmZ2lSNXVCcFI4akJZekVma004dXJpSTl2dkdkNGo5c3c?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Shirofune Integrates with Triple Whale to Automate Attribution-Driven Ad Optimization Across Meta, Google, and other Platforms - The Manila Times",
-    "source": "Google News Search",
-    "published_at": "Thu, 18 Jun 2026 12:15:54 GMT",
-    "processed_at": "2026-06-23T13:51:20.489135",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXMzaU55amg4M3dSeWVRMWtLWUtzZVF1VGtXdWpyMGh3aGZKMFZXWjh2MVZTM2dacTNGbnRjV1B4STRaZkRBeURfbThxYzZNT0RMZVdSYlZQcVpmdjdmZGx0VmdEeTd4T09NOVRxMFRPdzB4NWtNTGJjQVlieE53ZWFYdEcyT283cWlVd0RB?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Cometly Review: The Best Marketing Attribution Platform for B2B - quasa.io",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 17:51:48 GMT",
-    "processed_at": "2026-06-23T13:51:20.605110",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU0JVQWE0MWtvcnctUW9MLXBCWDJVeUJVZE1aY2V5c3NFaTVaSWlyYTFzQUNxTFhHOW1LaTdWamxJR3lOWWdITFI5dXk2WmFiY0szaFVFNXFHanlCT0taeU1OdDFUaHhfVEZ0TWVWb2JJYzJySGw3QkczUVVuMF9rbXZ2RGNNQnBlV1FVdFR4OWhRbDlNQWtDRUh3WmtLY09lRHc?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Islamabad Police Facilitation Centers and Traffic Offices Closed Today - Al Sadat Marketing",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 08:16:57 GMT",
-    "processed_at": "2026-06-23T13:51:20.768009",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Y1NSY0NSWEM2NGxhRUVUNHppUHNGNW1hSWFZbjBFN1ZiVUVfVjFXc3VrTGthYmZSMC1ZSmFMYWZjR20xWHhYSWlKdVlIZmw1YWZMVWFRRU94b2o1MVJSR202TV9NOUZERF9GSWxidEt6UEZVaXMw?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "What Are the Best AI Marketing Tools For Small Business? - Salesforce",
-    "source": "Google News Search",
-    "published_at": "Fri, 19 Jun 2026 20:47:21 GMT",
-    "processed_at": "2026-06-23T13:51:20.866226",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjdoNFhkNEg0QnNVeEdIQTQ2YUt0NDZYQlBnT0dtcG9kc3Z6VFpPbE5kcHBZZGxPZ3MybTlTblE2Y2ItRUxLR25pTFJuUVJvRnowQzcxUFV2cExfYUxMc1IwTTA5cWNWTWRDMGtvbzZsLUdoaWtlbnBDWmItR2lwTjhGNUNHeTlqVGJEeTln?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Beyond Sales Lift: How Rewards Build Valuable Customers - Bain & Company",
-    "source": "Google News Search",
-    "published_at": "Fri, 19 Jun 2026 04:40:36 GMT",
-    "processed_at": "2026-06-23T13:51:20.994205",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1E3aFhCSTZLV1JKaFZVbUZjcExxbG43amlpeFc3UlF1aFYyRkVORWhpbjJELUJUbTVGYmtSVjE4YV9aeFFHaVNwNHFiZXctUUtQYWdna3RMVTRXbF9yN3BvOWtCSGpWd1B4cnVaMkJFYkJFT1VxQ3FpMlRiTGFxZVhzQ3IyUE0?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Verizon Breaks Industry Mold to Put Customers First - The Wise Marketer",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 17:50:11 GMT",
-    "processed_at": "2026-06-23T13:51:21.150952",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVERZczhPSVFVTjFiZHVzYmJtMDlyZ2VfaWlPZHlqLWpaMFRQbmNaSmxndVNocVVvXzdJY0FRZ0xhcnRSXzBHZnlWclVjeXpfTGpMcWkwTDVBd2xNZmxBNk5vV2l0R3NRaVlHaEltOTdSSXZKVEVEeDdoclI3QnN3RlNhNEZPZjdIQkt0NTdQUnN2dGg3MFkxNjZR0gGaAUFVX3lxTFBURFlzOE9JUVVOMWJkdXNiYm0wOXJnZV9paU9keWotalowVFBuY1pKbGd1U2hxVW9fN0ljQVFnTGFydFJfMEdmeVZyVWN5el9MakxxaTBMNUF3bE1mbEE2Tm9XaXRHc1FpWUdoSW05N1JJdkpURUR4N2hyUjdCc3dGU2E0Rk9mN0hCS3Q1N1BSc3Z0aDcwWTE2NlE?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Business analytics is the gap in most loyalty and gift card programs - WHIO TV",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 12:28:52 GMT",
-    "processed_at": "2026-06-23T13:51:21.278019",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE11YXlDNlZvZ0R5UW5xSGhhb2owMjJpTnVycHVhT0VWTldYVW1wZnNfME9LZ21FTm5INjg2Skc2LWxTZXVibm5Ja0NhSnFxOGw0aFJjc3hzNlZ2NXJVeTdRUVZmSVBJTWZTUlQ5cmNEU1pnb2Rm?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "The hidden fragility of performance marketing - MarTech",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 12:05:09 GMT",
-    "processed_at": "2026-06-23T13:51:21.386838",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMTM1WjBvTUVQVW12dTJnU2NPVHJPSEtrN0lCV1JNX1YyTkRHdGwxdGsyR05NVmxZR1FobU14QVUxVFR1NHdjYk54NGNiaFFrT3RRU2pHX1E3dXBpSl9rNlRSTnpVWk5sNThIblRIblFwc08wUWVfdUZnbWJ2UQ?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "WTF is agentic commerce? | How brands can make loyalty and promotions agent-ready - Digiday",
-    "source": "Google News Search",
-    "published_at": "Tue, 16 Jun 2026 21:32:44 GMT",
-    "processed_at": "2026-06-23T13:51:21.508973",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXNNMTBHYUlLZVk5cmE1T2hZN0k1ZE5hOHRhd0tWdFp0Vk9VWGl6dDlRbzJzZmQ5aFVJaENybVdpWG9RNW50dlhwbEtDbGFxT0R3alZ1OVVEYXZRck9abGlCRFRBYzV1RUplRHJoREZaSjRLR1QzeEo0WXhTamEzOTBuZG8?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Gap builds on Google AI partnership to transform marketing - Chain Store Age",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 15:12:18 GMT",
-    "processed_at": "2026-06-23T13:51:21.719552",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WGYzV0JFbUoycENtQ2FpbURzWEFLMGI0b2Q2ZXN6Zk9EeWlzeWdrWm5JdWRXdEZxT25IOEFNZ2k2Q2R6VnctZHNHNFdFYXhESlMzQTRRRzZPeTV6ZFZTSUdEVnR3ajc0TkF1bw?oc=5&hl=en-US&gl=US&ceid=US:en": {
-    "title": "Top Growth Marketing Agencies (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-06-23T13:51:21.853182",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://business.adobe.com/blog/adobe-wpp-closing-the-loop-on-marketing-performance": {
-    "title": "How Adobe and WPP connect paid media and owned experiences - Adobe for Business",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 00:37:20 GMT",
-    "processed_at": "2026-06-23T13:56:05.607986",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/video/all-your-marketing-data-one-ai-powered-app/": {
-    "title": "All your marketing data, one AI-powered app - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 01:24:43 GMT",
-    "processed_at": "2026-06-23T13:56:06.045601",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.einnews.com/pr_news/920013677/big-deal-agency-of-fort-lauderdale-fl-wins-top-digital-marketing-agency-of-2026-award-by-the-digital-marketing-forum": {
-    "title": "Big Deal Agency of Fort Lauderdale, FL, Wins Top Digital Marketing Agency of 2026 Award by the Digital - EIN News",
-    "source": "Google News Search",
-    "published_at": "Tue, 16 Jun 2026 19:29:00 GMT",
-    "processed_at": "2026-06-23T13:56:06.286048",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://towardsdatascience.com/your-churn-threshold-is-a-pricing-decision/": {
-    "title": "Your Churn Threshold Is a Pricing Decision - Towards Data Science",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 16:30:00 GMT",
-    "processed_at": "2026-06-23T13:56:06.384481",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://alsadatmarketing.com/islamabad-police-facilitation-centers-and-traffic-offices-closed-today/": {
-    "title": "Islamabad Police Facilitation Centers and Traffic Offices Closed Today - Al Sadat Marketing",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 08:16:57 GMT",
-    "processed_at": "2026-06-23T13:57:45.202999",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://thewisemarketer.com/verizon-breaks-industry-mold-to-put-customers-first/": {
-    "title": "Verizon Breaks Industry Mold to Put Customers First - The Wise Marketer",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 17:50:11 GMT",
-    "processed_at": "2026-06-23T13:59:00.262935",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://chainstoreage.com/gap-builds-google-ai-partnership-transform-marketing": {
-    "title": "Gap builds on Google AI partnership to transform marketing - Chain Store Age",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 15:12:18 GMT",
-    "processed_at": "2026-06-23T14:00:49.632978",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.bain.com/insights/beyond-sales-lift-how-rewards-build-valuable-customers/": {
-    "title": "Beyond Sales Lift: How Rewards Build Valuable Customers - Bain & Company",
-    "source": "Google News Search",
-    "published_at": "Fri, 19 Jun 2026 04:40:36 GMT",
-    "processed_at": "2026-06-23T14:00:54.273286",
-    "status": "posted",
-    "telegram_message_id": 61
-  },
-  "https://digiday.com/marketing/how-fanatics-moved-from-audience-targeting-to-optimizing-campaigns-for-customer-ltv/": {
-    "title": "How Fanatics moved from audience targeting to optimizing campaigns for customer LTV - Digiday",
-    "source": "Google News Search",
-    "published_at": "Fri, 19 Jun 2026 18:07:47 GMT",
-    "processed_at": "2026-06-23T14:00:54.274273",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://martech.org/the-hidden-fragility-of-performance-marketing/": {
-    "title": "The hidden fragility of performance marketing - MarTech",
-    "source": "Google News Search",
-    "published_at": "Wed, 17 Jun 2026 12:05:09 GMT",
-    "processed_at": "2026-06-23T14:00:54.274997",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://digiday.com/sponsored/wtf-is-agentic-commerce-loyalty-promotions/": {
-    "title": "WTF is agentic commerce? | How brands can make loyalty and promotions agent-ready - Digiday",
-    "source": "Google News Search",
-    "published_at": "Tue, 16 Jun 2026 21:32:44 GMT",
-    "processed_at": "2026-06-23T14:00:54.275763",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.manilatimes.net/2026/06/18/tmt-newswire/globenewswire/shirofune-integrates-with-triple-whale-to-automate-attribution-driven-ad-optimization-across-meta-google-and-other-platforms/2368350": {
-    "title": "Shirofune Integrates with Triple Whale to Automate Attribution-Driven Ad Optimization Across Meta, Google, and other Platforms - The Manila Times",
-    "source": "Google News Search",
-    "published_at": "Thu, 18 Jun 2026 12:15:54 GMT",
-    "processed_at": "2026-06-23T14:00:54.276500",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://quasa.io/video/cometly-review-the-best-marketing-attribution-platform-for-b2b": {
-    "title": "Cometly Review: The Best Marketing Attribution Platform for B2B - quasa.io",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 17:51:48 GMT",
-    "processed_at": "2026-06-23T14:00:54.277231",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.salesforce.com/marketing/ai/best-ai-marketing-tools/smb/": {
-    "title": "What Are the Best AI Marketing Tools For Small Business? - Salesforce",
-    "source": "Google News Search",
-    "published_at": "Fri, 19 Jun 2026 20:47:21 GMT",
-    "processed_at": "2026-06-23T14:00:54.277961",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.whio.com/contributor/business-analytics/JEKI7EPN3I7Y3MAOV2LZ2TIOHQ/?outputType=amp": {
-    "title": "Business analytics is the gap in most loyalty and gift card programs - WHIO TV",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 12:28:52 GMT",
-    "processed_at": "2026-06-23T14:00:54.278720",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html": {
     "title": "Meta Has Created a Prediction Markets App",
     "source": "rss.nytimes.com",
@@ -6884,6 +6404,54 @@
     "source": "Google News Search",
     "published_at": "Tue, 18 Aug 2026 07:18:57 GMT",
     "processed_at": "2026-08-23T07:30:35.410418",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html": {
+    "title": "How Big Tech Captured American Schools",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 23 Aug 2026 11:13:40 +0000",
+    "processed_at": "2026-08-24T07:54:37.518198",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html": {
+    "title": "The Data Center Backlash Bursts Into the Midterms",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 23 Aug 2026 09:01:58 +0000",
+    "processed_at": "2026-08-24T07:54:37.628225",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html": {
+    "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 23 Aug 2026 09:00:19 +0000",
+    "processed_at": "2026-08-24T07:54:37.756174",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.netsuite.com/portal/resource/articles/accounting/usage-based-billing.shtml": {
+    "title": "The Guide to Usage-based Billing - Oracle NetSuite",
+    "source": "Google News Search",
+    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-24T07:54:56.981841",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/technology/ai/articles/sirius-emerges-a16z-speedrun-ai-233100450.html": {
+    "title": "Sirius Emerges From a16z Speedrun With an AI Platform for Customer Retention - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Wed, 19 Aug 2026 23:31:00 GMT",
+    "processed_at": "2026-08-24T07:54:57.810494",
+    "status": "posted",
+    "telegram_message_id": 119
+  },
+  "https://www.mediapost.com/publications/article/417240/agency-feedback-on-apple-ads-on-maps-runs-hot-c.html?edition=143549": {
+    "title": "Agency Feedback On Apple 'Ads On Maps' Runs Hot, Cold On Eligibility 08/14/2026 - MediaPost",
+    "source": "Google News Search",
+    "published_at": "Fri, 21 Aug 2026 02:38:29 GMT",
+    "processed_at": "2026-08-24T07:54:57.819468",
     "status": "ignored",
     "telegram_message_id": null
   }
