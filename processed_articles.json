@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html": {
-    "title": "Meta Has Created a Prediction Markets App",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 23 Jun 2026 22:42:38 +0000",
-    "processed_at": "2026-06-24T10:20:32.628999",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html": {
-    "title": "U.S. Presses Meta to Agree to A.I. Reviews",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 23 Jun 2026 21:45:20 +0000",
-    "processed_at": "2026-06-24T10:20:32.714621",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html": {
-    "title": "Your Home Could Help Solve AI’s Growing Power Demand",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 24 Jun 2026 09:02:13 +0000",
-    "processed_at": "2026-06-24T10:20:32.784705",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html": {
-    "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 23 Jun 2026 21:15:16 +0000",
-    "processed_at": "2026-06-24T10:20:32.876945",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://londonlovesbusiness.com/five-marketing-metrics-huta-digital-ou-tracks-to-measure-campaign-efficiency/": {
-    "title": "Five marketing metrics Huta Digital OÜ tracks to measure campaign efficiency - London Business News",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 14:59:40 GMT",
-    "processed_at": "2026-06-24T10:30:05.915956",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wwd.com/business-news/retail/gap-inc-ai-google-zeta-publicis-sapient-1239017796/": {
-    "title": "Gap Inc. Leverages AI to Optimize Marketing and Personalization - WWD",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 16:00:23 GMT",
-    "processed_at": "2026-06-24T10:30:06.252627",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.salontoday.com/articles/2026-salon-today-200-technology-and-client-retention-and-referral": {
-    "title": "2026 SALON TODAY 200: Technology and Client Retention and Referral - Salon Today",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 23:42:07 GMT",
-    "processed_at": "2026-06-24T10:30:08.144285",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.einnews.com/amp/pr_news/921341205/unified-essentials-launches-integrated-marketing-suite-for-business-growth": {
-    "title": "Unified Essentials Launches Integrated Marketing Suite for Business Growth - EIN News",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 17:29:20 GMT",
-    "processed_at": "2026-06-24T10:30:08.287796",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://restauranttechnologynews.com/2026/06/paytronix-turns-guest-data-into-loyalty-personalized-engagement-and-restaurant-revenue-growth/": {
-    "title": "Paytronix Turns Guest Data Into Loyalty, Personalized Engagement and Restaurant Revenue Growth - Restaurant Technology News",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 09:57:20 GMT",
-    "processed_at": "2026-06-24T10:30:08.566331",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.thinkadvisor.com/2026/06/18/why-succession-planning-is-now-a-retention-strategy/": {
-    "title": "Why Succession Planning Is Now a Retention Strategy - ThinkAdvisor",
-    "source": "Google News Search",
-    "published_at": "Thu, 18 Jun 2026 19:50:58 GMT",
-    "processed_at": "2026-06-24T10:30:09.149064",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nyu.edu/about/news-publications/news/2026/june/nurse-turnover-study.html": {
-    "title": "Job Dissatisfaction, Education Drive Nurse Turnover - New York University",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 13:53:27 GMT",
-    "processed_at": "2026-06-24T10:30:09.495338",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://healthexec.com/topics/healthcare-management/healthcare-staffing/why-nurses-leave-and-what-hospitals-can-do": {
-    "title": "Why nurses leave and what hospitals can do to incentivize staying - HealthExec",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 00:55:37 GMT",
-    "processed_at": "2026-06-24T10:30:09.562588",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.netsuite.com/portal/resource/articles/crm/nonprofit-trends.shtml": {
-    "title": "The Top Nonprofit Trends to Watch Today - Oracle NetSuite",
-    "source": "Google News Search",
-    "published_at": "Fri, 19 Jun 2026 07:29:40 GMT",
-    "processed_at": "2026-06-24T10:30:09.656517",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://legis1.com/news/military-child-care-staffing-pentagon-struggles": {
-    "title": "Pentagon Child Care Crisis Threatens Military Readiness - Legis1",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 18:32:49 GMT",
-    "processed_at": "2026-06-24T10:30:10.176700",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/expert-interviews/mayowa-aderogbin-interview": {
-    "title": "The Best Testing Stacks Are Built for Speed and Learning, Not Complexity",
-    "source": "vwo.com",
-    "published_at": "Wed, 24 Jun 2026 05:37:39 +0000",
-    "processed_at": "2026-06-24T10:30:11.286874",
-    "status": "posted",
-    "telegram_message_id": 62
-  },
   "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html": {
     "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
     "source": "rss.nytimes.com",
@@ -6452,6 +6332,126 @@
     "source": "Google News Search",
     "published_at": "Fri, 21 Aug 2026 02:38:29 GMT",
     "processed_at": "2026-08-24T07:54:57.819468",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html": {
+    "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 24 Aug 2026 18:07:41 +0000",
+    "processed_at": "2026-08-25T07:40:44.971265",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html": {
+    "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 24 Aug 2026 19:34:57 +0000",
+    "processed_at": "2026-08-25T07:40:45.110328",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/start-franchise-business/": {
+    "title": "How to Start a Franchise Business (2026 Guide)",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 24 Aug 2026 16:00:00 +0000",
+    "processed_at": "2026-08-25T07:40:45.167659",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mpamag.com/uk/mortgage-types/first-time-buyer/first-time-buyer-share-rises-as-average-ltv-climbs-to-quarterly-high/584587": {
+    "title": "First-time buyer share rises as average LTV climbs to quarterly high - mpamag.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 07:05:34 GMT",
+    "processed_at": "2026-08-25T07:40:49.421409",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.exchange4media.com/marketing-news/d2c-brands-look-beyond-roas-as-rising-cac-puts-profitability-under-the-lens-157597.html": {
+    "title": "D2C brands look beyond ROAS as rising CAC puts profitability under the lens - Exchange4Media",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 03:16:30 GMT",
+    "processed_at": "2026-08-25T07:40:49.583935",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://biz.chosun.com/en/en-industry/2026/08/25/CGAKDQTZWRBLXNM7UPJGZBOKPY/": {
+    "title": "Hs Ad boosts ad ROI with AI-CRM targeting in South Korea - CHOSUNBIZ - Chosunbiz",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 00:50:00 GMT",
+    "processed_at": "2026-08-25T07:40:50.422219",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://natlawreview.com/press-releases/feng-cha-advances-digital-and-loyalty-strategy-drive-guest-engagement-and": {
+    "title": "Feng cha advances digital and loyalty strategy to drive guest engagement and support franchise growth - The National Law Review",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 17:06:25 GMT",
+    "processed_at": "2026-08-25T07:41:03.975474",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.martechcube.com/demand-generation-strategies-customer-value/": {
+    "title": "Demand Generation Strategies That Drive Long-Term Customer Value - MarTech Cube",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 13:26:05 GMT",
+    "processed_at": "2026-08-25T07:41:15.336900",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hr-brew.com/stories/workforce-edge/workplace-learning-can-increase-employee-retention": {
+    "title": "Learn and grow: How learning programs can increase employee retention - HR Brew",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 18:59:19 GMT",
+    "processed_at": "2026-08-25T07:41:20.134484",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://enterprisetalk.com/featured/entrepreneurs-achieve-business-growth": {
+    "title": "World Entrepreneurs’ Day: 11 Key Strategies for Business Growth in 2026 - Enterprise Talk",
+    "source": "Google News Search",
+    "published_at": "Fri, 21 Aug 2026 06:30:00 GMT",
+    "processed_at": "2026-08-25T07:41:42.221178",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.happi.com/exclusives/scalp-health-ingredients-retro-style-crossovers-lead-for-fall-2026-haircare-trends/": {
+    "title": "Scalp Health Ingredients and Retro Style Crossovers Lead for Fall 2026 Haircare Trends - Happi | Household And Personal Products Industry",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 01:21:00 GMT",
+    "processed_at": "2026-08-25T07:41:42.338457",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.retailbrew.com/stories/keys-to-establishing-brand-loyalty-today": {
+    "title": "These are the keys to establishing brand loyalty today - Retail Brew",
+    "source": "Google News Search",
+    "published_at": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-25T07:41:43.391767",
+    "status": "posted",
+    "telegram_message_id": 120
+  },
+  "https://www.cbtnews.com/tully-williams-shares-keys-to-70-retention/": {
+    "title": "Tully Williams shares the keys to 70% service retention - CBT News",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 19:57:38 GMT",
+    "processed_at": "2026-08-25T07:41:43.397877",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wbjournal.com/article/10-things-i-know-about-getting-your-ideal-clients-attention/": {
+    "title": "10 Things I know about getting your ideal clients’ attention - Worcester Business Journal",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 10:00:46 GMT",
+    "processed_at": "2026-08-25T07:41:43.403532",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/zacks:5e8215d62094b:0-ajg-s-organic-growth-resilience-supports-long-term-expansion/": {
+    "title": "AJG's Organic Growth Resilience Supports Long-Term Expansion - TradingView",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 14:35:00 GMT",
+    "processed_at": "2026-08-25T07:41:43.409176",
     "status": "ignored",
     "telegram_message_id": null
   }
