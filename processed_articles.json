@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html": {
-    "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 25 Jun 2026 10:00:16 +0000",
-    "processed_at": "2026-06-25T10:14:12.637864",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html": {
-    "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 24 Jun 2026 21:41:41 +0000",
-    "processed_at": "2026-06-25T10:14:12.726118",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/backlink-analysis-tools/": {
-    "title": "Best Backlink Analysis Tools: Compare Free and Paid Options",
-    "source": "neilpatel.com",
-    "published_at": "Wed, 24 Jun 2026 19:00:00 +0000",
-    "processed_at": "2026-06-25T10:14:12.771295",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/gdpr-compliant-ab-testing/": {
-    "title": "GDPR-Compliant A/B Testing: How to Run Privacy-Safe Experiments",
-    "source": "vwo.com",
-    "published_at": "Thu, 25 Jun 2026 06:32:42 +0000",
-    "processed_at": "2026-06-25T10:14:23.826710",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.financialreporter.co.uk/gb-bank-cuts-core-buy-to-let-rates.html": {
-    "title": "GB Bank cuts core buy-to-let rates - Financial Reporter",
-    "source": "Google News Search",
-    "published_at": "Thu, 25 Jun 2026 07:38:12 GMT",
-    "processed_at": "2026-06-25T10:14:24.382159",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.fastcompany.com/91563421/why-customer-experience-is-now-the-primary-growth-driver": {
-    "title": "Why customer experience is now the primary growth driver - Fast Company",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 12:57:16 GMT",
-    "processed_at": "2026-06-25T10:14:24.497943",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://adage.com/opinion/aa-cmo-growth-impact-measurement/": {
-    "title": "How CMOs can prove their growth impact—the metrics that matter - Ad Age",
-    "source": "Google News Search",
-    "published_at": "Thu, 18 Jun 2026 16:00:00 GMT",
-    "processed_at": "2026-06-25T10:14:25.243280",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://thewisemarketer.com/kobie-2026-heart-of-loyalty-report-reveals-growing-gap-between-consumer-expectations-and-brand-loyalty-strategies/": {
-    "title": "Kobie 2026 Heart of Loyalty Report Reveals Growing Gap Between Consumer Expectations and Brand Loyalty Strategies - The Wise Marketer",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 20:48:46 GMT",
-    "processed_at": "2026-06-25T10:14:25.312402",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.digitalcommerce360.com/2026/06/24/gap-ai-marketing-overhaul-google-cloud-zeta-publicis-sapient/amp/": {
-    "title": "Gap launches AI marketing overhaul with Google Cloud, Zeta and Publicis Sapient - Digital Commerce 360",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 19:46:54 GMT",
-    "processed_at": "2026-06-25T10:14:25.393334",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.citybiz.co/article/865093/touchtunes-appoints-james-moore-cro-cassie-parham-svp-of-marketing/": {
-    "title": "TouchTunes Appoints James Moore CRO, Cassie Parham SVP of Marketing - citybiz",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 14:30:18 GMT",
-    "processed_at": "2026-06-25T10:14:26.923554",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.forbes.com/sites/markmurphy/2026/06/24/5-employee-retention-warning-signs-your-best-people-will-quit-this-year/": {
-    "title": "5 Employee Retention Warning Signs Your Best People Will Quit This Year - Forbes",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 12:17:36 GMT",
-    "processed_at": "2026-06-25T10:14:27.168390",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.truckinginfo.com/videos/why-do-drivers-stay-lessons-from-top-trucking-fleets-video": {
-    "title": "How Top Trucking Fleets Improve Driver Retention [Video] - Heavy Duty Trucking",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 21:27:20 GMT",
-    "processed_at": "2026-06-25T10:14:27.664588",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shrm.org/mena/topics-tools/news/career-architecture-is-engagement-retentions-missing-link": {
-    "title": "Career Architecture is Engagement and Retention’s Missing Link - SHRM",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-06-25T10:14:28.426984",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.postnewsgroup.com/work-life-balance-remains-a-top-concern-for-employees-nationwide/amp/": {
-    "title": "Work-Life Balance Remains a Top Concern for Employees Nationwide - Post News Group",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-06-25T10:14:29.258778",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.reuters.com/legal/legalindustry/winning-talent-tournament-lateral-hiring-integration-retention-competitive--pracin-2026-06-24/": {
-    "title": "Winning the talent tournament — Lateral hiring, integration, and retention in a competitive market - Reuters",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 21:15:09 GMT",
-    "processed_at": "2026-06-25T10:14:29.400704",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html": {
     "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
     "source": "rss.nytimes.com",
@@ -6452,6 +6332,126 @@
     "source": "Google News Search",
     "published_at": "Mon, 24 Aug 2026 14:35:00 GMT",
     "processed_at": "2026-08-25T07:41:43.409176",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html": {
+    "title": "Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 25 Aug 2026 22:38:18 +0000",
+    "processed_at": "2026-08-26T07:42:29.369051",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html": {
+    "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 25 Aug 2026 21:31:13 +0000",
+    "processed_at": "2026-08-26T07:42:29.487054",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html": {
+    "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 25 Aug 2026 21:59:39 +0000",
+    "processed_at": "2026-08-26T07:42:29.619440",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html": {
+    "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 26 Aug 2026 07:01:07 +0000",
+    "processed_at": "2026-08-26T07:42:29.763906",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html": {
+    "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 25 Aug 2026 22:58:03 +0000",
+    "processed_at": "2026-08-26T07:42:29.900585",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html": {
+    "title": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 25 Aug 2026 16:45:28 +0000",
+    "processed_at": "2026-08-26T07:42:30.027209",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://thewisemarketer.com/the-rise-of-the-contradictory-consumer-why-traditional-marketing-models-no-longer-work/": {
+    "title": "The Rise of the Contradictory Consumer: Why Traditional Marketing Models No Longer Work - The Wise Marketer",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 15:39:18 GMT",
+    "processed_at": "2026-08-26T07:42:30.225290",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.citybiz.co/article/893237/wendys-names-tariq-hassan-chief-marketing-and-customer-growth-officer/": {
+    "title": "Wendy’s Names Tariq Hassan Chief Marketing and Customer Growth Officer - citybiz",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 15:16:48 GMT",
+    "processed_at": "2026-08-26T07:42:30.367882",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nu.edu/blog/how-hr-builds-strong-cultures/": {
+    "title": "How HR Builds Strong Cultures: Strategies for Engagement, Retention, and Trust - nu.edu",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 19:17:09 GMT",
+    "processed_at": "2026-08-26T07:43:22.053671",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://rooseveltinstitute.org/publications/the-three-failures-threatening-americas-clean-energy-industrial-strategy-and-how-to-fix-them/": {
+    "title": "3 Failures Threatening US Climate Industrial Policy - The Roosevelt Institute",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 10:22:50 GMT",
+    "processed_at": "2026-08-26T07:43:22.277288",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://hrexecutive.com/flight-risk-more-workers-are-paying-to-upskill-for-their-next-job/": {
+    "title": "Flight risk: More workers are paying to upskill for their next job - HR Executive",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 11:30:52 GMT",
+    "processed_at": "2026-08-26T07:43:34.088309",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://federalnewsnetwork.com/cybersecurity/2026/08/cisa-wants-agencies-to-maximize-insight-from-cyber-data-logging/": {
+    "title": "CISA wants agencies to maximize ‘insight’ from cyber data logging - Federal News Network",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 21:08:37 GMT",
+    "processed_at": "2026-08-26T07:43:55.679998",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://simplywall.st/stocks/us/consumer-services/nasdaq-wen/wendys/news/wendys-wen-names-tariq-hassan-as-first-chief-marketing-and-c": {
+    "title": "Wendy's (WEN) Names Tariq Hassan As First Chief Marketing And Customer Growth Officer - simplywall.st",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 10:21:21 GMT",
+    "processed_at": "2026-08-26T07:44:26.809118",
+    "status": "posted",
+    "telegram_message_id": 121
+  },
+  "https://www.thunes.com/insights/learn/supporting-creator-economy-payouts/": {
+    "title": "How to support global creator economy payouts - Thunes",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 15:52:04 GMT",
+    "processed_at": "2026-08-26T07:44:26.817253",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://app.dealroom.co/news/note/banyan-buys-australian-retention-firm-crma-to-bolster-harrier-national": {
+    "title": "Banyan buys Australian retention firm CRMA to bolster Harrier National - Dealroom",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 09:58:28 GMT",
+    "processed_at": "2026-08-26T07:44:26.823823",
     "status": "ignored",
     "telegram_message_id": null
   }
