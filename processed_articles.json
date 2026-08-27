@@ -1,244 +1,4 @@
 {
-  "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html": {
-    "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 25 Jun 2026 15:34:41 +0000",
-    "processed_at": "2026-06-26T10:21:58.097388",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html": {
-    "title": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 25 Jun 2026 20:58:38 +0000",
-    "processed_at": "2026-06-26T10:21:58.186031",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html": {
-    "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 25 Jun 2026 18:52:30 +0000",
-    "processed_at": "2026-06-26T10:21:58.270746",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html": {
-    "title": "Intel’s Chip Business Shows Signs of Life After Years of Struggle",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 26 Jun 2026 08:54:16 +0000",
-    "processed_at": "2026-06-26T10:21:58.352763",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html": {
-    "title": "How a Niche Technology Became a Choke Point for A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 26 Jun 2026 07:34:44 +0000",
-    "processed_at": "2026-06-26T10:21:58.435021",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html": {
-    "title": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 25 Jun 2026 23:25:18 +0000",
-    "processed_at": "2026-06-26T10:21:58.525472",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html": {
-    "title": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 25 Jun 2026 23:11:23 +0000",
-    "processed_at": "2026-06-26T10:21:58.615288",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html": {
-    "title": "Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 25 Jun 2026 20:57:21 +0000",
-    "processed_at": "2026-06-26T10:21:58.700581",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://finance.yahoo.com/technology/ai/articles/gap-gap-launches-ai-marketing-002306449.html": {
-    "title": "Gap (GAP) Launches AI Marketing Platform To Personalize Customer Outreach - Yahoo Finance",
-    "source": "Google News Search",
-    "published_at": "Thu, 25 Jun 2026 00:23:00 GMT",
-    "processed_at": "2026-06-26T10:22:32.218525",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://thedigitalbanker.com/bank-of-americas-shikha-narula-on-building-customer-loyalty-beyond-rewards/": {
-    "title": "Bank of America’s Shikha Narula on building customer loyalty beyond rewards - The Digital Banker",
-    "source": "Google News Search",
-    "published_at": "Thu, 25 Jun 2026 08:14:02 GMT",
-    "processed_at": "2026-06-26T10:22:33.014764",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.24-7pressrelease.com/press-release/536186/an-operational-blueprint-for-turning-valuable-data-into-a-continuous-growth-engine": {
-    "title": "An Operational Blueprint for Turning Valuable Data into a Continuous Growth Engine - 24-7 Press Release Newswire",
-    "source": "Google News Search",
-    "published_at": "Thu, 25 Jun 2026 07:02:08 GMT",
-    "processed_at": "2026-06-26T10:22:33.475836",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businesswire.com/news/home/20260624142043/en/New-MissionSquare-research-suggests-emotional-demands-at-work-are-a-leading-driver-of-turnover-stress-and-financial-strain": {
-    "title": "New MissionSquare research suggests emotional demands at work are a leading driver of turnover, stress, and financial strain - Business Wire",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 13:00:00 GMT",
-    "processed_at": "2026-06-26T10:22:33.537926",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.endurancesportswire.com/haku-and-track-shack-to-host-industry-discussion-on-why-retention-matters-most-when-demand-is-strong/": {
-    "title": "haku and Track Shack to Host Industry Discussion on Why Retention Matters Most When Demand Is Strong - Endurance Sportswire",
-    "source": "Google News Search",
-    "published_at": "Thu, 25 Jun 2026 12:12:15 GMT",
-    "processed_at": "2026-06-26T10:22:35.220974",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://focusgn.com/n1-insights-july-igaming-outlook": {
-    "title": "N1 Insights: July igaming outlook - Focus Gaming News",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 11:19:52 GMT",
-    "processed_at": "2026-06-26T10:22:35.294229",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.whio.com/contributor/business-analytics/JEKI7EPN3I7Y3MAOV2LZ2TIOHQ/": {
-    "title": "Business analytics is the gap in most loyalty and gift card programs - WHIO TV",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 12:28:52 GMT",
-    "processed_at": "2026-06-26T10:22:36.091403",
-    "status": "posted",
-    "telegram_message_id": 63
-  },
-  "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html": {
-    "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 26 Jun 2026 21:03:17 +0000",
-    "processed_at": "2026-06-27T09:27:03.804674",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html": {
-    "title": "U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 27 Jun 2026 00:54:06 +0000",
-    "processed_at": "2026-06-27T09:27:03.868496",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html": {
-    "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 26 Jun 2026 22:41:22 +0000",
-    "processed_at": "2026-06-27T09:27:03.952726",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html": {
-    "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 26 Jun 2026 18:05:07 +0000",
-    "processed_at": "2026-06-27T09:27:04.045403",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/06/26/podcasts/the-daily-and-the-opinions-how-ai-is-changing-loneliness-and-taste.html": {
-    "title": "‘The Daily’ and ‘The Opinions’: How A.I. Is Changing Loneliness and Taste",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 26 Jun 2026 11:00:07 +0000",
-    "processed_at": "2026-06-27T09:27:04.144710",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/guide-to-content-marketing/": {
-    "title": "The Ultimate  Content Marketing Guide in 2026",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 26 Jun 2026 19:00:00 +0000",
-    "processed_at": "2026-06-27T09:27:04.185083",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.smartbrief.com/original/why-financial-marketing-is-about-relationships-now": {
-    "title": "Why financial marketing is about relationships now - SmartBrief",
-    "source": "Google News Search",
-    "published_at": "Fri, 26 Jun 2026 12:22:52 GMT",
-    "processed_at": "2026-06-27T09:27:04.312557",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.retail-insight-network.com/news/gap-modernise-marketing-brand-portfolio/": {
-    "title": "Gap turns to AI to modernise marketing across brand portfolio - Retail Insight Network",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 08:50:44 GMT",
-    "processed_at": "2026-06-27T09:27:16.757961",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://gjia.georgetown.edu/science-technology/telehealth-after-usaid-building-sustainable-systems-in-sub-saharan-african-health-services/": {
-    "title": "Telehealth After USAID: Building Sustainable Systems in Sub-Saharan African Health Services - Georgetown Journal of International Affairs",
-    "source": "Google News Search",
-    "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-06-27T09:27:38.591649",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.ibm.com/think/topics/immutable-backups": {
-    "title": "What Are Immutable Backups? - IBM",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 08:49:10 GMT",
-    "processed_at": "2026-06-27T09:27:44.218210",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mcknights.com/resources/partner-content/moving-past-lagging-indicators-how-senior-care-leaders-are-creating-not-just-tracking-workforce-stability/": {
-    "title": "Moving past lagging indicators: How senior care leaders are creating — not just tracking — workforce stability - McKnight's Long-Term Care News",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 17:04:41 GMT",
-    "processed_at": "2026-06-27T09:27:44.357110",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.storyboard18.com/media-and-entertainment/the-microdrama-gold-rush-needs-more-than-growth-hacks-102471.htm": {
-    "title": "The microdrama gold rush needs more than growth hacks - Storyboard18",
-    "source": "Google News Search",
-    "published_at": "Fri, 26 Jun 2026 11:14:07 GMT",
-    "processed_at": "2026-06-27T09:28:14.970446",
-    "status": "posted",
-    "telegram_message_id": 64
-  },
-  "https://www.okoone.com/spark/marketing-growth/how-customer-loyalty-needs-to-evolve-before-ai-can-actually-help/": {
-    "title": "How customer loyalty needs to evolve before AI can actually help - Okoone",
-    "source": "Google News Search",
-    "published_at": "Fri, 26 Jun 2026 10:06:55 GMT",
-    "processed_at": "2026-06-27T09:28:14.972037",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://finance.yahoo.com/technology/ai/articles/netflix-bets-bigger-ai-strategy-140600799.html": {
-    "title": "Netflix Bets Bigger on AI Strategy: Can It Strengthen User Retention? - Yahoo Finance",
-    "source": "Google News Search",
-    "published_at": "Fri, 26 Jun 2026 14:06:00 GMT",
-    "processed_at": "2026-06-27T09:28:14.973377",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://worldbusinessoutlook.com/how-return-policies-influence-customer-trust-conversion-rates-and-ecommerce-marketing-performance/": {
-    "title": "How Return Policies Influence Customer Trust, Conversion Rates, and Ecommerce Marketing Performance - World Business Outlook",
-    "source": "Google News Search",
-    "published_at": "Thu, 25 Jun 2026 10:16:52 GMT",
-    "processed_at": "2026-06-27T09:28:14.974780",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.hcamag.com/us/news/general/study-links-emotional-labour-to-higher-turnover-risk/580407": {
     "title": "Study links emotional labour to higher turnover risk - hcamag.com",
     "source": "Google News Search",
@@ -6452,6 +6212,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 25 Aug 2026 09:58:28 GMT",
     "processed_at": "2026-08-26T07:44:26.823823",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html": {
+    "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 15:08:37 +0000",
+    "processed_at": "2026-08-27T18:03:31.784694",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html": {
+    "title": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 14:04:10 +0000",
+    "processed_at": "2026-08-27T18:03:31.880153",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html": {
+    "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 15:16:46 +0000",
+    "processed_at": "2026-08-27T18:03:31.981871",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html": {
+    "title": "Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 01:05:58 +0000",
+    "processed_at": "2026-08-27T18:03:32.064200",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html": {
+    "title": "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 17:55:37 +0000",
+    "processed_at": "2026-08-27T18:03:32.173381",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html": {
+    "title": "“Anxious Generation” Author Jonathan Haidt on the Meta Settlement",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 15:49:42 +0000",
+    "processed_at": "2026-08-27T18:03:32.257477",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html": {
+    "title": "California Lawmakers Pass Plug-In Solar Bill",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 14:41:43 +0000",
+    "processed_at": "2026-08-27T18:03:32.355946",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html": {
+    "title": "Some Scientists Have ‘Magic Hands’ in the Lab. This A.I. Is Learning Why.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 15:53:58 +0000",
+    "processed_at": "2026-08-27T18:03:32.452564",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html": {
+    "title": "What’s Changing For Teens on Instagram and Facebook After Meta Settlement",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 26 Aug 2026 18:22:32 +0000",
+    "processed_at": "2026-08-27T18:03:32.547906",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html": {
+    "title": "What Does $17.1 Billion Mean for Meta?",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 27 Aug 2026 16:16:20 +0000",
+    "processed_at": "2026-08-27T18:03:32.621344",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/google-analytics-4/": {
+    "title": "The Practical Guide to Google Analytics 4",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 26 Aug 2026 16:00:00 +0000",
+    "processed_at": "2026-08-27T18:03:32.673182",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://todaysveterinarybusiness.com/making-data-work-for-marketing-and-outreach/": {
+    "title": "Making Data Work for Marketing and Outreach - Today's Veterinary Business",
+    "source": "Google News Search",
+    "published_at": "Thu, 27 Aug 2026 05:18:13 GMT",
+    "processed_at": "2026-08-27T18:04:11.691741",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.citybiz.co/article/895007/vasa-fitness-names-liz-crisafi-cmo-to-lead-marketing-and-member-growth/": {
+    "title": "VASA Fitness Names Liz Crisafi CMO to Lead Marketing and Member Growth - citybiz",
+    "source": "Google News Search",
+    "published_at": "Wed, 26 Aug 2026 21:27:59 GMT",
+    "processed_at": "2026-08-27T18:04:11.769002",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cmswire.com/customer-experience/the-next-voc-model-tracks-behavior-not-feedback/": {
+    "title": "The Silence Penalty: Decoding Unspoken Friction with Behavioral Telemetry - CMSWire",
+    "source": "Google News Search",
+    "published_at": "Mon, 24 Aug 2026 10:03:53 GMT",
+    "processed_at": "2026-08-27T18:04:22.624109",
+    "status": "posted",
+    "telegram_message_id": 122
+  },
+  "https://ultimatecapper.com/beyond-the-point-spread-optimizing-long-term-player-value-in-modern-sportsbooks-230103/": {
+    "title": "Beyond the Point Spread: Optimizing Long-Term Player Value in Modern Sportsbooks - ultimatecapper.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 26 Aug 2026 14:07:00 GMT",
+    "processed_at": "2026-08-27T18:04:22.633000",
     "status": "ignored",
     "telegram_message_id": null
   }
