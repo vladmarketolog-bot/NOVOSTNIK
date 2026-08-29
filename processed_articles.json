@@ -1,76 +1,4 @@
 {
-  "https://chainstoreage.com/survey-consumers-favorite-loyalty-programs-include": {
-    "title": "Survey: Consumers' favorite loyalty programs include... - Chain Store Age",
-    "source": "Google News Search",
-    "published_at": "Fri, 26 Jun 2026 14:27:22 GMT",
-    "processed_at": "2026-06-29T11:57:57.194766",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.futuristsspeakers.com/employee-engagement-retention-speakers/": {
-    "title": "EMPLOYEE ENGAGEMENT AND RETENTION SPEAKERS FOR CORPORATE KEYNOTE EVENTS - futuristsspeakers.com",
-    "source": "Google News Search",
-    "published_at": "Sun, 28 Jun 2026 20:59:56 GMT",
-    "processed_at": "2026-06-29T11:58:04.470632",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.msn.com/en-us/news/insight/ai-disruption-rto-mandates-and-hr-tech-reshape-workforce/gm-GMF186E444?gemSnapshotKey=GMF186E444-snapshot-1&uxmode=ruby": {
-    "title": "AI disruption, RTO mandates and HR tech reshape workforce - MSN",
-    "source": "Google News Search",
-    "published_at": "Wed, 24 Jun 2026 00:00:00 GMT",
-    "processed_at": "2026-06-29T11:58:04.545344",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/ads/video/": {
-    "title": "Top Video Ad Networks (2025) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-06-29T11:59:43.553853",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/marketplace/push-notifications/": {
-    "title": "Top Push Notification Services (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Fri, 26 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-06-29T11:59:45.679145",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.techtarget.com/searchenterpriseai/tip/8-machine-learning-benefits-for-businesses": {
-    "title": "10 machine learning benefits for businesses - TechTarget",
-    "source": "Google News Search",
-    "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-06-29T11:59:46.059341",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.theoutdoorwire.com/releases/2026/06/r3-is-key-to-addressing-huntings-toughest-challenges-building-public-support": {
-    "title": "R3 Is Key to Addressing Hunting's Toughest Challenges, Building Public Support - Outdoor Wire",
-    "source": "Google News Search",
-    "published_at": "Mon, 29 Jun 2026 10:02:13 GMT",
-    "processed_at": "2026-06-29T11:59:46.297891",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.coursera.org/articles/remote-customer-service-jobs": {
-    "title": "Remote Customer Service Jobs: 2026 Guide - Coursera",
-    "source": "Google News Search",
-    "published_at": "Thu, 25 Jun 2026 19:45:00 GMT",
-    "processed_at": "2026-06-29T11:59:47.045267",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.okoone.com/spark/marketing-growth/what-customer-effort-score-really-means-and-why-it-matters/": {
-    "title": "What customer effort score really means and why it matters - Okoone",
-    "source": "Google News Search",
-    "published_at": "Sat, 27 Jun 2026 10:04:09 GMT",
-    "processed_at": "2026-06-29T11:59:47.598484",
-    "status": "posted",
-    "telegram_message_id": 66
-  },
   "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html": {
     "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
     "source": "rss.nytimes.com",
@@ -6340,6 +6268,126 @@
     "source": "Google News Search",
     "published_at": "Thu, 27 Aug 2026 13:56:42 GMT",
     "processed_at": "2026-08-28T19:17:43.043913",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html": {
+    "title": "How Meta’s $17.1 Billion Social Media Settlement Came Together",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 29 Aug 2026 11:00:06 +0000",
+    "processed_at": "2026-08-29T12:56:34.355804",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html": {
+    "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 29 Aug 2026 09:00:16 +0000",
+    "processed_at": "2026-08-29T12:56:34.452682",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html": {
+    "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 28 Aug 2026 23:15:45 +0000",
+    "processed_at": "2026-08-29T12:56:34.530663",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cruisetradenews.com/advantage-to-host-first-ever-marketing-summit/": {
+    "title": "Advantage to host first-ever Marketing Summit - Cruise Trade News",
+    "source": "Google News Search",
+    "published_at": "Fri, 28 Aug 2026 05:39:45 GMT",
+    "processed_at": "2026-08-29T12:56:43.280197",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://martech.org/3-ways-marketing-automation-platforms-are-being-reinvented/": {
+    "title": "3 ways marketing automation platforms are being reinvented - MarTech",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 12:32:10 GMT",
+    "processed_at": "2026-08-29T12:56:43.531281",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://globalhealthnow.org/2026-08/african-plan-train-and-retain-health-workers": {
+    "title": "An African Plan to Train ... and Retain ... Health Workers - Global Health NOW",
+    "source": "Google News Search",
+    "published_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-29T12:56:53.099300",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.techtarget.com/enterprise-software/tip/9-top-employee-retention-software-options": {
+    "title": "9 top employee retention software options - TechTarget",
+    "source": "Google News Search",
+    "published_at": "Fri, 28 Aug 2026 18:54:10 GMT",
+    "processed_at": "2026-08-29T12:56:56.946098",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.colorado.edu/business/news/2026/08/31/more-than-a-summer-break": {
+    "title": "More Than a Summer Break - University of Colorado Boulder",
+    "source": "Google News Search",
+    "published_at": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-29T12:57:01.868436",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://siliconangle.com/2026/08/27/workplace-fraud-monitoring-startup-yardstik-raises-30m-to-help-employers-keep-tabs-on-their-staff/": {
+    "title": "Workplace fraud monitoring startup Yardstik raises $30M to help employers keep tabs on their staff - SiliconANGLE",
+    "source": "Google News Search",
+    "published_at": "Thu, 27 Aug 2026 13:00:00 GMT",
+    "processed_at": "2026-08-29T12:57:22.409602",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketsandmarkets.com/Market-Reports/geography/certificate-testing-market/rest-of-europe": {
+    "title": "Rest-Of-Europe Aerospace Testing Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+    "source": "Google News Search",
+    "published_at": "Wed, 26 Aug 2026 15:17:14 GMT",
+    "processed_at": "2026-08-29T12:57:23.243090",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/blog/what-is-customer-support": {
+    "title": "What Is Customer Support? 6 Customer Support Strategies (2026) - Shopify",
+    "source": "Google News Search",
+    "published_at": "Wed, 26 Aug 2026 17:02:30 GMT",
+    "processed_at": "2026-08-29T12:57:23.547507",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.adgully.com/post/19872/why-pi-network-is-shifting-from-app-creation-to-user-retention": {
+    "title": "Why Pi Network is shifting from app creation to user retention - Adgully.com",
+    "source": "Google News Search",
+    "published_at": "Sat, 29 Aug 2026 02:30:00 GMT",
+    "processed_at": "2026-08-29T12:57:24.998322",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/zacks:104e43531094b:0-reddit-gains-from-strong-user-growth-can-it-outpace-pins-snap/": {
+    "title": "Reddit Gains From Strong User Growth: Can It Outpace PINS & SNAP? - TradingView",
+    "source": "Google News Search",
+    "published_at": "Wed, 26 Aug 2026 16:51:00 GMT",
+    "processed_at": "2026-08-29T12:57:25.591025",
+    "status": "posted",
+    "telegram_message_id": 124
+  },
+  "https://stockstory.org/us/stocks/nasdaq/brze/news/buy-or-sell/braze-brze-buy-sell-or-hold-post-q1-earnings": {
+    "title": "Braze (BRZE): Buy, Sell, or Hold Post Q1 Earnings? - StockStory",
+    "source": "Google News Search",
+    "published_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-29T12:57:25.599890",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/10-digital-marketing-ideas-for-financial-advisors": {
+    "title": "10 Digital Marketing Ideas for Financial Advisors - SmartAsset.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-08-29T12:57:25.608519",
     "status": "ignored",
     "telegram_message_id": null
   }
