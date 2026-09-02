@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html": {
-    "title": "Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 03 Jul 2026 09:04:25 +0000",
-    "processed_at": "2026-07-03T09:54:38.390910",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html": {
-    "title": "Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 03 Jul 2026 00:01:43 +0000",
-    "processed_at": "2026-07-03T09:54:38.490583",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html": {
-    "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 02 Jul 2026 18:54:00 +0000",
-    "processed_at": "2026-07-03T09:54:38.590795",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html": {
-    "title": "Tesla Sales Surge 25% on Recovery in Europe",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 02 Jul 2026 15:07:49 +0000",
-    "processed_at": "2026-07-03T09:54:38.678378",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://americancoinop.com/articles/remote-management-best-practices-part-2": {
-    "title": "Remote Management Best Practices (Part 2) - American Coin-Op",
-    "source": "Google News Search",
-    "published_at": "Thu, 02 Jul 2026 14:11:39 GMT",
-    "processed_at": "2026-07-03T09:55:44.591658",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.investopedia.com/strategic-client-management-how-to-build-stronger-financial-advisory-relationships-11969136": {
-    "title": "Strategic Client Management: How to Build Stronger Financial Advisory Relationships - Investopedia",
-    "source": "Google News Search",
-    "published_at": "Mon, 29 Jun 2026 17:53:45 GMT",
-    "processed_at": "2026-07-03T09:56:11.086835",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.finsmes.com/2026/06/ai-personalization-drives-retention-for-free-to-play-game-platforms.html": {
-    "title": "AI Personalization Drives Retention for Free-to-Play Game Platforms - FinSMEs",
-    "source": "Google News Search",
-    "published_at": "Tue, 30 Jun 2026 09:37:27 GMT",
-    "processed_at": "2026-07-03T09:56:22.013786",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/ai-email-personalization/": {
-    "title": "How AI Impacts Email Personalization in 2026",
-    "source": "neilpatel.com",
-    "published_at": "Thu, 02 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-07-03T09:56:22.868711",
-    "status": "posted",
-    "telegram_message_id": 70
-  },
-  "https://vwo.com/blog/how-vwo-approaches-sequential-testing/": {
-    "title": "Rigor You Can Read: How VWO Approaches Sequential Testing",
-    "source": "vwo.com",
-    "published_at": "Fri, 03 Jul 2026 06:40:30 +0000",
-    "processed_at": "2026-07-03T09:56:22.871083",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/why-experimentation-ai-belongs-inside-your-testing-platform/": {
-    "title": "Why Experimentation AI Belongs Inside Your Testing Platform",
-    "source": "vwo.com",
-    "published_at": "Thu, 02 Jul 2026 12:24:04 +0000",
-    "processed_at": "2026-07-03T09:56:22.873283",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://consumergoods.com/spanx-dermalogica-beauty-pilot-marketing-cx-ai-agents": {
-    "title": "Spanx, Dermalogica, AS Beauty Pilot Marketing, CX AI Agents - Consumer Goods Technology",
-    "source": "Google News Search",
-    "published_at": "Thu, 02 Jul 2026 15:29:35 GMT",
-    "processed_at": "2026-07-03T09:56:22.875468",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.proactiveinvestors.com/companies/news/1094861/loyalty-economics-what-investors-can-learn-from-reward-based-business-models-1094861.html": {
-    "title": "Loyalty Economics: What investors can learn from reward-based business models - Proactive financial news",
-    "source": "Google News Search",
-    "published_at": "Thu, 02 Jul 2026 08:19:00 GMT",
-    "processed_at": "2026-07-03T09:56:22.877659",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.yogonet.com/international/news/2026/07/02/125190-infingame-and-the-playa-highlight-growing-role-of-ai-recommendation-systems-in-igaming-retention-strategies": {
-    "title": "Infingame and The Playa highlight growing role of AI recommendation systems in iGaming retention strategies - Yogonet",
-    "source": "Google News Search",
-    "published_at": "Thu, 02 Jul 2026 17:53:12 GMT",
-    "processed_at": "2026-07-03T09:56:22.879856",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.morningstar.com/news/pr-newswire/20260701cl96606/discover-strength-opens-seven-new-locations-while-maintaining-industry-leading-customer-satisfaction-and-retention": {
-    "title": "Discover Strength Opens Seven New Locations While Maintaining Industry-Leading Customer Satisfaction and Retention - Morningstar",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 17:00:00 GMT",
-    "processed_at": "2026-07-03T09:56:22.882083",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://techbullion.com/the-future-of-saas-growth-through-ai-powered-digital-marketing/": {
-    "title": "The Future of SaaS Growth Through AI-Powered Digital Marketing - TechBullion",
-    "source": "Google News Search",
-    "published_at": "Thu, 02 Jul 2026 12:25:44 GMT",
-    "processed_at": "2026-07-03T09:56:22.884354",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html": {
     "title": "Fable Ban Reversed + Dr. Dana Suskind on Parenting With A.I. + Prediction Market Drama",
     "source": "rss.nytimes.com",
@@ -6228,6 +6108,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 01 Sep 2026 07:08:23 GMT",
     "processed_at": "2026-09-01T12:21:16.638861",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html": {
+    "title": "Get to Know Your Phone’s Built-In Emergency Kit",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 09:03:10 +0000",
+    "processed_at": "2026-09-02T11:55:41.751417",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html": {
+    "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 02:47:33 +0000",
+    "processed_at": "2026-09-02T11:55:41.823119",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html": {
+    "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 00:40:33 +0000",
+    "processed_at": "2026-09-02T11:55:41.897600",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.martechcube.com/ai-adoption-on-marketing-operations/": {
+    "title": "The Business Impact of AI Adoption on Marketing Operations - MarTech Cube",
+    "source": "Google News Search",
+    "published_at": "Fri, 28 Aug 2026 13:10:03 GMT",
+    "processed_at": "2026-09-02T11:56:01.737030",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wvumedicine.org/news/article/wvu-medicine/ruby-memorial-hospital/wvu-medicine-chief-nursing-executive-selected-for-becker-s-inaugural-nursing-advisory-board/": {
+    "title": "WVU Medicine chief nursing executive selected for Becker’s inaugural nursing advisory board - WVU Medicine",
+    "source": "Google News Search",
+    "published_at": "Fri, 28 Aug 2026 13:31:38 GMT",
+    "processed_at": "2026-09-02T11:56:17.246536",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://manchester.inklink.news/body-cam-pilot-program-among-strategies-to-address-ongoing-challenges-at-sununu-youth-center/": {
+    "title": "Body-cam pilot program among strategies to address ongoing challenges at Sununu Youth Center - Manchester Ink Link",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 01:18:18 GMT",
+    "processed_at": "2026-09-02T11:56:17.354615",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.law.com/americanlawyer/2026/09/01/analyst-insights-what-expanded-associate-survey-data-reveals-about-satisfaction-retention-and-the-partnership-pipeline-/": {
+    "title": "Analyst Insights: What Expanded Associate Survey Data Reveals About Satisfaction, Retention and the Partnership Pipeline - Law.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 14:00:00 GMT",
+    "processed_at": "2026-09-02T11:56:17.456421",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://medium.datadriveninvestor.com/millions-of-users-dont-make-a-neobank-profitable-here-s-the-unit-economics-that-actually-matter-d5b574b8b139": {
+    "title": "Millions of Users Don’t Make a Neobank Profitable. Here’s the Unit Economics That Actually Matter - DataDrivenInvestor",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 12:28:17 GMT",
+    "processed_at": "2026-09-02T11:56:34.438855",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://pulse2.com/garrison-growth-profile-dave-garrison-interview/amp/": {
+    "title": "Garrison Growth: Interview With Co-Founder Dave Garrison About The Buy-In Advantage And Employee Engagement - Pulse 2.0",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 11:22:13 GMT",
+    "processed_at": "2026-09-02T11:57:02.215854",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.benzinga.com/trading-ideas/movers/26/09/61547182/evercore-upgrades-duolingo-to-outperform-doubles-target-to-210-stock-rises": {
+    "title": "Evercore Upgrades Duolingo to Outperform, Doubles Target to $210 — Stock Rises - Benzinga",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 13:39:16 GMT",
+    "processed_at": "2026-09-02T11:57:15.782770",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shopify.com/enterprise/blog/ecommerce-revenue-growth": {
+    "title": "Ecommerce Revenue Growth: A Four-Lever Framework (2026) - shopify.com",
+    "source": "Google News Search",
+    "published_at": "Mon, 31 Aug 2026 10:32:08 GMT",
+    "processed_at": "2026-09-02T11:57:16.432316",
+    "status": "posted",
+    "telegram_message_id": 128
+  },
+  "https://sg.finance.yahoo.com/news/panera-makes-major-change-customers-023300725.html": {
+    "title": "Panera makes major change to how customers earn rewards - Yahoo Finance Singapore",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 02:33:00 GMT",
+    "processed_at": "2026-09-02T11:57:16.440969",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.lightwaveonline.com/home/news/55401933/cable-ones-ceo-says-a-bundled-mobile-wireline-strategy-will-close-the-fwa-market-gap-loss": {
+    "title": "Cable One’s CEO says a bundled mobile/wireline strategy will close the FWA market gap loss - Lightwave Online",
+    "source": "Google News Search",
+    "published_at": "Mon, 31 Aug 2026 19:28:21 GMT",
+    "processed_at": "2026-09-02T11:57:16.449409",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html": {
+    "title": "Anthropic changes data retention policy after pushback from customers - CNBC",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 18:01:36 GMT",
+    "processed_at": "2026-09-02T11:57:16.458247",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.moderntiredealer.com/retail/news/55402031/straightaway-tire-auto-hits-100-store-milestone": {
+    "title": "Straightaway Tire & Auto Hits 100-Store Milestone - Modern Tire Dealer",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 14:16:58 GMT",
+    "processed_at": "2026-09-02T11:57:16.466717",
     "status": "ignored",
     "telegram_message_id": null
   }
