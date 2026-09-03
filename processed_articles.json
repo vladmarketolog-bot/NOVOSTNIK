@@ -1,84 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html": {
-    "title": "Fable Ban Reversed + Dr. Dana Suskind on Parenting With A.I. + Prediction Market Drama",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 03 Jul 2026 11:00:03 +0000",
-    "processed_at": "2026-07-04T09:20:20.108403",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://dev.ua/en/news/u-boosters-shukaiut-head-of-marketing-1783075973": {
-    "title": "Boosters is looking for a Head of Marketing: you can get a $5,000 bonus for a recommendation - dev.ua",
-    "source": "Google News Search",
-    "published_at": "Fri, 03 Jul 2026 11:45:00 GMT",
-    "processed_at": "2026-07-04T09:20:20.271398",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://t.co/XW9hWvAPHQ": {
-    "title": "Women's Health Brand Guide: HRT, Weight Loss, Skin Care & Sexual Wellness - t.co",
-    "source": "Google News Search",
-    "published_at": "Fri, 03 Jul 2026 20:26:30 GMT",
-    "processed_at": "2026-07-04T09:20:35.430951",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cannabisbusinesstimes.com/vendor-news/news/15829193/89-of-dispensary-revenue-comes-from-loyalty-members-yet-most-never-activate-the-rewards-that-drive-repeat-sales": {
-    "title": "89% of Dispensary Revenue Comes From Loyalty Members, Yet Most Never Activate the Rewards That Drive Repeat Sales - Cannabis Business Times",
-    "source": "Google News Search",
-    "published_at": "Thu, 02 Jul 2026 21:45:49 GMT",
-    "processed_at": "2026-07-04T09:20:47.880985",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.charlotteobserver.com/news/business/article316310941.html": {
-    "title": "The role customer relationship management plays in small business growth and efficiency - Charlotte Observer",
-    "source": "Google News Search",
-    "published_at": "Mon, 29 Jun 2026 13:52:02 GMT",
-    "processed_at": "2026-07-04T09:21:16.363012",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.techtarget.com/searchenterpriseai/tip/Machine-learning-challenges-facing-businesses": {
-    "title": "7 Machine Learning Challenges Facing Businesses - TechTarget",
-    "source": "Google News Search",
-    "published_at": "Tue, 30 Jun 2026 07:00:00 GMT",
-    "processed_at": "2026-07-04T09:21:35.181019",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/blog/ecommerce-growth": {
-    "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 19:04:45 GMT",
-    "processed_at": "2026-07-04T09:21:35.737224",
-    "status": "posted",
-    "telegram_message_id": 71
-  },
-  "https://www.proactiveinvestors.co.uk/companies/news/1094932/the-economics-of-customer-acquisition-in-i-gaming-1094932.html": {
-    "title": "The economics of customer acquisition in i-gaming - Proactive Investors",
-    "source": "Google News Search",
-    "published_at": "Fri, 03 Jul 2026 15:29:00 GMT",
-    "processed_at": "2026-07-04T09:21:35.739967",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.verizon.com/about/news/boutique-optician-grows-revenue-digital-ready": {
-    "title": "Boutique optician sees revenue grow 20% with smarter business moves - Verizon",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 12:11:55 GMT",
-    "processed_at": "2026-07-04T09:21:35.742360",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.sap.com/2026/07/advanced-success-plan-for-sap-cx-offers-utilities/": {
-    "title": "Customer Retention Over Acquisition: What the Advanced Success Plan for SAP CX Offers Utilities Customers - SAP News Center",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 11:26:44 GMT",
-    "processed_at": "2026-07-04T09:21:35.744694",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html": {
     "title": "How Meta’s Threads Became as Popular as X",
     "source": "rss.nytimes.com",
@@ -6228,6 +6148,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 01 Sep 2026 14:16:58 GMT",
     "processed_at": "2026-09-02T11:57:16.466717",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html": {
+    "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 20:50:31 +0000",
+    "processed_at": "2026-09-03T11:54:31.573198",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html": {
+    "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 18:48:37 +0000",
+    "processed_at": "2026-09-03T11:54:31.648203",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html": {
+    "title": "Uber Lays Off 10% of Employees in Sweeping Reorganization",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 17:47:50 +0000",
+    "processed_at": "2026-09-03T11:54:31.722399",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html": {
+    "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 03 Sep 2026 09:02:51 +0000",
+    "processed_at": "2026-09-03T11:54:31.821365",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html": {
+    "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 20:56:22 +0000",
+    "processed_at": "2026-09-03T11:54:32.073409",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html": {
+    "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 02 Sep 2026 17:29:04 +0000",
+    "processed_at": "2026-09-03T11:54:32.153109",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/meta-description-magic/": {
+    "title": "Meta Description Best Practices for SEO: Tips and Examples for 2026",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 02 Sep 2026 19:00:00 +0000",
+    "processed_at": "2026-09-03T11:54:32.314780",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.roofingcontractor.com/articles/102642-s-5-to-present-education-new-snow-retention-solution-at-metalcon": {
+    "title": "S-5! to Present Education, New Snow Retention Solution at METALCON - Roofing Contractor",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 11:00:00 GMT",
+    "processed_at": "2026-09-03T11:59:06.192170",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.costar.com/article/755095528/the-evolution-of-human-resources-in-the-hotel-industry": {
+    "title": "News | The evolution of human resources in the hotel industry - CoStar",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 13:06:41 GMT",
+    "processed_at": "2026-09-03T11:59:06.623467",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hrdive.com/news/schedule-flexibility-may-be-key-in-keeping-mothers-in-the-workforce/829373/": {
+    "title": "Schedule flexibility may be key in keeping mothers in the workforce - HR Dive",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 14:38:27 GMT",
+    "processed_at": "2026-09-03T11:59:18.254958",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mvskokemedia.com/this-journey-begins-helps-cmn-students-find-community-build-connections/": {
+    "title": "‘This Journey Begins’ helps CMN students find community, build connections - MVSKOKE Media",
+    "source": "Google News Search",
+    "published_at": "Mon, 31 Aug 2026 19:07:24 GMT",
+    "processed_at": "2026-09-03T11:59:56.405304",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cbiz.com/insights/article/consumer-and-industrial-products-leaders-face-a-workforce-reality-check": {
+    "title": "Consumer and Industrial Products Leaders Face a Workforce Reality Check - CBIZ",
+    "source": "Google News Search",
+    "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "processed_at": "2026-09-03T11:59:56.702163",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://nerdbot.com/2026/09/02/brand-loyalty-vs-customer-loyalty-everything-you-need-to-know-in-2026/": {
+    "title": "Brand Loyalty vs Customer Loyalty: Everything You Need to Know in 2026 - nerdbot",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 12:24:14 GMT",
+    "processed_at": "2026-09-03T11:59:57.325568",
+    "status": "posted",
+    "telegram_message_id": 129
+  },
+  "https://www.marketingbrew.com/issues/the-in-box-crowd": {
+    "title": "Marketing Brew - Marketing Brew",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 18:38:59 GMT",
+    "processed_at": "2026-09-03T11:59:57.332464",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bizcommunity.com/article/loyalty-is-more-than-points-and-prizes-why-sa-businesses-need-to-rethink-customer-retention-742422a": {
+    "title": "Loyalty is more than points and prizes: Why SA businesses need to rethink customer retention - Bizcommunity",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 09:23:08 GMT",
+    "processed_at": "2026-09-03T11:59:57.339145",
     "status": "ignored",
     "telegram_message_id": null
   }
