@@ -1,84 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html": {
-    "title": "How Meta’s Threads Became as Popular as X",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 05 Jul 2026 09:01:41 +0000",
-    "processed_at": "2026-07-05T09:40:23.893947",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://bridgingandcommercial.co.uk/glenhawk-delivers-31m-residential-marketing-loan-for-essex-private-estate": {
-    "title": "Glenhawk delivers £3.1m residential marketing loan for Essex private estate - Bridging & Commercial",
-    "source": "Google News Search",
-    "published_at": "Tue, 30 Jun 2026 04:40:00 GMT",
-    "processed_at": "2026-07-05T09:40:29.012814",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://bridgingandcommercial.co.uk/funding-365-introduces-75-ltv-net-for-refurbishment-loans": {
-    "title": "Funding 365 introduces 75% LTV net for refurbishment loans - Bridging & Commercial",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 07:40:00 GMT",
-    "processed_at": "2026-07-05T09:40:33.566194",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wfin.com/agnet/aem-members-building-workforce-solutions-from-the-classroom-to-the-career-path/": {
-    "title": "AEM members building workforce solutions from the classroom to the career path - WFIN",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 19:55:07 GMT",
-    "processed_at": "2026-07-05T09:40:45.067072",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://jbhe.com/jbhejobs/city-tech-president/": {
-    "title": "President - The Journal of Blacks in Higher Education",
-    "source": "Google News Search",
-    "published_at": "Tue, 30 Jun 2026 15:25:23 GMT",
-    "processed_at": "2026-07-05T09:40:48.822475",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/hk-en/blog/ecommerce-growth": {
-    "title": "Ecommerce Growth Guide: Strategies for 2026 - Shopify",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 19:04:45 GMT",
-    "processed_at": "2026-07-05T09:41:13.997310",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/3035134/neurocrine-biosciences-and-ryanair-have-been-highlighted-as-zacks-bull-and-bear-of-the-day/": {
-    "title": "Neurocrine Biosciences and Ryanair have been highlighted as Zacks Bull and Bear of the Day - The Globe and Mail",
-    "source": "Google News Search",
-    "published_at": "Mon, 29 Jun 2026 14:40:00 GMT",
-    "processed_at": "2026-07-05T09:41:14.938013",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://finance.yahoo.com/media-advertising/articles/five-belows-digital-marketing-investments-143000413.html": {
-    "title": "Five Below's Digital Marketing Investments Boost Customer Reach - Yahoo Finance",
-    "source": "Google News Search",
-    "published_at": "Wed, 01 Jul 2026 14:30:00 GMT",
-    "processed_at": "2026-07-05T09:41:15.608337",
-    "status": "posted",
-    "telegram_message_id": 72
-  },
-  "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/42-of-issuers-say-fraud-and-disputes-are-driving-up-costs/": {
-    "title": "42% of Issuers Say Fraud and Disputes Are Driving Up Costs - PYMNTS.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 02 Jul 2026 08:01:44 GMT",
-    "processed_at": "2026-07-05T09:41:15.610948",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.salontoday.com/articles/the-power-of-technology-5-questions-for-jerry-nettuno": {
-    "title": "The Power of Technology: 5 Questions for Jerry Nettuno - Salon Today",
-    "source": "Google News Search",
-    "published_at": "Fri, 03 Jul 2026 15:34:01 GMT",
-    "processed_at": "2026-07-05T09:41:15.613372",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.financialreporter.co.uk/gb-bank-cuts-65-ltv-buy-to-let-rates-by-030.html": {
     "title": "GB Bank cuts 65% LTV buy-to-let rates by 0.30% - Financial Reporter",
     "source": "Google News Search",
@@ -6268,6 +6188,126 @@
     "source": "Google News Search",
     "published_at": "Wed, 02 Sep 2026 09:23:08 GMT",
     "processed_at": "2026-09-03T11:59:57.339145",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html": {
+    "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 03 Sep 2026 18:38:58 +0000",
+    "processed_at": "2026-09-04T11:57:18.527723",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html": {
+    "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 03 Sep 2026 15:04:40 +0000",
+    "processed_at": "2026-09-04T11:57:18.638609",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html": {
+    "title": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 04 Sep 2026 11:00:03 +0000",
+    "processed_at": "2026-09-04T11:57:18.768428",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html": {
+    "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 04 Sep 2026 00:06:04 +0000",
+    "processed_at": "2026-09-04T11:57:18.901622",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html": {
+    "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 04 Sep 2026 03:00:16 +0000",
+    "processed_at": "2026-09-04T11:57:19.038060",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://coloradobiz.com/vasa-fitness-names-liz-crisafi-chief-marketing-officer/": {
+    "title": "VASA Fitness names Liz Crisafi chief marketing officer in colorado - ColoradoBiz",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 22:00:55 GMT",
+    "processed_at": "2026-09-04T11:58:11.265333",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://roastbrief.us/bray-leino-and-krow-group-come-together-to-create-a-stronger-integrated-agency/": {
+    "title": "Bray Leino and krow Group come together to create a stronger integrated agency - Roastbrief US",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 18:19:37 GMT",
+    "processed_at": "2026-09-04T11:58:33.481983",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://m.investing.com/news/transcripts/earnings-call-transcript-torrid-beats-on-q2-eps-shares-jump-after-hours-93CH-4888597?ampMode=1": {
+    "title": "Earnings call transcript: Torrid beats on Q2 EPS, shares jump after hours - Investing.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 03 Sep 2026 21:18:00 GMT",
+    "processed_at": "2026-09-04T11:58:53.362688",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1939991": {
+    "title": "If you build it, they will stay! Sustaining evidence-based practices for the treatment of substance use disorders through investment in workforce retention - Frontiers",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 05:41:12 GMT",
+    "processed_at": "2026-09-04T11:59:06.312708",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.benefitsandpensionsmonitor.com/benefits/hr/human-connection-beats-perks-as-a-retention-strategy-randstad/394084": {
+    "title": "Human connection beats perks as a retention strategy: Randstad - Benefits and Pensions Monitor",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 12:34:59 GMT",
+    "processed_at": "2026-09-04T11:59:18.474574",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.usu.edu/today/story/usu-uwlp-releases-new-report-on-educational-attainment-of-utah-women": {
+    "title": "USU UWLP Releases New Report on Educational Attainment of Utah Women - Utah State University",
+    "source": "Google News Search",
+    "published_at": "Thu, 03 Sep 2026 19:01:18 GMT",
+    "processed_at": "2026-09-04T11:59:31.053345",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mediapost.com/publications/article/415098/albertsons-media-unveils-lifetime-value-metric.html": {
+    "title": "Albertsons Media Unveils 'Lifetime Value' Metric 05/15/2026 - MediaPost",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 18:34:16 GMT",
+    "processed_at": "2026-09-04T11:59:31.612310",
+    "status": "posted",
+    "telegram_message_id": 130
+  },
+  "https://longbridge.com/en/topics/43717712": {
+    "title": "Rising expectations for Stock Connect, re-evaluating DeepGlint's AI business - Longbridge",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 13:46:30 GMT",
+    "processed_at": "2026-09-04T11:59:31.619581",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.socialsamosa.com/festive-marketing-camp/new-age-brands-building-selling-scaling-festive-season-12488638": {
+    "title": "New-age brands on building, selling and scaling this festive season - Social Samosa",
+    "source": "Google News Search",
+    "published_at": "Thu, 03 Sep 2026 16:05:31 GMT",
+    "processed_at": "2026-09-04T11:59:31.625130",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.qsrweb.com/blogs/loyalty-programs-have-become-new-front-line-of-qsr-fraud/": {
+    "title": "Loyalty programs have become new front line of QSR fraud - qsrweb.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 28 Aug 2026 12:00:00 GMT",
+    "processed_at": "2026-09-04T11:59:31.630520",
     "status": "ignored",
     "telegram_message_id": null
   }
