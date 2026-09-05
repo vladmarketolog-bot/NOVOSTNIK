@@ -6310,5 +6310,125 @@
     "processed_at": "2026-09-04T11:59:31.630520",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html": {
+    "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 05 Sep 2026 09:03:10 +0000",
+    "processed_at": "2026-09-05T11:06:21.393485",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html": {
+    "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 05 Sep 2026 09:02:13 +0000",
+    "processed_at": "2026-09-05T11:06:21.481124",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html": {
+    "title": "The Generation That’s Never Had to Say ‘Hello?’",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 05 Sep 2026 09:00:06 +0000",
+    "processed_at": "2026-09-05T11:06:21.544965",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html": {
+    "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 05 Sep 2026 00:18:57 +0000",
+    "processed_at": "2026-09-05T11:06:21.638954",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html": {
+    "title": "F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 04 Sep 2026 21:11:56 +0000",
+    "processed_at": "2026-09-05T11:06:21.715398",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html": {
+    "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 04 Sep 2026 17:19:30 +0000",
+    "processed_at": "2026-09-05T11:06:21.803924",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/why-meta-tags-are-so-important/": {
+    "title": "Meta Tags for SEO: What They Are, Why They Matter, and How to Use Them",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 04 Sep 2026 16:00:00 +0000",
+    "processed_at": "2026-09-05T11:06:44.117643",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://chainwire.org/2026/09/04/btcloan-launches-global-bitcoin-backed-lending-marketplace/": {
+    "title": "BTCLOAN Launches Global Bitcoin-Backed Lending Marketplace - Chainwire",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 12:05:25 GMT",
+    "processed_at": "2026-09-05T11:07:08.505409",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://technotrenz.com/stats/marketing-performance-statistics/": {
+    "title": "Marketing Performance Statistics By KPIs And Trends (2026) - technotrenz.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 03 Sep 2026 05:43:08 GMT",
+    "processed_at": "2026-09-05T11:07:08.705776",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.barchart.com/press-releases/4451520/madison-media-services-expands-into-business-growth-systems-consulting": {
+    "title": "Madison Media Services Expands Into Business Growth & Systems Consulting - Barchart.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 18:40:04 GMT",
+    "processed_at": "2026-09-05T11:07:08.951717",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.einnews.com/pr_news/939033477/customer-success-management-market-to-surge-at-20-15-cagr-anticipated-to-reach-usd-14-98-billion-by-2035": {
+    "title": "Customer Success Management Market to Surge at 20.15% CAGR, Anticipated to Reach USD 14.98 Billion by 2035 - einnews.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 14:02:00 GMT",
+    "processed_at": "2026-09-05T11:07:09.106340",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cruisetradenews.com/latest-news/advantage-to-host-first-ever-marketing-summit": {
+    "title": "Advantage to host first-ever Marketing Summit - Cruise Trade News",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 11:43:38 GMT",
+    "processed_at": "2026-09-05T11:07:15.691318",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.martechcube.com/martech-interview-sarah-richardson/": {
+    "title": "MarTech Interview with Sarah Richardson, CEO of Australian Loyalty Association - MarTech Cube",
+    "source": "Google News Search",
+    "published_at": "Tue, 01 Sep 2026 13:03:47 GMT",
+    "processed_at": "2026-09-05T11:07:15.819315",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://lodgingmagazine.com/leading-for-retention-strategies-that-strengthen-workforce-stability-and-hotel-performance/": {
+    "title": "Leading for Retention: Strategies That Strengthen Workforce Stability and Hotel Performance - LODGING Magazine",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 14:36:15 GMT",
+    "processed_at": "2026-09-05T11:07:15.950283",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.verisk.com/blog/the-future-of-auto-insurance-retention-see-the-blind-spots-with-ai/": {
+    "title": "The Future of Auto Insurance Retention: See the Blind Spots With AI - Verisk",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 17:23:35 GMT",
+    "processed_at": "2026-09-05T11:07:26.552752",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
