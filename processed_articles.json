@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html": {
-    "title": "A Top OpenAI Executive, Fidji Simo, Steps Down",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 10 Jul 2026 00:38:03 +0000",
-    "processed_at": "2026-07-10T10:21:13.000664",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html": {
-    "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 09 Jul 2026 18:11:41 +0000",
-    "processed_at": "2026-07-10T10:21:13.076502",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html": {
-    "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 09 Jul 2026 19:34:23 +0000",
-    "processed_at": "2026-07-10T10:21:13.180307",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html": {
-    "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 09 Jul 2026 18:55:41 +0000",
-    "processed_at": "2026-07-10T10:21:13.278170",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html": {
-    "title": "John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 09 Jul 2026 21:07:27 +0000",
-    "processed_at": "2026-07-10T10:21:13.380679",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html": {
-    "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 10 Jul 2026 01:01:55 +0000",
-    "processed_at": "2026-07-10T10:21:13.475147",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/introducing-commerce-platform/": {
-    "title": "Introducing Commerce: One Platform for Search, Recommendations, and Merchandising",
-    "source": "vwo.com",
-    "published_at": "Thu, 09 Jul 2026 12:59:07 +0000",
-    "processed_at": "2026-07-10T10:22:53.068225",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/weebet-announces-partnership-with-optimove-that-elevates-crm-and-marketing-strategies-for-brazilian-operators/2381959/amp": {
-    "title": "Weebet Announces Partnership with Optimove that Elevates CRM and Marketing Strategies for Brazilian Operators - The Manila Times",
-    "source": "Google News Search",
-    "published_at": "Thu, 09 Jul 2026 17:52:09 GMT",
-    "processed_at": "2026-07-10T10:23:00.853584",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://igamingbusiness.com/marketing-affiliates/the-advertising-paradox-brand-becomes-more-important-than-ever/": {
-    "title": "The advertising paradox: Brand becomes more important than ever - igamingbusiness.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 08 Jul 2026 11:25:10 GMT",
-    "processed_at": "2026-07-10T10:23:00.981911",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.practicalecommerce.com/ai-marketing-looks-familiar": {
-    "title": "AI Marketing Looks Familiar - Practical Ecommerce",
-    "source": "Google News Search",
-    "published_at": "Thu, 09 Jul 2026 12:23:29 GMT",
-    "processed_at": "2026-07-10T10:23:01.222807",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://natlawreview.com/press-releases/bright-creation-marks-seven-years-supporting-digital-growth-uk-small": {
-    "title": "Bright Creation Marks Seven Years of Supporting Digital Growth for UK Small Businesses - The National Law Review",
-    "source": "Google News Search",
-    "published_at": "Fri, 10 Jul 2026 07:09:53 GMT",
-    "processed_at": "2026-07-10T10:23:01.305117",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.seyfarth.com/news-insights/washingtons-noncompete-ban-is-coming-health-care-employers-should-start-panicking-just-a-little.html": {
-    "title": "Washington’s Noncompete Ban Is Coming. Health care Employers Should Start Panicking (Just a Little). - Seyfarth Shaw",
-    "source": "Google News Search",
-    "published_at": "Fri, 10 Jul 2026 05:13:26 GMT",
-    "processed_at": "2026-07-10T10:23:01.434001",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.pinsentmasons.com/out-law/news/uk-employers-rethink-retention-strategies-to-avoid-retirement-cliff": {
-    "title": "UK employers rethink retention strategies to avoid ‘retirement cliff’ - Pinsent Masons",
-    "source": "Google News Search",
-    "published_at": "Thu, 09 Jul 2026 18:13:02 GMT",
-    "processed_at": "2026-07-10T10:23:02.842215",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://eliteagent.com/why-good-agents-leave-and-how-smart-agency-leaders-build-teams-that-stay/": {
-    "title": "The leadership playbook that keeps top agents from walking out the door - Elite Agent",
-    "source": "Google News Search",
-    "published_at": "Fri, 10 Jul 2026 01:51:19 GMT",
-    "processed_at": "2026-07-10T10:23:03.862985",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/best-ab-testing-tools-for-e-commerce/": {
-    "title": "7 Best A/B Testing Tools for eCommerce Businesses in 2026",
-    "source": "vwo.com",
-    "published_at": "Fri, 10 Jul 2026 07:25:00 +0000",
-    "processed_at": "2026-07-10T10:23:04.964519",
-    "status": "posted",
-    "telegram_message_id": 77
-  },
   "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html": {
     "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
     "source": "rss.nytimes.com",
@@ -6300,6 +6180,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 01 Sep 2026 19:22:00 GMT",
     "processed_at": "2026-09-08T11:59:15.968418",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html": {
+    "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 08 Sep 2026 21:02:03 +0000",
+    "processed_at": "2026-09-09T12:07:37.955382",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html": {
+    "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 08 Sep 2026 19:00:03 +0000",
+    "processed_at": "2026-09-09T12:07:38.042743",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html": {
+    "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 09 Sep 2026 09:03:34 +0000",
+    "processed_at": "2026-09-09T12:07:38.126960",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html": {
+    "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 09 Sep 2026 09:02:45 +0000",
+    "processed_at": "2026-09-09T12:07:38.205470",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4137234:0-gddy-airo-s-rapid-adoption-and-ai-driven-efficiencies-are-fueling-growth-retention-and-margin-expansion/": {
+    "title": "GDDY: Airo's rapid adoption and AI-driven efficiencies are fueling growth, retention, and margin expansion - TradingView",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 17:57:32 GMT",
+    "processed_at": "2026-09-09T12:07:38.465468",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://seekingalpha.com/article/4943831-hellofresh-needs-a-pivot-fast": {
+    "title": "HelloFresh Needs A Pivot, Fast (OTCMKTS:HLFFF) - Seeking Alpha",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 14:20:21 GMT",
+    "processed_at": "2026-09-09T12:08:23.879578",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://simplywall.st/stocks/us/retail/nasdaq-eye/national-vision-holdings/news/does-eyeglass-world-rebrand-change-the-bull-case-for-nationa/amp": {
+    "title": "Does Eyeglass World Rebrand Change The Bull Case For National Vision Holdings Stock? - simplywall.st",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 06:31:17 GMT",
+    "processed_at": "2026-09-09T12:08:24.036173",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.theaustralian.com.au/sponsored-content/the-new-operating-model-for-marketing-has-arrived/news-story/44b89dfc57147c1481eac004f9858117": {
+    "title": "The new AI operating model for marketing - The Australian",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 11:35:00 GMT",
+    "processed_at": "2026-09-09T12:08:24.207019",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://m.za.investing.com/news/stock-market-news/earnings-call-transcript-torrid-beats-on-q2-eps-shares-jump-after-hours-93CH-4453897?ampMode=1": {
+    "title": "Earnings call transcript: Torrid beats on Q2 EPS, shares jump after hours By Investing.com - Investing.com South Africa",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 00:11:59 GMT",
+    "processed_at": "2026-09-09T12:08:24.263710",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bennett.edu/news/bennett-college-appoints-ann-brown-as-senior-executive-director-of-student-experience/": {
+    "title": "Bennett College Appoints Ann Brown as Senior Executive Director of Student Experience – NEWS - Bennett College",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 20:31:43 GMT",
+    "processed_at": "2026-09-09T12:08:39.678049",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.medscape.com/viewarticle/retaining-medical-talent-why-do-physicians-leave-2026a1000xam": {
+    "title": "Retaining Medical Talent: Why Do Physicians Leave? - medscape.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 12:42:52 GMT",
+    "processed_at": "2026-09-09T12:08:39.737441",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.firerescue1.com/recruitment/articles/doing-more-with-less-tips-for-agencies-facing-staffing-shortages-dTPUJiOsC7sBwdbM/": {
+    "title": "Doing more with less: Tips for agencies facing staffing shortages - FireRescue1",
+    "source": "Google News Search",
+    "published_at": "Thu, 03 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-09T12:08:51.168625",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.drugtopics.com/view/digital-experience-crucial-for-pharmacies-to-drive-patient-retention": {
+    "title": "Digital Experience Crucial for Pharmacies to Drive Patient Retention - Drug Topics",
+    "source": "Google News Search",
+    "published_at": "Wed, 02 Sep 2026 18:23:24 GMT",
+    "processed_at": "2026-09-09T12:08:51.301482",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.business.com/articles/5-reasons-why-product-quality-matters/": {
+    "title": "6 Reasons Why Product Quality Matters - Business.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 04 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-09T12:08:51.934355",
+    "status": "posted",
+    "telegram_message_id": 134
+  },
+  "https://brandequity.economictimes.indiatimes.com/news/media/formula-one-gives-us-an-opportunity-to-connect-with-a-highly-engaged-audience-beyond-traditional-auto-marketing-gaurav-sinha-audi/133911067": {
+    "title": "Formula One gives us an opportunity to connect with a highly engaged audience beyond traditional auto market.. - ET BrandEquity",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 06:20:41 GMT",
+    "processed_at": "2026-09-09T12:08:51.942848",
     "status": "ignored",
     "telegram_message_id": null
   }
