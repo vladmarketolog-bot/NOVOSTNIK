@@ -1,108 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html": {
-    "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 10 Jul 2026 23:23:26 +0000",
-    "processed_at": "2026-07-11T08:44:45.362872",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html": {
-    "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 11 Jul 2026 02:03:34 +0000",
-    "processed_at": "2026-07-11T08:44:45.524243",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html": {
-    "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 10 Jul 2026 18:20:39 +0000",
-    "processed_at": "2026-07-11T08:44:45.655999",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html": {
-    "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 10 Jul 2026 11:00:04 +0000",
-    "processed_at": "2026-07-11T08:44:45.783095",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html": {
-    "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 10 Jul 2026 14:10:45 +0000",
-    "processed_at": "2026-07-11T08:44:45.903894",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/franchise-ppc/": {
-    "title": "PPC / SEM Tips for Franchises: A Guide for Google Ads",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 10 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-07-11T08:44:45.974450",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://tech.einnews.com/pr_news/925676488/bright-creation-marks-seven-years-of-supporting-digital-growth-for-uk-small-businesses": {
-    "title": "Bright Creation Marks Seven Years of Supporting Digital Growth for UK Small Businesses - EIN News",
-    "source": "Google News Search",
-    "published_at": "Fri, 10 Jul 2026 05:48:30 GMT",
-    "processed_at": "2026-07-11T08:44:46.368398",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.whio.com/contributor/companies-are-making/DBWCX37PIQ4D7LHCWBXFF5BQ5M/": {
-    "title": "Companies are making employee retention a top priority as workers rethink job loyalty - WHIO TV",
-    "source": "Google News Search",
-    "published_at": "Thu, 09 Jul 2026 14:44:15 GMT",
-    "processed_at": "2026-07-11T08:44:56.691243",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.msn.com/en-us/news/insight/netflix-weighs-always-on-channels-and-bundles-amid-engagement-dip/gm-GMC5939759?gemSnapshotKey=GMC5939759-snapshot-1&uxmode=ruby": {
-    "title": "Netflix weighs always-on channels and bundles amid engagement dip - MSN",
-    "source": "Google News Search",
-    "published_at": "Fri, 10 Jul 2026 18:04:12 GMT",
-    "processed_at": "2026-07-11T08:44:56.848387",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.enterprisetimes.co.uk/2026/07/10/gainsight-strengthens-ai-native-customer-retention-team-with-three-executive-appointments/": {
-    "title": "Gainsight strengthens AI-Native customer retention team with three executive appointments - - Enterprise Times",
-    "source": "Google News Search",
-    "published_at": "Fri, 10 Jul 2026 15:19:38 GMT",
-    "processed_at": "2026-07-11T08:45:38.984687",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/marketplace/app-analytics/mobile-measurement-partners/": {
-    "title": "Top Mobile Measurement Partners (MMP) (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Mon, 06 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-11T08:45:54.872025",
-    "status": "posted",
-    "telegram_message_id": 78
-  },
-  "https://nerdbot.com/2026/07/09/ecommerce-tips-to-scale-your-business/": {
-    "title": "Ecommerce Tips for Success: 6 Ways to Scale in 2026 - nerdbot",
-    "source": "Google News Search",
-    "published_at": "Thu, 09 Jul 2026 16:42:41 GMT",
-    "processed_at": "2026-07-11T08:45:54.875636",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/weebet-announces-partnership-with-optimove-that-elevates-crm-and-marketing-strategies-for-brazilian-operators/2381959": {
-    "title": "Weebet Announces Partnership with Optimove that Elevates CRM and Marketing Strategies for Brazilian Operators - The Manila Times",
-    "source": "Google News Search",
-    "published_at": "Thu, 09 Jul 2026 17:52:09 GMT",
-    "processed_at": "2026-07-11T08:45:54.879076",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://weddings.lavenderhotels.co.uk/mcdonalds-bts-sequel-proves-fast-food-marketing-ideas": {
     "title": "Why the McDonalds BTS Sequel Proves Fast Food Marketing is Out of Ideas - Lavender Hotel",
     "source": "Google News Search",
@@ -6300,6 +6196,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 08 Sep 2026 06:20:41 GMT",
     "processed_at": "2026-09-09T12:08:51.942848",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html": {
+    "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 09 Sep 2026 22:04:28 +0000",
+    "processed_at": "2026-09-10T12:01:50.000550",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html": {
+    "title": "Foldable Phones Are Unpopular. Why Is Apple Selling One?",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 10 Sep 2026 09:04:42 +0000",
+    "processed_at": "2026-09-10T12:01:50.083622",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html": {
+    "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 10 Sep 2026 00:12:18 +0000",
+    "processed_at": "2026-09-10T12:01:50.175035",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3695961:0-macbee-planet-q1-revenue-fell-3-8-year-over-year-with-profit-down-and-a-key-subsidiary-sale-pending/": {
+    "title": "Macbee Planet: Q1 revenue fell 3.8% year-over-year, with profit down and a key subsidiary sale pending - tradingview.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 10 Sep 2026 06:31:00 GMT",
+    "processed_at": "2026-09-10T12:02:27.871067",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.financemagnates.com/forex/ninjatrader-brings-ai-and-mcp-to-retail-futures-trading/": {
+    "title": "NinjaTrader Brings AI and MCP to Retail Futures Trading - Finance Magnates",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 15:16:05 GMT",
+    "processed_at": "2026-09-10T12:02:48.611543",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.financemagnates.com/forex/brokers/xtb-takes-cev-champions-league-title-sponsorship-for-two-seasons/": {
+    "title": "XTB Takes CEV Champions League Title Sponsorship for Two Seasons - Finance Magnates",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 06:16:01 GMT",
+    "processed_at": "2026-09-10T12:02:49.193398",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tipranks.com/news/company-announcements/macbee-planet-posts-solid-q1-and-unveils-management-and-group-overhaul": {
+    "title": "Macbee Planet Posts Solid Q1 and Unveils Management and Group Overhaul - tipranks.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 10 Sep 2026 07:21:26 GMT",
+    "processed_at": "2026-09-10T12:02:49.238783",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tipranks.com/news/company-announcements/macbee-planet-to-divest-all-ads-subsidiary-in-strategic-realignment": {
+    "title": "Macbee Planet to Divest All Ads Subsidiary in Strategic Realignment - tipranks.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 10 Sep 2026 07:15:49 GMT",
+    "processed_at": "2026-09-10T12:02:49.279756",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://stthomassource.com/content/2026/09/08/business-matters-small-business-secret-weapon-customer-loyalty/": {
+    "title": "Business Matters: Small Business Secret Weapon: Customer Loyalty - St. Thomas Source",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 19:47:56 GMT",
+    "processed_at": "2026-09-10T12:02:49.359914",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260909la42638/scott-cederbaum-joins-sorenson-communications-as-head-of-marketing": {
+    "title": "SCOTT CEDERBAUM JOINS SORENSON COMMUNICATIONS AS HEAD OF MARKETING - Morningstar",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 09:55:00 GMT",
+    "processed_at": "2026-09-10T12:02:54.198061",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.globalsources.com/sourcing-digest/reconnecting-growth-with-customer-lifetime-value-in-the-digital-age/": {
+    "title": "Businesses are shifting focus from monthly sales to customer lifetime value (CLV) as the core growth metric - Global Sources",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 10:42:24 GMT",
+    "processed_at": "2026-09-10T12:02:54.542401",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://themediaonline.co.za/2026/09/cmo-bootcamp-five-drills-to-get-fit-agile-and-future-ready/": {
+    "title": "CMO bootcamp. Five drills to get fit, agile and future-ready - The Media Online",
+    "source": "Google News Search",
+    "published_at": "Thu, 10 Sep 2026 05:16:36 GMT",
+    "processed_at": "2026-09-10T12:03:04.865047",
+    "status": "posted",
+    "telegram_message_id": 135
+  },
+  "https://www.financemagnates.com/forex/traders-ltv-is-not-just-a-marketing-issue-but-an-ongoing-development-process/": {
+    "title": "Fear of Loss Can Stop Traders from Developing, and That Can Hurt Broker LTV - Finance Magnates",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 13:00:00 GMT",
+    "processed_at": "2026-09-10T12:03:04.873962",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://stockstory.org/us/stocks/nasdaq/brze/news/earnings/braze-nasdaqbrze-surprises-with-q2-cy2026-sales-but-stock-drops-121percent": {
+    "title": "Braze (NASDAQ:BRZE) Surprises With Q2 CY2026 Sales But Stock Drops 12.1% - StockStory",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 21:33:25 GMT",
+    "processed_at": "2026-09-10T12:03:04.882713",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/educational-marketing/": {
+    "title": "Education Marketing: A Complete Guide for 2026",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 09 Sep 2026 16:00:00 +0000",
+    "processed_at": "2026-09-10T12:03:04.891451",
     "status": "ignored",
     "telegram_message_id": null
   }
