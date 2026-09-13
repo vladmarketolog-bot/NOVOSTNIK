@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html": {
-    "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 14 Jul 2026 03:39:53 +0000",
-    "processed_at": "2026-07-14T09:02:22.456084",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html": {
-    "title": "How a Teacher Revived Backyard Baseball",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 13 Jul 2026 16:28:38 +0000",
-    "processed_at": "2026-07-14T09:02:22.543895",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html": {
-    "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 13 Jul 2026 15:00:31 +0000",
-    "processed_at": "2026-07-14T09:02:22.636186",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/seo-website-audit/": {
-    "title": "How to Do an SEO Audit: A Step-by-Step Website Audit Guide",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 13 Jul 2026 19:00:00 +0000",
-    "processed_at": "2026-07-14T09:02:22.682250",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://t.co/8JZ77oDNHs": {
-    "title": "Greenlight is hiring for data analyst ii... Jobs - Jobfound - t.co",
-    "source": "Google News Search",
-    "published_at": "Sun, 12 Jul 2026 07:25:02 GMT",
-    "processed_at": "2026-07-14T09:03:08.183948",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://csnews.com/webinar-how-master-local-store-marketing": {
-    "title": "WEBINAR: How to Master Local Store Marketing - Convenience Store News",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 15:00:00 GMT",
-    "processed_at": "2026-07-14T09:03:08.235952",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.24-7pressrelease.com/press-release/536762/garrett-kappel-marketing-expands-customer-engagement-and-brand-positioning-services-in-illinois-market": {
-    "title": "Garrett Kappel Marketing Expands Customer Engagement and Brand Positioning Services in Illinois Market - 24-7 Press Release Newswire",
-    "source": "Google News Search",
-    "published_at": "Tue, 14 Jul 2026 07:02:28 GMT",
-    "processed_at": "2026-07-14T09:03:16.124351",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.autonews.com/sponsored/publishing-partners/an-why-connected-dealer-tech-stacks-are-future-of-automotive-retail/": {
-    "title": "Why connected dealer tech stacks are the future of automotive retail - Automotive News",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 13:00:00 GMT",
-    "processed_at": "2026-07-14T09:03:16.359675",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.technology.org/2026/07/14/can-machine-learning-predict-customer-intent-the-future-of-digital-marketing/": {
-    "title": "Can Machine Learning Predict Customer Intent? The Future of Digital Marketing - Technology Org",
-    "source": "Google News Search",
-    "published_at": "Tue, 14 Jul 2026 07:32:56 GMT",
-    "processed_at": "2026-07-14T09:03:16.484518",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/": {
-    "title": "Unlocking the future of video data: March Networks cloud storage on AWS - Amazon Web Services (AWS)",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 10:06:18 GMT",
-    "processed_at": "2026-07-14T09:03:33.294585",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.staffingindustry.com/webinars/buyer/thought-leadership/upcoming/beyond-h-1b-building-a-resilient-talent-strategy-in-a-changing-immigration-landscape": {
-    "title": "Beyond H-1B: Building a Resilient Talent Strategy in a Changing Immigration Landscape - Staffing Industry Analysts",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 21:51:58 GMT",
-    "processed_at": "2026-07-14T09:03:48.957285",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.midwestmedicaledition.com/articles/sdaho-advance-directive-training": {
-    "title": "SDAHO Advance Directive Training for Health Care Staff - Midwest Medical Edition",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 18:22:42 GMT",
-    "processed_at": "2026-07-14T09:04:19.296868",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/ae/blog/ai-customer-insights": {
-    "title": "AI Customer Insights: How To Use Them in Your Business - Shopify",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 20:35:45 GMT",
-    "processed_at": "2026-07-14T09:04:50.881173",
-    "status": "posted",
-    "telegram_message_id": 81
-  },
-  "https://vwo.com/blog/pulse-vs-hotjar/": {
-    "title": "Pulse vs Hotjar: Which Feedback Tool Is Right for Your Team?",
-    "source": "vwo.com",
-    "published_at": "Mon, 13 Jul 2026 11:25:38 +0000",
-    "processed_at": "2026-07-14T09:04:50.885034",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.globenewswire.com/fr/news-release/2026/07/09/3325136/0/en/weebet-announces-partnership-with-optimove-that-elevates-crm-and-marketing-strategies-for-brazilian-operators.html": {
-    "title": "Weebet Announces Partnership with Optimove that Elevates CRM and Marketing Strategies for Brazilian Operators - GlobeNewswire",
-    "source": "Google News Search",
-    "published_at": "Thu, 09 Jul 2026 17:30:39 GMT",
-    "processed_at": "2026-07-14T09:04:50.888625",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html": {
     "title": "From Twitter to X: 20 Years of Memes, Movements and Hot Takes",
     "source": "rss.nytimes.com",
@@ -6404,6 +6284,102 @@
     "source": "Google News Search",
     "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
     "processed_at": "2026-09-12T11:27:29.579611",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html": {
+    "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 13 Sep 2026 00:15:54 +0000",
+    "processed_at": "2026-09-13T12:30:57.685577",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/13/style/10-year-old-children-predict-the-future.html": {
+    "title": "10-Year-Old Children Predict the Future",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 13 Sep 2026 09:01:01 +0000",
+    "processed_at": "2026-09-13T12:30:57.768026",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://europeangaming.eu/portal/interviews/2026/09/13/214021/allan-stone-intelitics-interview/": {
+    "title": "Allan Stone, Intelitics, on prediction markets: ‘Most of the gap is marketing, not regulation’ - European Gaming",
+    "source": "Google News Search",
+    "published_at": "Sun, 13 Sep 2026 06:00:00 GMT",
+    "processed_at": "2026-09-13T12:30:57.988460",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://texasborderbusiness.com/andrew-davis-returns-to-mission-for-inaugural-small-business-expo/": {
+    "title": "Andrew Davis Returns to Mission for Inaugural Small Business Expo - Texas Border Business",
+    "source": "Google News Search",
+    "published_at": "Tue, 08 Sep 2026 13:24:40 GMT",
+    "processed_at": "2026-09-13T12:31:13.746135",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://openai.com/index/put-data-to-work/": {
+    "title": "Now everyone can put data to work - OpenAI",
+    "source": "Google News Search",
+    "published_at": "Thu, 10 Sep 2026 15:07:38 GMT",
+    "processed_at": "2026-09-13T12:32:13.451597",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://splashmags.com/2026/09/ecom-elevated-where-brands-creators-and-big-ideas-meet/": {
+    "title": "Ecom Elevated: Where Brands, Creators and Big Ideas Meet - Splash Magazines Worldwide",
+    "source": "Google News Search",
+    "published_at": "Fri, 11 Sep 2026 21:45:40 GMT",
+    "processed_at": "2026-09-13T12:32:13.518659",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://augustafreepress.com/commercial/sales-content-management-the-ultimate-guide-for-2026/": {
+    "title": "Sales Content Management: The Ultimate Guide for 2026 - Augusta Free Press",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 18:43:02 GMT",
+    "processed_at": "2026-09-13T12:32:29.547568",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.chicagotribune.com/2026/09/09/waukegan-district-60-teacher-grant/": {
+    "title": "Lake County districts use state grant to fill teacher vacancies: ‘This is a shot in the arm to help us recruit’ - Chicago Tribune",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 23:21:01 GMT",
+    "processed_at": "2026-09-13T12:32:54.983343",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/marketplace/push-notifications/": {
+    "title": "Top Push Notification Services (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-13T12:32:56.753045",
+    "status": "posted",
+    "telegram_message_id": 138
+  },
+  "https://www.prnewswire.com/news-releases/53-of-european-consumers-are-open-to-switching-mobile-providers-as-telco-loyalty-comes-under-pressure-302869988.html": {
+    "title": "53% of European Consumers Are Open to Switching Mobile Providers as Telco Loyalty Comes Under Pressure - PR Newswire",
+    "source": "Google News Search",
+    "published_at": "Mon, 07 Sep 2026 01:00:00 GMT",
+    "processed_at": "2026-09-13T12:32:56.761758",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.medpagetoday.com/spotlight/wet-amd/122962": {
+    "title": "Loss of Follow-Up Predictors in Wet AMD - MedPage Today",
+    "source": "Google News Search",
+    "published_at": "Fri, 11 Sep 2026 14:52:58 GMT",
+    "processed_at": "2026-09-13T12:32:56.770371",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.snowflake.com/en/analytics/business-intelligence/": {
+    "title": "Business Intelligence: Reliable Insights at Scale - Snowflake",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 21:32:48 GMT",
+    "processed_at": "2026-09-13T12:32:56.778876",
     "status": "ignored",
     "telegram_message_id": null
   }
