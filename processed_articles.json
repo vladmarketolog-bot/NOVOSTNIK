@@ -1,108 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html": {
-    "title": "Europe Finds It Hard to Break Up With American and Chinese Technology",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 16 Jul 2026 08:20:56 +0000",
-    "processed_at": "2026-07-16T09:10:54.375946",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html": {
-    "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 15 Jul 2026 18:58:16 +0000",
-    "processed_at": "2026-07-16T09:10:54.476451",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/human-led-seo/": {
-    "title": "The Human Edge: What AI Still Can’t Do in SEO",
-    "source": "neilpatel.com",
-    "published_at": "Wed, 15 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-07-16T09:10:54.528578",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/wingify-the-unified-digital-experience/": {
-    "title": "Wingify: The Unified Digital Experience Suite Powered by VWO and AB Tasty",
-    "source": "vwo.com",
-    "published_at": "Wed, 15 Jul 2026 10:12:54 +0000",
-    "processed_at": "2026-07-16T09:11:21.183967",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.fastcompany.com/91572922/the-ai-industrys-trillion-dollar-marketing-disaster": {
-    "title": "The AI industry’s trillion-dollar marketing disaster - Fast Company",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 15:01:26 GMT",
-    "processed_at": "2026-07-16T09:11:47.526637",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.travelmarketreport.com/packaged-travel/articles/kensington-names-tara-powadiuk-svp-marketing": {
-    "title": "Kensington Names Tara Powadiuk SVP, Marketing - Travel Market Report",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 16:35:58 GMT",
-    "processed_at": "2026-07-16T09:12:22.572327",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://malaysia.news.yahoo.com/beyond-shiny-objects-3-strategies-120000623.html": {
-    "title": "Beyond Shiny Objects, 3 Strategies That Really Boost Workplace Culture - Yahoo",
-    "source": "Google News Search",
-    "published_at": "Sun, 12 Jul 2026 12:00:00 GMT",
-    "processed_at": "2026-07-16T09:12:39.443410",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.almcorp.com/google-analytics-updates-2026-guide/": {
-    "title": "Google Analytics Updates 2026: Complete Guide to AI Insights, Privacy & Best Practices - ALM Corp",
-    "source": "Google News Search",
-    "published_at": "Tue, 14 Jul 2026 15:48:01 GMT",
-    "processed_at": "2026-07-16T09:13:07.163020",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.broadbandtvnews.com/2026/07/15/cable-broadband-losses-ease-in-us/": {
-    "title": "Cable broadband losses ease in US - Broadband TV News",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 11:17:48 GMT",
-    "processed_at": "2026-07-16T09:13:07.218886",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.eurekaspringstimesecho.net/premium/stacker/stories/the-4-flashpoint-why-americans-are-quietly-dumping-traditional-bank-accounts,30810": {
-    "title": "The 4% flashpoint: Why Americans are quietly dumping traditional bank accounts - Eureka Springs Times-Echo",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 14:00:05 GMT",
-    "processed_at": "2026-07-16T09:13:07.609568",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/": {
-    "title": "The PPC Metrics Your CFO Actually Cares About (And How To Report Them) - Search Engine Journal",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 09:30:15 GMT",
-    "processed_at": "2026-07-16T09:13:08.273935",
-    "status": "posted",
-    "telegram_message_id": 83
-  },
-  "https://itbrief.com.au/story/ai-reshapes-customer-data-loyalty-and-marketing-decisions": {
-    "title": "AI reshapes customer data, loyalty and marketing decisions - IT Brief Australia",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 02:00:00 GMT",
-    "processed_at": "2026-07-16T09:13:08.278411",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://smartasset.com/advisor-resources/ai-lead-scoring-for-financial-advisors": {
-    "title": "How to Use AI Lead Scoring as a Financial Advisor - SmartAsset.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 14:07:32 GMT",
-    "processed_at": "2026-07-16T09:13:08.283265",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html": {
     "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.",
     "source": "rss.nytimes.com",
@@ -6326,5 +6222,125 @@
     "processed_at": "2026-09-14T13:35:46.989734",
     "status": "posted",
     "telegram_message_id": 139
+  },
+  "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html": {
+    "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 14 Sep 2026 22:29:25 +0000",
+    "processed_at": "2026-09-15T12:26:18.222836",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html": {
+    "title": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 15 Sep 2026 09:02:21 +0000",
+    "processed_at": "2026-09-15T12:26:18.376349",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html": {
+    "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 14 Sep 2026 16:42:19 +0000",
+    "processed_at": "2026-09-15T12:26:18.532744",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/12/technology/ai-safeguards.html": {
+    "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 12 Sep 2026 16:18:06 +0000",
+    "processed_at": "2026-09-15T12:26:18.677286",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://yellow.com/001thmmm3333hhxx.vipppp1111122xgggg%3B17calcommm!www/press-releases/coinrabbit-reduces-crypto-lending-rates-for-xrp-loans-and-300-assets": {
+    "title": "CoinRabbit Reduces Crypto Lending Rates for XRP Loans and 300+ Assets - Yellow.com",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 14:01:01 GMT",
+    "processed_at": "2026-09-15T12:26:51.811430",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://igamingbrazil.com/en/online-en-2/2026/09/14/revfy-and-optimove-strike-a-deal-to-transform-operations-and-finances-in-latin-american-igaming/": {
+    "title": "RevFy and Optimove strike a deal to transform operations and finances in Latin American iGaming - iGaming Brazil",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 14:34:38 GMT",
+    "processed_at": "2026-09-15T12:26:51.980064",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://voyagela.com/interview/meet-shana-yao-of-your-marketing-mastermind/": {
+    "title": "Meet Shana Yao of Your Marketing Mastermind - Voyage LA Magazine",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 20:59:46 GMT",
+    "processed_at": "2026-09-15T12:28:07.997154",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.customerexperiencedive.com/news/ineffective-invasive-personalization-turn-customers-away/830339/": {
+    "title": "Both ineffective and invasive personalization turn customers away - Customer Experience Dive",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 20:23:43 GMT",
+    "processed_at": "2026-09-15T12:28:08.404264",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.prnewswire.com/news-releases/scott-cederbaum-joins-sorenson-communications-as-head-of-marketing-302872968.html": {
+    "title": "SCOTT CEDERBAUM JOINS SORENSON COMMUNICATIONS AS HEAD OF MARKETING - PR Newswire",
+    "source": "Google News Search",
+    "published_at": "Wed, 09 Sep 2026 09:55:00 GMT",
+    "processed_at": "2026-09-15T12:28:08.809184",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.thedrum.com/industry-insight/three-reasons-brand-partnerships-belong-in-every-performance-marketing-strategy": {
+    "title": "3 reasons brand partnerships belong in every performance marketing strategy - The Drum",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 09:24:37 GMT",
+    "processed_at": "2026-09-15T12:28:08.942766",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://homehealthcarenews.com/2026/09/surprise-awards-open-meetings-and-nursing-pipelines-practical-retention-tactics-in-home-based-care/": {
+    "title": "Surprise Awards, Open Meetings And Nursing Pipelines: Practical Retention Tactics In Home-Based Care - Home Health Care News",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 20:51:05 GMT",
+    "processed_at": "2026-09-15T12:28:09.799597",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://hospitalogy.com/articles/2026-09-14/the-gen-z-retention-cliff-what-100k-rns-are-telling-us/": {
+    "title": "The Gen Z Retention Cliff: What 100K RNs Are Telling Us - Hospitalogy",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 15:12:10 GMT",
+    "processed_at": "2026-09-15T12:28:10.258363",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www2.fundsforngos.org/leadership/open-call-research-on-workforce-retention-in-water-utilities/": {
+    "title": "Open Call: Research on Workforce Retention in Water Utilities - fundsforngos.org",
+    "source": "Google News Search",
+    "published_at": "Sun, 13 Sep 2026 16:59:02 GMT",
+    "processed_at": "2026-09-15T12:28:10.924219",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/the-definitive-guide-to-creating-high-converting-landing-pages/": {
+    "title": "How to Create A Landing Page That Actually Converts",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 14 Sep 2026 16:00:00 +0000",
+    "processed_at": "2026-09-15T12:28:11.701324",
+    "status": "posted",
+    "telegram_message_id": 140
+  },
+  "https://www.media-marketing.com/en/news/reddit-is-coming-to-somo-borac-first-three-speakers-of-the-14th-edition-announced/": {
+    "title": "Reddit is coming to SoMo Borac: first three speakers of the 14th edition announced - media-marketing.com",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 15:15:12 GMT",
+    "processed_at": "2026-09-15T12:28:11.710245",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
