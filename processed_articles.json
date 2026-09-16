@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html": {
-    "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 16 Jul 2026 17:12:03 +0000",
-    "processed_at": "2026-07-17T09:07:17.364782",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html": {
-    "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 16 Jul 2026 13:56:58 +0000",
-    "processed_at": "2026-07-17T09:07:17.506879",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html": {
-    "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 16 Jul 2026 13:53:10 +0000",
-    "processed_at": "2026-07-17T09:07:17.643160",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html": {
-    "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 15 Jul 2026 20:12:53 +0000",
-    "processed_at": "2026-07-17T09:07:17.778495",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html": {
-    "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 16 Jul 2026 19:18:36 +0000",
-    "processed_at": "2026-07-17T09:07:17.899032",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html": {
-    "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 16 Jul 2026 16:38:39 +0000",
-    "processed_at": "2026-07-17T09:07:18.002460",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.prnewswire.com/news-releases/new-research-reveals-loyalty-crisis-as-only-15-of-consumers-say-brand-marketing-feels-relevant--dotdigital-launches-ai-powered-loyalty-platform-to-help-marketers-fight-back-302827512.html": {
-    "title": "New research reveals loyalty crisis as only 15% of consumers say brand marketing feels relevant - Dotdigital launches AI-powered loyalty platform to help marketers fight back - PR Newswire",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 11:20:00 GMT",
-    "processed_at": "2026-07-17T09:07:38.596709",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.martechcube.com/ai-appreciation-day-2026-celebrating-marketing-innovation/": {
-    "title": "AI Appreciation Day 2026: Celebrating Marketing Innovation - MarTech Cube",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 13:06:25 GMT",
-    "processed_at": "2026-07-17T09:07:57.646899",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://aijourn.com/digital-marketing-strategies-for-local-businesses-in-2026/": {
-    "title": "Digital Marketing Strategies for Local Businesses in 2026 - The AI Journal",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 20:52:05 GMT",
-    "processed_at": "2026-07-17T09:08:07.878790",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://insurancenewsnet.com/innarticle/employers-weigh-retention-costs-in-developing-benefits-strategies": {
-    "title": "Employers weigh retention, costs in developing benefits strategies - InsuranceNewsNet",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 10:02:32 GMT",
-    "processed_at": "2026-07-17T09:08:19.286882",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.afge.org/article/afge-membership-rebounding-thanks-to-legal-wins-focused-outreach": {
-    "title": "AFGE Membership Rebounding Thanks to Legal Wins, Focused Outreach - AFGE",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 20:28:38 GMT",
-    "processed_at": "2026-07-17T09:08:19.525235",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/pk/blog/ai-customer-insights": {
-    "title": "AI Customer Insights: How To Use Them in Your Business - Shopify",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 20:35:45 GMT",
-    "processed_at": "2026-07-17T09:08:20.198042",
-    "status": "posted",
-    "telegram_message_id": 84
-  },
-  "https://www.business.com/articles/how-new-age-social-media-marketing-is-changing-and-what-you-need-to-know/": {
-    "title": "How New-Age Social Media Marketing Is Changing and What You Need to Know in 2026 - Business.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-17T09:08:20.201107",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.abfjournal.com/northwest-bank-creates-three-new-leadership-roles/": {
-    "title": "Northwest Bank Creates Three New Leadership Roles - ABF Journal",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 05:26:05 GMT",
-    "processed_at": "2026-07-17T09:08:20.203696",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.passionateinmarketing.com/connected-tv-goes-mainstream-reaching-166-million-viewers-kantar-media-compass/": {
-    "title": "Connected TV goes mainstream, reaching 166 million viewers: Kantar Media Compass - Passionate In Marketing",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 10:08:40 GMT",
-    "processed_at": "2026-07-17T09:08:20.206282",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html": {
     "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
     "source": "rss.nytimes.com",
@@ -6340,6 +6220,126 @@
     "source": "Google News Search",
     "published_at": "Mon, 14 Sep 2026 15:15:12 GMT",
     "processed_at": "2026-09-15T12:28:11.710245",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html": {
+    "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 16 Sep 2026 00:19:23 +0000",
+    "processed_at": "2026-09-16T12:23:49.140406",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html": {
+    "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 16 Sep 2026 09:09:37 +0000",
+    "processed_at": "2026-09-16T12:23:49.253330",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html": {
+    "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 15 Sep 2026 20:06:21 +0000",
+    "processed_at": "2026-09-16T12:23:49.386868",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html": {
+    "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 16 Sep 2026 09:03:03 +0000",
+    "processed_at": "2026-09-16T12:23:49.488510",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html": {
+    "title": "How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 16 Sep 2026 09:02:18 +0000",
+    "processed_at": "2026-09-16T12:23:49.621197",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html": {
+    "title": "Age Limits for Social Media Outlined by European Union",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 16 Sep 2026 08:20:37 +0000",
+    "processed_at": "2026-09-16T12:23:49.735432",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html": {
+    "title": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 15 Sep 2026 23:06:11 +0000",
+    "processed_at": "2026-09-16T12:23:49.860901",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html": {
+    "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 15 Sep 2026 17:29:37 +0000",
+    "processed_at": "2026-09-16T12:23:49.986369",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html": {
+    "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 15 Sep 2026 14:11:17 +0000",
+    "processed_at": "2026-09-16T12:23:50.123823",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/adaptivecx-real-time-ai-personalization/": {
+    "title": "AdaptiveCX: Real-Time AI Personalization for Every Visitor",
+    "source": "vwo.com",
+    "published_at": "Fri, 07 Aug 2026 11:09:19 +0000",
+    "processed_at": "2026-09-16T12:26:21.828674",
+    "status": "posted",
+    "telegram_message_id": 141
+  },
+  "https://wingify.com/blog/analyze-ab-test-results-in-free-tool/": {
+    "title": "How to Analyze A/B Test Results in a Free Tool Accurately",
+    "source": "vwo.com",
+    "published_at": "Mon, 10 Aug 2026 10:32:47 +0000",
+    "processed_at": "2026-09-16T12:26:21.834716",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/emotional-audience-segments/": {
+    "title": "UX and AI: 10 Emotional Audience Segments That Transform Personalization",
+    "source": "vwo.com",
+    "published_at": "Tue, 11 Aug 2026 10:10:31 +0000",
+    "processed_at": "2026-09-16T12:26:21.840062",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/wingifys-unified-suite/": {
+    "title": "Why Wingify’s Unified Suite Turns Optimization Into a Competitive Advantage",
+    "source": "vwo.com",
+    "published_at": "Wed, 05 Aug 2026 09:05:24 +0000",
+    "processed_at": "2026-09-16T12:26:21.845304",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/wingz-ai-layer/": {
+    "title": "Meet Wingz: The AI Layer That Powers the Wingify Suite",
+    "source": "vwo.com",
+    "published_at": "Thu, 06 Aug 2026 10:08:30 +0000",
+    "processed_at": "2026-09-16T12:26:22.009969",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/meet-wingz-wingify-ai-layer/": {
+    "title": "Meet Wingz: The AI Layer That Powers the Wingify Suite",
+    "source": "vwo.com",
+    "published_at": "Wed, 05 Aug 2026 08:31:27 +0000",
+    "processed_at": "2026-09-16T12:26:22.051370",
     "status": "ignored",
     "telegram_message_id": null
   }
