@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html": {
-    "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 17 Jul 2026 20:04:57 +0000",
-    "processed_at": "2026-07-18T08:46:42.606296",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html": {
-    "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 17 Jul 2026 17:44:24 +0000",
-    "processed_at": "2026-07-18T08:46:42.710654",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html": {
-    "title": "The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 17 Jul 2026 11:00:03 +0000",
-    "processed_at": "2026-07-18T08:46:42.821523",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html": {
-    "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 17 Jul 2026 14:13:29 +0000",
-    "processed_at": "2026-07-18T08:46:42.916264",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/ubersuggest-mcp-connector-guide/": {
-    "title": "Ubersuggest MCP Connector: Use 37 SEO Tools Inside Claude, Cursor and More",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 17 Jul 2026 19:00:00 +0000",
-    "processed_at": "2026-07-18T08:46:42.987412",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.einnews.com/pr_news/923298344/marketing-agencies-turn-to-white-label-pay-per-call-as-client-retention-becomes-industry-challenge": {
-    "title": "Marketing Agencies Turn to White Label Pay Per Call as Client Retention Becomes Industry Challenge - EIN News",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 13:41:00 GMT",
-    "processed_at": "2026-07-18T08:46:52.421098",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cnbcafrica.com/media/AjPDJeoOqcE/marketing-media-money-business-insights-on-loyalty-programmes": {
-    "title": "Marketing Media Money: Business Insights on Loyalty Programmes - CNBC Africa",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 13:29:12 GMT",
-    "processed_at": "2026-07-18T08:46:53.461529",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.msn.com/en-us/news/insight/us-companies-rethink-morale-engagement-and-retention-strategies/gm-GM069AF27A?gemSnapshotKey=GM069AF27A-snapshot-0&uxmode=ruby": {
-    "title": "US companies rethink morale, engagement and retention strategies - MSN",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 14:51:32 GMT",
-    "processed_at": "2026-07-18T08:46:53.590878",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.jems.com/ems-management/how-to-keep-the-new-hire-ems-retention-for-every-generation/": {
-    "title": "How to Keep the New Hire: EMS Retention for Every Generation - jems.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 12:47:33 GMT",
-    "processed_at": "2026-07-18T08:46:58.776419",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.afge.org/article/afge-membership-rebounding-thanks-to-legal-wins-focused-outreach/": {
-    "title": "AFGE Membership Rebounding Thanks to Legal Wins, Focused Outreach - AFGE",
-    "source": "Google News Search",
-    "published_at": "Mon, 13 Jul 2026 20:28:38 GMT",
-    "processed_at": "2026-07-18T08:46:59.078009",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.supplyht.com/articles/107311-retention-the-best-exit-strategy": {
-    "title": "Retention: The Best Exit Strategy - Supply House Times",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 17:00:00 GMT",
-    "processed_at": "2026-07-18T08:47:03.550404",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.thedailyupside.com/advisor/practice-management/rias-excel-in-client-retention-but-need-a-strategy-for-boosting-referral-business/": {
-    "title": "RIAs Excel in Client Retention but Need a Strategy for Boosting Referral Business - The Daily Upside",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 04:04:07 GMT",
-    "processed_at": "2026-07-18T08:47:12.341990",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.msn.com/en-us/news/insight/us-companies-rethink-morale-engagement-and-retention-strategies/gm-GM069AF27A?gemSnapshotKey=GM069AF27A-snapshot-0": {
-    "title": "US companies rethink morale, engagement and retention strategies - MSN",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 13:41:12 GMT",
-    "processed_at": "2026-07-18T08:47:12.465044",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/voice-of-customer-audit/": {
-    "title": "Voice of Customer Audit: How to Find the Revenue You’re Leaking to Customer Friction",
-    "source": "vwo.com",
-    "published_at": "Fri, 17 Jul 2026 10:42:37 +0000",
-    "processed_at": "2026-07-18T08:47:21.812300",
-    "status": "posted",
-    "telegram_message_id": 85
-  },
-  "https://www.proactiveinvestors.co.uk/companies/news/1095634/rocketplay-and-the-business-of-user-retention-1095634.html": {
-    "title": "Rocketplay and the business of user retention - Proactive Investors",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 13:09:00 GMT",
-    "processed_at": "2026-07-18T08:47:21.815962",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html": {
     "title": "Politicians Are Trying to Change What Chatbots Say About Them",
     "source": "rss.nytimes.com",
@@ -6340,6 +6220,126 @@
     "source": "vwo.com",
     "published_at": "Wed, 05 Aug 2026 08:31:27 +0000",
     "processed_at": "2026-09-16T12:26:22.051370",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html": {
+    "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 17 Sep 2026 00:12:24 +0000",
+    "processed_at": "2026-09-17T12:23:30.741151",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html": {
+    "title": "Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 16 Sep 2026 23:50:26 +0000",
+    "processed_at": "2026-09-17T12:23:30.842132",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html": {
+    "title": "On ‘Cupertino,’ Robert and Michelle King Go Online",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 17 Sep 2026 09:02:35 +0000",
+    "processed_at": "2026-09-17T12:23:30.924354",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html": {
+    "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 17 Sep 2026 09:00:08 +0000",
+    "processed_at": "2026-09-17T12:23:31.006333",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html": {
+    "title": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 16 Sep 2026 20:54:17 +0000",
+    "processed_at": "2026-09-17T12:23:31.075121",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tipranks.com/news/private-companies/kohort-highlights-geo-level-ltv-optimization-for-gaming-client": {
+    "title": "Kohort Highlights Geo-Level LTV Optimization for Gaming Client - TipRanks",
+    "source": "Google News Search",
+    "published_at": "Wed, 16 Sep 2026 07:14:43 GMT",
+    "processed_at": "2026-09-17T12:25:31.902717",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.thedrum.com/opinion/saas-pricing-proves-marketing-needs-a-seat-at-the-table": {
+    "title": "SaaS pricing proves marketing needs a seat at the table - The Drum",
+    "source": "Google News Search",
+    "published_at": "Wed, 16 Sep 2026 06:08:16 GMT",
+    "processed_at": "2026-09-17T12:25:49.706181",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://martech.org/why-marketing-keeps-redrawing-its-org-chart/": {
+    "title": "Why marketing keeps redrawing its org chart - martech.org",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 12:12:59 GMT",
+    "processed_at": "2026-09-17T12:25:49.892336",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.pocketgamer.biz/why-most-mobile-games-get-ltv-wrong-at-ua-scale/": {
+    "title": "Why most mobile games get LTV wrong at UA scale - Pocket Gamer.biz",
+    "source": "Google News Search",
+    "published_at": "Wed, 16 Sep 2026 10:23:00 GMT",
+    "processed_at": "2026-09-17T12:25:50.571352",
+    "status": "posted",
+    "telegram_message_id": 142
+  },
+  "https://neilpatel.com/blog/geo-by-engine/": {
+    "title": "GEO by Engine: How ChatGPT, Claude, Gemini, and Perplexity Really Decide What to Say",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 16 Sep 2026 16:00:00 +0000",
+    "processed_at": "2026-09-17T12:25:50.579946",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tekedia.com/the-economics-of-an-online-casino-where-revenue-comes-from-and-where-costs-go/": {
+    "title": "The Economics of an Online Casino: Where Revenue Comes From and Where Costs Go - Tekedia",
+    "source": "Google News Search",
+    "published_at": "Wed, 16 Sep 2026 07:04:46 GMT",
+    "processed_at": "2026-09-17T12:25:50.588259",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/adaptive-ecommerce-personalization/": {
+    "title": "Beyond Static Personalization: How Real-Time Intent Is Transforming Customer Experience",
+    "source": "vwo.com",
+    "published_at": "Mon, 03 Aug 2026 08:55:51 +0000",
+    "processed_at": "2026-09-17T12:25:50.596923",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/between-ai-and-conversion-the-new-customer-journey/": {
+    "title": "Between AI and Conversion: The New Customer Journey",
+    "source": "vwo.com",
+    "published_at": "Mon, 03 Aug 2026 09:53:37 +0000",
+    "processed_at": "2026-09-17T12:25:50.605232",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/implementing-ab-testing-without-a-dedicated-tool/": {
+    "title": "Implementing A/B Testing Without a Dedicated Tool: How It Works",
+    "source": "vwo.com",
+    "published_at": "Thu, 30 Jul 2026 10:02:40 +0000",
+    "processed_at": "2026-09-17T12:25:50.613506",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cmswire.com/digital-marketing/is-your-customer-data-ready-for-ai-powered-advertising/": {
+    "title": "The Customer Data Foundation Behind AI Advertising Success - CMSWire",
+    "source": "Google News Search",
+    "published_at": "Wed, 16 Sep 2026 17:51:40 GMT",
+    "processed_at": "2026-09-17T12:25:50.621772",
     "status": "ignored",
     "telegram_message_id": null
   }
