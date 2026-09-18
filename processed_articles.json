@@ -1,84 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html": {
-    "title": "Politicians Are Trying to Change What Chatbots Say About Them",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 19 Jul 2026 09:00:38 +0000",
-    "processed_at": "2026-07-19T09:03:23.535354",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html": {
-    "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 19 Jul 2026 09:00:24 +0000",
-    "processed_at": "2026-07-19T09:03:23.624638",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html": {
-    "title": "Your ‘Live’ World Cup Broadcast Is Not Really Live",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 18 Jul 2026 15:48:06 +0000",
-    "processed_at": "2026-07-19T09:03:23.715670",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://influencermarketinghub.com/weight-loss-social-media-marketing-campaigns/": {
-    "title": "Top Weight Loss Social Media Marketing Campaigns - Influencer Marketing Hub",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-19T09:03:34.268001",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.forbes.com/advisor/business/software/email-marketing-statistics/": {
-    "title": "49 Top Email Marketing Statistics - Forbes",
-    "source": "Google News Search",
-    "published_at": "Tue, 14 Jul 2026 10:45:00 GMT",
-    "processed_at": "2026-07-19T09:03:42.691492",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/marketplace/growth-marketing/": {
-    "title": "Top Growth Marketing Agencies (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-19T09:03:55.438885",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.morningstar.com/news/pr-newswire/20260716ln94516/new-research-reveals-loyalty-crisis-as-only-15-of-consumers-say-brand-marketing-feels-relevant-dotdigital-launches-ai-powered-loyalty-platform-to-help-marketers-fight-back": {
-    "title": "New research reveals loyalty crisis as only 15% of consumers say brand marketing feels relevant - Dotdigital launches AI-powered loyalty platform to help marketers fight back - Morningstar",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 11:20:00 GMT",
-    "processed_at": "2026-07-19T09:04:04.846538",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.bradenton.com/news/business/article316518699.html": {
-    "title": "The 4% flashpoint: Why Americans are quietly dumping traditional bank accounts - Bradenton Herald",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 14:13:07 GMT",
-    "processed_at": "2026-07-19T09:04:20.028725",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/enterprise/blog/subscription-management-software": {
-    "title": "Ecommerce Subscription Management Software: Top Picks & Features (2026) - Shopify",
-    "source": "Google News Search",
-    "published_at": "Sun, 19 Jul 2026 03:30:53 GMT",
-    "processed_at": "2026-07-19T09:04:20.824670",
-    "status": "posted",
-    "telegram_message_id": 86
-  },
-  "https://www.capgemini.com/us-en/news/client-stories/global-life-insurer-boosts-customer-loyalty-and-achieves-a-24-uplift-in-email-open-rates/": {
-    "title": "Global life insurer boosts customer loyalty and achieves a 24% uplift in email open rates - Capgemini",
-    "source": "Google News Search",
-    "published_at": "Thu, 16 Jul 2026 15:20:08 GMT",
-    "processed_at": "2026-07-19T09:04:20.829415",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html": {
     "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
     "source": "rss.nytimes.com",
@@ -6340,6 +6260,126 @@
     "source": "Google News Search",
     "published_at": "Wed, 16 Sep 2026 17:51:40 GMT",
     "processed_at": "2026-09-17T12:25:50.621772",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html": {
+    "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 18 Sep 2026 01:12:52 +0000",
+    "processed_at": "2026-09-18T12:02:34.469015",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html": {
+    "title": "4 Strategies to Battle ‘Techflation’",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 17 Sep 2026 14:27:16 +0000",
+    "processed_at": "2026-09-18T12:02:34.550325",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html": {
+    "title": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 18 Sep 2026 11:00:04 +0000",
+    "processed_at": "2026-09-18T12:02:34.630149",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html": {
+    "title": "As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 18 Sep 2026 09:00:38 +0000",
+    "processed_at": "2026-09-18T12:02:34.708421",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.rand.org/pubs/research_reports/RRA3894-1.html": {
+    "title": "Research, development, and innovation talent in Qatar: The policy and program Landscape - RAND",
+    "source": "Google News Search",
+    "published_at": "Wed, 16 Sep 2026 10:57:54 GMT",
+    "processed_at": "2026-09-18T12:04:10.308532",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work": {
+    "title": "Mental health at work - World Health Organization (WHO)",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-18T12:04:14.164100",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.seiu721.org/2026/09/david-green-seiu-721-president-and-cal-state-la-professor-to-receive-capsacs-neal-snyder-outstanding-service-award.php": {
+    "title": "David Green, SEIU 721 President and Cal State LA Professor, to Receive CAPSAC’s Neal Snyder Outstanding Service Award - SEIU Local 721",
+    "source": "Google News Search",
+    "published_at": "Thu, 17 Sep 2026 19:46:36 GMT",
+    "processed_at": "2026-09-18T12:04:22.827652",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/": {
+    "title": "The state of subscriber engagement in the AI era: Publishers’ first-party relationship strategies - Digiday",
+    "source": "Google News Search",
+    "published_at": "Thu, 17 Sep 2026 19:28:05 GMT",
+    "processed_at": "2026-09-18T12:04:23.440664",
+    "status": "posted",
+    "telegram_message_id": 143
+  },
+  "https://neilpatel.com/blog/cyber5-paid-media-prep/": {
+    "title": "Cyber5 Prep: Are You Ready for Paid Media’s Biggest Week?",
+    "source": "neilpatel.com",
+    "published_at": "Thu, 17 Sep 2026 19:00:01 +0000",
+    "processed_at": "2026-09-18T12:04:23.449911",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://mobidictum.com/crazygames-mobile-streaming-revenue-adjust/": {
+    "title": "CrazyGames tripled its mobile streaming revenue in one year with Adjust - Mobidictum",
+    "source": "Google News Search",
+    "published_at": "Thu, 17 Sep 2026 11:00:37 GMT",
+    "processed_at": "2026-09-18T12:04:23.458657",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.jdnews.com/sponsored/beyond-individual-channels-what-you-need-to-learn-to-build-a-career-in-integrated-marketing/article_b023c330-91eb-52e3-854f-0d7ad8acfa7d.html": {
+    "title": "Beyond Individual Channels: What You Need to Learn to Build a Career in Integrated Marketing - The Daily News - Jacksonville, NC",
+    "source": "Google News Search",
+    "published_at": "Thu, 17 Sep 2026 03:12:00 GMT",
+    "processed_at": "2026-09-18T12:04:23.467247",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/communication-cadence-high-performing-financial-advisors-clients": {
+    "title": "How Financial Advisors Can Build a Better Client Communication Cadence - SmartAsset.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 17 Sep 2026 20:46:42 GMT",
+    "processed_at": "2026-09-18T12:04:23.475838",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/marketplace/app-marketing/": {
+    "title": "Top App Marketing Companies (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-18T12:04:23.484480",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wwd.com/business-news/retail/elyse-walker-customer-retention-relationships-rebuilding-1239240595/": {
+    "title": "Elyse Walker on Customer Retention, Relationships and Rebuilding After the Pacific Palisades Fire - WWD",
+    "source": "Google News Search",
+    "published_at": "Fri, 18 Sep 2026 01:41:10 GMT",
+    "processed_at": "2026-09-18T12:04:23.493175",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.newswire.com/news/blinksoft-turns-word-of-mouth-into-a-scalable-growth-engine-for-small-and-mid": {
+    "title": "Blinksoft Turns Word of Mouth Into a Scalable Growth Engine for Small and Mid-Sized Hospitality Businesses - Newswire.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 14:10:00 GMT",
+    "processed_at": "2026-09-18T12:04:23.501802",
     "status": "ignored",
     "telegram_message_id": null
   }
