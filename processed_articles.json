@@ -1,68 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html": {
-    "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 20 Jul 2026 09:02:12 +0000",
-    "processed_at": "2026-07-20T09:56:52.650732",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://pulse2.com/prenetics-raises-1-billion-for-im8-via-general-catalysts-customer-value-fund/": {
-    "title": "Prenetics Raises $1 Billion For IM8 Via General Catalyst’s Customer Value Fund - Pulse 2.0",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 05:40:20 GMT",
-    "processed_at": "2026-07-20T09:57:05.312267",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.managingip.com/article/2gn3xu8w5h67ae5fapou8/patents/flexibility-is-the-key-as-firms-ponder-associate-retention": {
-    "title": "Flexibility is the key as firms ponder associate retention - Managing Intellectual Property",
-    "source": "Google News Search",
-    "published_at": "Mon, 20 Jul 2026 08:24:46 GMT",
-    "processed_at": "2026-07-20T09:57:05.950781",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://cordis.europa.eu/article/id/466277-optimising-water-retention-solutions-across-diverse-agronomic-contexts": {
-    "title": "Optimising water retention solutions across diverse agronomic contexts | OPTAIN Project | Results in Brief | H2020 - CORDIS",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 21:42:31 GMT",
-    "processed_at": "2026-07-20T09:57:26.713271",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/ca/enterprise/blog/subscription-management-software": {
-    "title": "Ecommerce Subscription Management Software: Top Picks & Features (2026) - Shopify",
-    "source": "Google News Search",
-    "published_at": "Sun, 19 Jul 2026 08:21:22 GMT",
-    "processed_at": "2026-07-20T09:57:38.540804",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-cooler": {
-    "title": "The Best Coolers of 2026 - GearLab",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-20T09:58:04.261083",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://smartasset.com/advisor-resources/registering-with-the-sec": {
-    "title": "How to Register With the SEC as an Investment Advisor - SmartAsset.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 15 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-20T09:58:17.264162",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.proactiveinvestors.com.au/companies/news/1095634/rocketplay-and-the-business-of-user-retention-1095634.html": {
-    "title": "Rocketplay and the business of user retention - Proactive financial news",
-    "source": "Google News Search",
-    "published_at": "Fri, 17 Jul 2026 13:09:00 GMT",
-    "processed_at": "2026-07-20T09:58:17.899547",
-    "status": "posted",
-    "telegram_message_id": 87
-  },
   "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html": {
     "title": "How Google’s A.I. Search Is Imperiling the Open Web",
     "source": "rss.nytimes.com",
@@ -6382,5 +6318,125 @@
     "processed_at": "2026-09-18T12:04:23.501802",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html": {
+    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 19 Sep 2026 00:23:01 +0000",
+    "processed_at": "2026-09-19T11:46:00.655137",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html": {
+    "title": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 18 Sep 2026 14:23:19 +0000",
+    "processed_at": "2026-09-19T11:46:00.752333",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html": {
+    "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 18 Sep 2026 14:20:10 +0000",
+    "processed_at": "2026-09-19T11:46:00.859353",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html": {
+    "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 19 Sep 2026 00:31:38 +0000",
+    "processed_at": "2026-09-19T11:46:00.966852",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html": {
+    "title": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 18 Sep 2026 18:47:54 +0000",
+    "processed_at": "2026-09-19T11:46:01.060224",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html": {
+    "title": "California Governor Gavin Newsom Issues A.I. Safety Executive Order",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 18 Sep 2026 17:27:15 +0000",
+    "processed_at": "2026-09-19T11:46:01.165692",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/zacks:1e4d128ee094b:0-can-ralph-lauren-s-marketing-strategy-fuel-long-term-growth/": {
+    "title": "Can Ralph Lauren's Marketing Strategy Fuel Long-Term Growth? - TradingView",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 15:04:00 GMT",
+    "processed_at": "2026-09-19T11:46:48.034370",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hrmorning.com/lp/webinars/employee-retention-strategies-employees-feel-valued/": {
+    "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued - HRMorning",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 21:19:01 GMT",
+    "processed_at": "2026-09-19T11:46:48.351048",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://loyalty360.org/supplier-contributed-blogs/article/customer-loyalty-analytics-how-to-measure-and-improve-retention": {
+    "title": "Customer Loyalty Analytics: How to Measure and Improve Retention - Loyalty360",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 04:59:59 GMT",
+    "processed_at": "2026-09-19T11:46:49.598181",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bizjournals.com/twincities/news/2026/09/18/smart-companies-treat-talent-risk-financial-risk.html": {
+    "title": "Why smart companies treat talent risk like financial risk — Table of Experts - The Business Journals",
+    "source": "Google News Search",
+    "published_at": "Fri, 18 Sep 2026 05:00:00 GMT",
+    "processed_at": "2026-09-19T11:46:49.686017",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.farmprogress.com/organic-grower-summit/5-key-farm-labor-strategy-considerations-for-organic-conventional-growers": {
+    "title": "5 farm labor strategies to help growers face an uncertain future - Farm Progress",
+    "source": "Google News Search",
+    "published_at": "Fri, 18 Sep 2026 07:01:17 GMT",
+    "processed_at": "2026-09-19T11:46:49.806403",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/marketplace/app-analytics/mobile-measurement-partners/": {
+    "title": "Top Mobile Measurement Partners (MMP) (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-19T11:46:52.295661",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://searchengineland.com/guide/audience-retention": {
+    "title": "Audience retention: How to keep video viewers hooked - Search Engine Land",
+    "source": "Google News Search",
+    "published_at": "Thu, 17 Sep 2026 14:40:00 GMT",
+    "processed_at": "2026-09-19T11:46:52.508621",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.fastcompany.com/91608604/what-agentic-ai-could-fix-for-healthcare-customer-retention": {
+    "title": "What agentic AI could fix for healthcare customer retention - Fast Company",
+    "source": "Google News Search",
+    "published_at": "Fri, 18 Sep 2026 13:30:22 GMT",
+    "processed_at": "2026-09-19T11:46:52.650602",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.okoone.com/spark/marketing-growth/who-owns-the-miss-when-marketing-falls-short-on-revenue/": {
+    "title": "Who owns the miss when marketing falls short on revenue - Okoone",
+    "source": "Google News Search",
+    "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-19T11:46:53.567058",
+    "status": "posted",
+    "telegram_message_id": 144
   }
 }
