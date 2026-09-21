@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html": {
-    "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 21 Jul 2026 23:50:59 +0000",
-    "processed_at": "2026-07-22T09:24:22.968931",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html": {
-    "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 22 Jul 2026 03:10:17 +0000",
-    "processed_at": "2026-07-22T09:24:23.076610",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html": {
-    "title": "Google Releases Three New Gemini A.I. Models",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 21 Jul 2026 19:38:58 +0000",
-    "processed_at": "2026-07-22T09:24:23.182650",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/guide-to-reputation-management/": {
-    "title": "What is Online Reputation Management (ORM)?",
-    "source": "neilpatel.com",
-    "published_at": "Tue, 21 Jul 2026 19:00:00 +0000",
-    "processed_at": "2026-07-22T09:24:23.251085",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/guide-to-guest-blogging/": {
-    "title": "Everything You Need to Know About Guest Posting",
-    "source": "neilpatel.com",
-    "published_at": "Tue, 21 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-07-22T09:24:23.305179",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://igamingbrazil.com/en/online-en-2/2026/07/21/new-policy-updates-googles-rules-for-online-betting-advertising/?amp=1": {
-    "title": "New policy updates Google’s rules for online betting advertising - iGaming Brazil",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 14:54:25 GMT",
-    "processed_at": "2026-07-22T09:25:22.749275",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://1851franchise.com/how-can-i-increase-customer-frequency-for-my-franchise-2732297": {
-    "title": "How to Increase Franchise Customer Frequency and Loyalty - 1851 Franchise",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 08:03:36 GMT",
-    "processed_at": "2026-07-22T09:25:45.733914",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.edweek.org/teaching-learning/can-the-prospect-of-3rd-grade-retention-improve-early-literacy-yes-study-says/2026/07": {
-    "title": "Can the Prospect of 3rd Grade Retention Improve Early Literacy? Yes, Study Says - Education Week",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 19:43:16 GMT",
-    "processed_at": "2026-07-22T09:26:32.319289",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.civilbeat.org/2026/07/hawai%CA%BBis-teacher-shortage-is-at-an-inflection-point/": {
-    "title": "Hawaiʻi’s Teacher Shortage Is At An Inflection Point - Honolulu Civil Beat",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 10:03:52 GMT",
-    "processed_at": "2026-07-22T09:26:47.168064",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://medicalxpress.com/news/2026-07-financial-incentives-flexibility-safe-retain.html": {
-    "title": "Financial incentives, flexibility and safe living needed to retain remote health care workers - Medical Xpress",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 15:40:03 GMT",
-    "processed_at": "2026-07-22T09:26:47.352727",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://keyt.com/stacker-careers-education/2026/07/21/corporate-gatherings-emerge-as-key-driver-of-employee-retention/": {
-    "title": "Corporate gatherings emerge as key driver of employee retention - News Channel 3-12",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 22:46:26 GMT",
-    "processed_at": "2026-07-22T09:26:47.429029",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.agribusinessglobal.com/sponsor/trustchem/trustchem-delves-into-employee-retention-customer-service-and-more/?amp": {
-    "title": "Trustchem Delves into Employee Retention, Customer Service, and More - AgriBusiness Global",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 18:04:37 GMT",
-    "processed_at": "2026-07-22T09:27:29.967216",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://150sec.com/starapps-acquires-appmaker-to-help-shopify-brands-improve-mobile-retention/": {
-    "title": "StarApps acquires AppMaker to help Shopify brands improve mobile retention - 150sec",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 16:05:26 GMT",
-    "processed_at": "2026-07-22T09:27:30.715474",
-    "status": "posted",
-    "telegram_message_id": 89
-  },
-  "https://vwo.com/blog/magento-enterprise-ab-testing/": {
-    "title": "Magento Enterprise A/B Testing: Complete Guide for Growth",
-    "source": "vwo.com",
-    "published_at": "Wed, 22 Jul 2026 08:37:31 +0000",
-    "processed_at": "2026-07-22T09:27:30.720581",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/semantic-search-ecommerce/": {
-    "title": "The Importance of Semantic Search for eCommerce teams",
-    "source": "vwo.com",
-    "published_at": "Tue, 21 Jul 2026 10:06:25 +0000",
-    "processed_at": "2026-07-22T09:27:30.725462",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html": {
     "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
     "source": "rss.nytimes.com",
@@ -6372,6 +6252,86 @@
     "source": "Google News Search",
     "published_at": "Wed, 16 Sep 2026 23:00:00 GMT",
     "processed_at": "2026-09-20T12:00:29.186215",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html": {
+    "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 20 Sep 2026 09:01:40 +0000",
+    "processed_at": "2026-09-21T13:34:44.343722",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html": {
+    "title": "This A.I. House Can Provide You With Connections. It Also Has a Dark Side.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 21 Sep 2026 11:01:14 +0000",
+    "processed_at": "2026-09-21T13:34:44.468574",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://loyalty360.org/Industry-Blogs/Article/The-Revolution-Will-Not-Be-Televised-Loyalty-Marke": {
+    "title": "The Revolution Will Not Be Televised: Loyalty Marketing Needs to Grow Up - Loyalty360",
+    "source": "Google News Search",
+    "published_at": "Sun, 20 Sep 2026 00:07:15 GMT",
+    "processed_at": "2026-09-21T13:34:45.363528",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hr-brew.com/resources/bank-of-america-workplace-benefits/retention-tool": {
+    "title": "Your benefits package is a retention tool. Are you treating it like one? - HR Brew",
+    "source": "Google News Search",
+    "published_at": "Mon, 21 Sep 2026 13:22:21 GMT",
+    "processed_at": "2026-09-21T13:35:48.739478",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.dealershipguy.com/p/fixed-ops-leaders-prioritize-customer-retention-in-roundtable-discussion": {
+    "title": "Fixed ops leaders prioritize customer retention in roundtable discussion - Car Dealership Guy News",
+    "source": "Google News Search",
+    "published_at": "Tue, 15 Sep 2026 04:49:11 GMT",
+    "processed_at": "2026-09-21T13:45:56.209143",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ringcentral-sees-ai-driving-upsell-120202841.html": {
+    "title": "RingCentral Sees AI Driving Upsell, Growth and Stronger Customer Retention - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Mon, 21 Sep 2026 12:02:02 GMT",
+    "processed_at": "2026-09-21T13:45:56.845213",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.business.com/articles/keep-customers-on-your-website/": {
+    "title": "Tips for Keeping Consumers Engaged on Your Website - Business.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-21T13:45:57.366502",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss": {
+    "title": "The state of subscriber engagement in the AI era: Publishers’ first-party relationship strategies - Digiday",
+    "source": "Google News Search",
+    "published_at": "Thu, 17 Sep 2026 19:19:35 GMT",
+    "processed_at": "2026-09-21T13:45:58.225072",
+    "status": "posted",
+    "telegram_message_id": 146
+  },
+  "https://www.mediapost.com/publications/article/417240/google-confirms-ai-model-hacked-companies-in-cyber.html": {
+    "title": "Agency Feedback On Apple 'Ads On Maps' Runs Hot, Cold On Eligibility 08/14/2026 - MediaPost",
+    "source": "Google News Search",
+    "published_at": "Fri, 18 Sep 2026 15:21:51 GMT",
+    "processed_at": "2026-09-21T13:45:58.233928",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/ads/mobile-dsp/": {
+    "title": "Top Demand-Side Platforms (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-21T13:45:58.241998",
     "status": "ignored",
     "telegram_message_id": null
   }
