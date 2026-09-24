@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html": {
-    "title": "Meta Launches New Facebook Marketplace App Called Seller",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 24 Jul 2026 17:44:30 +0000",
-    "processed_at": "2026-07-25T08:58:27.316049",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html": {
-    "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 24 Jul 2026 11:00:03 +0000",
-    "processed_at": "2026-07-25T08:58:27.385198",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/ubersuggest-chatgpt-app-guide/": {
-    "title": "Ubersuggest Is Now Inside ChatGPT. Here’s What It Does",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 24 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-07-25T08:58:27.440016",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://focusgn.com/the-hidden-cost-of-connection-lost-how-single-provider-dependency-drags-down-marketing-roi-according-to-comms-hub": {
-    "title": "The hidden cost of connection lost: How single-provider dependency drags down marketing ROI, according to Comms Hub - Focus Gaming News",
-    "source": "Google News Search",
-    "published_at": "Fri, 24 Jul 2026 12:26:03 GMT",
-    "processed_at": "2026-07-25T08:58:27.529631",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mcclatchydc.com/contributor-content/article316647350.html": {
-    "title": "How Get To Know Your Customers Day Can Help You Level Up Your Retention Rates - McClatchy Washington Bureau",
-    "source": "Google News Search",
-    "published_at": "Fri, 24 Jul 2026 19:52:43 GMT",
-    "processed_at": "2026-07-25T08:58:54.923040",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://loyalty360.org/content-gallery/loyalty360-supplier-member-insights/supplier-perspectives-what-determines-a-loyalty-program-s-success-in-year-one": {
-    "title": "Supplier Perspectives | What Determines a Loyalty Program's Success in Year One - Loyalty360",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-25T08:58:55.172983",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.einpresswire.com/article/928003483/gold-standard-solutions-named-an-alpine-iq-preferred-partner-for-cannabis-dispensary-retention-marketing": {
-    "title": "Gold Standard Solutions Named an Alpine IQ Preferred Partner for Cannabis Dispensary Retention Marketing - EIN Presswire",
-    "source": "Google News Search",
-    "published_at": "Mon, 20 Jul 2026 13:41:00 GMT",
-    "processed_at": "2026-07-25T08:59:02.175071",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://oregoncapitalchronicle.com/2026/07/22/audit-finds-old-tech-maintenance-backlogs-staffing-shortages-plague-oregon-prisons/": {
-    "title": "Audit finds old tech, maintenance backlogs, staffing shortages plague Oregon prisons - Oregon Capital Chronicle",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 22:45:19 GMT",
-    "processed_at": "2026-07-25T08:59:02.315933",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.agribusinessglobal.com/sponsor/trustchem/trustchem-delves-into-employee-retention-customer-service-and-more/": {
-    "title": "Trustchem Delves into Employee Retention, Customer Service, and More - AgriBusiness Global",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 18:04:33 GMT",
-    "processed_at": "2026-07-25T08:59:16.000215",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/indias-d2c-brands-shift-focus-from-customer-acquisition-to-retention-amid-maturing-market/132558101": {
-    "title": "India's D2C brands shift focus from customer acquisition to retention amid maturing market - ET BrandEquity",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 11:33:06 GMT",
-    "processed_at": "2026-07-25T08:59:26.524811",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/zacks:1a577f2f8094b:0-can-simpler-pricing-improve-kroger-s-customer-retention/": {
-    "title": "Can Simpler Pricing Improve Kroger's Customer Retention? - TradingView",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 17:13:00 GMT",
-    "processed_at": "2026-07-25T08:59:47.287133",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.salontoday.com/news/a-new-adversarial-ai-app-analyzes-250000-beauty-reviews-to-expose-what-influencers-miss": {
-    "title": "A New Adversarial AI App Analyzes Beauty Reviews to Expose What Influencers Miss - Salon Today",
-    "source": "Google News Search",
-    "published_at": "Fri, 24 Jul 2026 19:44:46 GMT",
-    "processed_at": "2026-07-25T08:59:47.492462",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.investing.com/news/analyst-ratings/stifel-raises-forward-air-stock-price-target-on-customer-retention-93CH-4804002": {
-    "title": "Stifel raises Forward Air stock price target on customer retention - Investing.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 21 Jul 2026 18:53:51 GMT",
-    "processed_at": "2026-07-25T08:59:47.639892",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/indias-d2c-brands-shift-focus-from-customer-acquisition-to-retention-amid-maturing-market/132558101": {
-    "title": "India's D2C brands shift focus from customer acquisition to retention amid maturing market - ET BrandEquity",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 11:33:06 GMT",
-    "processed_at": "2026-07-25T08:59:58.783079",
-    "status": "posted",
-    "telegram_message_id": 94
-  },
-  "https://www.businessnewsdaily.com/16017-build-customer-loyalty.html": {
-    "title": "Customer Loyalty: What It Is & How to Build It - Business News Daily",
-    "source": "Google News Search",
-    "published_at": "Mon, 20 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-25T08:59:58.788583",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html": {
     "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
     "source": "rss.nytimes.com",
@@ -6332,6 +6212,126 @@
     "source": "Google News Search",
     "published_at": "Sun, 20 Sep 2026 07:00:00 GMT",
     "processed_at": "2026-09-23T12:37:27.761327",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html": {
+    "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 24 Sep 2026 02:50:25 +0000",
+    "processed_at": "2026-09-24T12:30:44.294719",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html": {
+    "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 24 Sep 2026 00:16:28 +0000",
+    "processed_at": "2026-09-24T12:30:44.391213",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html": {
+    "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 23 Sep 2026 23:54:20 +0000",
+    "processed_at": "2026-09-24T12:30:44.496264",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html": {
+    "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 24 Sep 2026 03:53:54 +0000",
+    "processed_at": "2026-09-24T12:30:44.591067",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html": {
+    "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 24 Sep 2026 01:17:17 +0000",
+    "processed_at": "2026-09-24T12:30:44.689191",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html": {
+    "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 23 Sep 2026 20:05:47 +0000",
+    "processed_at": "2026-09-24T12:30:44.790807",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html": {
+    "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 23 Sep 2026 17:42:39 +0000",
+    "processed_at": "2026-09-24T12:30:44.895787",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/cro-why-more-traffic-wont-fix-growth/": {
+    "title": "Why More Traffic Won’t Fix Your Growth Problem (But This Will)",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 23 Sep 2026 16:00:00 +0000",
+    "processed_at": "2026-09-24T12:30:51.963399",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/": {
+    "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now - Search Engine Journal",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 19:00:57 GMT",
+    "processed_at": "2026-09-24T12:30:52.959528",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://thewisemarketer.com/you-are-using-whatsapp-like-email-your-customers-have-noticed/": {
+    "title": "You Are Using WhatsApp Like Email. Your Customers Have Noticed. - The Wise Marketer",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 15:01:58 GMT",
+    "processed_at": "2026-09-24T12:30:53.185739",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.prweb.com/releases/postscript-launches-email-on-a-new-ai-native-retention-marketing-platform-302884359.html": {
+    "title": "Postscript Launches Email on a New AI-Native Retention Marketing Platform - PRWeb",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 13:00:00 GMT",
+    "processed_at": "2026-09-24T12:30:53.456738",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://gritdaily.com/why-customer-churn-isnt-a-loyalty-problem/": {
+    "title": "Your Customers Aren’t Disloyal. Your Journey Is Broken. - Grit Daily News",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 23:45:16 GMT",
+    "processed_at": "2026-09-24T12:30:53.717630",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.retailcustomerexperience.com/blogs/why-gen-zs-shift-offline-is-changing-the-rules-of-brand-building-for-retailers/": {
+    "title": "Why Gen Z's shift offline is changing the rules of brand building for retailers - Retail Customer Experience",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 10:00:00 GMT",
+    "processed_at": "2026-09-24T12:30:53.997037",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://montco.today/2026/09/marketing-due-diligence-mistakes-sellers/": {
+    "title": "Protecting Business Value Through Marketing Readiness - montco.today",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 09:25:00 GMT",
+    "processed_at": "2026-09-24T12:30:54.253206",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hcamag.com/us/specialization/benefits/why-your-benefits-program-is-your-most-underleveraged-retention-tool/590737": {
+    "title": "Why your benefits program is your most underleveraged retention tool - hcamag.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 12:56:00 GMT",
+    "processed_at": "2026-09-24T12:30:54.623958",
     "status": "ignored",
     "telegram_message_id": null
   }
