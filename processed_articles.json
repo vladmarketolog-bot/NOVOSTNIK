@@ -1,76 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html": {
-    "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 25 Jul 2026 20:07:33 +0000",
-    "processed_at": "2026-07-26T09:09:47.672895",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html": {
-    "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 26 Jul 2026 09:00:26 +0000",
-    "processed_at": "2026-07-26T09:09:47.768421",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html": {
-    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 26 Jul 2026 09:00:24 +0000",
-    "processed_at": "2026-07-26T09:09:47.876468",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html": {
-    "title": "QR Codes Make Their Way Down Wedding Aisles",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 25 Jul 2026 13:10:29 +0000",
-    "processed_at": "2026-07-26T09:09:47.980237",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://uswheat.org/wheatletter/wheats-on-your-mind-podcast-features-usws-brian-liedl-discussing-customer-retention-and-the-global-wheat-market/": {
-    "title": "Brian Liedl Talks World Markets on 'Wheat’s On Your Mind' Podcast - U.S. Wheat Associates",
-    "source": "Google News Search",
-    "published_at": "Thu, 23 Jul 2026 15:33:40 GMT",
-    "processed_at": "2026-07-26T09:09:48.213390",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://rbj.net/2026/07/22/rochester-workforce-leaders-discuss-labor-market-challenges/": {
-    "title": "Rochester workforce leaders discuss evolving labor market challenges - Rochester Business Journal",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 11:16:56 GMT",
-    "processed_at": "2026-07-26T09:09:48.302942",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.ncoa.org/article/best-practices-for-sail-classes/": {
-    "title": "Stay Active and Independent for Life (SAIL) Best Practices - The National Council on Aging (NCOA)",
-    "source": "Google News Search",
-    "published_at": "Fri, 24 Jul 2026 16:58:00 GMT",
-    "processed_at": "2026-07-26T09:09:58.797848",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://smallbiztrends.com/customer-engagement-trends/": {
-    "title": "7 Key Customer Engagement Trends - Small Business Trends",
-    "source": "Google News Search",
-    "published_at": "Thu, 23 Jul 2026 16:31:00 GMT",
-    "processed_at": "2026-07-26T09:10:40.681708",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://smartasset.com/advisor-resources/12-ai-productivity-solutions-for-financial-advisors": {
-    "title": "12 AI Productivity Solutions for Financial Advisors - SmartAsset",
-    "source": "Google News Search",
-    "published_at": "Fri, 24 Jul 2026 22:22:11 GMT",
-    "processed_at": "2026-07-26T09:10:41.275329",
-    "status": "posted",
-    "telegram_message_id": 95
-  },
   "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html": {
     "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
     "source": "rss.nytimes.com",
@@ -6332,6 +6260,126 @@
     "source": "Google News Search",
     "published_at": "Wed, 23 Sep 2026 12:56:00 GMT",
     "processed_at": "2026-09-24T12:30:54.623958",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html": {
+    "title": "Google Is Sending an A.I. Data Center to Outer Space",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 24 Sep 2026 13:48:42 +0000",
+    "processed_at": "2026-09-25T12:31:54.270001",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html": {
+    "title": "Complaints About Meta’s ‘Pervert Glasses’ Won’t Slow Tech’s Wearable Gadgets Drive",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 24 Sep 2026 19:02:55 +0000",
+    "processed_at": "2026-09-25T12:31:54.365856",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html": {
+    "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 25 Sep 2026 11:00:03 +0000",
+    "processed_at": "2026-09-25T12:31:54.452218",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/well/ai-chatbots-artificial-intimacy.html": {
+    "title": "Chatbots Are Not Your Friends",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 25 Sep 2026 09:03:23 +0000",
+    "processed_at": "2026-09-25T12:31:54.549723",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html": {
+    "title": "Mark Zuckerberg Is Trying Something On",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 25 Sep 2026 09:00:13 +0000",
+    "processed_at": "2026-09-25T12:31:54.639581",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html": {
+    "title": "U.S. Intercedes for Elon Musk’s X Over European Fine",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 24 Sep 2026 22:34:49 +0000",
+    "processed_at": "2026-09-25T12:31:54.709470",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html": {
+    "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 25 Sep 2026 01:12:39 +0000",
+    "processed_at": "2026-09-25T12:31:54.795306",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/why-we-became-wingify/": {
+    "title": "Curiosity Meets Clarity: Why We Became Wingify",
+    "source": "vwo.com",
+    "published_at": "Fri, 25 Sep 2026 07:07:39 +0000",
+    "processed_at": "2026-09-25T12:32:39.715817",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/tradingview:e514d4d322da6:0-boba-mint-holdings-ltd-tnj-adds-1-800-amino-pro-subs-in-45-days/": {
+    "title": "Boba Mint Holdings Ltd. (TNJ) Adds 1,800 Amino Pro Subs in 45 Days - TradingView",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 16:25:00 GMT",
+    "processed_at": "2026-09-25T12:32:39.900329",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.usatoday.com/story/special/contributor-content/2026/09/24/why-redo-is-focusing-on-the-complete-customer-journey/91923170007/": {
+    "title": "Why Redo Is Focusing on the Complete Customer Journey - USA Today",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 18:13:00 GMT",
+    "processed_at": "2026-09-25T12:32:40.168475",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.ktvo.com/online_features/press_releases/cavallo-enhances-profit-max-platform-arming-sales-teams-with-advanced-customer-intelligence-and-92-accurate/article_209322d8-dd54-5552-b2d1-632f5dfbf050.html": {
+    "title": "Cavallo Enhances Profit Max Platform, Arming Sales Teams with Advanced Customer Intelligence and 92% Accurate Customer Retention Insights - KTVO",
+    "source": "Google News Search",
+    "published_at": "Tue, 22 Sep 2026 17:26:00 GMT",
+    "processed_at": "2026-09-25T12:32:40.888518",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vista.today/2026/09/marketing-due-diligence-mistakes-sellers/": {
+    "title": "Protecting Business Value Through Marketing Readiness - VISTA.Today",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 09:25:00 GMT",
+    "processed_at": "2026-09-25T12:32:41.016943",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.jdsupra.com/legalnews/creating-value-in-cleveland-s-office-9561757/": {
+    "title": "Creating Value in Cleveland’s Office Market Downturn: Strategies that Work - JD Supra",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 20:24:33 GMT",
+    "processed_at": "2026-09-25T12:32:41.351675",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.forvismazars.us/forsights/2026/09/public-sector-workforce-shortages-building-resilience": {
+    "title": "Public Sector Workforce Shortages: Building Resilience - Forvis Mazars US",
+    "source": "Google News Search",
+    "published_at": "Tue, 22 Sep 2026 17:32:56 GMT",
+    "processed_at": "2026-09-25T12:32:42.159010",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://officechai.com/miscellaneous/how-businesses-can-reduce-their-customer-acquisition-costs/": {
+    "title": "How Businesses Can Reduce Their Customer Acquisition Costs - OfficeChai",
+    "source": "Google News Search",
+    "published_at": "Fri, 25 Sep 2026 10:59:25 GMT",
+    "processed_at": "2026-09-25T12:32:43.694268",
     "status": "ignored",
     "telegram_message_id": null
   }
