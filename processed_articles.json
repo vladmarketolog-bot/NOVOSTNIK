@@ -1,76 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html": {
-    "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 27 Jul 2026 09:00:20 +0000",
-    "processed_at": "2026-07-27T10:39:17.958065",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://fxnewsgroup.com/forex-news/retail-forex/forex-marketing-ideas-that-generate-valuable-traders/": {
-    "title": "Forex Marketing Ideas That Generate Valuable Traders - FX News Group",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 09:21:04 GMT",
-    "processed_at": "2026-07-27T10:39:18.104886",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.gartner.com/en/articles/gtm-orchestrator-in-product-marketing": {
-    "title": "The Rise of the Strategic GTM Orchestrator in Product Marketing - Gartner",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 20:48:15 GMT",
-    "processed_at": "2026-07-27T10:39:18.228842",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.business.com/hr-software/compensation-management/": {
-    "title": "The Complete Guide to Compensation Management - Business.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 23 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-27T10:39:40.149316",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://smartasset.com/advisor-resources/average-aum-for-a-financial-advisor": {
-    "title": "Average Assets Under Management (AUM) for Financial Advisors - SmartAsset.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-27T10:39:54.376885",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.houseandgarden.co.uk/article/tips-for-having-a-nice-house-with-dogs-and-children": {
-    "title": "Dear Fiona: how do you keep your house looking its best with dogs and children? - House & Garden",
-    "source": "Google News Search",
-    "published_at": "Fri, 24 Jul 2026 05:00:00 GMT",
-    "processed_at": "2026-07-27T10:39:57.682413",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.thestreet.com/retail/t-mobile-ends-bill-pay-through-customer-support": {
-    "title": "T-Mobile customers face new restriction when paying bills - thestreet.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 18:33:00 GMT",
-    "processed_at": "2026-07-27T10:39:57.789681",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://buttondown.com/downstream/archive/u1f9e0-why-is-context-re-entry-killing-ai/": {
-    "title": "🧠 Why is context re-entry killing AI retention? - Buttondown",
-    "source": "Google News Search",
-    "published_at": "Sun, 26 Jul 2026 20:28:44 GMT",
-    "processed_at": "2026-07-27T10:39:58.515237",
-    "status": "posted",
-    "telegram_message_id": 96
-  },
-  "https://www.nationalgeographic.org/about/leadership/jennifer-chick": {
-    "title": "Jennifer Chick - nationalgeographic.org",
-    "source": "Google News Search",
-    "published_at": "Mon, 20 Jul 2026 15:48:57 GMT",
-    "processed_at": "2026-07-27T10:39:58.519970",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html": {
     "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
     "source": "rss.nytimes.com",
@@ -6380,6 +6308,126 @@
     "source": "Google News Search",
     "published_at": "Fri, 25 Sep 2026 10:59:25 GMT",
     "processed_at": "2026-09-25T12:32:43.694268",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html": {
+    "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 26 Sep 2026 01:37:20 +0000",
+    "processed_at": "2026-09-26T12:02:04.555921",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html": {
+    "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 25 Sep 2026 20:26:49 +0000",
+    "processed_at": "2026-09-26T12:02:04.646258",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html": {
+    "title": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 26 Sep 2026 02:48:20 +0000",
+    "processed_at": "2026-09-26T12:02:04.753177",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html": {
+    "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 26 Sep 2026 01:55:36 +0000",
+    "processed_at": "2026-09-26T12:02:04.845686",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html": {
+    "title": "Is China Really Stealing A.I. From American Companies?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 25 Sep 2026 15:02:21 +0000",
+    "processed_at": "2026-09-26T12:02:04.950445",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cxtoday.com/community-commerce-customer-loyalty-influencer-marketing": {
+    "title": "Is This The End For Influencer Marketing? - CX Today",
+    "source": "Google News Search",
+    "published_at": "Tue, 22 Sep 2026 12:00:59 GMT",
+    "processed_at": "2026-09-26T12:02:56.875540",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mediapost.com/publications/article/418273/openai-loyalty-settles-in-reshapes-advertising-m.html?edition=143965": {
+    "title": "OpenAI Loyalty Settles In, Reshapes Advertising, Marketing Funnel 09/24/2026 - MediaPost",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 17:03:16 GMT",
+    "processed_at": "2026-09-26T12:02:57.368222",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://vista.today/?p=323609": {
+    "title": "Protecting Business Value Through Marketing Readiness - VISTA.Today",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 09:25:00 GMT",
+    "processed_at": "2026-09-26T12:02:57.953239",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.indexbox.io/blog/filter-tips-market-forecast-to-2035-growth-driven-by-lab-automation-and-diagnostic-demand/": {
+    "title": "Filter Tips Market To 2035: Growth Driven by Lab Automation and Diagnostic Demand - News and Statistics - IndexBox",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 13:56:04 GMT",
+    "processed_at": "2026-09-26T12:03:53.794646",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://smartasset.com/advisor-resources/how-financial-advisors-handle-multi-state-clients": {
+    "title": "How Financial Advisors Handle Multi-State Clients - SmartAsset.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 25 Sep 2026 20:36:11 GMT",
+    "processed_at": "2026-09-26T12:03:58.171212",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/zacks:d888c0f3d094b:0-can-duol-s-green-machine-sustain-its-strong-user-growth-momentum/": {
+    "title": "Can DUOL's Green Machine Sustain Its Strong User Growth Momentum? - TradingView",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 15:15:00 GMT",
+    "processed_at": "2026-09-26T12:03:58.539927",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.clickpost.ai/blog/customer-loyalty-statistics": {
+    "title": "Customer Loyalty Statistics: Key Trends & Insights for 2026 - ClickPost",
+    "source": "Google News Search",
+    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-26T12:03:59.361953",
+    "status": "posted",
+    "telegram_message_id": 149
+  },
+  "https://neilpatel.com/blog/original-data-ai-citations/": {
+    "title": "Data: Your Edge for AEO/GEO",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 25 Sep 2026 16:00:00 +0000",
+    "processed_at": "2026-09-26T12:03:59.371865",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://techbullion.com/how-ai-powered-digital-marketing-is-shaping-the-future-of-saas-growth/": {
+    "title": "How AI-Powered Digital Marketing Is Shaping the Future of SaaS Growth - TechBullion",
+    "source": "Google News Search",
+    "published_at": "Fri, 25 Sep 2026 16:46:22 GMT",
+    "processed_at": "2026-09-26T12:03:59.380154",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.manilatimes.net/2026/09/21/business/top-business/app-developers-shift-focus-on-user-value/2429002": {
+    "title": "App developers shift focus on user value - The Manila Times",
+    "source": "Google News Search",
+    "published_at": "Sun, 20 Sep 2026 16:08:00 GMT",
+    "processed_at": "2026-09-26T12:03:59.389304",
     "status": "ignored",
     "telegram_message_id": null
   }
