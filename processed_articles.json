@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html": {
-    "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 03:08:44 +0000",
-    "processed_at": "2026-07-28T09:33:48.948105",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html": {
-    "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 27 Jul 2026 20:34:32 +0000",
-    "processed_at": "2026-07-28T09:33:49.063842",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html": {
-    "title": "Microsoft Unveils A.I. Cybersecurity Tools",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 27 Jul 2026 16:51:15 +0000",
-    "processed_at": "2026-07-28T09:33:49.186916",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html": {
-    "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 09:02:46 +0000",
-    "processed_at": "2026-07-28T09:33:49.300375",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html": {
-    "title": "Police Say Binance Is Making It Harder to Fight Crime",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 09:00:48 +0000",
-    "processed_at": "2026-07-28T09:33:49.434100",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html": {
-    "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 27 Jul 2026 18:32:35 +0000",
-    "processed_at": "2026-07-28T09:33:49.540486",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html": {
-    "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 27 Jul 2026 19:11:28 +0000",
-    "processed_at": "2026-07-28T09:33:49.655142",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html": {
-    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 27 Jul 2026 13:45:01 +0000",
-    "processed_at": "2026-07-28T09:33:49.789981",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.itv.com/": {
-    "title": "ITVX - The Streaming Home For All Of ITV And So Much More! - ITVX",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 08:36:53 GMT",
-    "processed_at": "2026-07-28T09:34:28.321496",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.techfunnel.com/martech/customer-data-platforms-marketers-guide-2026/": {
-    "title": "Customer Data Platforms: Marketers’ Guide 2026 - Techfunnel",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 20:24:34 GMT",
-    "processed_at": "2026-07-28T09:34:28.625039",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.demandgenreport.com/case-studies/from-promotions-to-personalization-how-simply-fish-used-dishio-to-drive-measurable-growth/53717/": {
-    "title": "From Promotions to Personalization: How Simply Fish Used Dishio to Drive Measurable Growth - Demand Gen Report",
-    "source": "Google News Search",
-    "published_at": "Thu, 23 Jul 2026 11:03:20 GMT",
-    "processed_at": "2026-07-28T09:34:49.052967",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.eventmarketer.com/article/paycom-shrm26/": {
-    "title": "Paycom Leans into Experiential to Make a Loyalty Play at SHRM26 - Event Marketer",
-    "source": "Google News Search",
-    "published_at": "Thu, 23 Jul 2026 19:55:37 GMT",
-    "processed_at": "2026-07-28T09:34:49.168793",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mobileappdaily.com/opinion/paywall-is-part-of-onboarding": {
-    "title": "Expert Opinions and Insights from the Tech Industry - MobileAppDaily",
-    "source": "Google News Search",
-    "published_at": "Fri, 24 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-07-28T09:34:49.896999",
-    "status": "posted",
-    "telegram_message_id": 97
-  },
-  "https://www.franchising.com/articles/20260727_how_do_you_get_the_most_bang_out_of_your_marketing_dollars.html": {
-    "title": "How do you get the most bang out of your marketing dollars? - Franchising.com",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 16:47:47 GMT",
-    "processed_at": "2026-07-28T09:34:49.903458",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/google-ends-faq-rich-results/": {
-    "title": "Google Officially Ends FAQ Rich Results: Should You Remove FAQ Schema?",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 27 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-07-28T09:34:49.909560",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html": {
     "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
     "source": "rss.nytimes.com",
@@ -6428,6 +6308,78 @@
     "source": "Google News Search",
     "published_at": "Sun, 20 Sep 2026 16:08:00 GMT",
     "processed_at": "2026-09-26T12:03:59.389304",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html": {
+    "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 27 Sep 2026 11:22:48 +0000",
+    "processed_at": "2026-09-27T12:41:04.041679",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hr-brew.com/stories/bank-of-america-workplace-benefits/retention-tool": {
+    "title": "Your benefits package is a retention tool. Are you treating it like one? - HR Brew",
+    "source": "Google News Search",
+    "published_at": "Mon, 21 Sep 2026 13:21:17 GMT",
+    "processed_at": "2026-09-27T12:42:24.557279",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.forbes.com/sites/juliekratz/2026/09/27/how-purpose-driven-leadership-drives-cultural-transformation/": {
+    "title": "How Purpose-Driven Leadership Drives Cultural Transformation - Forbes",
+    "source": "Google News Search",
+    "published_at": "Sun, 27 Sep 2026 12:15:00 GMT",
+    "processed_at": "2026-09-27T12:42:24.606512",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.investing.com/news/transcripts/insulet-at-bernstein-healthcare-forum-growth-retention-and-new-aid-push-93CH-4915959": {
+    "title": "Insulet at Bernstein healthcare forum: growth, retention and new AID push - Investing.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 17:38:27 GMT",
+    "processed_at": "2026-09-27T12:46:47.996554",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hostinger.com/tutorials/guide-to-black-friday-in-ai-search/": {
+    "title": "Guide to Black Friday in AI search: 11 ecommerce strategies for 2026 - Hostinger",
+    "source": "Google News Search",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-27T12:46:58.467891",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2F360.serpdex.xyz%2FEbdTIQQUZ8h07150%22%2F%3E%3C%2Fkrpano%3E": {
+    "title": "极速电玩游戏 (Game mechanics analysis) [7n1429gx] - czechinvest.gov.cz",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 10:45:44 GMT",
+    "processed_at": "2026-09-27T12:46:58.908970",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.subscriptioninsider.com/blog/study-more-trial-engagement-doesn-t-always-mean-better-retention": {
+    "title": "Study: More Trial Engagement Doesn't Always Mean Better Retention - Subscription Insider",
+    "source": "Google News Search",
+    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-27T12:46:59.365744",
+    "status": "posted",
+    "telegram_message_id": 150
+  },
+  "https://www.businessofapps.com/marketplace/app-engagement/": {
+    "title": "Top App Engagement Platforms (2026) - businessofapps.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-27T12:46:59.372445",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://247wallst.com/personal-finance/2026/09/24/they-are-gouging-the-remaining-customers-clark-to-internet-users-on-autopay/": {
+    "title": "‘They Are Gouging the Remaining Customers’: Clark to Internet Users on Autopay - 24/7 Wall St.",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 17:34:00 GMT",
+    "processed_at": "2026-09-27T12:46:59.379067",
     "status": "ignored",
     "telegram_message_id": null
   }
