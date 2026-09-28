@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html": {
-    "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 29 Jul 2026 00:59:08 +0000",
-    "processed_at": "2026-07-29T09:35:09.404974",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html": {
-    "title": "What Is Open-Weights A.I.?",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 22:38:23 +0000",
-    "processed_at": "2026-07-29T09:35:09.489316",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html": {
-    "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 17:00:06 +0000",
-    "processed_at": "2026-07-29T09:35:09.545016",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html": {
-    "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 12:35:43 +0000",
-    "processed_at": "2026-07-29T09:35:09.612897",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html": {
-    "title": "Couple Stalked by eBay Settle for $56 Million",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 21:02:51 +0000",
-    "processed_at": "2026-07-29T09:35:09.684318",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html": {
-    "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 28 Jul 2026 20:24:33 +0000",
-    "processed_at": "2026-07-29T09:35:09.764270",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.sportschosun.com/en/culture/2026-07-29/202607290100182150011734": {
-    "title": "Marketing to Ease the Burden on End-Users Amid the Triple Crisis Intensifies... 'Hillstate Hoeryong Station Park View' Introduces a Fixed 5 Million Won Down Payment Plan - 스포츠조선",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 02:40:44 GMT",
-    "processed_at": "2026-07-29T09:35:16.575099",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.inbox.lv/150k83w-booze-sales-restrictions-have-not-changed-consumption-much-in-latvia?language=en": {
-    "title": "Booze sales restrictions have not changed consumption much in Latvia - Inbox.lv",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 06:58:45 GMT",
-    "processed_at": "2026-07-29T09:35:17.318496",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://business.adobe.com/blog/loyalty-orchestration-brand-relationships-ai-cant-intermediate": {
-    "title": "AI-Powered Loyalty Orchestration with Adobe Journey Optimizer - Adobe for Business",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 15:51:03 GMT",
-    "processed_at": "2026-07-29T09:35:32.379074",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cioreview.com/leadership-perspectives/without-a-strategic-ciso-even-brilliant-marketing-wont-keep-customers-nid-6430-cid-21.html": {
-    "title": "Without a Strategic CISO, Even Brilliant Marketing won't Keep Customers - CIOReview",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 08:52:03 GMT",
-    "processed_at": "2026-07-29T09:35:48.545584",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.ccdaily.com/2026/07/why-community-colleges-may-be-rural-americas-best-retention-strategy/": {
-    "title": "Why community colleges may be rural America’s best retention strategy - Community College Daily",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 16:27:18 GMT",
-    "processed_at": "2026-07-29T09:35:48.685861",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.ama-assn.org/medical-residents/transition-resident-attending/how-ask-about-retention-your-first-physician-job": {
-    "title": "How to ask about retention in your first physician job - American Medical Association | AMA",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 12:00:00 GMT",
-    "processed_at": "2026-07-29T09:35:53.785140",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cbia.com/news/hr-safety/connecticut-ny-stay-or-pay-agreements/": {
-    "title": "Connecticut, New York Tighten Screws on ‘Stay or Pay’ Agreements - CBIA",
-    "source": "Google News Search",
-    "published_at": "Wed, 22 Jul 2026 14:02:23 GMT",
-    "processed_at": "2026-07-29T09:35:57.718939",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.edweek.org/teaching-learning/opinion-teacher-tested-strategies-for-improving-reading-instruction/2026/07": {
-    "title": "Teacher-Tested Strategies for Improving Reading Instruction (Opinion) - Education Week",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 18:08:31 GMT",
-    "processed_at": "2026-07-29T09:36:01.557641",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.rismedia.com/2026/07/27/ceo-panel-shrinking-agent-population-changing-recruiting/": {
-    "title": "CEO Panel: The Shrinking Agent Population and How It’s Changing Recruiting - RISMedia",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 20:08:28 GMT",
-    "processed_at": "2026-07-29T09:36:06.592923",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html": {
     "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
     "source": "rss.nytimes.com",
@@ -6380,6 +6260,102 @@
     "source": "Google News Search",
     "published_at": "Thu, 24 Sep 2026 17:34:00 GMT",
     "processed_at": "2026-09-27T12:46:59.379067",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html": {
+    "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 28 Sep 2026 14:41:14 +0000",
+    "processed_at": "2026-09-28T14:54:13.998148",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html": {
+    "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 27 Sep 2026 22:12:24 +0000",
+    "processed_at": "2026-09-28T14:54:14.070520",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/marketplace/growth-marketing/": {
+    "title": "Top Growth Marketing Agencies (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-28T14:54:30.239994",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.citybiz.co/article/908053/warschawski-selected-as-marketing-agency-for-beards-hill-liquors-to-elevate-brand-and-digital-presence/": {
+    "title": "Warschawski Selected as Marketing Agency for Beards Hill Liquors to Elevate Brand and Digital Presence - citybiz",
+    "source": "Google News Search",
+    "published_at": "Wed, 23 Sep 2026 14:45:50 GMT",
+    "processed_at": "2026-09-28T14:54:30.625884",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DSVN5TndyOE9IYmtyUnBOdjBSNnplMkUtaXRfa0QtYV9mVWJRd3MweUFaTDdmM1VIREt4MUhqS2tGbjRlLXlCTHdzRDF3TGJ1RjJsWnRTY0NEX1ZkV1FsV2M5U0pxSEExbk1Z?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "The Psychology of Almost There - thewisemarketer.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 25 Sep 2026 12:15:56 GMT",
+    "processed_at": "2026-09-28T14:54:30.756377",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://myhfa.org/blog/keeping-top-talent-what-todays-workforce-really-wants/": {
+    "title": "Keeping Top Talent: What Today’s Workforce Really Wants - Home Furnishings Association",
+    "source": "Google News Search",
+    "published_at": "Mon, 28 Sep 2026 04:37:54 GMT",
+    "processed_at": "2026-09-28T14:54:31.005949",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.claconnect.com/en/resources/blogs/real-estate/how-new-irs-guidance-may-affect-real-estate-benefit-strategies": {
+    "title": "How New IRS Guidance May Affect Real Estate Benefit Strategies - CLA (CliftonLarsonAllen)",
+    "source": "Google News Search",
+    "published_at": "Mon, 28 Sep 2026 14:20:16 GMT",
+    "processed_at": "2026-09-28T14:54:31.279904",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nature.com/articles/s41372-026-02913-5": {
+    "title": "Randomized pilot study comparing standard vs high-calorie feeding in infants with Neonatal Opioid Withdrawal Syndrome - Nature",
+    "source": "Google News Search",
+    "published_at": "Mon, 28 Sep 2026 09:30:03 GMT",
+    "processed_at": "2026-09-28T14:54:32.590605",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tycoonstory.com/business-jargon/": {
+    "title": "Business Jargon: 75 Terms, Meanings & Examples 2026 - Tycoonstory Media",
+    "source": "Google News Search",
+    "published_at": "Sat, 26 Sep 2026 05:52:25 GMT",
+    "processed_at": "2026-09-28T14:54:33.272323",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hostinger.com/my/tutorials/ai-tools-for-social-media/": {
+    "title": "7 best AI tools for social media in 2026 - Hostinger",
+    "source": "Google News Search",
+    "published_at": "Fri, 25 Sep 2026 13:34:25 GMT",
+    "processed_at": "2026-09-28T14:54:43.380601",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.techtarget.com/enterprise-software/tip/Top-8-knowledge-base-products-in-2023": {
+    "title": "Top 8 customer support knowledge base software platforms - TechTarget",
+    "source": "Google News Search",
+    "published_at": "Tue, 22 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-09-28T14:54:43.697187",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.financemagnates.com/thought-leadership/broker-growth-strategies-free-webinar/": {
+    "title": "Broker Growth Strategies: Free Webinar with Devexperts - Finance Magnates",
+    "source": "Google News Search",
+    "published_at": "Mon, 28 Sep 2026 11:45:32 GMT",
+    "processed_at": "2026-09-28T14:54:44.350153",
     "status": "ignored",
     "telegram_message_id": null
   }
