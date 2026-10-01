@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html": {
-    "title": "Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 31 Jul 2026 11:00:03 +0000",
-    "processed_at": "2026-08-01T09:02:43.802829",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html": {
-    "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 01 Aug 2026 02:41:12 +0000",
-    "processed_at": "2026-08-01T09:02:43.895626",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/how-to-use-new-answerthepublic-guide/": {
-    "title": "How to Get the Most Out of the New AnswerThePublic (2026 Guide)",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-08-01T09:02:54.320605",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.pitchonnet.com/on-the-move/abhishek-b-steps-down-from-jiostar-40556.html": {
-    "title": "Abhishek B. steps down from JioStar - pitchonnet.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 18:15:53 GMT",
-    "processed_at": "2026-08-01T09:02:59.133275",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.salesforce.com/blog/tom-tailor-loyalty-program/": {
-    "title": "How Tom Tailor Revamped and Future-Proofed Its Loyalty Program - Salesforce",
-    "source": "Google News Search",
-    "published_at": "Fri, 31 Jul 2026 18:49:13 GMT",
-    "processed_at": "2026-08-01T09:03:08.132653",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.autonews.com/retail/an-group-1-us-branding-dealerships-0730/": {
-    "title": "Group 1 Automotive bets national brand will trump local dealership loyalty - Automotive News",
-    "source": "Google News Search",
-    "published_at": "Thu, 30 Jul 2026 19:17:00 GMT",
-    "processed_at": "2026-08-01T09:03:09.011405",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.oncnursingnews.com/view/supporting-oncology-nurses-beyond-resilience-to-retention-strategies": {
-    "title": "Supporting Oncology Nurses: Beyond Resilience to Retention Strategies - Oncology Nursing News",
-    "source": "Google News Search",
-    "published_at": "Fri, 31 Jul 2026 13:05:12 GMT",
-    "processed_at": "2026-08-01T09:03:18.388606",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.resonate.com/blog/how-predictive-consumer-intelligence-turns-retention-into-a-revenue-strategy/": {
-    "title": "How Predictive Consumer Intelligence Turns Retention Into a Revenue Strategy - resonate.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 17:31:59 GMT",
-    "processed_at": "2026-08-01T09:03:18.505475",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.hr-brew.com/stories/prioritizing-employee-well-being-helped-this-cpo-improve-retention": {
-    "title": "Prioritizing employee well-being helped this CPO improve retention - HR Brew",
-    "source": "Google News Search",
-    "published_at": "Thu, 30 Jul 2026 20:48:51 GMT",
-    "processed_at": "2026-08-01T09:03:22.125046",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://stories.tamu.edu/news/2026/07/31/why-your-doctors-keep-leaving/": {
-    "title": "Why your doctors keep leaving - Texas A&M Stories",
-    "source": "Google News Search",
-    "published_at": "Fri, 31 Jul 2026 14:13:07 GMT",
-    "processed_at": "2026-08-01T09:03:31.970230",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://europeangaming.eu/portal/player-retention-strategies/": {
-    "title": "Player retention strategies in iGaming: What works in 2026 - European Gaming",
-    "source": "Google News Search",
-    "published_at": "Thu, 30 Jul 2026 07:56:31 GMT",
-    "processed_at": "2026-08-01T09:03:32.213025",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://techrseries.com/recruitment-and-on-boarding/serval-launches-program-to-transform-employees-into-future-founders/": {
-    "title": "Serval Launches Program to Transform Employees Into Future Founders - HRTech Series",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 08:46:48 GMT",
-    "processed_at": "2026-08-01T09:03:33.809394",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.financialexpress.com/life/technology/youre-wasting-hours-uk-based-ai-entrepreneur-shares-20-claude-prompts-for-business-growth/4304913/": {
-    "title": "‘You’re wasting hours’: UK-based AI entrepreneur shares 20 Claude prompts for business growth - financialexpress.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 17:02:55 GMT",
-    "processed_at": "2026-08-01T09:03:33.972598",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/data/mobile-game-retention-rates/": {
-    "title": "Mobile Game Retention Rates (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-08-01T09:03:34.625456",
-    "status": "posted",
-    "telegram_message_id": 100
-  },
-  "https://brand-innovators.com/events/evolution-of-commerce-summit-lowes/": {
-    "title": "Future of Retail & Commerce - Brand Innovators",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-08-01T09:03:34.632476",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://finance.biggo.com/news/3315a198-8a7e-4ac7-a336-83d0083f6ad4": {
     "title": "From Bike-Sharing Monthly Passes to AI \"Nomads\": Why Are Product Managers Collectively Silent on User Retention? - finance.biggo.com",
     "source": "Google News Search",
@@ -6356,6 +6236,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 29 Sep 2026 14:35:02 GMT",
     "processed_at": "2026-09-30T13:19:55.539372",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html": {
+    "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 30 Sep 2026 22:27:26 +0000",
+    "processed_at": "2026-10-01T14:08:18.485701",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html": {
+    "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 30 Sep 2026 21:18:56 +0000",
+    "processed_at": "2026-10-01T14:08:18.587825",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html": {
+    "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 30 Sep 2026 19:26:02 +0000",
+    "processed_at": "2026-10-01T14:08:18.683631",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/01/podcasts/hard-fork-whats-next.html": {
+    "title": "What’s Next for ‘Hard Fork’?",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 01 Oct 2026 11:00:22 +0000",
+    "processed_at": "2026-10-01T14:08:18.784130",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html": {
+    "title": "When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 01 Oct 2026 09:02:57 +0000",
+    "processed_at": "2026-10-01T14:08:18.871923",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html": {
+    "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 30 Sep 2026 20:24:33 +0000",
+    "processed_at": "2026-10-01T14:08:18.967979",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/ai-visibility-myths-data/": {
+    "title": "AI Visibility at Scale: Learning From 9M Prompts and 400+ Enterprise Brands",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 30 Sep 2026 16:00:00 +0000",
+    "processed_at": "2026-10-01T14:08:19.041325",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.aol.ca/articles/upswell-marketing-expands-executive-leadership-120000000.html": {
+    "title": "UpSwell Marketing Expands Executive Leadership with New Digital Strategy and Technology Appointments - AOL.ca",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 12:01:53 GMT",
+    "processed_at": "2026-10-01T14:09:49.294530",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.hrmorning.com/articles/employee-retention-strategies-mid-market/": {
+    "title": "Employee Retention Strategies: 5 That Work When You Can’t Pay More - HRMorning",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 16:09:14 GMT",
+    "processed_at": "2026-10-01T14:11:14.434705",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.entrepreneur.com/building-a-business/what-a-simple-tie-taught-me-about-winning-customers-for-life": {
+    "title": "What a Simple Tie Taught Me About Winning Customers for Life - entrepreneur.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 14:02:05 GMT",
+    "processed_at": "2026-10-01T14:11:15.528009",
+    "status": "posted",
+    "telegram_message_id": 152
+  },
+  "https://wingify.com/blog/the-relevance-loop-wingz-agentic-ai/": {
+    "title": "The Relevance Loop: How Wingz Runs It for You",
+    "source": "vwo.com",
+    "published_at": "Tue, 29 Sep 2026 08:22:28 +0000",
+    "processed_at": "2026-10-01T14:11:15.535680",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://pulse2.com/outersignal-raises-22-million-series-a-to-expand-agentic-customer-personalization-platform/": {
+    "title": "OuterSignal Raises $22 Million Series A To Expand Agentic Customer Personalization Platform - pulse2.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 10:14:50 GMT",
+    "processed_at": "2026-10-01T14:11:15.542839",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.citybiz.co/article/911491/upswell-marketing-names-tony-hobley-chief-digital-strategy-officer-and-maureen-moran-cto/": {
+    "title": "UpSwell Marketing Names Tony Hobley Chief Digital & Strategy Officer and Maureen Moran CTO - citybiz",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 13:18:47 GMT",
+    "processed_at": "2026-10-01T14:11:15.549930",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/insights-into-action-wingz-ai/": {
+    "title": "Turn Insights Into Action: How Wingz AI Closes the Loop",
+    "source": "vwo.com",
+    "published_at": "Thu, 01 Oct 2026 08:27:48 +0000",
+    "processed_at": "2026-10-01T14:11:15.557024",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://biz.chosun.com/en/en-it/2026/10/01/LFFNBNZCQRCV7HVT5OOKAMDIUY/": {
+    "title": "HyperM Korea merges with Roots & Wings to expand AI-driven marketing - CHOSUNBIZ - biz.chosun.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 08:30:00 GMT",
+    "processed_at": "2026-10-01T14:11:15.564006",
     "status": "ignored",
     "telegram_message_id": null
   }
