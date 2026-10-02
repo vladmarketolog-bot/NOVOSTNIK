@@ -1,60 +1,4 @@
 {
-  "https://finance.biggo.com/news/3315a198-8a7e-4ac7-a336-83d0083f6ad4": {
-    "title": "From Bike-Sharing Monthly Passes to AI \"Nomads\": Why Are Product Managers Collectively Silent on User Retention? - finance.biggo.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 00:56:00 GMT",
-    "processed_at": "2026-08-02T09:07:52.289143",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.morningstar.com/news/pr-newswire/20260727sf12084/corelight-welcomes-veteran-customer-advocate-amanda-berger-as-chief-customer-officer": {
-    "title": "Corelight Welcomes Veteran Customer Advocate Amanda Berger as Chief Customer Officer - Morningstar",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 12:19:18 GMT",
-    "processed_at": "2026-08-02T09:07:58.509878",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.dealershipguy.com/p/most-dealers-don-t-know-their-customer-connectivity-rate-industry-veteran-says": {
-    "title": "Most dealers don't know their customer connectivity rate, industry veteran says - Car Dealership Guy News",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 22:56:20 GMT",
-    "processed_at": "2026-08-02T09:07:59.138403",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/": {
-    "title": "Automating customer retention workflows in Amazon Quick | Artificial Intelligence - Amazon Web Services (AWS)",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 15:24:21 GMT",
-    "processed_at": "2026-08-02T09:07:59.717559",
-    "status": "posted",
-    "telegram_message_id": 101
-  },
-  "https://www.jpmorgan.com/insights/business-planning/how-startups-can-assess-product-market-fit": {
-    "title": "How Startups Can Assess Product-Market Fit - J.P. Morgan",
-    "source": "Google News Search",
-    "published_at": "Mon, 27 Jul 2026 14:29:32 GMT",
-    "processed_at": "2026-08-02T09:07:59.723096",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mediapost.com/publications/article/413663/crunch-fitness-bealls-helzberg-shein-tecovas.html?edition=142032": {
-    "title": "Crunch Fitness, Bealls, Helzberg, SHEIN, Tecovas, Lead Insights at our Retail Brand Insider Summit - MediaPost",
-    "source": "Google News Search",
-    "published_at": "Fri, 31 Jul 2026 03:22:07 GMT",
-    "processed_at": "2026-08-02T09:07:59.728485",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.findarticles.com/digital-marketing-strategies-for-local-businesses-in-2026/": {
-    "title": "Digital Marketing Strategies for Local Businesses in 2026 - findarticles.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 05:43:17 GMT",
-    "processed_at": "2026-08-02T09:07:59.733783",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html": {
     "title": "If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
     "source": "rss.nytimes.com",
@@ -6356,6 +6300,126 @@
     "source": "Google News Search",
     "published_at": "Thu, 01 Oct 2026 08:30:00 GMT",
     "processed_at": "2026-10-01T14:11:15.564006",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html": {
+    "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 01 Oct 2026 11:55:56 +0000",
+    "processed_at": "2026-10-02T13:31:26.429869",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html": {
+    "title": "Who’s to Blame When A.I. Goes Rogue?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 02 Oct 2026 09:21:48 +0000",
+    "processed_at": "2026-10-02T13:31:26.537295",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html": {
+    "title": "As Gas Prices Rose, Sales of Larger Vehicles Slid",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 02 Oct 2026 13:22:04 +0000",
+    "processed_at": "2026-10-02T13:31:26.648945",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html": {
+    "title": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 02 Oct 2026 11:00:03 +0000",
+    "processed_at": "2026-10-02T13:31:26.746580",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/02/technology/amazon-data-centers-funding.html": {
+    "title": "Amazon Promises More Local Funding and Less Secrecy Around Data Centers",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 02 Oct 2026 12:56:28 +0000",
+    "processed_at": "2026-10-02T13:31:26.841822",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html": {
+    "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 02 Oct 2026 09:04:05 +0000",
+    "processed_at": "2026-10-02T13:31:26.975394",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/01/technology/amazon-slow-deliveries-dc.html": {
+    "title": "Amazon Settles Lawsuit Over Claims of Slow Deliveries to Low-Income Areas",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 01 Oct 2026 19:17:52 +0000",
+    "processed_at": "2026-10-02T13:31:27.076538",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html": {
+    "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 02 Oct 2026 09:35:43 +0000",
+    "processed_at": "2026-10-02T13:31:27.179677",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.streetinsider.com/PRNewswire/UpSwell+Marketing+Expands+Executive+Leadership+with+New+Digital+Strategy+and+Technology+Appointments/27125552.html": {
+    "title": "UpSwell Marketing Expands Executive Leadership with New Digital Strategy and Technology Appointments - StreetInsider",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 12:38:58 GMT",
+    "processed_at": "2026-10-02T13:31:27.369002",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.mortgagestrategy.co.uk/news/barclays-hikes-fixes-for-second-time-in-week-some-jump-40bps/": {
+    "title": "Barclays hikes fixes for second time in week – some jump 40bps - Mortgage Strategy",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 11:33:12 GMT",
+    "processed_at": "2026-10-02T13:32:30.250421",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.sas.com/en_be/insights/articles/analytics/insurance-customer-retention-in-the-ai-age.html": {
+    "title": "Insurance customer retention in the AI age - SAS: Data and AI Solutions",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 00:51:13 GMT",
+    "processed_at": "2026-10-02T13:32:50.854413",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.prnewswire.com/news-releases/upswell-marketing-expands-executive-leadership-with-new-digital-strategy-and-technology-appointments-302893673.html": {
+    "title": "UpSwell Marketing Expands Executive Leadership with New Digital Strategy and Technology Appointments - PR Newswire",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 12:00:00 GMT",
+    "processed_at": "2026-10-02T13:32:51.195279",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://clickz.com/amazon-primes-vice-president-says-loyalty-isnt-a-reward/273756/": {
+    "title": "Amazon Prime's Vice President Says Loyalty Isn't a Reward - ClickZ",
+    "source": "Google News Search",
+    "published_at": "Fri, 02 Oct 2026 00:29:40 GMT",
+    "processed_at": "2026-10-02T13:32:51.580377",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.brandvm.com/post/victorias-secret-marketing": {
+    "title": "Victoria’s Secret Marketing Strategy 2026: Rebrand, Campaigns, Influencers and the Fashion Show - Brand Vision",
+    "source": "Google News Search",
+    "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-10-02T13:32:54.901950",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://simplywall.st/stocks/us/software/nyse-hubs/hubspot/news/hubspot-hubs-stock-looks-fairly-valued-after-a-69-five-year/amp": {
+    "title": "HubSpot (HUBS) Stock Looks Fairly Valued After a 69% Five Year Fall - Simply Wall Street",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 01:53:39 GMT",
+    "processed_at": "2026-10-02T13:32:55.587329",
     "status": "ignored",
     "telegram_message_id": null
   }
