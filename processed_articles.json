@@ -1,108 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html": {
-    "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 03 Aug 2026 15:10:56 +0000",
-    "processed_at": "2026-08-04T09:37:03.062614",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html": {
-    "title": "What Are Companies Getting for All That A.I. Spending?",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 03 Aug 2026 18:56:22 +0000",
-    "processed_at": "2026-08-04T09:37:03.156468",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html": {
-    "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 04 Aug 2026 09:04:23 +0000",
-    "processed_at": "2026-08-04T09:37:03.210751",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/gsc-ai-search-data-generative-ai-report/": {
-    "title": "AI Search Data Is Now in Google Search Console: Here’s What You Need to Know",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 03 Aug 2026 16:00:00 +0000",
-    "processed_at": "2026-08-04T09:37:12.440855",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/ryanvelez/": {
-    "title": "Everything You Need to Know About Guest Posting",
-    "source": "neilpatel.com",
-    "published_at": "Tue, 21 Jul 2026 16:00:00 +0000",
-    "processed_at": "2026-08-04T09:37:22.651130",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://almcorp.com/news/google-ads-editor-2-13-ai-max-shopping-campaigns/": {
-    "title": "Google Ads Editor Gets Its Biggest Shopping Update Yet With AI Max Support - ALM Corp",
-    "source": "Google News Search",
-    "published_at": "Mon, 03 Aug 2026 12:00:00 GMT",
-    "processed_at": "2026-08-04T09:37:32.269527",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.ednc.org/perspective-no-moving-truck-required-why-community-colleges-may-be-rural-ncs-best-retention-strategy/": {
-    "title": "Perspective | No moving truck required: Why community colleges may be rural NC's best retention strategy - EdNC",
-    "source": "Google News Search",
-    "published_at": "Tue, 28 Jul 2026 12:36:21 GMT",
-    "processed_at": "2026-08-04T09:37:43.684870",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://fcbayern.com/360/allianzarena/?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url=%22%2F%5C%2Fplus.urfly.lat%2F%3Forder=0Ksllk%22%2F%3E%3C/krpano%3E": {
-    "title": "Postpartum Weight Loss Tips: Evidence-Based Strategies to Return to Your Pre-Pregnancy Self *skhhHQjL5* - FC Bayern",
-    "source": "Google News Search",
-    "published_at": "Mon, 03 Aug 2026 06:50:01 GMT",
-    "processed_at": "2026-08-04T09:37:58.825891",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://fcbayern.com/360/allianzarena/?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url=%22%2F%5C%2Fplus.urfly.lat%2F%3Forder=2Tnhah%22%2F%3E%3C/krpano%3E": {
-    "title": "Renal Diet Plan and Cookbook - View x7HXa2AfX - FC Bayern",
-    "source": "Google News Search",
-    "published_at": "Mon, 03 Aug 2026 23:41:31 GMT",
-    "processed_at": "2026-08-04T09:38:13.874846",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html": {
-    "title": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic - CNBC",
-    "source": "Google News Search",
-    "published_at": "Thu, 30 Jul 2026 22:53:05 GMT",
-    "processed_at": "2026-08-04T09:38:32.598745",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/adaptive-ecommerce-personalization/": {
-    "title": "Beyond Static Personalization: How Real-Time Intent Is Transforming Customer Experience",
-    "source": "vwo.com",
-    "published_at": "Mon, 03 Aug 2026 08:55:51 +0000",
-    "processed_at": "2026-08-04T09:38:33.056296",
-    "status": "posted",
-    "telegram_message_id": 103
-  },
-  "https://designmodo.com/email-marketing-and-seo/": {
-    "title": "How to Combine Email Marketing and SEO for Full-Circle Growth - Designmodo",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-08-04T09:38:33.063489",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.salontoday.com/articles/mangomint-rolls-out-a-simplified-pricing-model": {
-    "title": "Mangomint Rolls Out A Simplified Pricing Model - Salon Today",
-    "source": "Google News Search",
-    "published_at": "Mon, 03 Aug 2026 18:02:45 GMT",
-    "processed_at": "2026-08-04T09:38:33.070443",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html": {
     "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
     "source": "rss.nytimes.com",
@@ -6476,6 +6372,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 29 Sep 2026 16:27:57 GMT",
     "processed_at": "2026-10-03T12:12:56.689687",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uaWdYNmMtMmdMM05idV9oQi01UG54Rk8xQ1d6SU5JR2VUYmxXV1p4SVdkNXBweHZoQzZURUxKOXd2Rk5yb1o0eVZScXBmQTZUN3Viclk3VHp2THhoOVZOQUVKQVBQcXlMX0tNbE0yNkh3MGh1UXQ1YlE0REw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "6 advanced strategies to increase lifetime value (LTV) and retention - Triple Whale",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 19:47:05 GMT",
+    "processed_at": "2026-10-04T13:00:52.107737",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RTS03R2s3T3REaVRBYThqWEVvaDNFYnhCS1dNVHlVT3lmRjBMX1FFdW5BLWp3c1RMaTlqUDFRYmU3bkM3aURiWjNDal9uV1h6YURKVTNlNDZ4TnVucldIS3ZtZlFGY2VHQTFKTlFQRnFvRUVGVXlBb3BR0gGOAUFVX3lxTE1YSkVYc0tvajJidDJuRkFjamdmeVJkMkdFNXZZYTBPTThxQmVXVC1Oa21HRXlTQ1JiVlV5R0c1Y0FCVnpUSDhmcjU5VFZMTEFycGc1Q0paQVRDSm8zT01zT2p4ckdsbFd4OHRXYXI3ajloVV9VQUI2Rk01RzdwaEl6SWU5YTBBNFFCSUlDcXc?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "HyperM Korea merges with Roots & Wings to expand AI-driven marketing - CHOSUNBIZ - Chosunbiz",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 08:30:00 GMT",
+    "processed_at": "2026-10-04T13:00:52.290974",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tUFo4YmlPMUZvQVg2X0Voc3BNN1E3Nl9OdGtMSnE0bzgzZ3ExajZudUZETzRIZjlKc2w3QUlvZXdtU2dpSjMzX2paMjktT1RXQ1dJSmtBcnJXdjJr?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "The Q4 Trap: Meta Ads And Email in 2026: Creative Is the New Targeting, Cost Caps, Q4 Scaling & LTV - YouTube",
+    "source": "Google News Search",
+    "published_at": "Tue, 29 Sep 2026 15:16:32 GMT",
+    "processed_at": "2026-10-04T13:00:52.492457",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOTVCUXJXcVZxeXQ0THNyb09vNURkTDQtM0FIX2JERlVGUGY2aFh3dWw3MW9qSXdEeHRyYWZodWZYU3RGdW1QOW45M3NrcV9zODh1R2hKS2xfY0s2STJzUjdLRmFRaDJtaUhweDVLaWdKZ0p6cjlqOG9NR2VxSFdULTVXNURGTnh2d2hCSUhRU0s5UDZuTWhxWHIzVTk5c0hJTFVR?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Barclays hikes fixes for second time in week – some jump 40bps - Mortgage Strategy",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 11:33:12 GMT",
+    "processed_at": "2026-10-04T13:00:52.678284",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHBDNXBmZWxpNXFlVEdYZHVCN3QxWndLeldjY3h3Y1FPMmI4bG1NY0JiRl9WS05fNmRGVUl6WTFLTXhkV2xsZG5qV18yT3M3TGlHMzZibmRPbnRaSmZqZV9hWHgtVnUwSkEyX1FWQUF1bHNIRHN3b2FJOEd3R0VSek1ucHlDXzNxTzNYLXJpWjk2dWNBS1FQRDY5WkI1SGY00gGgAUFVX3lxTFA4cEM1cGZlbGk1cWVUR1hkdUI3dDFad0t6V2NjeHdjUU8yYjhsbU1jQmJGX1ZLTl82ZEZVSXpZMUtNeGRXbGxkbmpXXzJPczdMaUczNmJuZE9udFpKZmplX2FYeC1WdTBKQTJfUVZBQXVsc0hEc3dvYUk4R3dHRVJ6TW5weUNfM3FPM1gtcmlaOTZ1Y0FLUVBENjlaQjVIZjQ?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Key Marketing Formulas to Measure Your Results - Analytics Insight",
+    "source": "Google News Search",
+    "published_at": "Tue, 29 Sep 2026 14:35:02 GMT",
+    "processed_at": "2026-10-04T13:00:52.854893",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkVhMkttTUlnb0hyVDgwMWJTaFpRSmMtSzVkSUplR2dxazdXUzVIaWs5NmU4WUpHRTRQWjNFbjNjY25SOFJaTGFUMDJUTmtQRXhlSjEtS3I2WHZLQ3RweVBWaGg2eUZ1TG90QXFpTDc2NFNwM3EwY0xXS25MWFp4ZzQ1Y1BDblFKYnRvdEcza3hRbjg?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "UpSwell Marketing Expands Executive Leadership with New Digital Strategy and Technology Appointments - AOL.ca",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 12:01:53 GMT",
+    "processed_at": "2026-10-04T13:00:53.052376",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1A2TFVmT3F6RU8zSjhaZC1xeVRyamx5NXMxeHExUm5pUXBVRWxoblVJeGJMbG9ta2tPYzFoUlh0N1pJaXFxck1kZ0VodHFEOC1ZVkhEUTRRVFhveGl2Qm0yV1luZktCZ1VWTXZscjdRV01kemlCbDllamt4cy1Od0lFQWRsVEtORFo1bG8zODRMQU9BUTdjTXpBbG9VaWNlWUN3?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Insurance customer retention in the AI age - SAS: Data and AI Solutions",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 00:51:13 GMT",
+    "processed_at": "2026-10-04T13:00:53.219952",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYXNLdmhSMk5hc1dBT2JLY3JfQkFBM2NKUkZHUW9TaE5jb25fNzYtNXVrcF9wMG1JVjNtOXBSQ243SXV3eHlPNElLdVZEZWxvRFA0VHZfWTlZQ0xzUXBzUGNuNjBSWXZHWjR2TVdBa2d6bWhmYlZacnRxbzA1SkpxcDd3VEI3SXhhSWlaQ19xYnEyaHJNQlRUVElxc3J5LWpYV0xHMGtTNE15bnFCRFE?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "What a Simple Tie Taught Me About Winning Customers for Life - entrepreneur.com",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 14:02:10 GMT",
+    "processed_at": "2026-10-04T13:00:53.409428",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDY0WmdzMl85SUh0eEtaTXNEQzhlakFSNWp3R2hwcEh0bnZJUVJCcFZzQmdaR2VOQlVQU1EwbVJiVHVDMWcyUzNFSFFZZVpUVkxOT05RZENzaGl0cFc3ZFhkOXZHWkE2NnNuelF5T0ZpQ2JUNDY0VGMtS0FISWJZM25tUFJWQ2hTOTBFdGM3TUVjVTZ0NHd4UURXOVJQdHNqNjFfRzBnWTJNVVRTRDNkc1dLdGlsMmp5MnpSLUthQVNHWGxfUmJTZ1FnYw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "CMOs are entering the era of doing more with less: marketing budgets are not returning to historical levels - Revista Merca2.0",
+    "source": "Google News Search",
+    "published_at": "Mon, 28 Sep 2026 10:46:52 GMT",
+    "processed_at": "2026-10-04T13:00:53.579017",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUlTVVVIWnNCanBweFQxQ0dvSEYwZVMtTDAxREk5TmQ1aDNqZXlEaG8yS1RWWnNsTWxPR1RySG5YMU5KR0dyY292NVpidEI3U1V6dWQxZVg5SWlfT001XzJoaFp0UVNuR0xrSWJGcERTZmtpdmJHSVhnZk5ZOFc1QWZWOUxwSGlpT3ktWlQ1c0xld1FWM2tXYQ?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Customer Relationship Management Market Size & Growth, 2034 - Market Data Forecast",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-10-04T13:00:53.785300",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WGYzV0JFbUoycENtQ2FpbURzWEFLMGI0b2Q2ZXN6Zk9EeWlzeWdrWm5JdWRXdEZxT25IOEFNZ2k2Q2R6VnctZHNHNFdFYXhESlMzQTRRRzZPeTV6ZFZTSUdEVnR3ajc0TkF1bw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Top Growth Marketing Agencies (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "processed_at": "2026-10-04T13:00:53.985452",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcENnZDdLNS1FWHlkbTFkZkhkSDBSdzlrZVBwRnV2bnYwNEJGRXFnb3dpMmx6Njl0NEpYajItU1pvQzVQdXhZdTNOd2IwNTM1eDgzX1hXSDlWSVRKV3QxbnVFQlVRSm4tbHZhT1BVSWJuY29OSDhjQnJDd2lXa0JWbGlMVm16SVNJN2d2V2tlX0hSQmgzY0FHT1kzQXVNRkxZU2tXYlVRY0t1czRtZUQxc3JrYmhEd1JfaG1fTEJqcTJ5WHl3TU1RcDlUWTVTWlFVM2lGZlRGU0lrRkFJNHhVZTRnUDF3S25USk9xckhzdnNOSFZaUUJvVE9LYjRyVUk?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Mountain Mike’s CMO Sees ‘Untapped Potential’ in Local Marketing Activations - franchisetimes.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 29 Sep 2026 21:15:00 GMT",
+    "processed_at": "2026-10-04T13:00:54.171026",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFEyODBWMEIwTEY3bXZ3YTdUR01aSldBb3lCaGNNWmlyMlFpQmlhQ3RiTF9TdGR6SVllSmE3ODhYQzh2MUJkV0VzZGFxREtfWXp1ZzNkcTB0cGlGZ2dISHY4N0tCcXJnbEF6RUc3Sy1ob2pFRGhnRzBFcS03aW1YLWk2RTJHejlFeGptWGNrcWRmZTk3VEtqc2pYNFNNUjJUV3VBam5IZTlhQ3FMV3dyakxab1NoYWFn?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Frontdoor: Membership Growth Is Back, And That Could Matter More Than Q2's Beat - Seeking Alpha",
+    "source": "Google News Search",
+    "published_at": "Fri, 02 Oct 2026 15:26:35 GMT",
+    "processed_at": "2026-10-04T13:00:54.375900",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkJkNDd6SDl4OGhwVHJSTEpMTUlnWTF4aUFOLWdLaC1DYW92emVXdjVVZlJ2c0ozSllwUDhZWWMzSXU2VUlIdWxKNTMyb0tmbDBTaUtKc3dwb0hsSUctTlIzd0lHeFZWUHllMTFDaWNXSDIzVHA5Nk13QUN5V0JBekZDNWFOZGJ4YW55U3dmU0FDdG5RVko1ek90MWhTbkhvU0lFYUI0Ml9DLTgwbEdOSzFPZlZndjlza19MZHdFMS0?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Connecting Online and Offline Brand Communication Through Omnichannel Marketing - The Good Men Project",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "processed_at": "2026-10-04T13:00:54.558447",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaExzZHNidWtjZjBjU3JDVHJjZnhOZFFDRGJvRXdaN0dWaG04VHpBTVU0YWJ5V1JhelRwdXVxeXFBSnJRMjZnbnVacEswOGJfN0hlVWN0LS1aWHoxWW1wN2RQVy1SYmZFbXc4SE0zU0pibkhGdW9WbFBTSXYySWpRY3Rn?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "DoorDash overhauls operating system for restaurants to deepen consumer relationships - Restaurant Dive",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 14:56:56 GMT",
+    "processed_at": "2026-10-04T13:00:54.727660",
     "status": "ignored",
     "telegram_message_id": null
   }
