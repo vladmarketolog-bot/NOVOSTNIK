@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html": {
-    "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 04 Aug 2026 22:52:45 +0000",
-    "processed_at": "2026-08-05T09:34:07.537306",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html": {
-    "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 04 Aug 2026 18:32:54 +0000",
-    "processed_at": "2026-08-05T09:34:07.632609",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html": {
-    "title": "Trump White House Readies AI Framework to Review Security Risks",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 05 Aug 2026 00:17:54 +0000",
-    "processed_at": "2026-08-05T09:34:07.736603",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html": {
-    "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 04 Aug 2026 17:12:58 +0000",
-    "processed_at": "2026-08-05T09:34:07.854918",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html": {
-    "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 04 Aug 2026 14:44:08 +0000",
-    "processed_at": "2026-08-05T09:34:07.946936",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://tribuna.com/amp/en/casino/news/2026-08-04-martin-varrand-ceo-at-marketing-minds-if-your-entire-acquisition-strategy-is-built-on-lis/": {
-    "title": "Martin Varrand, CEO at Marketing Minds: “If your entire acquisition strategy is built on listing fees and CPA networks in 2026, you're funding everyone's business except your own” - Tribuna.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 04 Aug 2026 08:15:00 GMT",
-    "processed_at": "2026-08-05T09:34:08.005429",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.markhub24.com/post/lifecycle-marketing-engaging-customers-at-every-stage": {
-    "title": "Lifecycle Marketing: Engaging Customers at Every Stage - MarkHub24",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 04:53:10 GMT",
-    "processed_at": "2026-08-05T09:34:40.675306",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://thewisemarketer.com/ai-is-rewriting-the-customer-journey-and-your-marketing-measurement-needs-to-catch-up/": {
-    "title": "AI Is Rewriting the Customer Journey - And Your Marketing Measurement Needs to Catch Up - The Wise Marketer",
-    "source": "Google News Search",
-    "published_at": "Tue, 04 Aug 2026 22:48:24 GMT",
-    "processed_at": "2026-08-05T09:34:40.748161",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.martechcube.com/drivecentric-launches-service-engagement-hub/": {
-    "title": "DriveCentric Launches Service Engagement Hub - MarTech Cube",
-    "source": "Google News Search",
-    "published_at": "Tue, 04 Aug 2026 12:32:30 GMT",
-    "processed_at": "2026-08-05T09:34:40.933014",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.fico.com/blogs/customer-level-decisioning-achieving-lifetime-loyalty-hyper-scale": {
-    "title": "Customer-Level Decisioning: Achieving Lifetime Loyalty at Hyper Scale - FICO",
-    "source": "Google News Search",
-    "published_at": "Tue, 04 Aug 2026 09:35:00 GMT",
-    "processed_at": "2026-08-05T09:35:24.541251",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cfodive.com/news/fewer-companies-plan-peanut-butter-pay-increases-in-2027-payscale/827012/": {
-    "title": "Fewer companies plan ‘peanut-butter’ pay increases in 2027: Payscale - CFO Dive",
-    "source": "Google News Search",
-    "published_at": "Tue, 04 Aug 2026 20:48:48 GMT",
-    "processed_at": "2026-08-05T09:36:05.743931",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.storyboard18.com/how-it-works/why-cmos-are-starting-to-treat-loyalty-budgets-like-media-budgets-106388.htm": {
-    "title": "Why CMOs are starting to treat loyalty budgets like media budgets - Storyboard18",
-    "source": "Google News Search",
-    "published_at": "Tue, 04 Aug 2026 02:01:02 GMT",
-    "processed_at": "2026-08-05T09:36:06.672577",
-    "status": "posted",
-    "telegram_message_id": 104
-  },
-  "https://www.nonprofitpro.com/article/repeat-and-recaptured-donors-power-growth-on-a-shrinking-donor-base-new-data-shows/": {
-    "title": "Donor Retention Drives Fundraising Growth in 2026 - NonProfit PRO",
-    "source": "Google News Search",
-    "published_at": "Wed, 29 Jul 2026 16:18:54 GMT",
-    "processed_at": "2026-08-05T09:36:06.679820",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://elitebusinessmagazine.co.uk/people/engagement/item/how-small-frictions-undermine-customer-retention": {
-    "title": "How small frictions undermine customer retention - Elite Business Magazine",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 07:22:25 GMT",
-    "processed_at": "2026-08-05T09:36:06.686842",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://stockstory.org/us/stocks/nyse/rsi/news/earnings-call/rsi-q2-deep-dive-online-casino-momentum-and-marketing-drive-guidance-lift": {
-    "title": "RSI Q2 Deep Dive: Online Casino Momentum and Marketing Drive Guidance Lift - StockStory",
-    "source": "Google News Search",
-    "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-    "processed_at": "2026-08-05T09:36:06.693929",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html": {
     "title": "How China’s A.I. Is Surging Across Africa",
     "source": "rss.nytimes.com",
@@ -6492,6 +6372,126 @@
     "source": "Google News Search",
     "published_at": "Thu, 01 Oct 2026 14:56:56 GMT",
     "processed_at": "2026-10-04T13:00:54.727660",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html": {
+    "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 05 Oct 2026 12:57:32 +0000",
+    "processed_at": "2026-10-05T15:30:45.076824",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html": {
+    "title": "US Solar Panel Makers Try to Catch China With a Big Leap in Technology",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 05 Oct 2026 15:05:39 +0000",
+    "processed_at": "2026-10-05T15:30:45.169723",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html": {
+    "title": "Are Babies Conscious?",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 05 Oct 2026 15:12:12 +0000",
+    "processed_at": "2026-10-05T15:30:45.250869",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html": {
+    "title": "Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 04 Oct 2026 21:04:45 +0000",
+    "processed_at": "2026-10-05T15:30:45.335399",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFNxY3pFMzY2VTBGZE1jTURMamRhRks2RUl2WnNOdm4zS252a1c0NmQ3b2NZTm5hWkt5NDQxbXk2MkZyZTFPVndpLUhRLWtYT1FIWW0ydnlyU0FSVHl1SW9UMkprby1RazhKM2FXcFIzQmhZT1VZS3pqWk1nZmFWTHBRNTZmNUcxemk1YlI5RHBfT29hS2VxUjV3?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "AppNava raises $2.3M to predict mobile app users' future value - Dealroom",
+    "source": "Google News Search",
+    "published_at": "Mon, 05 Oct 2026 13:11:38 GMT",
+    "processed_at": "2026-10-05T15:30:45.466707",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRHZsSkRQb1BXc1h6Ul9WVDYxT1RORDRLU2xHY0xsSG9JTmRoMk5SMm5RUXJ6X2FRUlltQzdpYXhXVG9jZTNkd3d6SnE3TGxMYzBLZTAxUkZoWEplaEg0TVQwSjZhU0lFT0g0c01tVVZHLTJlN0otZVRBZEt4VXJhVWxOUHRjMUVyTTRrVmFn?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "TSB and Coventry make further rate increases - Mortgage Strategy",
+    "source": "Google News Search",
+    "published_at": "Mon, 05 Oct 2026 11:14:11 GMT",
+    "processed_at": "2026-10-05T15:30:45.591825",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4N0liaHgxTlZ5aEtKcnNYb29DVUVWWjMtU0hPRVJpQ3ExaE96b0ZDUnprNWZZNS0tWWZPTUlqT05BNUo4TGVoc3lmXzA5NFgxNXhlVzliMzdDMmQxVFRHWkxR?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Episode 63: Beyond the Marketplace – Jeff Frost on DoorDash Direct - PMQ Pizza",
+    "source": "Google News Search",
+    "published_at": "Tue, 29 Sep 2026 20:42:49 GMT",
+    "processed_at": "2026-10-05T15:30:45.729973",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FdnZVNmk4cTJ6a2ZwNlZyTG9LRmJLc25mR1gyLUFIRXdYLUtKaEFEZlo4UHpMVER5N1k5ckptbTJxUU1RSnBncGlqdEgxbmw5d2FTcmFmc2Mxc0dubjloblA0dGxRdm1vVXBKVg?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Top Mobile Marketing Companies (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "processed_at": "2026-10-05T15:30:45.872529",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0xQZjNXMVl1TGJHRWk0YWU5dVZ6RnhZVjVEdE9QbzZEWVRIMmlXWXNvTFctSlRvMmx2WjdhYWw2NVl6QTEwRlJ1VE1GeWxGNW9Qb2VnX1I2YjZzU2hxYkcxZnJlQTZId1FMTno0SmhtcjloSXhIRmNQZVNlY1hFcnBzekQ2NVRPaGcwOFIxaTZkSmc2ZUxPMFpQWFJZVmJlWTlLNEJpcXNLelBQdHFPYS1yUGh0SVAtbjFkZENaZVhON1VWN3c?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "UpSwell Marketing Names Tony Hobley Chief Digital & Strategy Officer and Maureen Moran CTO - citybiz",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 13:18:47 GMT",
+    "processed_at": "2026-10-05T15:30:45.999879",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2ZSZ1lYMXBhY054T1lXN1FNd0VxdnJFb2tzME9rTkZJS295TXI2eW5KSWFhNlZNS0FpLWZsVVo4a2YxaTY4U3lUX2ZCVVpOQm1lWFdxVmVYNjlCS0tmbThQZHpva0hmT2Z6b3AtaU5ldldxS0ppb2JXRzNYcG5sTXFvZ3VWX1pFU2c?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Amazon Prime's Vice President Says Loyalty Isn't a Reward - ClickZ",
+    "source": "Google News Search",
+    "published_at": "Fri, 02 Oct 2026 00:29:40 GMT",
+    "processed_at": "2026-10-05T15:30:46.151188",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmRGREdfU0VpaC1xSy1RLWUxSUdzZ1VSOGw3R0JWT3c5NE9sN1Axbmw0eWJmTW5nZFJRSWxnZnBtSnZsS1Fjc2lKZFZJOXNTOS1SWlgzcVZCMElhLWhQNjA3MTdxemt1MWxSaE1qaGw0bUFkTXZQWWdSdWUycE55cDhn?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Employee Retention Strategies: 5 That Work When You Can’t Pay More - HRMorning",
+    "source": "Google News Search",
+    "published_at": "Wed, 30 Sep 2026 16:09:14 GMT",
+    "processed_at": "2026-10-05T15:30:46.275250",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpwQTJlOThlVG9DdDFZTnVvMVZ3YlRBYnU3WE5tSF9ydXBIalBBbVJYSjkxbkVNRy1YVTJ5WDFaZi1qYm9QTHVaeGdGb3FVcG9WeHh4cWt3YlRJeWVNWXlZTkNfNl9kYU1SRUxKbF84Rlh0aTNmeTBIQ3IzNVVBRTZLcXpvcTRwdUlHRS1QZVNCcW1QLUtJcU9FQmFSOHBmZHc?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "CEOs share advice for HR strategy, employee retention in 2027, part 1 - Employee Benefit News",
+    "source": "Google News Search",
+    "published_at": "Tue, 29 Sep 2026 16:56:22 GMT",
+    "processed_at": "2026-10-05T15:30:46.404402",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnlCejZqaVdIbzVQNC1DWWt4Q0dETEFocWtzMUpJSmxtSjF6eEotd1RfX1ZELWU3WHVjbXZCbnZ1a3BpYklMNElQRWdlMlF6bUVLMnc2VlZ6MFgwTWkzRTN4VlNTVHRmVm1hRzVqcXJlbnVLcUtYUTcyNHpJSWljeTFmLVdtanRuNVltR2J3NnRYc0Y5X1ExemtGYm5mWEpoOEU4SlJUWExodw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "State audit flags CCSD spending on recruitment, retention and district cards - KSNV",
+    "source": "Google News Search",
+    "published_at": "Fri, 02 Oct 2026 02:32:45 GMT",
+    "processed_at": "2026-10-05T15:30:46.551091",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmRibWNCd0l4R0dySkFPcG1jR28wNW1qUnJnYjQtNVViOFItZG9EZ0ctVHEydk9sV2ZTRDFpUWE5ZnNVVEdLUmktc3ZSM0d3QUhEN1VnS0MxZlB5RFI2SFRBN0VsMUtqRkxXVjQySUdVQUtQRmFNa05ka2Y5R2VHSVhjbnZ4NjJMUVF3dXhkQ1ZxM0NGM1paRHh4OFNKNFlkQk9NRC0ybXBvZXRVUWc?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Winning the Long Game: Advanced Strategies for Sustainable App Retention - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Mon, 28 Sep 2026 22:20:55 GMT",
+    "processed_at": "2026-10-05T15:30:46.695897",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmlKd3F6REN4elFMMEtEV0JoUHNnX3pGX1RjN09haUgyVDhmZUE1OHkwWkZEOFV1cEtQT2FkeHZNM1llWkNMaWJBWDVELTgwcWR3dmVkZHBZOWpaZmZoZTJhcXVLWlJocm5MVFNJaE5Fc3hRd1BHUHFRcWRGYklWVHptdw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Director of Engagement and Inclusion • Human Resources - Carthage College",
+    "source": "Google News Search",
+    "published_at": "Tue, 29 Sep 2026 10:53:45 GMT",
+    "processed_at": "2026-10-05T15:30:46.851083",
     "status": "ignored",
     "telegram_message_id": null
   }
