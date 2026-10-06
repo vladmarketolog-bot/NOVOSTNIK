@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html": {
-    "title": "How China’s A.I. Is Surging Across Africa",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 05 Aug 2026 20:41:16 +0000",
-    "processed_at": "2026-08-06T09:37:09.470823",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html": {
-    "title": "Four Top Google A.I. Researchers Form New Start-Up",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 05 Aug 2026 16:00:07 +0000",
-    "processed_at": "2026-08-06T09:37:09.559823",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/06/technology/personaltech/carry-wall-street-in-your-pocket-with-these-free-apps.html": {
-    "title": "Follow the Markets and Track Stocks With These Free Apps",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 06 Aug 2026 09:03:19 +0000",
-    "processed_at": "2026-08-06T09:37:09.649200",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html": {
-    "title": "TikTok Is Laying Off 250 Employees in Its Nashville Office",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 06 Aug 2026 00:24:06 +0000",
-    "processed_at": "2026-08-06T09:37:09.762926",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html": {
-    "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 05 Aug 2026 19:17:33 +0000",
-    "processed_at": "2026-08-06T09:37:09.870137",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/linkedin-ai-slop-crackdown-content-strategy/": {
-    "title": "LinkedIn Is Cracking Down on AI Slop. Here’s What That Means for Your Strategy",
-    "source": "neilpatel.com",
-    "published_at": "Wed, 05 Aug 2026 16:00:00 +0000",
-    "processed_at": "2026-08-06T09:37:50.767494",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/wingifys-unified-suite/": {
-    "title": "Why Wingify’s Unified Suite Turns Optimization Into a Competitive Advantage",
-    "source": "vwo.com",
-    "published_at": "Wed, 05 Aug 2026 09:05:24 +0000",
-    "processed_at": "2026-08-06T09:38:04.958909",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://customerthink.com/85-of-movers-expect-your-marketing-most-brands-stay-silent-anyway/": {
-    "title": "85% of Movers Expect Your Marketing. Most Brands Stay Silent Anyway. - Customer Think",
-    "source": "Google News Search",
-    "published_at": "Thu, 06 Aug 2026 04:41:34 GMT",
-    "processed_at": "2026-08-06T09:38:24.037746",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.thefastmode.com/leadership-and-management/50034-plume-appoints-rebecca-stone-as-chief-customer-marketing-officer-to-strengthen-isp-customer-success": {
-    "title": "Plume Appoints Rebecca Stone as Chief Customer & Marketing Officer to Strengthen ISP Customer Success - The Fast Mode",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 23:56:52 GMT",
-    "processed_at": "2026-08-06T09:38:36.513506",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://loyalty360.org/Content-Gallery/Loyalty360-Supplier-Member-Insights/Supplier-Perspectives-Building-the-Modern-Loyalty": {
-    "title": "Supplier Perspectives | Building the Modern Loyalty Team: Why Capabilities Matter More Than Job Titl - Loyalty360",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 22:10:45 GMT",
-    "processed_at": "2026-08-06T09:38:36.750018",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/pk/enterprise/blog/holiday-marketing-ecommerce": {
-    "title": "Boost Sales During Ecommerce Holidays With Smarter Ads - Shopify",
-    "source": "Google News Search",
-    "published_at": "Thu, 06 Aug 2026 00:18:06 GMT",
-    "processed_at": "2026-08-06T09:38:50.379045",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://markets.businessinsider.com/news/stocks/ecdma-global-awards-announce-2026-winners-in-marketing-and-e-commerce-1036402607": {
-    "title": "ECDMA GLOBAL AWARDS ANNOUNCE 2026 WINNERS IN MARKETING AND E-COMMERCE - markets.businessinsider.com",
-    "source": "Google News Search",
-    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-08-06T09:39:45.238754",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.send2press.com/wire/halo-programs-launches-self-service-crm-registration-while-preserving-white-glove-service/": {
-    "title": "Halo Programs Launches Self-Service CRM Registration While Preserving White-Glove Service - Send2Press",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 18:36:27 GMT",
-    "processed_at": "2026-08-06T09:40:03.232151",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://homehealthcarenews.com/2026/08/inside-the-90-day-retention-strategies-at-thekey-dispatchhealth-elevate-home-health/": {
-    "title": "Inside The 90-Day Retention Strategies At TheKey, DispatchHealth, Elevate Home Health - Home Health Care News",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 20:46:08 GMT",
-    "processed_at": "2026-08-06T09:41:06.368725",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://today.troy.edu/news/grow-southeast-alabama/": {
-    "title": "TROY's SBDC facilitates meeting between economic developers in the Grow Southeast Alabama coalition and representatives of the U.S. Small Business Administration - Troy University",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 15:28:24 GMT",
-    "processed_at": "2026-08-06T09:41:10.971988",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html": {
     "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
     "source": "rss.nytimes.com",
@@ -6492,6 +6372,126 @@
     "source": "Google News Search",
     "published_at": "Tue, 29 Sep 2026 10:53:45 GMT",
     "processed_at": "2026-10-05T15:30:46.851083",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html": {
+    "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 06 Oct 2026 09:03:19 +0000",
+    "processed_at": "2026-10-06T13:52:52.160639",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/06/arts/gears-of-war-e-day-review.html": {
+    "title": "Gears of War: E-Day Is Nostalgic With Rich Visuals",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 06 Oct 2026 09:01:01 +0000",
+    "processed_at": "2026-10-06T13:52:52.259525",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html": {
+    "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 06 Oct 2026 08:51:52 +0000",
+    "processed_at": "2026-10-06T13:52:52.373552",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/ai-is-reshaping-pr-budgets/": {
+    "title": "AI Is Reshaping PR Budgets",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 05 Oct 2026 16:00:00 +0000",
+    "processed_at": "2026-10-06T13:52:52.449913",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://wingify.com/blog/feature-flag-management-in-enterprise-experimentation-platforms/": {
+    "title": "Feature Flag Management in Enterprise Experimentation Platforms: Complete Guide",
+    "source": "vwo.com",
+    "published_at": "Tue, 06 Oct 2026 06:14:21 +0000",
+    "processed_at": "2026-10-06T13:55:37.155797",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlpudW5FVVdIdVBNUmtHZTUzZkZuaFRLVnF3TjduekJQUWhuNnVMR3lYN3N6SllvZEFkeHp0MWYxZlQ0NWtxeDU3cmtQNFQ1SVFQVzhiWXhZYUo0V0dZeFJZbHhyMndPbTJMUEJ4MURadWphWDNHSkVma2lpblc4R2RoX1lzUXBZZldvdHlTbmRNU1RpMFFpekc1alRzV2VHakpRNmJkWVRydl9SamtreExzWERLVC1QbHc?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Trust isn't created because an algorithm knows more about you: Ashish Aggarwal, True Balance - MediaNews4U",
+    "source": "Google News Search",
+    "published_at": "Tue, 06 Oct 2026 04:14:32 GMT",
+    "processed_at": "2026-10-06T13:55:37.273559",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HUzVFZ25fZXVaQmEwZkxuZDZ3X214SXF4R2NXVkFEWHBPUDcwRlhwTENCZVU3T3lHOXFicjFzSHJwOEZaOVdfMDF6NDRYRVZ5TUlhOFpkRk82cXY5NUdyYUx3dHljWkVkaW40aVczTFNRQjN2aEZZQy1TV0k?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Gen H cuts rates by up to 30bps - Mortgage Strategy",
+    "source": "Google News Search",
+    "published_at": "Tue, 06 Oct 2026 09:13:21 GMT",
+    "processed_at": "2026-10-06T13:55:37.390201",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajRkSnNVS1RiU1MzM0tXa25TQXhfLUI5dW54RVBuV1U5MmdFRkVvX3ZMNVU5WHpGYU5qZ3p5cEZaYVZGRHFIeWZGMDNMRzVKanBjODJYcGY2TTJYS250Ql9OY2MzbkUzcXMtbUlQdmctbUdvQlRSMHJIN0Q2TjdaNDFmeE5uRWhZaGxJUXludw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Accord lowers resi new business rates by 0.10% - Mortgage Strategy",
+    "source": "Google News Search",
+    "published_at": "Mon, 05 Oct 2026 16:08:19 GMT",
+    "processed_at": "2026-10-06T13:55:37.503672",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnRXWTRmSHF6MHh3Z0F0WldWNDU0Q0Q2U1pvRkpCX0NreW1maUZwa2IwLURaQm80QmdsYS1Ic1lpMXZvUDI3SVNlTktoM09XbEk0T0FuSXhueFlRYUJlREswQmxfSTZ0d2ZpMV9TdmU4Z2Y1M3FvblFyLXlzOEtIcFBzekR6UUxaY01NTDZwU09zaEd0ZU9rbWpCanVBSTljNVg3RDJJRUw2Wi1lWGx5alVHOW5aeWZHLVE?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "How an online MBA in marketing builds skills for a digital marketplace - AZ Big Media",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "processed_at": "2026-10-06T13:55:37.615209",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVJqRXp6akVVWEtUa0ZscEl6X0RVWDY2elNIZVVBcHpfb00tbV9sUDdxM2UtX0dySUVGUlExbEFwSFRCRTNvUDNyTEotRXNFRjgzN3hnNmR1dlRhZlo4bWZlbWh4R09fNGpFRVVoUDZTM0I0R3luTkpHVFVRYWRveVA5dXQwTkdnQi12T3RpRFRnNEN1TFJqbWtySTFZNndzU0lqU3hkRHltRUNaOXRIWg?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Why Calix came to a cable show: Fiber gets customers connected. AI keeps them. - Fierce Network",
+    "source": "Google News Search",
+    "published_at": "Mon, 05 Oct 2026 17:05:18 GMT",
+    "processed_at": "2026-10-06T13:55:37.729025",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SOWNFTXVIVDF0VkI1YS1oS3JvQW9FNGh6dHdqYlgwVnV3ZmFiRlV5Z3U0UXMwLUJ6RW94S0IxQW5KcjRQTGRvNWZfbUozMTVrSHpxWk9wdGdXZVpUaWt4Vg?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Using Campus Climate Data as a Retention Strategy - insightintoacademia.com",
+    "source": "Google News Search",
+    "published_at": "Mon, 05 Oct 2026 15:24:19 GMT",
+    "processed_at": "2026-10-06T13:55:37.848229",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSlNtcVYxcF9BUTFsdkh2UTlrY0g4eGNjazNPQk5rQ1JBU1lFSm9mR2tUVEtzTktRaTB3UjJwN1o1Z25qNlVhSGtQd1Q1bW5OUGdpTFk4OEYyTVhfcXVuMEZCTmdiMUVaQ0Q1bmh3dDR6T2h6eHplSXpTanJmbGw0amZZWnlxNjZRUWl4NF85UjVOS2JHVFpfdEdsX2prQ1d6aGMyb3g3LV9GSWFwSDhCYV9fY0dzVXBWNEYyNHQtdjZGMVBpTFpndTBjOEhTbFVDWkN3Y0tHNmlwVVdvbjhfVTBCSkkyTVJlR3I0Q0pTUmNMTF9mcEs4?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "GVSD candidates talk budgeting, staff retention, and technology use at candidate forum - theunion.com",
+    "source": "Google News Search",
+    "published_at": "Sat, 03 Oct 2026 10:15:00 GMT",
+    "processed_at": "2026-10-06T13:55:37.954868",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVNqWTVHVmNpelBwTG1aYUxJeG12VjFYdDJOM1FQdFkwMXc0MkJaYXg0RlRwWDRlZmNsY0NuclZ6ZzRQaE9URDRkNVRXV2FjTjdqdlFac1BBOWpXdWVVZDFuVXVrWkZMOF9ELU5RSUZQNGE5QUt0bHlrWTNEbVVCUXF2M2RRQVotSEpUOEdMYUpBX1ZV?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued - HRMorning",
+    "source": "Google News Search",
+    "published_at": "Tue, 06 Oct 2026 09:13:35 GMT",
+    "processed_at": "2026-10-06T13:55:38.072705",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGlOR1RKTjBkcUFqR1ltRVZYNWJYckpYX21oTU1fVERySkdZMExLWmQwSlRrV0VFb0JEbm45NHJRMHpnNFBjbDZIN3hwS3pTWEZrS3lpbnJlRzA3Z2hRV2ZjT0ZvejBOaUEyYXNlYWtfaURyeWF4azdBVnVMVk81SkJxOGFUZW1XNDFNMmV0dlZTaWx5Q2JibklzamxUQ0l4Z3VGTEtMT0dnT0NoaDNraDdGM3JOM1dpWk1UeTh5U1JqMVk?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Teacher Retention Requires a Broader Lens: One Size Does Not Fit All - Akron Beacon Journal",
+    "source": "Google News Search",
+    "published_at": "Thu, 01 Oct 2026 12:34:02 GMT",
+    "processed_at": "2026-10-06T13:55:38.175702",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUU5GZ041RHdpamxLNkRxeXdmLXlNWnE4RGhLYkJXb1lNSkJxbUZadC1sancwLWxQc1NneDRMQmJtNEFmc0VjSFdpSDRNMzNMRmRsWWVMd3psLVYwWEo2TzZ5X1VndGpLd0pHaFNaT2VnVHRHZVI4Y1ctS212QjRPUXBDRzdzeUlBVEFNdmRWQVFreUoyY0V4dktWTzJSSlVSY2dVYXJXSHIteGMwRFY0N3VzV0toUlRKLURkaDF4dHVsckJCdFZIc1o5ZngxUW9SUk9iUkxB?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Tech solution launching in Kearney to help families find child care, employers retain staff - centralnebraskatoday.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 02 Oct 2026 12:45:05 GMT",
+    "processed_at": "2026-10-06T13:55:38.281360",
     "status": "ignored",
     "telegram_message_id": null
   }
