@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html": {
-    "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 07 Aug 2026 14:11:57 +0000",
-    "processed_at": "2026-08-08T07:45:16.647963",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/saas-seo/": {
-    "title": "SEO Guide for SaaS Companies",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 07 Aug 2026 19:00:00 +0000",
-    "processed_at": "2026-08-08T07:45:26.650457",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vwo.com/blog/adaptivecx-real-time-ai-personalization/": {
-    "title": "AdaptiveCX: Real-Time AI Personalization for Every Visitor",
-    "source": "vwo.com",
-    "published_at": "Fri, 07 Aug 2026 11:09:19 +0000",
-    "processed_at": "2026-08-08T07:45:37.563521",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://ask-luca.com/blogs/lifetimely-alternatives": {
-    "title": "10 Best Lifetimely Alternatives That Let You Redefine LTV and CAC Yourself - Ask Luca",
-    "source": "Google News Search",
-    "published_at": "Fri, 07 Aug 2026 20:10:35 GMT",
-    "processed_at": "2026-08-08T07:45:59.072011",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://focusgn.com/n1-product-voices-end-of-pure-performance-era": {
-    "title": "N1 Product Voices: End of pure performance era? - Focus Gaming News",
-    "source": "Google News Search",
-    "published_at": "Fri, 07 Aug 2026 09:59:19 GMT",
-    "processed_at": "2026-08-08T07:46:09.212853",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://sccgmanagement.com/sccg-articles/2026/08/07/draftkings-q2-2026-handle-rises-15-percent-to-131-billion-while-revenue-falls-5-percent/": {
-    "title": "DraftKings Q2 2026 Handle Rises 15 Percent to $13.1 Billion While Revenue Falls 5 Percent - sccgmanagement.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 07 Aug 2026 12:00:44 GMT",
-    "processed_at": "2026-08-08T07:46:18.624873",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://financefeeds.com/why-the-best-brokers-measure-survivorship-not-just-active-traders/": {
-    "title": "Broker Retention Metrics: Survivorship Inflates LTV 2x - FinanceFeeds",
-    "source": "Google News Search",
-    "published_at": "Thu, 06 Aug 2026 12:50:31 GMT",
-    "processed_at": "2026-08-08T07:46:31.245367",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cxtoday.com/community-social-engagement/bettermode-customer-community-retention-jpg/": {
-    "title": "Bettermode Connects Community, AI Discovery, and Retention - CX Today",
-    "source": "Google News Search",
-    "published_at": "Thu, 06 Aug 2026 15:03:06 GMT",
-    "processed_at": "2026-08-08T07:46:42.489378",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.webull.com/news/15350121295520768": {
-    "title": "Plume Names Rebecca Stone Chief Customer and Marketing Officer, Creating a Dedicated C-Suite Voice for Global ISP Customer Success - webull.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-08-08T07:46:51.395126",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.multihousingnews.com/for-operators-resident-retention-is-an-noi-strategy/": {
-    "title": "For Operators, Resident Retention Is an NOI Strategy - Multifamily Housing News",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 17:43:55 GMT",
-    "processed_at": "2026-08-08T07:47:05.847368",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.2news.com/2plusyounevada/family/the-childrens-cabinet-best-place-for-working-parents-family-friendly-workplace-benefits/video_b74d36cc-87df-51bf-a915-27a53cf84589.html": {
-    "title": "The Children's Cabinet | Best Place for Working Parents & Family-Friendly Workplace Benefits - KTVN",
-    "source": "Google News Search",
-    "published_at": "Thu, 06 Aug 2026 20:03:00 GMT",
-    "processed_at": "2026-08-08T07:47:09.034391",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.healthleadersmedia.com/ceo/healthcare-job-openings-drop-sharply-organizations-turn-internal-talent": {
-    "title": "Healthcare Job Openings Drop Sharply as Organizations Turn to Internal Talent - healthleadersmedia.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 06 Aug 2026 10:06:56 GMT",
-    "processed_at": "2026-08-08T07:47:09.528192",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.iam-media.com/article/inventor-network-analysis-highlights-opportunities-and-risks-in-danahers-acquisition-of-masimo": {
-    "title": "Inventor network analysis highlights opportunities and risks in Danaher's acquisition of Masimo - IAM Patent",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 10:24:15 GMT",
-    "processed_at": "2026-08-08T07:47:14.464090",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://sccgmanagement.com/sccg-articles/2026/08/07/n1-partners-highlights-shift-from-ftd-volume-to-retention-and-ltv-in-igaming-affiliate-marketing/": {
-    "title": "N1 Partners Highlights Shift from FTD Volume to Retention and LTV in iGaming Affiliate Marketing - sccgmanagement.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 07 Aug 2026 12:28:21 GMT",
-    "processed_at": "2026-08-08T07:47:15.144181",
-    "status": "posted",
-    "telegram_message_id": 106
-  },
-  "https://www.kulr8.com/news/national/halo-programs-launches-self-service-crm-registration-while-preserving-white-glove-service/article_6a5765e1-a969-50d9-9c83-7346fbf73ae8.html": {
-    "title": "Halo Programs Launches Self-Service CRM Registration While Preserving White-Glove Service - NonStop Local Billings",
-    "source": "Google News Search",
-    "published_at": "Wed, 05 Aug 2026 21:08:40 GMT",
-    "processed_at": "2026-08-08T07:47:15.150215",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html": {
     "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
     "source": "rss.nytimes.com",
@@ -6492,6 +6372,126 @@
     "source": "Google News Search",
     "published_at": "Mon, 05 Oct 2026 21:17:35 GMT",
     "processed_at": "2026-10-07T14:11:16.168490",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html": {
+    "title": "Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 08 Oct 2026 09:03:22 +0000",
+    "processed_at": "2026-10-08T14:20:39.565271",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html": {
+    "title": "Why A.I. Agents Are Going Rogue",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 07 Oct 2026 19:44:04 +0000",
+    "processed_at": "2026-10-08T14:20:39.684713",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html": {
+    "title": "A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 08 Oct 2026 02:05:09 +0000",
+    "processed_at": "2026-10-08T14:20:39.789297",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/email-marketing-ai-personalization/": {
+    "title": "Email Marketing in the AI Era: Personalization, Automation & Deliverability",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 07 Oct 2026 16:00:00 +0000",
+    "processed_at": "2026-10-08T14:20:39.860527",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMThHX05HNzZpOVNHQ1czV3FYQ3IwVVdmbGZsVDVvV243eDNhc3AxcTRCdFBvXzNIbkM5RTJKSDlhVV9MNWNOOVQ1Q0NBbTU1dGN4R2taYWNjQ1RTS3NMaFJOYXFEXzYwd3dvM3NIYTRsUXZKZk9ZSVRXMklTejBqdmdPX2xsMnluUXI0N3dmSE1WQ21RUTlldmlYTGtZb0F6Q1dlT2pCSDR0bVBkMW5lY2tLdkdsOTYyalVkXzZWejFLck5X?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "The 2027 LTV Wonder FX Debuts as the Not-So-Little Motorhome That Can (Transform) - autoevolution",
+    "source": "Google News Search",
+    "published_at": "Thu, 08 Oct 2026 10:32:33 GMT",
+    "processed_at": "2026-10-08T14:20:40.024773",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmFKbXNFQzVrSm15OXZGRGRZMXJGYzBqU2pCMFg0bWFwM1VLLVlBVV9YNm5GSHpmUGRhSW1FX3FFTFF3TVdzZ180dDRfb2hMcWV5cmtQUHFRckZkd1Z1djFLYjAyQ3pnSEJnd1VzbzNtR3BpQndMYWk0WUVHTnJwMlRJVkpBRVhPRDNyWVJZTFJETm9TeFQwbm5paHBtcUZtUWc?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Accord and Notts BS lower rates, Kensington increases prices - Mortgage Strategy",
+    "source": "Google News Search",
+    "published_at": "Wed, 07 Oct 2026 11:32:24 GMT",
+    "processed_at": "2026-10-08T14:20:40.196444",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tOVQ2VmdBV1JYNXNvSFFHWGZzbEg2di01T3ZoVjhraXNNZHZuV3BTRGpMZFZDdGNPWkZucXBXekpqd0htaEdJUG1pTnpBd3Z4MnJZRWd2SEZCaXhOWkxhcXFVMDIxcG5NVTdweFp4WHp6VTVZY3hCM3FUSQ?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "YBS lowers rates by up to 0.50% - Mortgage Strategy",
+    "source": "Google News Search",
+    "published_at": "Thu, 08 Oct 2026 14:15:15 GMT",
+    "processed_at": "2026-10-08T14:20:40.358756",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZERIQ3lISGVEdkdlZ0dTalNWZjZYM1dQNXFQWkliUDNrSGZ5RlRJUU52UGx6QkFidjcwTmhiemNXME1rcmRRT2Q5WmZ0Q3FETmxwdlBQMlQ2cEV0YkU0RTdXOTJ0WlZkajVDTjhUOEg0UzV3a245U2hvR3l3T0dScmlicHlpN0lndzRYR2NEemVpdw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "The Shift From Customer Acquisition to Customer Retention - MarkHub24",
+    "source": "Google News Search",
+    "published_at": "Thu, 08 Oct 2026 03:29:44 GMT",
+    "processed_at": "2026-10-08T14:20:40.511792",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmQyTkR3QTF5MU52LWhWemdpNWUyc3ltaDdZSm5HVm5jODZiMVM1Y2x6NXVZc3BmNnBVNVBhdkpiZEZ3MFhEdmxWbDA3LXk1OTRPZkozSDYzNHFfZjUybGJTRWdSUkRicVRxcGV5SVlVeGk4Q2x6aE05UFMwM3ZWNW02c3RNUnZQSktKUjJySEloRlMtX2M5UXdVb2xxdmluOURUNVg3blF5SDJlLVd3Qjlva3h1aHRZejNybw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Binance Will Judge Its Marketing on User Retention, Interim CMO Eowyn Chen Says - Blockhead",
+    "source": "Google News Search",
+    "published_at": "Thu, 08 Oct 2026 09:32:59 GMT",
+    "processed_at": "2026-10-08T14:20:40.708752",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WNnZ1WG5OTGVOWU1BamliVF83NENGRHFGcW5pVGt0ejJZTGRTUXlvLS03ZV9uaXVZM0dFYnBoS3Q5NjNSM2F6dkRHSWdOYUpBQ2hIVEp2dEIyUzdGZDFkenl1UVFmU3hNQmtpcDh3?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "When marketing automation moves too fast - MarTech",
+    "source": "Google News Search",
+    "published_at": "Wed, 07 Oct 2026 13:14:26 GMT",
+    "processed_at": "2026-10-08T14:20:40.866317",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb2trUVhvTEZKYldPS19NeHEzZHJhcnZoY3ljZWpjclNXQzI2Ylhua1duSkRTa1BXRWRzYm1hSHFZVEZfaFB2ZEZxR3RrTkhuUTNmcWUyM19VZjh6SnZLcHVRY0ZGMUVIOEhDbi1KOFNyRTNEMzZjLXVaUlhwWEw2bk1yNjY1MW9lcW9PZmlTREExSV9TbUJseDZGN3ZZbnAzd1A0MHVsaTY4NTVzN0c5QU1Eb2VrdmtYd2ZlN0dNS2lZdDltSVpJN3pDczdjdw?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Woman-Owned Charleston Digital Marketing Agency Named Stevie® Awards Finalist - Florida Today",
+    "source": "Google News Search",
+    "published_at": "Wed, 07 Oct 2026 14:46:01 GMT",
+    "processed_at": "2026-10-08T14:20:41.010366",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd091ZWQwNTYzQWdlUkhyVk42SDFkSDlHUGlfd3daelZiS0JhcDVEU2kxNS1Ua2RXOXJYOTJjQzd6MHhOSDUxWkRZbkV5c09tWF9TVUZ4OGl6bkRiTEJGWTZkbVJpeEg5X0I0VjFMZHZPaHI1M042Vk1lTU9EbkdVbUQ0SE5WZzZIUzBZY29HS3YzLS1zZlRjbkFQTjMzcFVGeVE?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "CEOs share advice for HR strategy, employee retention in 2027, part 2 - Employee Benefit News",
+    "source": "Google News Search",
+    "published_at": "Fri, 02 Oct 2026 11:00:00 GMT",
+    "processed_at": "2026-10-08T14:20:41.390225",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM0VXQUljSU9XSVlrRE05aXB1ckJIVnphaFFvYzl5YlpiZjA4NnFTQ1FLNWVVUEM3ZkQxcWt6aURSZzRGdWhIdFVJVGk1LWZJMWlRem9WRWNUQ1lCSkh5eW54YXhMVU5ha2hFa2lTN0VlRmUzd2V2YUVQZ2R4NzdSMG5sRTE3SXQ4SmM1T1hBcU1BWWVCLXBGTWxLVEFuVDhPbVAzbGpESERBS3Ruc2xMM05KY1IxdXdWM19oYUIzR1hNdV9vS3dUTXB4Q19yX3VXUVNR?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Beyond Recruitment: The Future of Patient and Site Engagement in Oncology Clinical Trials - Applied Clinical Trials",
+    "source": "Google News Search",
+    "published_at": "Wed, 07 Oct 2026 17:52:00 GMT",
+    "processed_at": "2026-10-08T14:20:41.560627",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGQ4ZnowbTNISE9tbGxBc1ZTeTFUTEtMclRFdmdEZjI0YlhjTFJTY0tSWi1GLWtzU3BYWFpqY0ZBZkQwRXlHamhyem9PWlZCTzZaOHQ5WmxhMjFuUTd0S1FXc2lfNjNlcC1uSUtnVzdTRU9wUnYwc0M3Z3IwdEhXbk80ZmdaRlJ2YkcwZlVHeC1ZeDlsb2MyZHlQWjVvNmtBX0N6UDl3a3MxOW44TEJkY09YS2RmcVIzWDNhNDZB?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "NKY Chamber seeking presenters for 9th annual Workforce Best Practices Symposium March 10 - NKyTribune",
+    "source": "Google News Search",
+    "published_at": "Tue, 06 Oct 2026 04:36:20 GMT",
+    "processed_at": "2026-10-08T14:20:41.720780",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXdla1UtT0RSQ210bVVGSWxUY3ctQTZaOWRZUXBWNXpnNDJlSXJlc05sb2ppd1Z4OGlCbWlUM25uV1dvNXN6aEFIa2J0S2RNUE5QMG1RUU9QWXJ4WlVPWlpSS090SnVIazZRYVZjNDNxZElBSE1CWGVjbFRSOXZ5ajN3NDRKRE9qV3h1aVM2MGIxaWJGVlFDNGVGNA?oc=5&hl=en-US&gl=US&ceid=US:en": {
+    "title": "Healthcare Has Delivered 75% of U.S. Job Growth Over Past Year - HealthLeaders Media",
+    "source": "Google News Search",
+    "published_at": "Tue, 06 Oct 2026 10:07:22 GMT",
+    "processed_at": "2026-10-08T14:20:41.906676",
     "status": "ignored",
     "telegram_message_id": null
   }
