@@ -16,10 +16,73 @@ HEADERS = {
 }
 TIMEOUT = 15.0
 
+import json
+import requests
+
 try:
     from googlenewsdecoder import gnewsdecoder
-except ImportError:
+except Exception as e:
+    logger.debug(f"googlenewsdecoder library not used: {e}")
     gnewsdecoder = None
+
+def decode_google_news_url_native(source_url: str) -> str:
+    """
+    Нативно декодирует ссылку Google News через Google batch execute API без внешних сторонних зависимостей.
+    """
+    try:
+        url_obj = urllib.parse.urlparse(source_url)
+        path = url_obj.path.split("/")
+        if len(path) < 2 or path[-2] not in ["articles", "read"]:
+            return source_url
+        base64_str = path[-1]
+
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        }
+        
+        # Получаем data-n-a-sg и data-n-a-ts
+        r = requests.get(f"https://news.google.com/articles/{base64_str}", headers=headers, timeout=10)
+        soup = BeautifulSoup(r.text, "html.parser")
+        elem = None
+        for div in soup.find_all("div"):
+            if div.get("data-n-a-sg"):
+                elem = div
+                break
+        if not elem:
+            r = requests.get(f"https://news.google.com/rss/articles/{base64_str}", headers=headers, timeout=10)
+            soup = BeautifulSoup(r.text, "html.parser")
+            for div in soup.find_all("div"):
+                if div.get("data-n-a-sg"):
+                    elem = div
+                    break
+                    
+        if not elem or not elem.get("data-n-a-sg"):
+            return source_url
+
+        sig = elem.get("data-n-a-sg")
+        ts = elem.get("data-n-a-ts")
+        payload = [
+            "Fbv4je",
+            f'["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],"{base64_str}",{ts},"{sig}"]'
+        ]
+        post_headers = {
+            "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+            "User-Agent": headers["User-Agent"]
+        }
+        resp = requests.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            headers=post_headers,
+            data=f"f.req={urllib.parse.quote(json.dumps([[payload]]))}",
+            timeout=10
+        )
+        parts = resp.text.split("\n\n")
+        if len(parts) > 1:
+            parsed = json.loads(parts[1])[:-2]
+            decoded_url = json.loads(parsed[0][2])[1]
+            return decoded_url
+    except Exception as e:
+        logger.warning(f"Ошибка при нативном декодировании Google News URL: {e}")
+    return source_url
 
 def resolve_url(url: str) -> str:
     """
@@ -29,13 +92,19 @@ def resolve_url(url: str) -> str:
     if "news.google.com" not in url:
         return url
     
-    # Пытаемся раскодировать URL через Google News Decoder
+    # 1. Пробуем нативный надежный декодер
+    decoded = decode_google_news_url_native(url)
+    if decoded and "news.google.com" not in decoded:
+        logger.info(f"Успешно декодирован Google News URL: {decoded}")
+        return decoded
+
+    # 2. Пытаемся раскодировать URL через Google News Decoder (если установлен)
     if gnewsdecoder:
         try:
-            decoded = gnewsdecoder(url)
-            if decoded.get("status"):
-                decoded_url = decoded["decoded_url"]
-                logger.info(f"Успешно декодирован Google News URL: {decoded_url}")
+            res = gnewsdecoder(url)
+            if res.get("status"):
+                decoded_url = res["decoded_url"]
+                logger.info(f"Успешно декодирован Google News URL (библиотека): {decoded_url}")
                 return decoded_url
         except Exception as e:
             logger.warning(f"Не удалось декодировать Google News URL через библиотеку: {e}")
