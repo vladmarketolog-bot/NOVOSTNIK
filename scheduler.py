@@ -45,9 +45,8 @@ def run_daily_pipeline():
 
     candidates = []
     
-    # 2. Ограничиваем количество анализируемых за раз статей, 
-    # чтобы уложиться в лимиты API и времени (максимум 15 статей)
-    articles_to_process = new_articles[:15]
+    # 2. Анализируем до 30 новых статей. Если найдено 2 хороших кандидата — останавливаемся раньше.
+    articles_to_process = new_articles[:30]
     logger.info(f"Начало анализа {len(articles_to_process)} статей с помощью Gemini API...")
 
     for article in articles_to_process:
@@ -76,11 +75,15 @@ def run_daily_pipeline():
                 "post_text": analysis.get("post_text"),
                 "score": score
             })
+            if len(candidates) >= 2:
+                logger.info("Найдено достаточно качественных кандидатов, завершаем перебор.")
+                break
         else:
             reason = analysis.get("rejection_reason", "не относится к теме")
             logger.info(f"ИИ отклонил статью. Причина: {reason}")
-            # Помечаем как обработанную, чтобы не возвращаться к ней
-            db.mark_url_processed(url, title, source, pub_date, "ignored")
+            # Не помечаем как навсегда пропущенную, если была временная ошибка API
+            if not str(reason).startswith("Error:"):
+                db.mark_url_processed(url, title, source, pub_date, "ignored")
 
     # 3. Публикуем лучшую новость
     if not candidates:

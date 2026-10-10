@@ -26,11 +26,12 @@ DATABASE_PATH = os.getenv("DATABASE_PATH", str(BASE_DIR / "bot_database.db"))
 # Настройки скрапера новостей
 # Ключевые слова для поиска новостей на английском
 SEARCH_KEYWORDS = [
-    "marketing LTV",
-    "customer retention marketing",
-    "retention strategies",
-    "growth marketing LTV retention",
-    "user retention tips"
+    '"customer lifetime value" marketing',
+    '"customer retention" marketing',
+    'retention marketing -mortgage -loan -employee -salary',
+    '"growth marketing" retention LTV',
+    '"user retention" app product marketing',
+    'CAC payback marketing LTV'
 ]
 
 # RSS источники для мониторинга

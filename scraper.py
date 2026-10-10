@@ -58,7 +58,7 @@ def fetch_article_text(url: str) -> str:
     try:
         with httpx.Client(headers=HEADERS, follow_redirects=True, timeout=TIMEOUT) as client:
             response = client.get(url)
-            if response.status_code != 200:
+            if response.status_code not in (200, 202):
                 logger.warning(f"Ошибка при загрузке статьи {url}: статус {response.status_code}")
                 return ""
             
