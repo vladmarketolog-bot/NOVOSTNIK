@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html": {
-    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 14 Aug 2026 18:54:36 +0000",
-    "processed_at": "2026-08-15T07:26:20.651222",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html": {
-    "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 14 Aug 2026 14:55:08 +0000",
-    "processed_at": "2026-08-15T07:26:20.728272",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html": {
-    "title": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 14 Aug 2026 11:00:04 +0000",
-    "processed_at": "2026-08-15T07:26:20.819753",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html": {
-    "title": "Chatbots Are Pushing Us Toward a Post-Human Internet",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 14 Aug 2026 09:00:28 +0000",
-    "processed_at": "2026-08-15T07:26:20.927905",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/google-search-becoming-ai-search/": {
-    "title": "Google Search Is Becoming AI Search: What This Means for Your Brand",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 14 Aug 2026 16:00:00 +0000",
-    "processed_at": "2026-08-15T07:26:31.527577",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://foodondemand.com/08122026/restaurant-marketing-expert-breaks-down-loyalty-program-lessons/": {
-    "title": "Restaurant Marketing Expert Breaks Down Loyalty Program Lessons - Food On Demand",
-    "source": "Google News Search",
-    "published_at": "Wed, 12 Aug 2026 13:12:08 GMT",
-    "processed_at": "2026-08-15T07:26:52.025921",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mediapost.com/publications/article/417240/agency-feedback-on-apple-ads-on-maps-runs-hot-c.html": {
-    "title": "Agency Feedback On Apple 'Ads On Maps' Runs Hot, Cold On Eligibility 08/14/2026 - MediaPost",
-    "source": "Google News Search",
-    "published_at": "Fri, 14 Aug 2026 18:27:21 GMT",
-    "processed_at": "2026-08-15T07:27:12.794673",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nysenate.gov/newsroom/press-releases/2026/pete-harckham/harckham-and-adirondack-council-host-environmental": {
-    "title": "Harckham and the Adirondack Council Host Environmental Roundtable with Lake Associations - The New York State Senate (.gov)",
-    "source": "Google News Search",
-    "published_at": "Mon, 10 Aug 2026 20:21:46 GMT",
-    "processed_at": "2026-08-15T07:27:12.905910",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.resourcefulfinancepro.com/articles/payroll-as-a-retention-tool/": {
-    "title": "Payroll is an Underutilized Retention Tool: 3 Ways to Unlock Its Strategic Value - Resourceful Finance Pro",
-    "source": "Google News Search",
-    "published_at": "Fri, 14 Aug 2026 10:36:00 GMT",
-    "processed_at": "2026-08-15T07:27:16.019427",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.manilatimes.net/2026/08/15/tmt-newswire/globenewswire/air-launches-business-unit-focused-on-growth-journey-optimization-and-data-and-ai-driven-growth/2406075/amp": {
-    "title": "AI/R Launches Business Unit Focused on Growth, Journey Optimization, and Data and AI-driven Growth - The Manila Times",
-    "source": "Google News Search",
-    "published_at": "Fri, 14 Aug 2026 21:45:15 GMT",
-    "processed_at": "2026-08-15T07:27:16.365291",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.microsoft.com/insidetrack/blog/empowering-employees-after-the-call-enabling-and-securing-microsoft-teams-meeting-data-retention-at-microsoft/": {
-    "title": "Empowering employees after the call: Enabling and securing Microsoft Teams meeting data retention at Microsoft - Microsoft",
-    "source": "Google News Search",
-    "published_at": "Thu, 13 Aug 2026 16:00:00 GMT",
-    "processed_at": "2026-08-15T07:27:16.943530",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/id/blog/customer-attrition": {
-    "title": "Customer Attrition and How To Reduce Churn (2026) - Shopify",
-    "source": "Google News Search",
-    "published_at": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-08-15T07:27:17.760742",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://retail.economictimes.indiatimes.com/news/industry/retailers-rethink-customer-retention-as-shoppers-become-channel-agnostic/133229681": {
-    "title": "Retailers rethink customer retention as shoppers become channel agnostic - ET Retail",
-    "source": "Google News Search",
-    "published_at": "Fri, 14 Aug 2026 05:48:26 GMT",
-    "processed_at": "2026-08-15T07:27:18.525851",
-    "status": "posted",
-    "telegram_message_id": 111
-  },
-  "https://www.bignewsnetwork.com/news/279227316/adymize-founder-breaks-down-what-actually-makes-a-performance-marketing-agency-best-for-d2c-brands": {
-    "title": "Adymize Founder Breaks Down What Actually Makes a Performance Marketing Agency \"Best\" for D2C Brands - Big News Network.com",
-    "source": "Google News Search",
-    "published_at": "Sat, 08 Aug 2026 08:31:00 GMT",
-    "processed_at": "2026-08-15T07:27:18.534330",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/my/blog/loyalty-software": {
-    "title": "Top 9 Customer Loyalty Software Tools (2026) - Shopify",
-    "source": "Google News Search",
-    "published_at": "Wed, 12 Aug 2026 20:23:26 GMT",
-    "processed_at": "2026-08-15T07:27:18.542481",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html": {
     "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
     "source": "rss.nytimes.com",
@@ -6494,5 +6374,85 @@
     "processed_at": "2026-10-14T12:38:16.424811",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html": {
+    "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 15 Oct 2026 10:52:08 +0000",
+    "processed_at": "2026-10-15T12:17:37.815810",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html": {
+    "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 15 Oct 2026 09:01:58 +0000",
+    "processed_at": "2026-10-15T12:17:37.961141",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html": {
+    "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 15 Oct 2026 02:27:53 +0000",
+    "processed_at": "2026-10-15T12:17:38.094554",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html": {
+    "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 14 Oct 2026 23:57:26 +0000",
+    "processed_at": "2026-10-15T12:17:38.235209",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html": {
+    "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 14 Oct 2026 17:21:26 +0000",
+    "processed_at": "2026-10-15T12:17:38.371607",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html": {
+    "title": "Senators Question Meta’s Data Center Tax Strategy",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 14 Oct 2026 19:12:32 +0000",
+    "processed_at": "2026-10-15T12:17:38.515218",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/website-credibility/": {
+    "title": "How Websites Are Becoming a Key Trust Signal for Consumers",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 14 Oct 2026 16:00:00 +0000",
+    "processed_at": "2026-10-15T12:17:38.602227",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.adexchanger.com/content-studio/after-two-decades-of-performance-marketing-dominance-brand-is-poised-for-a-renaissance/": {
+    "title": "After Two Decades Of Performance Marketing Dominance, Brand Is Poised For A Renaissance - AdExchanger",
+    "source": "Google News Search",
+    "published_at": "Wed, 14 Oct 2026 12:00:41 GMT",
+    "processed_at": "2026-10-15T12:24:25.836426",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.usatoday.com/story/special/contributor-content/2026/10/08/why-live-sports-calls-for-a-modern-production-supply-chain/92158504007/": {
+    "title": "Why Live Sports Calls For a Modern Production Supply Chain - USA Today",
+    "source": "Google News Search",
+    "published_at": "Thu, 08 Oct 2026 20:08:00 GMT",
+    "processed_at": "2026-10-15T12:24:26.172392",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.prnewswire.com/news-releases/loyalty-management-market-worth-23-11-billion-by-2032--report-by-marketsandmarkets-302903358.html": {
+    "title": "Loyalty Management Market worth $23.11 billion by 2032 - Report by MarketsandMarkets™ - PR Newswire",
+    "source": "Google News Search",
+    "published_at": "Fri, 09 Oct 2026 14:01:00 GMT",
+    "processed_at": "2026-10-15T12:24:32.286426",
+    "status": "posted",
+    "telegram_message_id": 158
   }
 }
