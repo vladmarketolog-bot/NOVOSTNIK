@@ -1,52 +1,4 @@
 {
-  "https://www.tradingview.com/news/eqs:eeb532d6b094b:0-hiag-reports-significant-increase-in-net-income-for-the-first-half-of-2026/": {
-    "title": "HIAG reports significant increase in net income for the first half of 2026 - TradingView",
-    "source": "Google News Search",
-    "published_at": "Mon, 17 Aug 2026 04:00:00 GMT",
-    "processed_at": "2026-08-17T07:49:08.923399",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://business.adobe.com/customer-success-stories/yousee.html": {
-    "title": "YouSee Transforms Telecom Customer Journeys with Adobe - business.adobe.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-08-17T07:49:24.145982",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.modernhealthcare.com/content-studio/white-paper/mh-research-payer-strategies-cost-reduction-member-retention/": {
-    "title": "Research: Payer strategies for cost reduction, retention and member satisfaction - Modern Healthcare",
-    "source": "Google News Search",
-    "published_at": "Mon, 17 Aug 2026 05:05:37 GMT",
-    "processed_at": "2026-08-17T07:49:24.735266",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://natlawreview.com/press-releases/evok-credit-union-marketing-releases-2026-retention-guide-median-membership": {
-    "title": "Evok Credit Union Marketing Releases 2026 Retention Guide as Median Membership Declines - The National Law Review",
-    "source": "Google News Search",
-    "published_at": "Sun, 16 Aug 2026 09:29:40 GMT",
-    "processed_at": "2026-08-17T07:49:24.903586",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.picketfencemedia.com/sanclementetimes/eye-on-sc/octa-coastal-rail-study-elicits-calls-for-sand-first-approach/article_965e2f8d-b02f-495c-83bf-b02134cadb94.html": {
-    "title": "OCTA Coastal Rail Study Elicits Calls for ‘Sand-First’ Approach - picketfencemedia.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 13 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-08-17T07:49:32.508465",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://gearjunkie.com/packs/best-backpack-coolers": {
-    "title": "14 Best Backpack Coolers of 2026 (Ice Retention Tested) - GearJunkie",
-    "source": "Google News Search",
-    "published_at": "Fri, 14 Aug 2026 13:03:00 GMT",
-    "processed_at": "2026-08-17T07:49:32.666852",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/17/technology/ai-slop.html": {
     "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
     "source": "rss.nytimes.com",
@@ -6388,6 +6340,38 @@
     "source": "rss.nytimes.com",
     "published_at": "Thu, 15 Oct 2026 19:50:16 +0000",
     "processed_at": "2026-10-16T12:00:52.239036",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html": {
+    "title": "Meta Withdraws $25 Million from Its Midterms Push",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 16 Oct 2026 20:58:41 +0000",
+    "processed_at": "2026-10-17T11:16:49.466517",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/ai-content-systems/": {
+    "title": "Why AI Makes Content Ecosystems Essential",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 16 Oct 2026 16:00:00 +0000",
+    "processed_at": "2026-10-17T11:16:49.534814",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.uschamber.com/co/good-company/launch-pad/modern-loyalty-retention-programs": {
+    "title": "How Brands Are Reinventing Loyalty Programs - U.S. Chamber of Commerce",
+    "source": "Google News Search",
+    "published_at": "Fri, 16 Oct 2026 14:16:36 GMT",
+    "processed_at": "2026-10-17T11:17:40.799019",
+    "status": "posted",
+    "telegram_message_id": 159
+  },
+  "https://www.adgully.com/post/22403/beyond-acquisition-pharmeasys-gaurav-verma-on-marketing-for-lifetime-value": {
+    "title": "Beyond acquisition: PharmEasy’s Gaurav Verma on marketing for lifetime value - Adgully",
+    "source": "Google News Search",
+    "published_at": "Fri, 16 Oct 2026 06:31:57 GMT",
+    "processed_at": "2026-10-17T11:17:40.806549",
     "status": "ignored",
     "telegram_message_id": null
   }
