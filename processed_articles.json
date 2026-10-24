@@ -1,52 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html": {
-    "title": "How Big Tech Captured American Schools",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 23 Aug 2026 11:13:40 +0000",
-    "processed_at": "2026-08-24T07:54:37.518198",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html": {
-    "title": "The Data Center Backlash Bursts Into the Midterms",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 23 Aug 2026 09:01:58 +0000",
-    "processed_at": "2026-08-24T07:54:37.628225",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html": {
-    "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 23 Aug 2026 09:00:19 +0000",
-    "processed_at": "2026-08-24T07:54:37.756174",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.netsuite.com/portal/resource/articles/accounting/usage-based-billing.shtml": {
-    "title": "The Guide to Usage-based Billing - Oracle NetSuite",
-    "source": "Google News Search",
-    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-08-24T07:54:56.981841",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://finance.yahoo.com/technology/ai/articles/sirius-emerges-a16z-speedrun-ai-233100450.html": {
-    "title": "Sirius Emerges From a16z Speedrun With an AI Platform for Customer Retention - Yahoo Finance",
-    "source": "Google News Search",
-    "published_at": "Wed, 19 Aug 2026 23:31:00 GMT",
-    "processed_at": "2026-08-24T07:54:57.810494",
-    "status": "posted",
-    "telegram_message_id": 119
-  },
-  "https://www.mediapost.com/publications/article/417240/agency-feedback-on-apple-ads-on-maps-runs-hot-c.html?edition=143549": {
-    "title": "Agency Feedback On Apple 'Ads On Maps' Runs Hot, Cold On Eligibility 08/14/2026 - MediaPost",
-    "source": "Google News Search",
-    "published_at": "Fri, 21 Aug 2026 02:38:29 GMT",
-    "processed_at": "2026-08-24T07:54:57.819468",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html": {
     "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
     "source": "rss.nytimes.com",
@@ -6020,6 +5972,46 @@
     "source": "Google News Search",
     "published_at": "Thu, 22 Oct 2026 07:15:00 GMT",
     "processed_at": "2026-10-23T12:17:41.804830",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html": {
+    "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 23 Oct 2026 16:14:56 +0000",
+    "processed_at": "2026-10-24T11:43:55.992991",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html": {
+    "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 23 Oct 2026 16:00:09 +0000",
+    "processed_at": "2026-10-24T11:43:56.090079",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bwmarketingworld.com/article/coco-rides-seeks-lifecycle-marketing-agency-to-drive-rider-retention-growth-630028": {
+    "title": "COCO Rides Seeks Lifecycle Marketing Agency To Drive Rider Retention & Growth - BW Marketing World",
+    "source": "Google News Search",
+    "published_at": "Fri, 23 Oct 2026 07:57:43 GMT",
+    "processed_at": "2026-10-24T11:44:15.958487",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.yahoo.com/technology/ai/articles/gainsight-proves-ai-native-services-050000564.html": {
+    "title": "Gainsight Proves AI-Native Services Model for Retention as Atlas Manages Over $75M in Customer ARR - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Tue, 20 Oct 2026 05:00:00 GMT",
+    "processed_at": "2026-10-24T11:44:29.240866",
+    "status": "posted",
+    "telegram_message_id": 166
+  },
+  "https://neilpatel.com/blog/4-ps-of-marketing/": {
+    "title": "The 4 Ps of Marketing: Product, Price, Place, and Promotion",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 23 Oct 2026 16:00:00 +0000",
+    "processed_at": "2026-10-24T11:44:29.247999",
     "status": "ignored",
     "telegram_message_id": null
   }
