@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html": {
-    "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 24 Aug 2026 18:07:41 +0000",
-    "processed_at": "2026-08-25T07:40:44.971265",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html": {
-    "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 24 Aug 2026 19:34:57 +0000",
-    "processed_at": "2026-08-25T07:40:45.110328",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/start-franchise-business/": {
-    "title": "How to Start a Franchise Business (2026 Guide)",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 24 Aug 2026 16:00:00 +0000",
-    "processed_at": "2026-08-25T07:40:45.167659",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mpamag.com/uk/mortgage-types/first-time-buyer/first-time-buyer-share-rises-as-average-ltv-climbs-to-quarterly-high/584587": {
-    "title": "First-time buyer share rises as average LTV climbs to quarterly high - mpamag.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 07:05:34 GMT",
-    "processed_at": "2026-08-25T07:40:49.421409",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.exchange4media.com/marketing-news/d2c-brands-look-beyond-roas-as-rising-cac-puts-profitability-under-the-lens-157597.html": {
-    "title": "D2C brands look beyond ROAS as rising CAC puts profitability under the lens - Exchange4Media",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 03:16:30 GMT",
-    "processed_at": "2026-08-25T07:40:49.583935",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://biz.chosun.com/en/en-industry/2026/08/25/CGAKDQTZWRBLXNM7UPJGZBOKPY/": {
-    "title": "Hs Ad boosts ad ROI with AI-CRM targeting in South Korea - CHOSUNBIZ - Chosunbiz",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 00:50:00 GMT",
-    "processed_at": "2026-08-25T07:40:50.422219",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://natlawreview.com/press-releases/feng-cha-advances-digital-and-loyalty-strategy-drive-guest-engagement-and": {
-    "title": "Feng cha advances digital and loyalty strategy to drive guest engagement and support franchise growth - The National Law Review",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 17:06:25 GMT",
-    "processed_at": "2026-08-25T07:41:03.975474",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.martechcube.com/demand-generation-strategies-customer-value/": {
-    "title": "Demand Generation Strategies That Drive Long-Term Customer Value - MarTech Cube",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 13:26:05 GMT",
-    "processed_at": "2026-08-25T07:41:15.336900",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.hr-brew.com/stories/workforce-edge/workplace-learning-can-increase-employee-retention": {
-    "title": "Learn and grow: How learning programs can increase employee retention - HR Brew",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 18:59:19 GMT",
-    "processed_at": "2026-08-25T07:41:20.134484",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://enterprisetalk.com/featured/entrepreneurs-achieve-business-growth": {
-    "title": "World Entrepreneurs’ Day: 11 Key Strategies for Business Growth in 2026 - Enterprise Talk",
-    "source": "Google News Search",
-    "published_at": "Fri, 21 Aug 2026 06:30:00 GMT",
-    "processed_at": "2026-08-25T07:41:42.221178",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.happi.com/exclusives/scalp-health-ingredients-retro-style-crossovers-lead-for-fall-2026-haircare-trends/": {
-    "title": "Scalp Health Ingredients and Retro Style Crossovers Lead for Fall 2026 Haircare Trends - Happi | Household And Personal Products Industry",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 01:21:00 GMT",
-    "processed_at": "2026-08-25T07:41:42.338457",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.retailbrew.com/stories/keys-to-establishing-brand-loyalty-today": {
-    "title": "These are the keys to establishing brand loyalty today - Retail Brew",
-    "source": "Google News Search",
-    "published_at": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-08-25T07:41:43.391767",
-    "status": "posted",
-    "telegram_message_id": 120
-  },
-  "https://www.cbtnews.com/tully-williams-shares-keys-to-70-retention/": {
-    "title": "Tully Williams shares the keys to 70% service retention - CBT News",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 19:57:38 GMT",
-    "processed_at": "2026-08-25T07:41:43.397877",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wbjournal.com/article/10-things-i-know-about-getting-your-ideal-clients-attention/": {
-    "title": "10 Things I know about getting your ideal clients’ attention - Worcester Business Journal",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 10:00:46 GMT",
-    "processed_at": "2026-08-25T07:41:43.403532",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/zacks:5e8215d62094b:0-ajg-s-organic-growth-resilience-supports-long-term-expansion/": {
-    "title": "AJG's Organic Growth Resilience Supports Long-Term Expansion - TradingView",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 14:35:00 GMT",
-    "processed_at": "2026-08-25T07:41:43.409176",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html": {
     "title": "Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
     "source": "rss.nytimes.com",
@@ -6012,6 +5892,62 @@
     "source": "neilpatel.com",
     "published_at": "Fri, 23 Oct 2026 16:00:00 +0000",
     "processed_at": "2026-10-24T11:44:29.247999",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html": {
+    "title": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 25 Oct 2026 09:01:00 +0000",
+    "processed_at": "2026-10-25T12:13:03.429316",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html": {
+    "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 25 Oct 2026 09:28:35 +0000",
+    "processed_at": "2026-10-25T12:13:03.577656",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.consumeraffairs.com/news/higher-auto-insurance-bills-are-putting-customer-loyalty-to-the-test-102326.html": {
+    "title": "Higher auto insurance bills are putting customer loyalty to the test - ConsumerAffairs",
+    "source": "Google News Search",
+    "published_at": "Fri, 23 Oct 2026 12:05:45 GMT",
+    "processed_at": "2026-10-25T12:13:03.929501",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nbcnews.com/business/personal-finance/money-stop-loyal-customer-rcna603023": {
+    "title": "How to avoid the ‘loyalty tax’ on your monthly bills - NBC News",
+    "source": "Google News Search",
+    "published_at": "Mon, 19 Oct 2026 14:20:01 GMT",
+    "processed_at": "2026-10-25T12:13:05.217398",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.salesforce.com/ap/marketing/email/best-email-marketing-platform/small-business/": {
+    "title": "Best Email Marketing Platform for Small Business in 2026 - Salesforce",
+    "source": "Google News Search",
+    "published_at": "Wed, 21 Oct 2026 16:22:49 GMT",
+    "processed_at": "2026-10-25T12:14:54.231393",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.cmswire.com/customer-experience/can-your-customers-see-your-org-chart-in-every-interaction/": {
+    "title": "Can Your Customers See Your Org Chart in Every Interaction? - CMSWire",
+    "source": "Google News Search",
+    "published_at": "Fri, 23 Oct 2026 18:32:41 GMT",
+    "processed_at": "2026-10-25T12:15:08.936275",
+    "status": "posted",
+    "telegram_message_id": 167
+  },
+  "https://www.techtarget.com/enterprise-software/tip/CX-personalization-Why-its-important-and-how-to-deliver-it": {
+    "title": "CX personalization: Why it's important and how to deliver it - TechTarget",
+    "source": "Google News Search",
+    "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "processed_at": "2026-10-25T12:15:08.942256",
     "status": "ignored",
     "telegram_message_id": null
   }
