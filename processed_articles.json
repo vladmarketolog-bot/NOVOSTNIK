@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html": {
-    "title": "Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 25 Aug 2026 22:38:18 +0000",
-    "processed_at": "2026-08-26T07:42:29.369051",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html": {
-    "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 25 Aug 2026 21:31:13 +0000",
-    "processed_at": "2026-08-26T07:42:29.487054",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html": {
-    "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 25 Aug 2026 21:59:39 +0000",
-    "processed_at": "2026-08-26T07:42:29.619440",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html": {
-    "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 26 Aug 2026 07:01:07 +0000",
-    "processed_at": "2026-08-26T07:42:29.763906",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html": {
-    "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 25 Aug 2026 22:58:03 +0000",
-    "processed_at": "2026-08-26T07:42:29.900585",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html": {
-    "title": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 25 Aug 2026 16:45:28 +0000",
-    "processed_at": "2026-08-26T07:42:30.027209",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://thewisemarketer.com/the-rise-of-the-contradictory-consumer-why-traditional-marketing-models-no-longer-work/": {
-    "title": "The Rise of the Contradictory Consumer: Why Traditional Marketing Models No Longer Work - The Wise Marketer",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 15:39:18 GMT",
-    "processed_at": "2026-08-26T07:42:30.225290",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.citybiz.co/article/893237/wendys-names-tariq-hassan-chief-marketing-and-customer-growth-officer/": {
-    "title": "Wendy’s Names Tariq Hassan Chief Marketing and Customer Growth Officer - citybiz",
-    "source": "Google News Search",
-    "published_at": "Mon, 24 Aug 2026 15:16:48 GMT",
-    "processed_at": "2026-08-26T07:42:30.367882",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nu.edu/blog/how-hr-builds-strong-cultures/": {
-    "title": "How HR Builds Strong Cultures: Strategies for Engagement, Retention, and Trust - nu.edu",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 19:17:09 GMT",
-    "processed_at": "2026-08-26T07:43:22.053671",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://rooseveltinstitute.org/publications/the-three-failures-threatening-americas-clean-energy-industrial-strategy-and-how-to-fix-them/": {
-    "title": "3 Failures Threatening US Climate Industrial Policy - The Roosevelt Institute",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 10:22:50 GMT",
-    "processed_at": "2026-08-26T07:43:22.277288",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://hrexecutive.com/flight-risk-more-workers-are-paying-to-upskill-for-their-next-job/": {
-    "title": "Flight risk: More workers are paying to upskill for their next job - HR Executive",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 11:30:52 GMT",
-    "processed_at": "2026-08-26T07:43:34.088309",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://federalnewsnetwork.com/cybersecurity/2026/08/cisa-wants-agencies-to-maximize-insight-from-cyber-data-logging/": {
-    "title": "CISA wants agencies to maximize ‘insight’ from cyber data logging - Federal News Network",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 21:08:37 GMT",
-    "processed_at": "2026-08-26T07:43:55.679998",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://simplywall.st/stocks/us/consumer-services/nasdaq-wen/wendys/news/wendys-wen-names-tariq-hassan-as-first-chief-marketing-and-c": {
-    "title": "Wendy's (WEN) Names Tariq Hassan As First Chief Marketing And Customer Growth Officer - simplywall.st",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 10:21:21 GMT",
-    "processed_at": "2026-08-26T07:44:26.809118",
-    "status": "posted",
-    "telegram_message_id": 121
-  },
-  "https://www.thunes.com/insights/learn/supporting-creator-economy-payouts/": {
-    "title": "How to support global creator economy payouts - Thunes",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 15:52:04 GMT",
-    "processed_at": "2026-08-26T07:44:26.817253",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://app.dealroom.co/news/note/banyan-buys-australian-retention-firm-crma-to-bolster-harrier-national": {
-    "title": "Banyan buys Australian retention firm CRMA to bolster Harrier National - Dealroom",
-    "source": "Google News Search",
-    "published_at": "Tue, 25 Aug 2026 09:58:28 GMT",
-    "processed_at": "2026-08-26T07:44:26.823823",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html": {
     "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
     "source": "rss.nytimes.com",
@@ -5948,6 +5828,78 @@
     "source": "Google News Search",
     "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
     "processed_at": "2026-10-25T12:15:08.942256",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html": {
+    "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 25 Oct 2026 09:01:00 +0000",
+    "processed_at": "2026-10-26T13:44:59.060912",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html": {
+    "title": "Meet Anthropic’s Seven Founders",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 26 Oct 2026 13:34:56 +0000",
+    "processed_at": "2026-10-26T13:44:59.131350",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html": {
+    "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 26 Oct 2026 13:41:40 +0000",
+    "processed_at": "2026-10-26T13:44:59.202496",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html": {
+    "title": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 26 Oct 2026 09:03:34 +0000",
+    "processed_at": "2026-10-26T13:44:59.283366",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html": {
+    "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 26 Oct 2026 09:02:15 +0000",
+    "processed_at": "2026-10-26T13:44:59.357913",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/affiliate/casino/": {
+    "title": "Casino Affiliate Programs (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Thu, 22 Oct 2026 07:00:00 GMT",
+    "processed_at": "2026-10-26T13:45:58.960964",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.telecomstechnews.com/news/consumer-cellular-wireless-loyalty-study-verizon-and-att-trail/": {
+    "title": "Consumer Cellular tops wireless loyalty study as Verizon and AT&T trail - Telecoms Tech News",
+    "source": "Google News Search",
+    "published_at": "Thu, 22 Oct 2026 16:51:32 GMT",
+    "processed_at": "2026-10-26T13:45:59.127362",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://ppc.land/googles-help-page-trails-its-retention-goal-rollout-to-search-and-shopping/": {
+    "title": "Google's help page trails its retention goal rollout to Search and Shopping - PPC Land",
+    "source": "Google News Search",
+    "published_at": "Sun, 25 Oct 2026 13:53:18 GMT",
+    "processed_at": "2026-10-26T13:46:52.966041",
+    "status": "posted",
+    "telegram_message_id": 168
+  },
+  "https://m.economictimes.com/world/business/josh-pigford-built-baremetrics-with-just-0-in-reported-startup-costs-in-2013-years-later-the-software-business-was-generating-an-estimated-1-2-million-a-year/articleshow/135190139.cms": {
+    "title": "Josh Pigford built Baremetrics with just $0 in reported startup costs in 2013; years later, the software b - The Economic Times",
+    "source": "Google News Search",
+    "published_at": "Sun, 25 Oct 2026 16:50:17 GMT",
+    "processed_at": "2026-10-26T13:46:52.973115",
     "status": "ignored",
     "telegram_message_id": null
   }
