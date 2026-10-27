@@ -5902,5 +5902,61 @@
     "processed_at": "2026-10-26T13:46:52.973115",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html": {
+    "title": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 26 Oct 2026 20:15:39 +0000",
+    "processed_at": "2026-10-27T12:51:53.336241",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html": {
+    "title": "Wanted: Robot-Dog Walkers. $20/Hour.",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 27 Oct 2026 11:05:07 +0000",
+    "processed_at": "2026-10-27T12:51:53.426282",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html": {
+    "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 27 Oct 2026 09:02:36 +0000",
+    "processed_at": "2026-10-27T12:51:53.517228",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html": {
+    "title": "The Key Numbers From Anthropic’s IPO Filing",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 26 Oct 2026 20:21:29 +0000",
+    "processed_at": "2026-10-27T12:51:53.595023",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html": {
+    "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 26 Oct 2026 19:36:41 +0000",
+    "processed_at": "2026-10-27T12:51:53.684604",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/ubersuggest-inside-claude/": {
+    "title": "Ubersuggest Now Lives Inside Claude. Here’s What It Can Actually Do",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 26 Oct 2026 16:00:00 +0000",
+    "processed_at": "2026-10-27T12:52:23.643159",
+    "status": "posted",
+    "telegram_message_id": 169
+  },
+  "https://business.google.com/us/accelerate/resources/articles/three-updates-to-customer-lifecycle-goals-to-help-you-win-the-holiday-season/": {
+    "title": "Three updates to customer lifecycle goals to help you win the holiday season - Google Business Profile",
+    "source": "Google News Search",
+    "published_at": "Fri, 23 Oct 2026 08:50:20 GMT",
+    "processed_at": "2026-10-27T12:52:23.650293",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
