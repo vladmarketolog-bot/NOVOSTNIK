@@ -1,20 +1,4 @@
 {
-  "https://www.lifehealth.com/benefits-are-evolving-beyond-retention-as-workforce-pressures-mount": {
-    "title": "Benefits Are Evolving Beyond Retention As Workforce Pressures Mount - lifehealth.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 26 Aug 2026 02:48:17 GMT",
-    "processed_at": "2026-08-30T12:33:41.773022",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.einpresswire.com/article/937596123/marketing-founder-turns-15-years-of-client-work-into-the-leaky-bucket-a-retention-guide": {
-    "title": "Marketing Founder Turns 15 Years of Client Work Into The Leaky Bucket, a Retention Guide - EIN Presswire",
-    "source": "Google News Search",
-    "published_at": "Sun, 30 Aug 2026 00:53:00 GMT",
-    "processed_at": "2026-08-30T12:33:42.360652",
-    "status": "posted",
-    "telegram_message_id": 125
-  },
   "https://www.bakingbusiness.com/articles/66798-pro-tip-using-psyllium-in-baking-to-improve-structure-and-moisture-retention": {
     "title": "Pro Tip: Using psyllium in baking to improve structure and moisture retention - Baking Business",
     "source": "Google News Search",
@@ -5806,5 +5790,69 @@
     "processed_at": "2026-10-29T13:56:40.168910",
     "status": "posted",
     "telegram_message_id": 171
+  },
+  "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html": {
+    "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 30 Oct 2026 12:04:59 +0000",
+    "processed_at": "2026-10-30T13:43:13.986962",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html": {
+    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 30 Oct 2026 01:30:27 +0000",
+    "processed_at": "2026-10-30T13:43:14.082822",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html": {
+    "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 29 Oct 2026 21:17:40 +0000",
+    "processed_at": "2026-10-30T13:43:14.159800",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html": {
+    "title": "Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 29 Oct 2026 21:08:30 +0000",
+    "processed_at": "2026-10-30T13:43:14.243068",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html": {
+    "title": "Are We in an A.I. Bubble? We’re About to Find Out.",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 30 Oct 2026 10:00:25 +0000",
+    "processed_at": "2026-10-30T13:43:14.343880",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html": {
+    "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 30 Oct 2026 11:12:48 +0000",
+    "processed_at": "2026-10-30T13:43:14.438436",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.pocketgamer.biz/how-mobile-publishers-can-turn-discord-into-a-high-margin-d2c-revenue-engine/": {
+    "title": "How mobile publishers can turn Discord into a high-margin D2C revenue engine - PocketGamer.biz",
+    "source": "Google News Search",
+    "published_at": "Thu, 29 Oct 2026 15:00:00 GMT",
+    "processed_at": "2026-10-30T13:43:51.755547",
+    "status": "posted",
+    "telegram_message_id": 172
+  },
+  "https://www.cutoday.info/Fresh-Today/Small-Business-Banking-Satisfaction-Rises-But-J.D.-Power-Finds-Cracks-In-Customer-Relationships": {
+    "title": "Small Business Banking Satisfaction Rises, But J.D. Power Finds Cracks In Customer Relationships - CU Today",
+    "source": "Google News Search",
+    "published_at": "Thu, 29 Oct 2026 22:34:45 GMT",
+    "processed_at": "2026-10-30T13:43:51.762634",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
