@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html": {
-    "title": "Get to Know Your Phone’s Built-In Emergency Kit",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 02 Sep 2026 09:03:10 +0000",
-    "processed_at": "2026-09-02T11:55:41.751417",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html": {
-    "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 02 Sep 2026 02:47:33 +0000",
-    "processed_at": "2026-09-02T11:55:41.823119",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html": {
-    "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 02 Sep 2026 00:40:33 +0000",
-    "processed_at": "2026-09-02T11:55:41.897600",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.martechcube.com/ai-adoption-on-marketing-operations/": {
-    "title": "The Business Impact of AI Adoption on Marketing Operations - MarTech Cube",
-    "source": "Google News Search",
-    "published_at": "Fri, 28 Aug 2026 13:10:03 GMT",
-    "processed_at": "2026-09-02T11:56:01.737030",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wvumedicine.org/news/article/wvu-medicine/ruby-memorial-hospital/wvu-medicine-chief-nursing-executive-selected-for-becker-s-inaugural-nursing-advisory-board/": {
-    "title": "WVU Medicine chief nursing executive selected for Becker’s inaugural nursing advisory board - WVU Medicine",
-    "source": "Google News Search",
-    "published_at": "Fri, 28 Aug 2026 13:31:38 GMT",
-    "processed_at": "2026-09-02T11:56:17.246536",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://manchester.inklink.news/body-cam-pilot-program-among-strategies-to-address-ongoing-challenges-at-sununu-youth-center/": {
-    "title": "Body-cam pilot program among strategies to address ongoing challenges at Sununu Youth Center - Manchester Ink Link",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 01:18:18 GMT",
-    "processed_at": "2026-09-02T11:56:17.354615",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.law.com/americanlawyer/2026/09/01/analyst-insights-what-expanded-associate-survey-data-reveals-about-satisfaction-retention-and-the-partnership-pipeline-/": {
-    "title": "Analyst Insights: What Expanded Associate Survey Data Reveals About Satisfaction, Retention and the Partnership Pipeline - Law.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 14:00:00 GMT",
-    "processed_at": "2026-09-02T11:56:17.456421",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://medium.datadriveninvestor.com/millions-of-users-dont-make-a-neobank-profitable-here-s-the-unit-economics-that-actually-matter-d5b574b8b139": {
-    "title": "Millions of Users Don’t Make a Neobank Profitable. Here’s the Unit Economics That Actually Matter - DataDrivenInvestor",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 12:28:17 GMT",
-    "processed_at": "2026-09-02T11:56:34.438855",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://pulse2.com/garrison-growth-profile-dave-garrison-interview/amp/": {
-    "title": "Garrison Growth: Interview With Co-Founder Dave Garrison About The Buy-In Advantage And Employee Engagement - Pulse 2.0",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 11:22:13 GMT",
-    "processed_at": "2026-09-02T11:57:02.215854",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.benzinga.com/trading-ideas/movers/26/09/61547182/evercore-upgrades-duolingo-to-outperform-doubles-target-to-210-stock-rises": {
-    "title": "Evercore Upgrades Duolingo to Outperform, Doubles Target to $210 — Stock Rises - Benzinga",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 13:39:16 GMT",
-    "processed_at": "2026-09-02T11:57:15.782770",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/enterprise/blog/ecommerce-revenue-growth": {
-    "title": "Ecommerce Revenue Growth: A Four-Lever Framework (2026) - shopify.com",
-    "source": "Google News Search",
-    "published_at": "Mon, 31 Aug 2026 10:32:08 GMT",
-    "processed_at": "2026-09-02T11:57:16.432316",
-    "status": "posted",
-    "telegram_message_id": 128
-  },
-  "https://sg.finance.yahoo.com/news/panera-makes-major-change-customers-023300725.html": {
-    "title": "Panera makes major change to how customers earn rewards - Yahoo Finance Singapore",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 02:33:00 GMT",
-    "processed_at": "2026-09-02T11:57:16.440969",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.lightwaveonline.com/home/news/55401933/cable-ones-ceo-says-a-bundled-mobile-wireline-strategy-will-close-the-fwa-market-gap-loss": {
-    "title": "Cable One’s CEO says a bundled mobile/wireline strategy will close the FWA market gap loss - Lightwave Online",
-    "source": "Google News Search",
-    "published_at": "Mon, 31 Aug 2026 19:28:21 GMT",
-    "processed_at": "2026-09-02T11:57:16.449409",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html": {
-    "title": "Anthropic changes data retention policy after pushback from customers - CNBC",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 18:01:36 GMT",
-    "processed_at": "2026-09-02T11:57:16.458247",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.moderntiredealer.com/retail/news/55402031/straightaway-tire-auto-hits-100-store-milestone": {
-    "title": "Straightaway Tire & Auto Hits 100-Store Milestone - Modern Tire Dealer",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 14:16:58 GMT",
-    "processed_at": "2026-09-02T11:57:16.466717",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html": {
     "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
     "source": "rss.nytimes.com",
@@ -5844,6 +5724,70 @@
     "source": "Google News Search",
     "published_at": "Fri, 30 Oct 2026 07:00:00 GMT",
     "processed_at": "2026-11-01T13:56:06.976116",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html": {
+    "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 02 Nov 2026 15:08:36 +0000",
+    "processed_at": "2026-11-02T16:41:42.154556",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html": {
+    "title": "Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 02 Nov 2026 15:48:38 +0000",
+    "processed_at": "2026-11-02T16:41:42.232049",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html": {
+    "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 02 Nov 2026 14:55:57 +0000",
+    "processed_at": "2026-11-02T16:41:42.320927",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html": {
+    "title": "Deportees Turn to TikTok to Document Life Starting Over",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 02 Nov 2026 14:53:35 +0000",
+    "processed_at": "2026-11-02T16:41:42.387919",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.customerexperiencedive.com/news/verizon-customer-first-transformation-takes-root-ceo-says/872798/": {
+    "title": "Verizon’s customer-first transformation ‘takes root,’ CEO says - CX Dive",
+    "source": "Google News Search",
+    "published_at": "Mon, 26 Oct 2026 20:17:43 GMT",
+    "processed_at": "2026-11-02T16:41:42.528951",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.truckingdive.com/news/fedex-freight-q3-shipments-dip-slightly-following-spinoff/873256/": {
+    "title": "FedEx Freight Q3 shipments dip slightly following spinoff - Trucking Dive",
+    "source": "Google News Search",
+    "published_at": "Fri, 30 Oct 2026 15:40:52 GMT",
+    "processed_at": "2026-11-02T16:42:03.868008",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://sg.finance.yahoo.com/news/verizon-faces-concerning-customer-trend-164700443.html": {
+    "title": "Verizon faces a concerning customer trend - Yahoo Finance Singapore",
+    "source": "Google News Search",
+    "published_at": "Thu, 29 Oct 2026 16:47:00 GMT",
+    "processed_at": "2026-11-02T16:42:29.248411",
+    "status": "posted",
+    "telegram_message_id": 175
+  },
+  "https://www.retailbrew.com/stories/1-in-4-report-brands-holiday-emails-as-spam": {
+    "title": "1 in 4 report brands’ holiday emails as spam - Retail Brew",
+    "source": "Google News Search",
+    "published_at": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "processed_at": "2026-11-02T16:42:29.255306",
     "status": "ignored",
     "telegram_message_id": null
   }
