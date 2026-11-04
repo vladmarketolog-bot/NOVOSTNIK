@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html": {
-    "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 03 Sep 2026 18:38:58 +0000",
-    "processed_at": "2026-09-04T11:57:18.527723",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html": {
-    "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 03 Sep 2026 15:04:40 +0000",
-    "processed_at": "2026-09-04T11:57:18.638609",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html": {
-    "title": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 04 Sep 2026 11:00:03 +0000",
-    "processed_at": "2026-09-04T11:57:18.768428",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html": {
-    "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 04 Sep 2026 00:06:04 +0000",
-    "processed_at": "2026-09-04T11:57:18.901622",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html": {
-    "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 04 Sep 2026 03:00:16 +0000",
-    "processed_at": "2026-09-04T11:57:19.038060",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://coloradobiz.com/vasa-fitness-names-liz-crisafi-chief-marketing-officer/": {
-    "title": "VASA Fitness names Liz Crisafi chief marketing officer in colorado - ColoradoBiz",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 22:00:55 GMT",
-    "processed_at": "2026-09-04T11:58:11.265333",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://roastbrief.us/bray-leino-and-krow-group-come-together-to-create-a-stronger-integrated-agency/": {
-    "title": "Bray Leino and krow Group come together to create a stronger integrated agency - Roastbrief US",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 18:19:37 GMT",
-    "processed_at": "2026-09-04T11:58:33.481983",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://m.investing.com/news/transcripts/earnings-call-transcript-torrid-beats-on-q2-eps-shares-jump-after-hours-93CH-4888597?ampMode=1": {
-    "title": "Earnings call transcript: Torrid beats on Q2 EPS, shares jump after hours - Investing.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 21:18:00 GMT",
-    "processed_at": "2026-09-04T11:58:53.362688",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1939991": {
-    "title": "If you build it, they will stay! Sustaining evidence-based practices for the treatment of substance use disorders through investment in workforce retention - Frontiers",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 05:41:12 GMT",
-    "processed_at": "2026-09-04T11:59:06.312708",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.benefitsandpensionsmonitor.com/benefits/hr/human-connection-beats-perks-as-a-retention-strategy-randstad/394084": {
-    "title": "Human connection beats perks as a retention strategy: Randstad - Benefits and Pensions Monitor",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 12:34:59 GMT",
-    "processed_at": "2026-09-04T11:59:18.474574",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.usu.edu/today/story/usu-uwlp-releases-new-report-on-educational-attainment-of-utah-women": {
-    "title": "USU UWLP Releases New Report on Educational Attainment of Utah Women - Utah State University",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 19:01:18 GMT",
-    "processed_at": "2026-09-04T11:59:31.053345",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mediapost.com/publications/article/415098/albertsons-media-unveils-lifetime-value-metric.html": {
-    "title": "Albertsons Media Unveils 'Lifetime Value' Metric 05/15/2026 - MediaPost",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 18:34:16 GMT",
-    "processed_at": "2026-09-04T11:59:31.612310",
-    "status": "posted",
-    "telegram_message_id": 130
-  },
-  "https://longbridge.com/en/topics/43717712": {
-    "title": "Rising expectations for Stock Connect, re-evaluating DeepGlint's AI business - Longbridge",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 13:46:30 GMT",
-    "processed_at": "2026-09-04T11:59:31.619581",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.socialsamosa.com/festive-marketing-camp/new-age-brands-building-selling-scaling-festive-season-12488638": {
-    "title": "New-age brands on building, selling and scaling this festive season - Social Samosa",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 16:05:31 GMT",
-    "processed_at": "2026-09-04T11:59:31.625130",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.qsrweb.com/blogs/loyalty-programs-have-become-new-front-line-of-qsr-fraud/": {
-    "title": "Loyalty programs have become new front line of QSR fraud - qsrweb.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 28 Aug 2026 12:00:00 GMT",
-    "processed_at": "2026-09-04T11:59:31.630520",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html": {
     "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
     "source": "rss.nytimes.com",
@@ -5742,5 +5622,69 @@
     "processed_at": "2026-11-03T14:47:22.380157",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html": {
+    "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 03 Nov 2026 18:09:36 +0000",
+    "processed_at": "2026-11-04T14:57:55.902774",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html": {
+    "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 03 Nov 2026 20:53:40 +0000",
+    "processed_at": "2026-11-04T14:57:56.056876",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html": {
+    "title": "Voting Problems Cause a Surge in Misleading Fraud Claims Online",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 03 Nov 2026 19:54:29 +0000",
+    "processed_at": "2026-11-04T14:57:56.176284",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html": {
+    "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 03 Nov 2026 23:39:55 +0000",
+    "processed_at": "2026-11-04T14:57:56.302096",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://kalkine.com.au/stock-research/weaker-customer-retention-margin-erosion-and-guidance-cuts-cloud-the-secure-communications-outlook-bb/": {
+    "title": "Weaker Customer Retention, Margin Erosion and Guidance Cuts Cloud the Secure Communications Outlook - BB - Kalkine",
+    "source": "Google News Search",
+    "published_at": "Thu, 29 Oct 2026 11:47:44 GMT",
+    "processed_at": "2026-11-04T14:58:33.146192",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.netsuite.com/portal/resource/articles/crm/marketing-for-tech-startups.shtml": {
+    "title": "8 Marketing Strategies for Tech Startups That Founders Should Consider - Oracle NetSuite",
+    "source": "Google News Search",
+    "published_at": "Mon, 02 Nov 2026 08:00:00 GMT",
+    "processed_at": "2026-11-04T14:58:37.632134",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.netsuite.com/portal/resource/articles/business-strategy/tech-startup-challenges.shtml": {
+    "title": "The 10 Biggest Challenges for Tech Startups Today - Oracle NetSuite",
+    "source": "Google News Search",
+    "published_at": "Mon, 02 Nov 2026 08:00:00 GMT",
+    "processed_at": "2026-11-04T14:58:38.667292",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/answer-engine-optimization/": {
+    "title": "Answer Engine Optimization: How to Improve AI Visibility",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 30 Oct 2026 07:00:00 +0000",
+    "processed_at": "2026-11-04T14:58:41.672080",
+    "status": "posted",
+    "telegram_message_id": 176
   }
 }
