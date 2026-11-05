@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html": {
-    "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 05 Sep 2026 09:03:10 +0000",
-    "processed_at": "2026-09-05T11:06:21.393485",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html": {
-    "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 05 Sep 2026 09:02:13 +0000",
-    "processed_at": "2026-09-05T11:06:21.481124",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html": {
-    "title": "The Generation That’s Never Had to Say ‘Hello?’",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 05 Sep 2026 09:00:06 +0000",
-    "processed_at": "2026-09-05T11:06:21.544965",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html": {
-    "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 05 Sep 2026 00:18:57 +0000",
-    "processed_at": "2026-09-05T11:06:21.638954",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html": {
-    "title": "F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 04 Sep 2026 21:11:56 +0000",
-    "processed_at": "2026-09-05T11:06:21.715398",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html": {
-    "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 04 Sep 2026 17:19:30 +0000",
-    "processed_at": "2026-09-05T11:06:21.803924",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/why-meta-tags-are-so-important/": {
-    "title": "Meta Tags for SEO: What They Are, Why They Matter, and How to Use Them",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 04 Sep 2026 16:00:00 +0000",
-    "processed_at": "2026-09-05T11:06:44.117643",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://chainwire.org/2026/09/04/btcloan-launches-global-bitcoin-backed-lending-marketplace/": {
-    "title": "BTCLOAN Launches Global Bitcoin-Backed Lending Marketplace - Chainwire",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 12:05:25 GMT",
-    "processed_at": "2026-09-05T11:07:08.505409",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://technotrenz.com/stats/marketing-performance-statistics/": {
-    "title": "Marketing Performance Statistics By KPIs And Trends (2026) - technotrenz.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 05:43:08 GMT",
-    "processed_at": "2026-09-05T11:07:08.705776",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.barchart.com/press-releases/4451520/madison-media-services-expands-into-business-growth-systems-consulting": {
-    "title": "Madison Media Services Expands Into Business Growth & Systems Consulting - Barchart.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 18:40:04 GMT",
-    "processed_at": "2026-09-05T11:07:08.951717",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.einnews.com/pr_news/939033477/customer-success-management-market-to-surge-at-20-15-cagr-anticipated-to-reach-usd-14-98-billion-by-2035": {
-    "title": "Customer Success Management Market to Surge at 20.15% CAGR, Anticipated to Reach USD 14.98 Billion by 2035 - einnews.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 14:02:00 GMT",
-    "processed_at": "2026-09-05T11:07:09.106340",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cruisetradenews.com/latest-news/advantage-to-host-first-ever-marketing-summit": {
-    "title": "Advantage to host first-ever Marketing Summit - Cruise Trade News",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 11:43:38 GMT",
-    "processed_at": "2026-09-05T11:07:15.691318",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.martechcube.com/martech-interview-sarah-richardson/": {
-    "title": "MarTech Interview with Sarah Richardson, CEO of Australian Loyalty Association - MarTech Cube",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 13:03:47 GMT",
-    "processed_at": "2026-09-05T11:07:15.819315",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://lodgingmagazine.com/leading-for-retention-strategies-that-strengthen-workforce-stability-and-hotel-performance/": {
-    "title": "Leading for Retention: Strategies That Strengthen Workforce Stability and Hotel Performance - LODGING Magazine",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 14:36:15 GMT",
-    "processed_at": "2026-09-05T11:07:15.950283",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.verisk.com/blog/the-future-of-auto-insurance-retention-see-the-blind-spots-with-ai/": {
-    "title": "The Future of Auto Insurance Retention: See the Blind Spots With AI - Verisk",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 17:23:35 GMT",
-    "processed_at": "2026-09-05T11:07:26.552752",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html": {
     "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
     "source": "rss.nytimes.com",
@@ -5686,5 +5566,61 @@
     "processed_at": "2026-11-04T14:58:41.672080",
     "status": "posted",
     "telegram_message_id": 176
+  },
+  "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html": {
+    "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 04 Nov 2026 19:53:16 +0000",
+    "processed_at": "2026-11-05T15:02:37.155542",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/04/technology/sherrod-brown-ohio-crypto-trump.html": {
+    "title": "Sherrod Brown’s Win in Ohio Is a Rare Loss for Crypto Under Trump",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 04 Nov 2026 18:12:27 +0000",
+    "processed_at": "2026-11-05T15:02:37.241500",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html": {
+    "title": "Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 05 Nov 2026 10:03:28 +0000",
+    "processed_at": "2026-11-05T15:02:37.318240",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html": {
+    "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 05 Nov 2026 12:14:40 +0000",
+    "processed_at": "2026-11-05T15:02:37.404995",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/xml-sitemap/": {
+    "title": "XML Sitemap Optimization: How to Improve Crawlability",
+    "source": "neilpatel.com",
+    "published_at": "Wed, 04 Nov 2026 20:00:00 +0000",
+    "processed_at": "2026-11-05T15:02:41.680660",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.gurufocus.com/news/9173829/ehealth-inc-ehth-q3-2026-earnings-call-highlights-medicare-revenue-plunges-64-amid-cost-cuts-and-strategic-reset": {
+    "title": "eHealth Inc (EHTH) Q3 2026 Earnings Call Highlights: Medicare Re - GuruFocus",
+    "source": "Google News Search",
+    "published_at": "Thu, 05 Nov 2026 07:48:40 GMT",
+    "processed_at": "2026-11-05T15:02:41.763869",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.multibagg.ai/market-pulse/articles/meesho-festive-demand-marketing-investment-concall-cmw1dcuqo008x31qlhjr0qp4g": {
+    "title": "Meesho says festive demand supports continued marketing spend - Multibagg AI",
+    "source": "Google News Search",
+    "published_at": "Wed, 04 Nov 2026 00:19:05 GMT",
+    "processed_at": "2026-11-05T15:03:26.624906",
+    "status": "posted",
+    "telegram_message_id": 177
   }
 }
