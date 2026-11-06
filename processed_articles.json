@@ -1,108 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html": {
-    "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 06 Sep 2026 10:45:11 +0000",
-    "processed_at": "2026-09-06T11:29:52.261406",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://plumassun.org/2026/09/02/pusd-librarians-three-classified-staff-rehired/": {
-    "title": "PUSD librarians, three classified staff rehired - The Plumas Sun",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 10:30:00 GMT",
-    "processed_at": "2026-09-06T11:31:06.427819",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://stocktwits.com/news-articles/markets/equity/anthropic-reportedly-rolls-back-data-retention-policy-after-customer-pushback-it-also-launches-new-claude-models/cZsoMKERJMp": {
-    "title": "Anthropic Reportedly Rolls Back Data Retention Policy After Customer Pushback — It Also Launches New Claude Models - Stocktwits",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 14:55:09 GMT",
-    "processed_at": "2026-09-06T11:31:19.604152",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://openai.com/index/safety-overview-gpt-6-astra/": {
-    "title": "Safety overview: GPT-6 Astra - OpenAI",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 20:07:43 GMT",
-    "processed_at": "2026-09-06T11:31:19.702436",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.ndnu.edu/articles/education/holistic-approach-to-education.html": {
-    "title": "How to Take a Holistic Approach to Education With a Master’s in Educational Therapy - Notre Dame de Namur University",
-    "source": "Google News Search",
-    "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "processed_at": "2026-09-06T11:31:48.670335",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.techtarget.com/cybersecurity/tip/CISOs-guide-to-vector-database-security": {
-    "title": "CISO's guide to vector database security - TechTarget",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 01:47:41 GMT",
-    "processed_at": "2026-09-06T11:31:56.814222",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://seekingalpha.com/article/4942796-wella-company-prepares-ipo-for-debt-reduction-plan": {
-    "title": "The Wella Company Prepares IPO For Debt Reduction Plan (Pending:WELA) - Seeking Alpha",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 14:06:46 GMT",
-    "processed_at": "2026-09-06T11:31:57.061714",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tomsguide.com/best-picks/the-best-usenet-providers": {
-    "title": "The best Usenet providers - Tom's Guide",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 16:02:06 GMT",
-    "processed_at": "2026-09-06T11:32:06.768790",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.shopify.com/ng/blog/customer-retention-strategies": {
-    "title": "14 Customer Retention Strategies for Ecommerce (2026) - Shopify",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-06T11:32:07.607984",
-    "status": "posted",
-    "telegram_message_id": 131
-  },
-  "https://affpapa.com/the-strongest-igaming-player-retention-methods/": {
-    "title": "The Best iGaming Player Retention Methods (2026) - AffPapa",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-06T11:32:07.616837",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.hostinger.com/tutorials/customer-retention-strategies-after-black-friday/": {
-    "title": "12 customer retention strategies after Black Friday - Hostinger",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 11:01:19 GMT",
-    "processed_at": "2026-09-06T11:32:07.625178",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/prnewswire:430820c343786:0-bigo-ads-calls-for-a-more-connected-approach-to-mobile-app-growth/": {
-    "title": "BIGO Ads Calls for a More Connected Approach to Mobile App Growth - tradingview.com",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 08:08:00 GMT",
-    "processed_at": "2026-09-06T11:32:07.633861",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.usatoday.com/press-release/story/42199/madison-media-services-expands-into-business-growth-systems-consulting/": {
-    "title": "Madison Media Services Expands Into Business Growth & Systems Consulting - USA Today",
-    "source": "Google News Search",
-    "published_at": "Sat, 05 Sep 2026 01:18:56 GMT",
-    "processed_at": "2026-09-06T11:32:07.642391",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html": {
     "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
     "source": "rss.nytimes.com",
@@ -5622,5 +5518,85 @@
     "processed_at": "2026-11-05T15:03:26.624906",
     "status": "posted",
     "telegram_message_id": 177
+  },
+  "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html": {
+    "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 06 Nov 2026 00:33:00 +0000",
+    "processed_at": "2026-11-06T14:42:34.283680",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html": {
+    "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 05 Nov 2026 19:27:58 +0000",
+    "processed_at": "2026-11-06T14:42:34.346012",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html": {
+    "title": "Why the Tech Right Lost Big This Week",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 06 Nov 2026 11:00:19 +0000",
+    "processed_at": "2026-11-06T14:42:34.437851",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html": {
+    "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 06 Nov 2026 12:23:09 +0000",
+    "processed_at": "2026-11-06T14:42:34.508601",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html": {
+    "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 06 Nov 2026 10:00:58 +0000",
+    "processed_at": "2026-11-06T14:42:34.599923",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html": {
+    "title": "House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 06 Nov 2026 01:10:46 +0000",
+    "processed_at": "2026-11-06T14:42:34.694292",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html": {
+    "title": "Google, Meta and TikTok Sue California Over Ban on Features for Kids",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 05 Nov 2026 22:10:24 +0000",
+    "processed_at": "2026-11-06T14:42:34.788007",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html": {
+    "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 06 Nov 2026 01:54:18 +0000",
+    "processed_at": "2026-11-06T14:42:34.885301",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.pymnts.com/earnings/2026/yum-brands-focuses-technology-adoption-customer-retention/": {
+    "title": "Yum Brands Focuses on Technology Adoption and Customer Retention - PYMNTS.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 03 Nov 2026 18:25:24 GMT",
+    "processed_at": "2026-11-06T14:43:20.155712",
+    "status": "posted",
+    "telegram_message_id": 178
+  },
+  "https://www.financialcontent.com/article/marketersmedia-2026-11-4-efoli-publishes-industry-statement-on-customer-retention-in-ecommerce": {
+    "title": "eFoli publishes industry statement on customer retention in ecommerce - FinancialContent",
+    "source": "Google News Search",
+    "published_at": "Wed, 04 Nov 2026 21:39:00 GMT",
+    "processed_at": "2026-11-06T14:43:20.160611",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
