@@ -1,92 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html": {
-    "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 07 Sep 2026 12:20:03 +0000",
-    "processed_at": "2026-09-07T13:14:45.238234",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html": {
-    "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 07 Sep 2026 09:04:03 +0000",
-    "processed_at": "2026-09-07T13:14:45.319229",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.fticonsulting.com/insights/case-studies/300m-revenue-uplift-global-data-company": {
-    "title": "Driving 300M Revenue Uplift for a Global Data Leader - FTI Consulting",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 01:54:59 GMT",
-    "processed_at": "2026-09-07T13:15:23.308551",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.lifehealth.com/alternative-investments-emerge-as-a-differentiator-in-advisor-retention-for-private-banks/": {
-    "title": "Alternative Investments Emerge As A Differentiator In Advisor Retention For Private Banks - lifehealth.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 02:05:18 GMT",
-    "processed_at": "2026-09-07T13:15:34.192042",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.martechcube.com/bigo-ads-urges-a-more-connected-approach-to-mobile-app-growth/": {
-    "title": "BIGO Ads Urges a More Connected Approach to Mobile App Growth - MarTech Cube",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 04:22:23 GMT",
-    "processed_at": "2026-09-07T13:15:34.317857",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://simplywall.st/stocks/us/retail/nasdaq-tsco/tractor-supply/news/tractor-supply-tsco-following-customer-retention-strength-is": {
-    "title": "Tractor Supply (TSCO) Following Customer Retention Strength Is Fair Value Still In Reach - simplywall.st",
-    "source": "Google News Search",
-    "published_at": "Sun, 06 Sep 2026 18:30:32 GMT",
-    "processed_at": "2026-09-07T13:15:34.807633",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://eu.36kr.com/en/p/3972573458755845": {
-    "title": "Why I Shut Down My Half-Year Dedicated AI Social Product: Key Reasons & Lessons Learned - eu.36kr.com",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 01:24:49 GMT",
-    "processed_at": "2026-09-07T13:15:47.962155",
-    "status": "posted",
-    "telegram_message_id": 132
-  },
-  "https://ask-luca.com/blogs/ai-powered-analytics-tools": {
-    "title": "10 Best AI-Powered Analytics Tools for Ecommerce in 2026: Chat Interfaces, Autonomous Analysts and Vertical Tools Compared - Ask Luca",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 08:12:33 GMT",
-    "processed_at": "2026-09-07T13:15:47.970861",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://markets.businessinsider.com/news/stocks/53-of-european-consumers-are-open-to-switching-mobile-providers-as-telco-loyalty-comes-under-pressure-1036525118": {
-    "title": "53% of European Consumers Are Open to Switching Mobile Providers as Telco Loyalty Comes Under Pressure - markets.businessinsider.com",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 01:15:00 GMT",
-    "processed_at": "2026-09-07T13:15:47.979415",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/marketbeat:3f92a2818094b:0-lands-end-q2-earnings-call-highlights/": {
-    "title": "Lands' End Q2 Earnings Call Highlights - TradingView",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 14:03:48 GMT",
-    "processed_at": "2026-09-07T13:15:47.989154",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://getlatka.com/companies/kangaroorewards.com": {
-    "title": "Kangaroo Rewards Revenue 2025: $3.3M Est. ARR - GetLatka",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-07T13:15:47.997735",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html": {
     "title": "Apple to Make First Big Change to iPhones in Years",
     "source": "rss.nytimes.com",
@@ -5596,6 +5508,86 @@
     "source": "Google News Search",
     "published_at": "Wed, 04 Nov 2026 21:39:00 GMT",
     "processed_at": "2026-11-06T14:43:20.160611",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html": {
+    "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 07 Nov 2026 10:00:49 +0000",
+    "processed_at": "2026-11-07T13:39:38.742868",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html": {
+    "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 07 Nov 2026 02:55:47 +0000",
+    "processed_at": "2026-11-07T13:39:38.871655",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html": {
+    "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 06 Nov 2026 20:45:56 +0000",
+    "processed_at": "2026-11-07T13:39:38.996492",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/answerthepublic-trending-keywords/": {
+    "title": "Trending Keywords in AnswerThePublic: Find What’s Rising on Google and YouTube",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 06 Nov 2026 20:00:00 +0000",
+    "processed_at": "2026-11-07T13:39:44.206045",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.barchart.com/story/news/8695258/hcat-q3-2026-deep-dive-client-retention-and-cost-alignment-take-center-stage": {
+    "title": "HCAT Q3 2026 deep dive: client retention and cost alignment take center stage - Barchart.com",
+    "source": "Google News Search",
+    "published_at": "Fri, 06 Nov 2026 05:56:02 GMT",
+    "processed_at": "2026-11-07T13:40:09.191551",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businesswire.com/news/home/20261105362770/en/Elite-Achieves-100-Cloud-Customer-Retention-as-Law-Firms-Accelerate-Financial-Operations-Modernization": {
+    "title": "Elite Achieves 100% Cloud Customer Retention as Law Firms Accelerate Financial Operations Modernization - Business Wire",
+    "source": "Google News Search",
+    "published_at": "Thu, 05 Nov 2026 16:00:00 GMT",
+    "processed_at": "2026-11-07T13:40:10.015065",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards": {
+    "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards - CoinDesk",
+    "source": "Google News Search",
+    "published_at": "Sun, 01 Nov 2026 15:00:00 GMT",
+    "processed_at": "2026-11-07T13:40:10.228710",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.theglobeandmail.com/investing/markets/stocks/SCHW/pressreleases/8679965/vertex-verx-q3-2026-earnings-call-transcript/": {
+    "title": "Vertex (VERX) Q3 2026 Earnings Call Transcript - The Globe and Mail",
+    "source": "Google News Search",
+    "published_at": "Thu, 05 Nov 2026 18:14:17 GMT",
+    "processed_at": "2026-11-07T13:40:11.588342",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://learn.g2.com/best-proactive-customer-retention-software": {
+    "title": "5 Best Proactive Customer Retention Software for 2026: My Picks - G2 Learn Hub",
+    "source": "Google News Search",
+    "published_at": "Fri, 06 Nov 2026 15:51:48 GMT",
+    "processed_at": "2026-11-07T13:40:25.645132",
+    "status": "posted",
+    "telegram_message_id": 179
+  },
+  "https://markets.businessinsider.com/news/stocks/new-book-stop-paying-for-bullsh-t-debuts-at-1-in-26-categories-1036714859": {
+    "title": "New Book, \"Stop Paying for Bullsh*t,\" Debuts at #1 in 26 Categories - markets.businessinsider.com",
+    "source": "Google News Search",
+    "published_at": "Wed, 04 Nov 2026 16:07:29 GMT",
+    "processed_at": "2026-11-07T13:40:25.651499",
     "status": "ignored",
     "telegram_message_id": null
   }
