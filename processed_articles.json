@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html": {
-    "title": "Apple to Make First Big Change to iPhones in Years",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 08 Sep 2026 09:05:12 +0000",
-    "processed_at": "2026-09-08T11:57:05.376433",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html": {
-    "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 08 Sep 2026 09:05:09 +0000",
-    "processed_at": "2026-09-08T11:57:05.460842",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html": {
-    "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 08 Sep 2026 09:04:17 +0000",
-    "processed_at": "2026-09-08T11:57:05.542698",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://streamlinefeed.co.ke/news/post-purchase-optimization-unboxing-shipment-tracking-ltv": {
-    "title": "Post-Purchase Optimization: Leveraging Unboxing, Shipment Tracking, and Educational Loops to Drive LTV - streamlinefeed.co.ke",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 11:10:01 GMT",
-    "processed_at": "2026-09-08T11:57:38.231582",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.globalsources.com/sourcing-digest/reconnecting-growth-with-customer-lifetime-value-in-the-digital-age/?source=GSOLHP_SKC_2": {
-    "title": "Businesses are shifting focus from monthly sales to customer lifetime value (CLV) as the core growth metric - Global Sources",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 09:40:46 GMT",
-    "processed_at": "2026-09-08T11:57:53.450191",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://fox59.com/news/indiana-receives-120m-to-improve-healthcare-access/": {
-    "title": "Indiana receives $120M to improve healthcare access - Fox 59",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 11:20:24 GMT",
-    "processed_at": "2026-09-08T11:58:12.275385",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.gartner.com/en/newsroom/press-releases/2026-09-07-gartner-hr-survey-reveals-australian-employees-are-slowly-regaining-confidence-in-the-job-market": {
-    "title": "Gartner HR Survey Reveals Australian Employees Are Slowly Regaining Confidence in the Job Market - Gartner",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 01:14:25 GMT",
-    "processed_at": "2026-09-08T11:58:12.352654",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mckinsey.com/industries/financial-services/our-insights/at-last-customers-first-ai-powered-personalization-can-help-banks-create-value": {
-    "title": "At last, customers first: AI-powered personalization can help banks create value - McKinsey & Company",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
-    "processed_at": "2026-09-08T11:58:27.433597",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://simplywall.st/stocks/us/retail/nasdaq-tsco/tractor-supply/news/tractor-supply-tsco-following-customer-retention-strength-is/amp": {
-    "title": "Tractor Supply (TSCO) Following Customer Retention Strength Is Fair Value Still In Reach - simplywall.st",
-    "source": "Google News Search",
-    "published_at": "Sun, 06 Sep 2026 18:30:34 GMT",
-    "processed_at": "2026-09-08T11:58:27.601768",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.markhub24.com/post/zepto-pass-a-membership-strategy-for-customer-retention-in-indian-quick-commerce": {
-    "title": "Zepto Pass: A Membership Strategy for Customer Retention in Indian Quick Commerce - MarkHub24",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 03:30:02 GMT",
-    "processed_at": "2026-09-08T11:59:15.924351",
-    "status": "posted",
-    "telegram_message_id": 133
-  },
-  "https://marketech-apac.com/whats-next-adjoes-eileen-keng-on-why-entertainment-apps-are-turning-to-gaming-for-retention-and-revenue/": {
-    "title": "What's NEXT: adjoe’s Eileen Keng on why entertainment apps are turning to gaming for retention and revenue - marketech apac",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 02:55:59 GMT",
-    "processed_at": "2026-09-08T11:59:15.933422",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://1851franchise.com/how-do-i-launch-franchise-loyalty-programs-2732961": {
-    "title": "How Do I Launch Franchise Loyalty Programs? Expert Tips From Confero - 1851 Franchise",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 17:04:45 GMT",
-    "processed_at": "2026-09-08T11:59:15.942152",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.investmentnews.com/practice-management/advisors-on-the-move/267774": {
-    "title": "Advisor transitions surge as firms rethink onboarding and retention - InvestmentNews",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 15:11:46 GMT",
-    "processed_at": "2026-09-08T11:59:15.950901",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/real-estate-marketing/": {
-    "title": "Real Estate Marketing: A Complete Guide for 2026",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 07 Sep 2026 16:00:00 +0000",
-    "processed_at": "2026-09-08T11:59:15.959649",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://finance.yahoo.com/technology/ai/articles/anthropic-reportedly-rolls-back-data-192200396.html": {
-    "title": "Anthropic Reportedly Rolls Back Data Retention Policy After Customer Pushback — It Also Launches New Claude Models - finance.yahoo.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 01 Sep 2026 19:22:00 GMT",
-    "processed_at": "2026-09-08T11:59:15.968418",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html": {
     "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
     "source": "rss.nytimes.com",
@@ -5588,6 +5468,22 @@
     "source": "Google News Search",
     "published_at": "Wed, 04 Nov 2026 16:07:29 GMT",
     "processed_at": "2026-11-07T13:40:25.651499",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://hackernoon.com/why-churn-prediction-models-fail-at-customer-retention": {
+    "title": "Why Churn Prediction Models Fail at Customer Retention - HackerNoon",
+    "source": "Google News Search",
+    "published_at": "Thu, 05 Nov 2026 06:51:54 GMT",
+    "processed_at": "2026-11-08T13:59:11.411399",
+    "status": "posted",
+    "telegram_message_id": 180
+  },
+  "https://www.tradingview.com/news/stockstory:20f95084b094b:0-hcat-q3-2026-deep-dive-client-retention-and-cost-alignment-take-center-stage/": {
+    "title": "HCAT Q3 2026 deep dive: client retention and cost alignment take center stage - TradingView",
+    "source": "Google News Search",
+    "published_at": "Fri, 06 Nov 2026 05:56:02 GMT",
+    "processed_at": "2026-11-08T13:59:11.416697",
     "status": "ignored",
     "telegram_message_id": null
   }
