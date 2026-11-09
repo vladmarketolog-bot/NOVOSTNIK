@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html": {
-    "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 08 Sep 2026 21:02:03 +0000",
-    "processed_at": "2026-09-09T12:07:37.955382",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html": {
-    "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 08 Sep 2026 19:00:03 +0000",
-    "processed_at": "2026-09-09T12:07:38.042743",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html": {
-    "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 09 Sep 2026 09:03:34 +0000",
-    "processed_at": "2026-09-09T12:07:38.126960",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html": {
-    "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 09 Sep 2026 09:02:45 +0000",
-    "processed_at": "2026-09-09T12:07:38.205470",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4137234:0-gddy-airo-s-rapid-adoption-and-ai-driven-efficiencies-are-fueling-growth-retention-and-margin-expansion/": {
-    "title": "GDDY: Airo's rapid adoption and AI-driven efficiencies are fueling growth, retention, and margin expansion - TradingView",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 17:57:32 GMT",
-    "processed_at": "2026-09-09T12:07:38.465468",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://seekingalpha.com/article/4943831-hellofresh-needs-a-pivot-fast": {
-    "title": "HelloFresh Needs A Pivot, Fast (OTCMKTS:HLFFF) - Seeking Alpha",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 14:20:21 GMT",
-    "processed_at": "2026-09-09T12:08:23.879578",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://simplywall.st/stocks/us/retail/nasdaq-eye/national-vision-holdings/news/does-eyeglass-world-rebrand-change-the-bull-case-for-nationa/amp": {
-    "title": "Does Eyeglass World Rebrand Change The Bull Case For National Vision Holdings Stock? - simplywall.st",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 06:31:17 GMT",
-    "processed_at": "2026-09-09T12:08:24.036173",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.theaustralian.com.au/sponsored-content/the-new-operating-model-for-marketing-has-arrived/news-story/44b89dfc57147c1481eac004f9858117": {
-    "title": "The new AI operating model for marketing - The Australian",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 11:35:00 GMT",
-    "processed_at": "2026-09-09T12:08:24.207019",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://m.za.investing.com/news/stock-market-news/earnings-call-transcript-torrid-beats-on-q2-eps-shares-jump-after-hours-93CH-4453897?ampMode=1": {
-    "title": "Earnings call transcript: Torrid beats on Q2 EPS, shares jump after hours By Investing.com - Investing.com South Africa",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 00:11:59 GMT",
-    "processed_at": "2026-09-09T12:08:24.263710",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.bennett.edu/news/bennett-college-appoints-ann-brown-as-senior-executive-director-of-student-experience/": {
-    "title": "Bennett College Appoints Ann Brown as Senior Executive Director of Student Experience – NEWS - Bennett College",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 20:31:43 GMT",
-    "processed_at": "2026-09-09T12:08:39.678049",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.medscape.com/viewarticle/retaining-medical-talent-why-do-physicians-leave-2026a1000xam": {
-    "title": "Retaining Medical Talent: Why Do Physicians Leave? - medscape.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 12:42:52 GMT",
-    "processed_at": "2026-09-09T12:08:39.737441",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.firerescue1.com/recruitment/articles/doing-more-with-less-tips-for-agencies-facing-staffing-shortages-dTPUJiOsC7sBwdbM/": {
-    "title": "Doing more with less: Tips for agencies facing staffing shortages - FireRescue1",
-    "source": "Google News Search",
-    "published_at": "Thu, 03 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-09T12:08:51.168625",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.drugtopics.com/view/digital-experience-crucial-for-pharmacies-to-drive-patient-retention": {
-    "title": "Digital Experience Crucial for Pharmacies to Drive Patient Retention - Drug Topics",
-    "source": "Google News Search",
-    "published_at": "Wed, 02 Sep 2026 18:23:24 GMT",
-    "processed_at": "2026-09-09T12:08:51.301482",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.business.com/articles/5-reasons-why-product-quality-matters/": {
-    "title": "6 Reasons Why Product Quality Matters - Business.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 04 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-09T12:08:51.934355",
-    "status": "posted",
-    "telegram_message_id": 134
-  },
-  "https://brandequity.economictimes.indiatimes.com/news/media/formula-one-gives-us-an-opportunity-to-connect-with-a-highly-engaged-audience-beyond-traditional-auto-marketing-gaurav-sinha-audi/133911067": {
-    "title": "Formula One gives us an opportunity to connect with a highly engaged audience beyond traditional auto market.. - ET BrandEquity",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 06:20:41 GMT",
-    "processed_at": "2026-09-09T12:08:51.942848",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html": {
     "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
     "source": "rss.nytimes.com",
@@ -5484,6 +5364,70 @@
     "source": "Google News Search",
     "published_at": "Fri, 06 Nov 2026 05:56:02 GMT",
     "processed_at": "2026-11-08T13:59:11.416697",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html": {
+    "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 09 Nov 2026 13:31:00 +0000",
+    "processed_at": "2026-11-09T16:59:19.968744",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html": {
+    "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 09 Nov 2026 00:27:00 +0000",
+    "processed_at": "2026-11-09T16:59:20.089144",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html": {
+    "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 09 Nov 2026 15:18:30 +0000",
+    "processed_at": "2026-11-09T16:59:20.184820",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html": {
+    "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 09 Nov 2026 13:54:04 +0000",
+    "processed_at": "2026-11-09T16:59:20.285930",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html": {
+    "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 09 Nov 2026 13:49:56 +0000",
+    "processed_at": "2026-11-09T16:59:20.376305",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.autonews.com/sponsored/publishing-partners/an-service-carrying-store-whos-carrying-service/": {
+    "title": "Why service customer retention is critical to dealership profitability - Automotive News",
+    "source": "Google News Search",
+    "published_at": "Mon, 09 Nov 2026 14:00:00 GMT",
+    "processed_at": "2026-11-09T16:59:20.579785",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://mortgagesoup.co.uk/stonebridge-app-attracts-10000-borrowers-as-network-targets-customer-retention/": {
+    "title": "Stonebridge app attracts 10,000 borrowers as network targets customer retention - Mortgage Soup",
+    "source": "Google News Search",
+    "published_at": "Mon, 09 Nov 2026 06:09:17 GMT",
+    "processed_at": "2026-11-09T17:00:04.871913",
+    "status": "posted",
+    "telegram_message_id": 181
+  },
+  "https://finance.yahoo.com/healthcare/articles/hcat-q3-2026-deep-dive-035736603.html": {
+    "title": "HCAT Q3 2026 deep dive: client retention and cost alignment take center stage - Yahoo Finance",
+    "source": "Google News Search",
+    "published_at": "Mon, 09 Nov 2026 03:57:00 GMT",
+    "processed_at": "2026-11-09T17:00:04.877762",
     "status": "ignored",
     "telegram_message_id": null
   }
