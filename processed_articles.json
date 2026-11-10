@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html": {
-    "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 09 Sep 2026 22:04:28 +0000",
-    "processed_at": "2026-09-10T12:01:50.000550",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html": {
-    "title": "Foldable Phones Are Unpopular. Why Is Apple Selling One?",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 10 Sep 2026 09:04:42 +0000",
-    "processed_at": "2026-09-10T12:01:50.083622",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html": {
-    "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 10 Sep 2026 00:12:18 +0000",
-    "processed_at": "2026-09-10T12:01:50.175035",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3695961:0-macbee-planet-q1-revenue-fell-3-8-year-over-year-with-profit-down-and-a-key-subsidiary-sale-pending/": {
-    "title": "Macbee Planet: Q1 revenue fell 3.8% year-over-year, with profit down and a key subsidiary sale pending - tradingview.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 06:31:00 GMT",
-    "processed_at": "2026-09-10T12:02:27.871067",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.financemagnates.com/forex/ninjatrader-brings-ai-and-mcp-to-retail-futures-trading/": {
-    "title": "NinjaTrader Brings AI and MCP to Retail Futures Trading - Finance Magnates",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 15:16:05 GMT",
-    "processed_at": "2026-09-10T12:02:48.611543",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.financemagnates.com/forex/brokers/xtb-takes-cev-champions-league-title-sponsorship-for-two-seasons/": {
-    "title": "XTB Takes CEV Champions League Title Sponsorship for Two Seasons - Finance Magnates",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 06:16:01 GMT",
-    "processed_at": "2026-09-10T12:02:49.193398",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tipranks.com/news/company-announcements/macbee-planet-posts-solid-q1-and-unveils-management-and-group-overhaul": {
-    "title": "Macbee Planet Posts Solid Q1 and Unveils Management and Group Overhaul - tipranks.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 07:21:26 GMT",
-    "processed_at": "2026-09-10T12:02:49.238783",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tipranks.com/news/company-announcements/macbee-planet-to-divest-all-ads-subsidiary-in-strategic-realignment": {
-    "title": "Macbee Planet to Divest All Ads Subsidiary in Strategic Realignment - tipranks.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 07:15:49 GMT",
-    "processed_at": "2026-09-10T12:02:49.279756",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://stthomassource.com/content/2026/09/08/business-matters-small-business-secret-weapon-customer-loyalty/": {
-    "title": "Business Matters: Small Business Secret Weapon: Customer Loyalty - St. Thomas Source",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 19:47:56 GMT",
-    "processed_at": "2026-09-10T12:02:49.359914",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.morningstar.com/news/pr-newswire/20260909la42638/scott-cederbaum-joins-sorenson-communications-as-head-of-marketing": {
-    "title": "SCOTT CEDERBAUM JOINS SORENSON COMMUNICATIONS AS HEAD OF MARKETING - Morningstar",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 09:55:00 GMT",
-    "processed_at": "2026-09-10T12:02:54.198061",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.globalsources.com/sourcing-digest/reconnecting-growth-with-customer-lifetime-value-in-the-digital-age/": {
-    "title": "Businesses are shifting focus from monthly sales to customer lifetime value (CLV) as the core growth metric - Global Sources",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 10:42:24 GMT",
-    "processed_at": "2026-09-10T12:02:54.542401",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://themediaonline.co.za/2026/09/cmo-bootcamp-five-drills-to-get-fit-agile-and-future-ready/": {
-    "title": "CMO bootcamp. Five drills to get fit, agile and future-ready - The Media Online",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 05:16:36 GMT",
-    "processed_at": "2026-09-10T12:03:04.865047",
-    "status": "posted",
-    "telegram_message_id": 135
-  },
-  "https://www.financemagnates.com/forex/traders-ltv-is-not-just-a-marketing-issue-but-an-ongoing-development-process/": {
-    "title": "Fear of Loss Can Stop Traders from Developing, and That Can Hurt Broker LTV - Finance Magnates",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 13:00:00 GMT",
-    "processed_at": "2026-09-10T12:03:04.873962",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://stockstory.org/us/stocks/nasdaq/brze/news/earnings/braze-nasdaqbrze-surprises-with-q2-cy2026-sales-but-stock-drops-121percent": {
-    "title": "Braze (NASDAQ:BRZE) Surprises With Q2 CY2026 Sales But Stock Drops 12.1% - StockStory",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 21:33:25 GMT",
-    "processed_at": "2026-09-10T12:03:04.882713",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/educational-marketing/": {
-    "title": "Education Marketing: A Complete Guide for 2026",
-    "source": "neilpatel.com",
-    "published_at": "Wed, 09 Sep 2026 16:00:00 +0000",
-    "processed_at": "2026-09-10T12:03:04.891451",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html": {
     "title": "The Mic Is On. So Is Live Auto-Tune.",
     "source": "rss.nytimes.com",
@@ -5428,6 +5308,126 @@
     "source": "Google News Search",
     "published_at": "Mon, 09 Nov 2026 03:57:00 GMT",
     "processed_at": "2026-11-09T17:00:04.877762",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html": {
+    "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 09 Nov 2026 17:58:29 +0000",
+    "processed_at": "2026-11-10T15:18:25.755449",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html": {
+    "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 15:15:32 +0000",
+    "processed_at": "2026-11-10T15:18:25.813686",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html": {
+    "title": "The Jensen Huang Affair",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 11:00:17 +0000",
+    "processed_at": "2026-11-10T15:18:25.876035",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html": {
+    "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 13:07:03 +0000",
+    "processed_at": "2026-11-10T15:18:25.940216",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html": {
+    "title": "A Fan-Favorite Aquarium Screen Saver Is Leaving Roku",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 15:11:36 +0000",
+    "processed_at": "2026-11-10T15:18:26.005762",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/us/politics/presidential-library-artifacts-photo-book.html": {
+    "title": "What BlackBerries and Horseshoes Reveal About Our Presidents",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 10:02:45 +0000",
+    "processed_at": "2026-11-10T15:18:26.072084",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.exchange4media.com/people-movement-news/jiostars-saptarshi-mandal-joins-paytm-as-general-manager-west-160089.html": {
+    "title": "JioStar’s Saptarshi Mandal joins Paytm as General Manager-West - Exchange4Media",
+    "source": "Google News Search",
+    "published_at": "Tue, 10 Nov 2026 12:28:43 GMT",
+    "processed_at": "2026-11-10T15:18:32.489675",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4542987:0-fwrd-record-revenue-stronger-margins-and-a-customer-retention-deal-advanced-the-recovery/": {
+    "title": "FWRD: Record revenue, stronger margins and a customer retention deal advanced the recovery - TradingView",
+    "source": "Google News Search",
+    "published_at": "Mon, 09 Nov 2026 22:47:41 GMT",
+    "processed_at": "2026-11-10T15:18:32.798586",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/": {
+    "title": "Ransomware recovery is now a client retention metric - BleepingComputer",
+    "source": "Google News Search",
+    "published_at": "Tue, 10 Nov 2026 15:01:00 GMT",
+    "processed_at": "2026-11-10T15:18:53.954606",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://fourweekmba.com/customer-lifetime-value/": {
+    "title": "Client Lifetime Value (CLV): Definition & Formula 2026 - FourWeekMBA",
+    "source": "Google News Search",
+    "published_at": "Sun, 08 Nov 2026 09:28:40 GMT",
+    "processed_at": "2026-11-10T15:18:54.293921",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://blogs.oracle.com/cx/oracle-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-crm-customer-engagement-center": {
+    "title": "Oracle recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Customer Engagement Center - Oracle Blogs",
+    "source": "Google News Search",
+    "published_at": "Fri, 06 Nov 2026 20:32:53 GMT",
+    "processed_at": "2026-11-10T15:19:01.300100",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.netsuite.com/portal/resource/articles/erp/telecom-industry-challenges.shtml": {
+    "title": "Top 26 Challenges Facing the Telecom Industry for 2026 and Beyond - Oracle NetSuite",
+    "source": "Google News Search",
+    "published_at": "Wed, 04 Nov 2026 13:10:54 GMT",
+    "processed_at": "2026-11-10T15:19:01.782839",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://creammagazine.com/2026/11/06/how-mobile-games-can-build-sustainable-growth-without-chasing-installs/": {
+    "title": "How Mobile Games Can Build Sustainable Growth Without Chasing Installs | - https://creammagazine.com/",
+    "source": "Google News Search",
+    "published_at": "Fri, 06 Nov 2026 05:59:54 GMT",
+    "processed_at": "2026-11-10T15:19:02.277703",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.quantisnow.com/insight/wix-reports-third-quarter-2026-results-6782382": {
+    "title": "Wix Reports Third Quarter 2026 Results - Quantisnow",
+    "source": "Google News Search",
+    "published_at": "Tue, 10 Nov 2026 07:11:29 GMT",
+    "processed_at": "2026-11-10T15:19:02.445967",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/insights/paid-media-isnt-your-growth-engine/": {
+    "title": "Paid media isn’t your only app growth engine - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Fri, 06 Nov 2026 14:25:59 GMT",
+    "processed_at": "2026-11-10T15:19:02.577741",
     "status": "ignored",
     "telegram_message_id": null
   }
