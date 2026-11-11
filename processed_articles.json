@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html": {
-    "title": "The Mic Is On. So Is Live Auto-Tune.",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 11 Sep 2026 11:21:16 +0000",
-    "processed_at": "2026-09-11T12:00:03.370996",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/11/technology/x-grok-child-images.html": {
-    "title": "Elon Musk Has Pledged to Rid His Platform, X, of Child Sexual Abuse, but It Persists",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 11 Sep 2026 09:01:02 +0000",
-    "processed_at": "2026-09-11T12:00:03.463838",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/11/podcasts/hardfork-ezra-klein-jasmine-sun.html": {
-    "title": "The Ezra Klein Show: The A.I. Revolt Is Here",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 11 Sep 2026 08:00:02 +0000",
-    "processed_at": "2026-09-11T12:00:03.562676",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html": {
-    "title": "Could A.I. Really Kill All Humans?",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 11 Sep 2026 10:34:43 +0000",
-    "processed_at": "2026-09-11T12:00:03.666771",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html": {
-    "title": "California’s Governor Signs Landmark Online Child Safety Bills",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 10 Sep 2026 20:49:14 +0000",
-    "processed_at": "2026-09-11T12:00:03.733542",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html": {
-    "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 10 Sep 2026 21:50:38 +0000",
-    "processed_at": "2026-09-11T12:00:03.802777",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html": {
-    "title": "How the New iPhone Duo’s Glass Screen Bends Without Breaking",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 10 Sep 2026 16:21:33 +0000",
-    "processed_at": "2026-09-11T12:00:03.873094",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.financemagnates.com/forex/retail-investor-complaints-to-french-regulator-rise-37-as-backlog-reaches-693/": {
-    "title": "Retail Investor Complaints to French Regulator Rise 37% as Backlog Reaches 693 - Finance Magnates",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 14:16:27 GMT",
-    "processed_at": "2026-09-11T12:01:15.709689",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tipranks.com/news/company-announcements/macbee-planet-posts-solid-q1-and-reshapes-management-and-group-structure": {
-    "title": "Macbee Planet Posts Solid Q1 and Reshapes Management and Group Structure - TipRanks",
-    "source": "Google News Search",
-    "published_at": "Fri, 11 Sep 2026 06:58:57 GMT",
-    "processed_at": "2026-09-11T12:01:15.882430",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://coverager.com/reassured-partners-with-adviser-ai/": {
-    "title": "Reassured partners with Adviser.ai - Coverager",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 17:48:59 GMT",
-    "processed_at": "2026-09-11T12:01:16.127370",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.jaxdailyrecord.com/news/2026/sep/10/jaxport-sets-succession-plan-for-retiring-chief-commercial-officer/": {
-    "title": "JaxPort sets succession plan for retiring chief commercial officer - jaxdailyrecord.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 21:20:00 GMT",
-    "processed_at": "2026-09-11T12:03:12.658777",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.csusm.edu/csusm-names-new-chief-enrollment-officer/": {
-    "title": "CSUSM Names New Chief Enrollment Officer - CSUSM NewsCenter",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 21:00:00 GMT",
-    "processed_at": "2026-09-11T12:03:23.440552",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4552155/macbee-planet-posts-solid-q1-and-unveils-management-and-group-overhaul/": {
-    "title": "Macbee Planet Posts Solid Q1 and Unveils Management and Group Overhaul - The Globe and Mail",
-    "source": "Google News Search",
-    "published_at": "Fri, 11 Sep 2026 07:19:21 GMT",
-    "processed_at": "2026-09-11T12:03:24.280097",
-    "status": "posted",
-    "telegram_message_id": 136
-  },
-  "https://intent.press/en/amp/0/the-transformation-of-marketing-key-changes-according-to-lviv-based-marketers-at-digital-space/": {
-    "title": "The Transformation of Marketing: Key Changes from Digital Space - intent.press",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 13:37:13 GMT",
-    "processed_at": "2026-09-11T12:03:24.287056",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.issuewire.com/adflipr-highlights-the-growing-importance-of-marketing-automation-for-ecommerce-businesses-1875919614352077": {
-    "title": "Adflipr Highlights the Growing Importance of Marketing Automation for eCommerce Businesses - Issuewire",
-    "source": "Google News Search",
-    "published_at": "Fri, 11 Sep 2026 09:09:55 GMT",
-    "processed_at": "2026-09-11T12:03:24.300334",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html": {
     "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
     "source": "rss.nytimes.com",
@@ -5428,6 +5308,62 @@
     "source": "Google News Search",
     "published_at": "Fri, 06 Nov 2026 14:25:59 GMT",
     "processed_at": "2026-11-10T15:19:02.577741",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html": {
+    "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 21:12:39 +0000",
+    "processed_at": "2026-11-11T14:49:47.748770",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html": {
+    "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 22:03:38 +0000",
+    "processed_at": "2026-11-11T14:49:47.886014",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html": {
+    "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 21:54:37 +0000",
+    "processed_at": "2026-11-11T14:49:48.005875",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html": {
+    "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 11 Nov 2026 10:01:51 +0000",
+    "processed_at": "2026-11-11T14:49:48.128947",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html": {
+    "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 10 Nov 2026 22:58:31 +0000",
+    "processed_at": "2026-11-11T14:49:48.241804",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://cxtoday.com/beyond-customer-support-how-cx-can-drive-engagement-and-retention": {
+    "title": "Beyond Customer Support: How CX Can Drive Engagement and Retention - CX Today",
+    "source": "Google News Search",
+    "published_at": "Mon, 09 Nov 2026 12:01:05 GMT",
+    "processed_at": "2026-11-11T14:50:29.485250",
+    "status": "posted",
+    "telegram_message_id": 182
+  },
+  "https://neilpatel.com/blog/ubersuggest-vs-moz/": {
+    "title": "Ubersuggest vs MOZ: SEO Tool Comparison",
+    "source": "neilpatel.com",
+    "published_at": "Mon, 09 Nov 2026 20:00:00 +0000",
+    "processed_at": "2026-11-11T14:50:29.491518",
     "status": "ignored",
     "telegram_message_id": null
   }
