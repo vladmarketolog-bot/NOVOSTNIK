@@ -1,100 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html": {
-    "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 13 Sep 2026 00:15:54 +0000",
-    "processed_at": "2026-09-13T12:30:57.685577",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/13/style/10-year-old-children-predict-the-future.html": {
-    "title": "10-Year-Old Children Predict the Future",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 13 Sep 2026 09:01:01 +0000",
-    "processed_at": "2026-09-13T12:30:57.768026",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://europeangaming.eu/portal/interviews/2026/09/13/214021/allan-stone-intelitics-interview/": {
-    "title": "Allan Stone, Intelitics, on prediction markets: ‘Most of the gap is marketing, not regulation’ - European Gaming",
-    "source": "Google News Search",
-    "published_at": "Sun, 13 Sep 2026 06:00:00 GMT",
-    "processed_at": "2026-09-13T12:30:57.988460",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://texasborderbusiness.com/andrew-davis-returns-to-mission-for-inaugural-small-business-expo/": {
-    "title": "Andrew Davis Returns to Mission for Inaugural Small Business Expo - Texas Border Business",
-    "source": "Google News Search",
-    "published_at": "Tue, 08 Sep 2026 13:24:40 GMT",
-    "processed_at": "2026-09-13T12:31:13.746135",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://openai.com/index/put-data-to-work/": {
-    "title": "Now everyone can put data to work - OpenAI",
-    "source": "Google News Search",
-    "published_at": "Thu, 10 Sep 2026 15:07:38 GMT",
-    "processed_at": "2026-09-13T12:32:13.451597",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://splashmags.com/2026/09/ecom-elevated-where-brands-creators-and-big-ideas-meet/": {
-    "title": "Ecom Elevated: Where Brands, Creators and Big Ideas Meet - Splash Magazines Worldwide",
-    "source": "Google News Search",
-    "published_at": "Fri, 11 Sep 2026 21:45:40 GMT",
-    "processed_at": "2026-09-13T12:32:13.518659",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://augustafreepress.com/commercial/sales-content-management-the-ultimate-guide-for-2026/": {
-    "title": "Sales Content Management: The Ultimate Guide for 2026 - Augusta Free Press",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 18:43:02 GMT",
-    "processed_at": "2026-09-13T12:32:29.547568",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.chicagotribune.com/2026/09/09/waukegan-district-60-teacher-grant/": {
-    "title": "Lake County districts use state grant to fill teacher vacancies: ‘This is a shot in the arm to help us recruit’ - Chicago Tribune",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 23:21:01 GMT",
-    "processed_at": "2026-09-13T12:32:54.983343",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/marketplace/push-notifications/": {
-    "title": "Top Push Notification Services (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-13T12:32:56.753045",
-    "status": "posted",
-    "telegram_message_id": 138
-  },
-  "https://www.prnewswire.com/news-releases/53-of-european-consumers-are-open-to-switching-mobile-providers-as-telco-loyalty-comes-under-pressure-302869988.html": {
-    "title": "53% of European Consumers Are Open to Switching Mobile Providers as Telco Loyalty Comes Under Pressure - PR Newswire",
-    "source": "Google News Search",
-    "published_at": "Mon, 07 Sep 2026 01:00:00 GMT",
-    "processed_at": "2026-09-13T12:32:56.761758",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.medpagetoday.com/spotlight/wet-amd/122962": {
-    "title": "Loss of Follow-Up Predictors in Wet AMD - MedPage Today",
-    "source": "Google News Search",
-    "published_at": "Fri, 11 Sep 2026 14:52:58 GMT",
-    "processed_at": "2026-09-13T12:32:56.770371",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.snowflake.com/en/analytics/business-intelligence/": {
-    "title": "Business Intelligence: Reliable Insights at Scale - Snowflake",
-    "source": "Google News Search",
-    "published_at": "Wed, 09 Sep 2026 21:32:48 GMT",
-    "processed_at": "2026-09-13T12:32:56.778876",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html": {
     "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
     "source": "rss.nytimes.com",
@@ -5324,6 +5228,94 @@
     "source": "neilpatel.com",
     "published_at": "Wed, 11 Nov 2026 17:00:00 +0000",
     "processed_at": "2026-11-12T15:46:08.081650",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html": {
+    "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 13 Nov 2026 10:04:17 +0000",
+    "processed_at": "2026-11-13T14:59:57.529207",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html": {
+    "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 13 Nov 2026 14:02:13 +0000",
+    "processed_at": "2026-11-13T15:03:45.370299",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html": {
+    "title": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 13 Nov 2026 01:22:35 +0000",
+    "processed_at": "2026-11-13T15:09:36.934638",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html": {
+    "title": "Jensen Huang Is Out at Nvidia",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 12 Nov 2026 23:07:18 +0000",
+    "processed_at": "2026-11-13T15:09:42.360112",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html": {
+    "title": "Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 12 Nov 2026 23:02:51 +0000",
+    "processed_at": "2026-11-13T15:12:47.715339",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businesstravelnewseurope.com/Management/ctm-reports-97-client-retention-rate-as-it-emerges-from-crisis": {
+    "title": "CTM reports 97% client retention rate as it emerges from crisis - Business Travel News Europe",
+    "source": "Google News Search",
+    "published_at": "Wed, 11 Nov 2026 15:52:54 GMT",
+    "processed_at": "2026-11-13T15:15:55.464121",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.einnews.com/pr_news/956013587/pecan-gives-b2c-marketing-teams-predictions-built-on-their-own-customers-delivered-where-their-campaigns-run": {
+    "title": "Pecan gives B2C marketing teams predictions built on their own customers, delivered where their campaigns run - EIN News",
+    "source": "Google News Search",
+    "published_at": "Wed, 11 Nov 2026 14:00:00 GMT",
+    "processed_at": "2026-11-13T15:26:09.098445",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://business.inquirer.net/620628/marketing-rescue-beware-of-4-untested-business-assumptions": {
+    "title": "Marketing rescue: Beware of 4 untested business assumptions - Inquirer.net",
+    "source": "Google News Search",
+    "published_at": "Thu, 12 Nov 2026 18:12:00 GMT",
+    "processed_at": "2026-11-13T15:26:09.193983",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.netsuite.com/portal/resource/articles/business-strategy/why-tech-startups-fail.shtml": {
+    "title": "11 Reasons Why Tech Startups Fail (and How to Avoid Them) - Oracle NetSuite",
+    "source": "Google News Search",
+    "published_at": "Fri, 13 Nov 2026 12:32:49 GMT",
+    "processed_at": "2026-11-13T15:26:12.364480",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.chiefmarketer.com/retail-marketers-should-plan-for-leaner-budgets-and-fewer-promos-in-2027/": {
+    "title": "Retail Marketers Should Plan for Leaner Budgets and Fewer Promos in 2027 - Chief Marketer",
+    "source": "Google News Search",
+    "published_at": "Fri, 06 Nov 2026 18:20:52 GMT",
+    "processed_at": "2026-11-13T15:30:47.880710",
+    "status": "posted",
+    "telegram_message_id": 184
+  },
+  "https://customerthink.com/points4purpose-targets-31-billion-loyalty-market-with-expanded-us-payments-capabilities-to-drive-customer-lifetime-value/": {
+    "title": "Points4Purpose Targets $31 Billion Loyalty Market with Expanded US Payments Capabilities to Drive Customer Lifetime Value - CustomerThink",
+    "source": "Google News Search",
+    "published_at": "Wed, 11 Nov 2026 21:33:22 GMT",
+    "processed_at": "2026-11-13T15:30:47.887320",
     "status": "ignored",
     "telegram_message_id": null
   }
