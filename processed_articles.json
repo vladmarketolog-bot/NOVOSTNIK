@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html": {
-    "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 16 Sep 2026 00:19:23 +0000",
-    "processed_at": "2026-09-16T12:23:49.140406",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html": {
-    "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 16 Sep 2026 09:09:37 +0000",
-    "processed_at": "2026-09-16T12:23:49.253330",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html": {
-    "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 15 Sep 2026 20:06:21 +0000",
-    "processed_at": "2026-09-16T12:23:49.386868",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html": {
-    "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 16 Sep 2026 09:03:03 +0000",
-    "processed_at": "2026-09-16T12:23:49.488510",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html": {
-    "title": "How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 16 Sep 2026 09:02:18 +0000",
-    "processed_at": "2026-09-16T12:23:49.621197",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html": {
-    "title": "Age Limits for Social Media Outlined by European Union",
-    "source": "rss.nytimes.com",
-    "published_at": "Wed, 16 Sep 2026 08:20:37 +0000",
-    "processed_at": "2026-09-16T12:23:49.735432",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html": {
-    "title": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 15 Sep 2026 23:06:11 +0000",
-    "processed_at": "2026-09-16T12:23:49.860901",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html": {
-    "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 15 Sep 2026 17:29:37 +0000",
-    "processed_at": "2026-09-16T12:23:49.986369",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html": {
-    "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 15 Sep 2026 14:11:17 +0000",
-    "processed_at": "2026-09-16T12:23:50.123823",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wingify.com/blog/adaptivecx-real-time-ai-personalization/": {
-    "title": "AdaptiveCX: Real-Time AI Personalization for Every Visitor",
-    "source": "vwo.com",
-    "published_at": "Fri, 07 Aug 2026 11:09:19 +0000",
-    "processed_at": "2026-09-16T12:26:21.828674",
-    "status": "posted",
-    "telegram_message_id": 141
-  },
-  "https://wingify.com/blog/analyze-ab-test-results-in-free-tool/": {
-    "title": "How to Analyze A/B Test Results in a Free Tool Accurately",
-    "source": "vwo.com",
-    "published_at": "Mon, 10 Aug 2026 10:32:47 +0000",
-    "processed_at": "2026-09-16T12:26:21.834716",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wingify.com/blog/emotional-audience-segments/": {
-    "title": "UX and AI: 10 Emotional Audience Segments That Transform Personalization",
-    "source": "vwo.com",
-    "published_at": "Tue, 11 Aug 2026 10:10:31 +0000",
-    "processed_at": "2026-09-16T12:26:21.840062",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wingify.com/blog/wingifys-unified-suite/": {
-    "title": "Why Wingify’s Unified Suite Turns Optimization Into a Competitive Advantage",
-    "source": "vwo.com",
-    "published_at": "Wed, 05 Aug 2026 09:05:24 +0000",
-    "processed_at": "2026-09-16T12:26:21.845304",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wingify.com/blog/wingz-ai-layer/": {
-    "title": "Meet Wingz: The AI Layer That Powers the Wingify Suite",
-    "source": "vwo.com",
-    "published_at": "Thu, 06 Aug 2026 10:08:30 +0000",
-    "processed_at": "2026-09-16T12:26:22.009969",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wingify.com/blog/meet-wingz-wingify-ai-layer/": {
-    "title": "Meet Wingz: The AI Layer That Powers the Wingify Suite",
-    "source": "vwo.com",
-    "published_at": "Wed, 05 Aug 2026 08:31:27 +0000",
-    "processed_at": "2026-09-16T12:26:22.051370",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html": {
     "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
     "source": "rss.nytimes.com",
@@ -5254,5 +5134,45 @@
     "processed_at": "2026-11-15T14:27:00.210624",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html": {
+    "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 16 Nov 2026 16:35:00 +0000",
+    "processed_at": "2026-11-16T16:38:09.874491",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html": {
+    "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 16 Nov 2026 10:02:09 +0000",
+    "processed_at": "2026-11-16T16:38:10.020992",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html": {
+    "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
+    "source": "rss.nytimes.com",
+    "published_at": "Mon, 16 Nov 2026 13:24:37 +0000",
+    "processed_at": "2026-11-16T16:38:10.165603",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html": {
+    "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 15 Nov 2026 22:55:42 +0000",
+    "processed_at": "2026-11-16T16:38:10.286689",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://neilpatel.com/blog/ai-sentiment-and-accuracy/": {
+    "title": "AI Sentiment and Accuracy: The Metric Your Visibility Dashboard Is Missing (and How to Calibrate for It)",
+    "source": "neilpatel.com",
+    "published_at": "Fri, 13 Nov 2026 20:00:00 +0000",
+    "processed_at": "2026-11-16T16:39:09.847236",
+    "status": "posted",
+    "telegram_message_id": 190
   }
 }
