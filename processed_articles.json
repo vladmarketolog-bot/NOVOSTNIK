@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html": {
-    "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 18 Sep 2026 01:12:52 +0000",
-    "processed_at": "2026-09-18T12:02:34.469015",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html": {
-    "title": "4 Strategies to Battle ‘Techflation’",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 17 Sep 2026 14:27:16 +0000",
-    "processed_at": "2026-09-18T12:02:34.550325",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html": {
-    "title": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 18 Sep 2026 11:00:04 +0000",
-    "processed_at": "2026-09-18T12:02:34.630149",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html": {
-    "title": "As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 18 Sep 2026 09:00:38 +0000",
-    "processed_at": "2026-09-18T12:02:34.708421",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.rand.org/pubs/research_reports/RRA3894-1.html": {
-    "title": "Research, development, and innovation talent in Qatar: The policy and program Landscape - RAND",
-    "source": "Google News Search",
-    "published_at": "Wed, 16 Sep 2026 10:57:54 GMT",
-    "processed_at": "2026-09-18T12:04:10.308532",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work": {
-    "title": "Mental health at work - World Health Organization (WHO)",
-    "source": "Google News Search",
-    "published_at": "Tue, 15 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-18T12:04:14.164100",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.seiu721.org/2026/09/david-green-seiu-721-president-and-cal-state-la-professor-to-receive-capsacs-neal-snyder-outstanding-service-award.php": {
-    "title": "David Green, SEIU 721 President and Cal State LA Professor, to Receive CAPSAC’s Neal Snyder Outstanding Service Award - SEIU Local 721",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 19:46:36 GMT",
-    "processed_at": "2026-09-18T12:04:22.827652",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/": {
-    "title": "The state of subscriber engagement in the AI era: Publishers’ first-party relationship strategies - Digiday",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 19:28:05 GMT",
-    "processed_at": "2026-09-18T12:04:23.440664",
-    "status": "posted",
-    "telegram_message_id": 143
-  },
-  "https://neilpatel.com/blog/cyber5-paid-media-prep/": {
-    "title": "Cyber5 Prep: Are You Ready for Paid Media’s Biggest Week?",
-    "source": "neilpatel.com",
-    "published_at": "Thu, 17 Sep 2026 19:00:01 +0000",
-    "processed_at": "2026-09-18T12:04:23.449911",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://mobidictum.com/crazygames-mobile-streaming-revenue-adjust/": {
-    "title": "CrazyGames tripled its mobile streaming revenue in one year with Adjust - Mobidictum",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 11:00:37 GMT",
-    "processed_at": "2026-09-18T12:04:23.458657",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.jdnews.com/sponsored/beyond-individual-channels-what-you-need-to-learn-to-build-a-career-in-integrated-marketing/article_b023c330-91eb-52e3-854f-0d7ad8acfa7d.html": {
-    "title": "Beyond Individual Channels: What You Need to Learn to Build a Career in Integrated Marketing - The Daily News - Jacksonville, NC",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 03:12:00 GMT",
-    "processed_at": "2026-09-18T12:04:23.467247",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://smartasset.com/advisor-resources/communication-cadence-high-performing-financial-advisors-clients": {
-    "title": "How Financial Advisors Can Build a Better Client Communication Cadence - SmartAsset.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 20:46:42 GMT",
-    "processed_at": "2026-09-18T12:04:23.475838",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/marketplace/app-marketing/": {
-    "title": "Top App Marketing Companies (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-18T12:04:23.484480",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wwd.com/business-news/retail/elyse-walker-customer-retention-relationships-rebuilding-1239240595/": {
-    "title": "Elyse Walker on Customer Retention, Relationships and Rebuilding After the Pacific Palisades Fire - WWD",
-    "source": "Google News Search",
-    "published_at": "Fri, 18 Sep 2026 01:41:10 GMT",
-    "processed_at": "2026-09-18T12:04:23.493175",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.newswire.com/news/blinksoft-turns-word-of-mouth-into-a-scalable-growth-engine-for-small-and-mid": {
-    "title": "Blinksoft Turns Word of Mouth Into a Scalable Growth Engine for Small and Mid-Sized Hospitality Businesses - Newswire.com",
-    "source": "Google News Search",
-    "published_at": "Tue, 15 Sep 2026 14:10:00 GMT",
-    "processed_at": "2026-09-18T12:04:23.501802",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html": {
     "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
     "source": "rss.nytimes.com",
@@ -5092,6 +4972,46 @@
     "source": "neilpatel.com",
     "published_at": "Mon, 16 Nov 2026 20:00:00 +0000",
     "processed_at": "2026-11-17T16:39:17.743462",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html": {
+    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 17 Nov 2026 23:17:38 +0000",
+    "processed_at": "2026-11-18T16:04:06.900349",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html": {
+    "title": "A More Precise Clock Is on Its Way",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 17 Nov 2026 10:00:32 +0000",
+    "processed_at": "2026-11-18T16:04:07.027715",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.shiksha.com/college/articles/four-routes-into-growth-marketing-what-the-role-involves-and-how-altera-institute-alumni-got-there-blogId-246794": {
+    "title": "Four Routes Into Growth Marketing: What the Role Involves and How Altera Institute Alumni Got There - Shiksha.com",
+    "source": "Google News Search",
+    "published_at": "Tue, 17 Nov 2026 05:45:36 GMT",
+    "processed_at": "2026-11-18T16:05:17.896282",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://ua.news/en/world/mikola-storonskii-rozkriv-printsipi-roboti-odnogo-z-naibilshikh-neobankiv-svitu": {
+    "title": "Mykola Storonsky revealed the operating principles of one of the world's largest neobanks - UA.NEWS",
+    "source": "Google News Search",
+    "published_at": "Mon, 16 Nov 2026 08:11:47 GMT",
+    "processed_at": "2026-11-18T16:05:32.097319",
+    "status": "posted",
+    "telegram_message_id": 192
+  },
+  "https://gamingamerica.com/news/1110695/br-dge-ceo-us-sportsbooks-need-to-prioritize-payments-infrastructure-customer-retention": {
+    "title": "BR-DGE CEO Thomas Gillan: US Sportsbooks Need To Prioritize Payments Infrastructure & Customer Retention - Gaming America",
+    "source": "Google News Search",
+    "published_at": "Mon, 16 Nov 2026 21:38:47 GMT",
+    "processed_at": "2026-11-18T16:05:32.102232",
     "status": "ignored",
     "telegram_message_id": null
   }
