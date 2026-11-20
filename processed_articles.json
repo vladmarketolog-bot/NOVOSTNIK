@@ -1,60 +1,4 @@
 {
-  "https://www.netsuite.com/portal/resource/articles/business-strategy/data-analytics-banking.shtml": {
-    "title": "Data Analytics in the Banking Sector Explained - Oracle NetSuite",
-    "source": "Google News Search",
-    "published_at": "Fri, 18 Sep 2026 16:11:16 GMT",
-    "processed_at": "2026-09-20T11:59:25.727838",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nba.com/blazers/mike-schumacher": {
-    "title": "Mike Schumacher | Vice President, Technology & Analytics | Portland Trail Blazers - NBA.com",
-    "source": "Google News Search",
-    "published_at": "Sun, 20 Sep 2026 01:29:39 GMT",
-    "processed_at": "2026-09-20T11:59:26.762237",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.inc.com/aaron-mok/want-ai-to-actually-help-your-company-make-money-follow-these-5-tips-from-microsofts-playbook/91406013": {
-    "title": "Want AI to Actually Help Your Company Make Money? Follow These 5 Tips From Microsoft’s Playbook - inc.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 18:37:48 GMT",
-    "processed_at": "2026-09-20T12:00:28.618094",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.amraandelma.com/customer-service-training-marketing-statistics/": {
-    "title": "TOP 20 CUSTOMER SERVICE TRAINING MARKETING STATISTICS 2026 SHOCKING SUPPORT PERFORMANCE DATA - Amra & Elma",
-    "source": "Google News Search",
-    "published_at": "Tue, 15 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-20T12:00:29.169328",
-    "status": "posted",
-    "telegram_message_id": 145
-  },
-  "https://www.cxtoday.com/community-social-engagement/how-can-community-platforms-turn-peer-engagement-into-retention/": {
-    "title": "How Can Community Platforms Turn Peer Engagement Into Retention? - CX Today",
-    "source": "Google News Search",
-    "published_at": "Tue, 15 Sep 2026 15:23:26 GMT",
-    "processed_at": "2026-09-20T12:00:29.175227",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://eu.36kr.com/en/p/3985550208875527": {
-    "title": "AI Companionship Products Face Token Burn Issues, Fortune Tools Lack User Retention: Lingyi Weiyao Enters Emotional Fortune Track with \"Chinese-Style 2D IP + Bazi Numerology\" Positioning - 36Kr",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 05:21:14 GMT",
-    "processed_at": "2026-09-20T12:00:29.180781",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://lifehacker.com/tech/10-hacks-every-audible-user-should-know": {
-    "title": "10 Hacks Every Audible User Should Know - Lifehacker",
-    "source": "Google News Search",
-    "published_at": "Wed, 16 Sep 2026 23:00:00 GMT",
-    "processed_at": "2026-09-20T12:00:29.186215",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html": {
     "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
     "source": "rss.nytimes.com",
@@ -4988,6 +4932,102 @@
     "source": "www.marketingbrew.com",
     "published_at": "Wed, 18 Nov 2026 19:00:11 +0000",
     "processed_at": "2026-11-19T16:14:42.345673",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html": {
+    "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 20 Nov 2026 14:43:10 +0000",
+    "processed_at": "2026-11-20T15:50:40.967152",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html": {
+    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 20 Nov 2026 01:13:38 +0000",
+    "processed_at": "2026-11-20T15:50:41.082116",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html": {
+    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 20 Nov 2026 00:25:47 +0000",
+    "processed_at": "2026-11-20T15:50:41.203962",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html": {
+    "title": "G.T.A. VI Is a Monumental Human Achievement",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 20 Nov 2026 15:19:25 +0000",
+    "processed_at": "2026-11-20T15:50:41.303252",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html": {
+    "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 20 Nov 2026 10:00:38 +0000",
+    "processed_at": "2026-11-20T15:50:41.430079",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html": {
+    "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 19 Nov 2026 21:39:12 +0000",
+    "processed_at": "2026-11-20T15:50:41.558428",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html": {
+    "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 19 Nov 2026 22:17:42 +0000",
+    "processed_at": "2026-11-20T15:50:41.667806",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials": {
+    "title": "What are Anthropic’s financials?",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 19 Nov 2026 19:30:04 +0000",
+    "processed_at": "2026-11-20T15:50:41.773107",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit": {
+    "title": "Anthropic’s unusual corporate structure mandates it balance safety and profit.",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 19 Nov 2026 18:53:18 +0000",
+    "processed_at": "2026-11-20T15:50:41.886036",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html": {
+    "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 19 Nov 2026 22:45:17 +0000",
+    "processed_at": "2026-11-20T15:50:41.987517",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingbrew.com/stories/rivian-slack-matic-delightful-software?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "To build loyalty and awareness, some brands are turning to delight",
+    "source": "www.marketingbrew.com",
+    "published_at": "Fri, 20 Nov 2026 10:00:00 +0000",
+    "processed_at": "2026-11-20T15:53:38.547119",
+    "status": "posted",
+    "telegram_message_id": 194
+  },
+  "https://www.marketingbrew.com/stories/verizon-laliga-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "Verizon renews LaLiga sponsorship amid World Cup years",
+    "source": "www.marketingbrew.com",
+    "published_at": "Fri, 20 Nov 2026 13:00:00 +0000",
+    "processed_at": "2026-11-20T15:53:38.551192",
     "status": "ignored",
     "telegram_message_id": null
   }
