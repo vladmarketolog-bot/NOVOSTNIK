@@ -1,84 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html": {
-    "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 20 Sep 2026 09:01:40 +0000",
-    "processed_at": "2026-09-21T13:34:44.343722",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html": {
-    "title": "This A.I. House Can Provide You With Connections. It Also Has a Dark Side.",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 21 Sep 2026 11:01:14 +0000",
-    "processed_at": "2026-09-21T13:34:44.468574",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://loyalty360.org/Industry-Blogs/Article/The-Revolution-Will-Not-Be-Televised-Loyalty-Marke": {
-    "title": "The Revolution Will Not Be Televised: Loyalty Marketing Needs to Grow Up - Loyalty360",
-    "source": "Google News Search",
-    "published_at": "Sun, 20 Sep 2026 00:07:15 GMT",
-    "processed_at": "2026-09-21T13:34:45.363528",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.hr-brew.com/resources/bank-of-america-workplace-benefits/retention-tool": {
-    "title": "Your benefits package is a retention tool. Are you treating it like one? - HR Brew",
-    "source": "Google News Search",
-    "published_at": "Mon, 21 Sep 2026 13:22:21 GMT",
-    "processed_at": "2026-09-21T13:35:48.739478",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://news.dealershipguy.com/p/fixed-ops-leaders-prioritize-customer-retention-in-roundtable-discussion": {
-    "title": "Fixed ops leaders prioritize customer retention in roundtable discussion - Car Dealership Guy News",
-    "source": "Google News Search",
-    "published_at": "Tue, 15 Sep 2026 04:49:11 GMT",
-    "processed_at": "2026-09-21T13:45:56.209143",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ringcentral-sees-ai-driving-upsell-120202841.html": {
-    "title": "RingCentral Sees AI Driving Upsell, Growth and Stronger Customer Retention - Yahoo Finance",
-    "source": "Google News Search",
-    "published_at": "Mon, 21 Sep 2026 12:02:02 GMT",
-    "processed_at": "2026-09-21T13:45:56.845213",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.business.com/articles/keep-customers-on-your-website/": {
-    "title": "Tips for Keeping Consumers Engaged on Your Website - Business.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-21T13:45:57.366502",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss": {
-    "title": "The state of subscriber engagement in the AI era: Publishers’ first-party relationship strategies - Digiday",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 19:19:35 GMT",
-    "processed_at": "2026-09-21T13:45:58.225072",
-    "status": "posted",
-    "telegram_message_id": 146
-  },
-  "https://www.mediapost.com/publications/article/417240/google-confirms-ai-model-hacked-companies-in-cyber.html": {
-    "title": "Agency Feedback On Apple 'Ads On Maps' Runs Hot, Cold On Eligibility 08/14/2026 - MediaPost",
-    "source": "Google News Search",
-    "published_at": "Fri, 18 Sep 2026 15:21:51 GMT",
-    "processed_at": "2026-09-21T13:45:58.233928",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.businessofapps.com/ads/mobile-dsp/": {
-    "title": "Top Demand-Side Platforms (2026) - Business of Apps",
-    "source": "Google News Search",
-    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-21T13:45:58.241998",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html": {
     "title": "What to Know About Recent A.I. Hacks",
     "source": "rss.nytimes.com",
@@ -5028,6 +4948,62 @@
     "source": "www.marketingbrew.com",
     "published_at": "Fri, 20 Nov 2026 13:00:00 +0000",
     "processed_at": "2026-11-20T15:53:38.551192",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html": {
+    "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 21 Nov 2026 10:02:09 +0000",
+    "processed_at": "2026-11-21T15:00:10.089063",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html": {
+    "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 21 Nov 2026 13:57:13 +0000",
+    "processed_at": "2026-11-21T15:00:10.151394",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html": {
+    "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 20 Nov 2026 19:39:27 +0000",
+    "processed_at": "2026-11-21T15:00:10.263617",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": {
+    "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 20 Nov 2026 18:51:23 +0000",
+    "processed_at": "2026-11-21T15:00:10.354845",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html": {
+    "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 21 Nov 2026 05:13:03 +0000",
+    "processed_at": "2026-11-21T15:00:10.427167",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingbrew.com/stories/burger-king-consumer-complaints-ad-campaign-renovations?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "Amid a major renovation project, Burger King is using its flaws as marketing",
+    "source": "www.marketingbrew.com",
+    "published_at": "Thu, 19 Nov 2026 17:37:22 +0000",
+    "processed_at": "2026-11-21T15:00:59.965869",
+    "status": "posted",
+    "telegram_message_id": 195
+  },
+  "https://www.marketingbrew.com/stories/nwsl-championship-sponsors-athletes?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "At this year’s NWSL championship, sponsors are putting athletes first",
+    "source": "www.marketingbrew.com",
+    "published_at": "Fri, 20 Nov 2026 20:00:55 +0000",
+    "processed_at": "2026-11-21T15:00:59.972150",
     "status": "ignored",
     "telegram_message_id": null
   }
