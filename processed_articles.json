@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html": {
-    "title": "What to Know About Recent A.I. Hacks",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 22 Sep 2026 09:03:32 +0000",
-    "processed_at": "2026-09-22T12:19:30.865529",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html": {
-    "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 22 Sep 2026 11:05:50 +0000",
-    "processed_at": "2026-09-22T12:19:30.955759",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/22/travel/group-trip-expenses-splitting-costs.html": {
-    "title": "How to Split Expenses on a Group Trip Without Fighting",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 22 Sep 2026 09:01:28 +0000",
-    "processed_at": "2026-09-22T12:19:31.050180",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html": {
-    "title": "As Computers Take the Driver’s Seat, Experts Worry About Safety",
-    "source": "rss.nytimes.com",
-    "published_at": "Tue, 22 Sep 2026 09:00:22 +0000",
-    "processed_at": "2026-09-22T12:19:31.141294",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html": {
-    "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
-    "source": "rss.nytimes.com",
-    "published_at": "Mon, 21 Sep 2026 16:53:07 +0000",
-    "processed_at": "2026-09-22T12:19:31.241285",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.martechcube.com/ai-reshapes-retail-loyalty-as-agentic-commerce-changes-how-consumers-shop/": {
-    "title": "AI Reshapes Retail Loyalty as Agentic Commerce Changes How Consumers Shop - MarTech Cube",
-    "source": "Google News Search",
-    "published_at": "Tue, 22 Sep 2026 07:48:27 GMT",
-    "processed_at": "2026-09-22T12:20:06.377392",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://loyalty360.org/Industry-Blogs/Article/Customer-Retention-Strategies-The-ROI-of-Group-Bas": {
-    "title": "Customer Retention Strategies: The ROI of Group-Based Loyalty. - Loyalty360",
-    "source": "Google News Search",
-    "published_at": "Thu, 17 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-22T12:20:16.790650",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nixonpeabody.com/insights/articles/2026/09/21/the-noncompete-problem-what-new-york-law-means-for-law-firms-considering-private-equity-investment": {
-    "title": "The Noncompete Problem: What New York law means for law firms considering private equity investment - Nixon Peabody",
-    "source": "Google News Search",
-    "published_at": "Mon, 21 Sep 2026 20:47:31 GMT",
-    "processed_at": "2026-09-22T12:20:21.861738",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.worktruckonline.com/videos/2027-gm-trucks-technician-retention-and-fleet-lessons-lead-this-weeks-news": {
-    "title": "2027 GM Trucks, Technician Retention, and Fleet Lessons Lead This Week’s News - Work Truck Online",
-    "source": "Google News Search",
-    "published_at": "Mon, 21 Sep 2026 15:54:56 GMT",
-    "processed_at": "2026-09-22T12:20:37.021845",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.hrexecutive.com/amid-layoff-fears-54-of-workers-would-take-a-pay-cut-for-greater-security/": {
-    "title": "Amid layoff fears, 54% of workers would take a pay cut for greater security - HR Executive",
-    "source": "Google News Search",
-    "published_at": "Fri, 18 Sep 2026 13:30:23 GMT",
-    "processed_at": "2026-09-22T12:20:37.275593",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wingify.com/blog/the-crossover-test/": {
-    "title": "The Crossover Test: A Better Way to Turn Customer Data Into Incremental Revenue",
-    "source": "vwo.com",
-    "published_at": "Mon, 21 Sep 2026 11:07:14 +0000",
-    "processed_at": "2026-09-22T12:21:05.960757",
-    "status": "posted",
-    "telegram_message_id": 147
-  },
-  "https://www.entrepreneur.com/starting-a-business/a-fintech-founder-shares-the-5-numbers-that-reveal-whether/504428": {
-    "title": "A Fintech Founder Shares the 5 Numbers That Reveal Whether Your Business Can Survive a Downturn - entrepreneur.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 18 Sep 2026 22:01:29 GMT",
-    "processed_at": "2026-09-22T12:21:05.969722",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cxtoday.com/community-social-engagement/community-commerce-customer-loyalty-influencer-marketing/": {
-    "title": "Is This The End For Influencer Marketing? - CX Today",
-    "source": "Google News Search",
-    "published_at": "Tue, 22 Sep 2026 12:17:39 GMT",
-    "processed_at": "2026-09-22T12:21:05.978037",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://americandrycleaner.com/articles/building-drycleaning-business-runs-without-you-part-2": {
-    "title": "Building a Drycleaning Business That Runs Without You (Part 2) - American Drycleaner",
-    "source": "Google News Search",
-    "published_at": "Tue, 22 Sep 2026 11:01:13 GMT",
-    "processed_at": "2026-09-22T12:21:05.986446",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://neilpatel.com/blog/linkedin-creator-monetization/": {
-    "title": "LinkedIn’s Creator Monetization Expansion",
-    "source": "neilpatel.com",
-    "published_at": "Mon, 21 Sep 2026 16:00:00 +0000",
-    "processed_at": "2026-09-22T12:21:05.995019",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html": {
     "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
     "source": "rss.nytimes.com",
@@ -5004,6 +4884,102 @@
     "source": "www.marketingbrew.com",
     "published_at": "Fri, 20 Nov 2026 20:00:55 +0000",
     "processed_at": "2026-11-21T15:00:59.972150",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html": {
+    "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 21 Nov 2026 19:11:51 +0000",
+    "processed_at": "2026-11-22T14:58:15.462399",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html": {
+    "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+    "source": "rss.nytimes.com",
+    "published_at": "Sat, 21 Nov 2026 10:03:45 +0000",
+    "processed_at": "2026-11-22T14:58:15.536642",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html": {
+    "title": "Looking for the Formula to Stop an Apocalypse",
+    "source": "rss.nytimes.com",
+    "published_at": "Sun, 22 Nov 2026 12:27:46 +0000",
+    "processed_at": "2026-11-22T14:58:15.619468",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.gwinnettdailypost.com/online_features/press_releases/restricted-industry-marketing-agency-icarus-relaunches-website-with-roas-and-ltv-calculator/article_584a0216-fb77-5e01-99d3-6debe40b6621.html": {
+    "title": "Restricted industry marketing agency Icarus relaunches website with ROAS and LTV calculator - Gwinnett Daily Post",
+    "source": "Google News Search",
+    "published_at": "Sat, 21 Nov 2026 02:00:02 GMT",
+    "processed_at": "2026-11-22T14:58:43.034405",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.leader-call.com/online_features/press_releases/restricted-industry-marketing-agency-icarus-relaunches-website-with-roas-and-ltv-calculator/article_3a797b51-9ce1-5083-aada-a480d5109c49.html": {
+    "title": "Restricted industry marketing agency Icarus relaunches website with ROAS and LTV calculator - Laurel Leader-Call",
+    "source": "Google News Search",
+    "published_at": "Sat, 21 Nov 2026 02:00:02 GMT",
+    "processed_at": "2026-11-22T14:58:43.609955",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.businessofapps.com/marketplace/app-marketing/": {
+    "title": "Top App Marketing Companies (2026) - Business of Apps",
+    "source": "Google News Search",
+    "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "processed_at": "2026-11-22T14:58:43.738534",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.customerexperiencedive.com/news/energy-company-cx-drive-customer-retention/874683/": {
+    "title": "How one energy company uses CX to drive customer retention - CX Dive",
+    "source": "Google News Search",
+    "published_at": "Mon, 16 Nov 2026 18:10:54 GMT",
+    "processed_at": "2026-11-22T14:58:45.559277",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://lbbonline.com/news/how-to-measure-digital-marketing-campaign-performance-beyond-clicks-and-impressions": {
+    "title": "How to Measure Digital Marketing Campaign Performance Beyond Clicks and Impressions — LBB - LBB - Little Black Book",
+    "source": "Google News Search",
+    "published_at": "Fri, 20 Nov 2026 09:29:20 GMT",
+    "processed_at": "2026-11-22T14:58:59.631697",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://mediashotz.co.uk/just-6-of-digital-tests-focus-on-customer-retention-wingify-study/": {
+    "title": "Just 6% of digital tests focus on customer retention – Wingify study - Mediashotz",
+    "source": "Google News Search",
+    "published_at": "Mon, 16 Nov 2026 13:25:30 GMT",
+    "processed_at": "2026-11-22T14:59:00.459110",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.streetinsider.com/PRNewswire/BKV+Energy+Announces+2026+ElectroShare+Customer+Payout/27366011.html": {
+    "title": "BKV Energy Announces 2026 ElectroShare Customer Payout - StreetInsider",
+    "source": "Google News Search",
+    "published_at": "Wed, 18 Nov 2026 10:32:01 GMT",
+    "processed_at": "2026-11-22T14:59:00.558721",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://ppc.land/databricks-lines-up-nine-ad-platforms-for-its-customer-value-signals/": {
+    "title": "Databricks lines up nine ad platforms for its customer-value signals - PPC Land",
+    "source": "Google News Search",
+    "published_at": "Fri, 20 Nov 2026 06:37:36 GMT",
+    "processed_at": "2026-11-22T14:59:09.809209",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.exchange4media.com/marketing-news/marketing-has-never-had-more-data-so-why-are-the-big-decisions-still-so-difficult-160286.html": {
+    "title": "Marketing has never had more data. So why are the big decisions still so difficult? - Exchange4Media",
+    "source": "Google News Search",
+    "published_at": "Mon, 16 Nov 2026 04:08:36 GMT",
+    "processed_at": "2026-11-22T14:59:13.148951",
     "status": "ignored",
     "telegram_message_id": null
   }
