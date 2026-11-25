@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html": {
-    "title": "Google Is Sending an A.I. Data Center to Outer Space",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 24 Sep 2026 13:48:42 +0000",
-    "processed_at": "2026-09-25T12:31:54.270001",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html": {
-    "title": "Complaints About Meta’s ‘Pervert Glasses’ Won’t Slow Tech’s Wearable Gadgets Drive",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 24 Sep 2026 19:02:55 +0000",
-    "processed_at": "2026-09-25T12:31:54.365856",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html": {
-    "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 25 Sep 2026 11:00:03 +0000",
-    "processed_at": "2026-09-25T12:31:54.452218",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/25/well/ai-chatbots-artificial-intimacy.html": {
-    "title": "Chatbots Are Not Your Friends",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 25 Sep 2026 09:03:23 +0000",
-    "processed_at": "2026-09-25T12:31:54.549723",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html": {
-    "title": "Mark Zuckerberg Is Trying Something On",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 25 Sep 2026 09:00:13 +0000",
-    "processed_at": "2026-09-25T12:31:54.639581",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html": {
-    "title": "U.S. Intercedes for Elon Musk’s X Over European Fine",
-    "source": "rss.nytimes.com",
-    "published_at": "Thu, 24 Sep 2026 22:34:49 +0000",
-    "processed_at": "2026-09-25T12:31:54.709470",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html": {
-    "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 25 Sep 2026 01:12:39 +0000",
-    "processed_at": "2026-09-25T12:31:54.795306",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://wingify.com/blog/why-we-became-wingify/": {
-    "title": "Curiosity Meets Clarity: Why We Became Wingify",
-    "source": "vwo.com",
-    "published_at": "Fri, 25 Sep 2026 07:07:39 +0000",
-    "processed_at": "2026-09-25T12:32:39.715817",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/tradingview:e514d4d322da6:0-boba-mint-holdings-ltd-tnj-adds-1-800-amino-pro-subs-in-45-days/": {
-    "title": "Boba Mint Holdings Ltd. (TNJ) Adds 1,800 Amino Pro Subs in 45 Days - TradingView",
-    "source": "Google News Search",
-    "published_at": "Wed, 23 Sep 2026 16:25:00 GMT",
-    "processed_at": "2026-09-25T12:32:39.900329",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.usatoday.com/story/special/contributor-content/2026/09/24/why-redo-is-focusing-on-the-complete-customer-journey/91923170007/": {
-    "title": "Why Redo Is Focusing on the Complete Customer Journey - USA Today",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 18:13:00 GMT",
-    "processed_at": "2026-09-25T12:32:40.168475",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.ktvo.com/online_features/press_releases/cavallo-enhances-profit-max-platform-arming-sales-teams-with-advanced-customer-intelligence-and-92-accurate/article_209322d8-dd54-5552-b2d1-632f5dfbf050.html": {
-    "title": "Cavallo Enhances Profit Max Platform, Arming Sales Teams with Advanced Customer Intelligence and 92% Accurate Customer Retention Insights - KTVO",
-    "source": "Google News Search",
-    "published_at": "Tue, 22 Sep 2026 17:26:00 GMT",
-    "processed_at": "2026-09-25T12:32:40.888518",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vista.today/2026/09/marketing-due-diligence-mistakes-sellers/": {
-    "title": "Protecting Business Value Through Marketing Readiness - VISTA.Today",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 09:25:00 GMT",
-    "processed_at": "2026-09-25T12:32:41.016943",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.jdsupra.com/legalnews/creating-value-in-cleveland-s-office-9561757/": {
-    "title": "Creating Value in Cleveland’s Office Market Downturn: Strategies that Work - JD Supra",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 20:24:33 GMT",
-    "processed_at": "2026-09-25T12:32:41.351675",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.forvismazars.us/forsights/2026/09/public-sector-workforce-shortages-building-resilience": {
-    "title": "Public Sector Workforce Shortages: Building Resilience - Forvis Mazars US",
-    "source": "Google News Search",
-    "published_at": "Tue, 22 Sep 2026 17:32:56 GMT",
-    "processed_at": "2026-09-25T12:32:42.159010",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://officechai.com/miscellaneous/how-businesses-can-reduce-their-customer-acquisition-costs/": {
-    "title": "How Businesses Can Reduce Their Customer Acquisition Costs - OfficeChai",
-    "source": "Google News Search",
-    "published_at": "Fri, 25 Sep 2026 10:59:25 GMT",
-    "processed_at": "2026-09-25T12:32:43.694268",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html": {
     "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
     "source": "rss.nytimes.com",
@@ -4900,6 +4780,70 @@
     "source": "www.marketingbrew.com",
     "published_at": "Mon, 23 Nov 2026 20:31:17 +0000",
     "processed_at": "2026-11-24T18:29:31.340338",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html": {
+    "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 24 Nov 2026 21:46:11 +0000",
+    "processed_at": "2026-11-25T17:42:43.589278",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html": {
+    "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 25 Nov 2026 15:43:56 +0000",
+    "processed_at": "2026-11-25T17:42:43.683332",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html": {
+    "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 25 Nov 2026 10:04:13 +0000",
+    "processed_at": "2026-11-25T17:42:43.800280",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html": {
+    "title": "How to Use Your Apps With Fewer Taps",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 25 Nov 2026 10:03:55 +0000",
+    "processed_at": "2026-11-25T17:42:43.900938",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/25/arts/design/artport-whitney-museum-digital-art-ai-paul.html": {
+    "title": "The Web May Be Dying. Can Net Art Save It?",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 25 Nov 2026 10:02:18 +0000",
+    "processed_at": "2026-11-25T17:42:44.009278",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html": {
+    "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+    "source": "rss.nytimes.com",
+    "published_at": "Tue, 24 Nov 2026 23:27:37 +0000",
+    "processed_at": "2026-11-25T17:42:44.120503",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingbrew.com/stories/nfl-sponsorship-kraft-heinz-velveeta-cheese-pylons?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "Kraft Heinz isn’t afraid to get cheesy with its NFL sponsorship",
+    "source": "www.marketingbrew.com",
+    "published_at": "Wed, 25 Nov 2026 13:24:49 +0000",
+    "processed_at": "2026-11-25T17:47:25.145625",
+    "status": "posted",
+    "telegram_message_id": 197
+  },
+  "https://www.marketingbrew.com/stories/tech-ad-spend-growth-ai-industry-slowdown?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "Tech ad spend continues to grow, but AI industry worries could usher in a slowdown: report",
+    "source": "www.marketingbrew.com",
+    "published_at": "Wed, 25 Nov 2026 16:00:00 +0000",
+    "processed_at": "2026-11-25T17:47:25.148930",
     "status": "ignored",
     "telegram_message_id": null
   }
