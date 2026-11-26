@@ -1,124 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html": {
-    "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 26 Sep 2026 01:37:20 +0000",
-    "processed_at": "2026-09-26T12:02:04.555921",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html": {
-    "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 25 Sep 2026 20:26:49 +0000",
-    "processed_at": "2026-09-26T12:02:04.646258",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html": {
-    "title": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 26 Sep 2026 02:48:20 +0000",
-    "processed_at": "2026-09-26T12:02:04.753177",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html": {
-    "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
-    "source": "rss.nytimes.com",
-    "published_at": "Sat, 26 Sep 2026 01:55:36 +0000",
-    "processed_at": "2026-09-26T12:02:04.845686",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html": {
-    "title": "Is China Really Stealing A.I. From American Companies?",
-    "source": "rss.nytimes.com",
-    "published_at": "Fri, 25 Sep 2026 15:02:21 +0000",
-    "processed_at": "2026-09-26T12:02:04.950445",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.cxtoday.com/community-commerce-customer-loyalty-influencer-marketing": {
-    "title": "Is This The End For Influencer Marketing? - CX Today",
-    "source": "Google News Search",
-    "published_at": "Tue, 22 Sep 2026 12:00:59 GMT",
-    "processed_at": "2026-09-26T12:02:56.875540",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.mediapost.com/publications/article/418273/openai-loyalty-settles-in-reshapes-advertising-m.html?edition=143965": {
-    "title": "OpenAI Loyalty Settles In, Reshapes Advertising, Marketing Funnel 09/24/2026 - MediaPost",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 17:03:16 GMT",
-    "processed_at": "2026-09-26T12:02:57.368222",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://vista.today/?p=323609": {
-    "title": "Protecting Business Value Through Marketing Readiness - VISTA.Today",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 09:25:00 GMT",
-    "processed_at": "2026-09-26T12:02:57.953239",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.indexbox.io/blog/filter-tips-market-forecast-to-2035-growth-driven-by-lab-automation-and-diagnostic-demand/": {
-    "title": "Filter Tips Market To 2035: Growth Driven by Lab Automation and Diagnostic Demand - News and Statistics - IndexBox",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 13:56:04 GMT",
-    "processed_at": "2026-09-26T12:03:53.794646",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://smartasset.com/advisor-resources/how-financial-advisors-handle-multi-state-clients": {
-    "title": "How Financial Advisors Handle Multi-State Clients - SmartAsset.com",
-    "source": "Google News Search",
-    "published_at": "Fri, 25 Sep 2026 20:36:11 GMT",
-    "processed_at": "2026-09-26T12:03:58.171212",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.tradingview.com/news/zacks:d888c0f3d094b:0-can-duol-s-green-machine-sustain-its-strong-user-growth-momentum/": {
-    "title": "Can DUOL's Green Machine Sustain Its Strong User Growth Momentum? - TradingView",
-    "source": "Google News Search",
-    "published_at": "Wed, 23 Sep 2026 15:15:00 GMT",
-    "processed_at": "2026-09-26T12:03:58.539927",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.clickpost.ai/blog/customer-loyalty-statistics": {
-    "title": "Customer Loyalty Statistics: Key Trends & Insights for 2026 - ClickPost",
-    "source": "Google News Search",
-    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-26T12:03:59.361953",
-    "status": "posted",
-    "telegram_message_id": 149
-  },
-  "https://neilpatel.com/blog/original-data-ai-citations/": {
-    "title": "Data: Your Edge for AEO/GEO",
-    "source": "neilpatel.com",
-    "published_at": "Fri, 25 Sep 2026 16:00:00 +0000",
-    "processed_at": "2026-09-26T12:03:59.371865",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://techbullion.com/how-ai-powered-digital-marketing-is-shaping-the-future-of-saas-growth/": {
-    "title": "How AI-Powered Digital Marketing Is Shaping the Future of SaaS Growth - TechBullion",
-    "source": "Google News Search",
-    "published_at": "Fri, 25 Sep 2026 16:46:22 GMT",
-    "processed_at": "2026-09-26T12:03:59.380154",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.manilatimes.net/2026/09/21/business/top-business/app-developers-shift-focus-on-user-value/2429002": {
-    "title": "App developers shift focus on user value - The Manila Times",
-    "source": "Google News Search",
-    "published_at": "Sun, 20 Sep 2026 16:08:00 GMT",
-    "processed_at": "2026-09-26T12:03:59.389304",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html": {
     "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
     "source": "rss.nytimes.com",
@@ -4846,5 +4726,77 @@
     "processed_at": "2026-11-25T17:47:25.148930",
     "status": "ignored",
     "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html": {
+    "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 26 Nov 2026 17:20:43 +0000",
+    "processed_at": "2026-11-26T17:26:32.494603",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html": {
+    "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+    "source": "rss.nytimes.com",
+    "published_at": "Thu, 26 Nov 2026 12:04:01 +0000",
+    "processed_at": "2026-11-26T17:26:32.647749",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html": {
+    "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+    "source": "rss.nytimes.com",
+    "published_at": "Wed, 25 Nov 2026 21:36:35 +0000",
+    "processed_at": "2026-11-26T17:26:32.790940",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4799308:0-shoe-weak-traffic-cut-q3-results-store-and-marketing-resets-underpin-cautious-q4-guidance/": {
+    "title": "SHOE: Weak traffic cut Q3 results; store and marketing resets underpin cautious Q4 guidance - TradingView",
+    "source": "Google News Search",
+    "published_at": "Tue, 24 Nov 2026 15:54:33 GMT",
+    "processed_at": "2026-11-26T17:37:25.507695",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://kalkine.ca/news/retail/high-tide-inc-tsxvhiti-stock-climbs-201-retail-expansion-and-customer-loyalty-strategy-support-growth-outlook": {
+    "title": "High Tide Inc. (TSXV:HITI) Stock Climbs 2.01%: Retail Expansion and Customer Loyalty Strategy Support Growth Outlook - kalkine.ca",
+    "source": "Google News Search",
+    "published_at": "Tue, 24 Nov 2026 11:31:00 GMT",
+    "processed_at": "2026-11-26T17:37:38.048562",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://searchengineland.com/google-ads-encourages-dynamic-conversion-values-to-improve-smart-bidding-503027": {
+    "title": "Google Ads encourages dynamic conversion values to improve Smart Bidding - Search Engine Land",
+    "source": "Google News Search",
+    "published_at": "Wed, 25 Nov 2026 16:07:16 GMT",
+    "processed_at": "2026-11-26T17:38:07.744452",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://next.io/news/investment/truist-fanatics-cross-selling-strategy/": {
+    "title": "Truist: Fanatics cross-sell could boost customer value - NEXT.io",
+    "source": "Google News Search",
+    "published_at": "Tue, 24 Nov 2026 12:15:49 GMT",
+    "processed_at": "2026-11-26T17:38:09.589352",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://finance.biggo.com/news/1a5f8d59-b8cb-48c1-ac62-2323379de879": {
+    "title": "Adobe Embeds CX AI Agents Into ChatGPT, Gemini — Will Marketing's Playing Field Shift? - BigGo Finance",
+    "source": "Google News Search",
+    "published_at": "Tue, 24 Nov 2026 09:26:00 GMT",
+    "processed_at": "2026-11-26T17:38:10.137315",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingbrew.com/stories/humor-niche-targeting-marketing-columbia-goodwipes?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "For some brands, humor plus niche targeting is a winning formula",
+    "source": "www.marketingbrew.com",
+    "published_at": "Wed, 25 Nov 2026 20:10:00 +0000",
+    "processed_at": "2026-11-26T17:38:11.274132",
+    "status": "posted",
+    "telegram_message_id": 198
   }
 }
