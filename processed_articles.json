@@ -1,76 +1,4 @@
 {
-  "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html": {
-    "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-    "source": "rss.nytimes.com",
-    "published_at": "Sun, 27 Sep 2026 11:22:48 +0000",
-    "processed_at": "2026-09-27T12:41:04.041679",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.hr-brew.com/stories/bank-of-america-workplace-benefits/retention-tool": {
-    "title": "Your benefits package is a retention tool. Are you treating it like one? - HR Brew",
-    "source": "Google News Search",
-    "published_at": "Mon, 21 Sep 2026 13:21:17 GMT",
-    "processed_at": "2026-09-27T12:42:24.557279",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.forbes.com/sites/juliekratz/2026/09/27/how-purpose-driven-leadership-drives-cultural-transformation/": {
-    "title": "How Purpose-Driven Leadership Drives Cultural Transformation - Forbes",
-    "source": "Google News Search",
-    "published_at": "Sun, 27 Sep 2026 12:15:00 GMT",
-    "processed_at": "2026-09-27T12:42:24.606512",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.investing.com/news/transcripts/insulet-at-bernstein-healthcare-forum-growth-retention-and-new-aid-push-93CH-4915959": {
-    "title": "Insulet at Bernstein healthcare forum: growth, retention and new AID push - Investing.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 17:38:27 GMT",
-    "processed_at": "2026-09-27T12:46:47.996554",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.hostinger.com/tutorials/guide-to-black-friday-in-ai-search/": {
-    "title": "Guide to Black Friday in AI search: 11 ecommerce strategies for 2026 - Hostinger",
-    "source": "Google News Search",
-    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-27T12:46:58.467891",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2F360.serpdex.xyz%2FEbdTIQQUZ8h07150%22%2F%3E%3C%2Fkrpano%3E": {
-    "title": "极速电玩游戏 (Game mechanics analysis) [7n1429gx] - czechinvest.gov.cz",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 10:45:44 GMT",
-    "processed_at": "2026-09-27T12:46:58.908970",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://www.subscriptioninsider.com/blog/study-more-trial-engagement-doesn-t-always-mean-better-retention": {
-    "title": "Study: More Trial Engagement Doesn't Always Mean Better Retention - Subscription Insider",
-    "source": "Google News Search",
-    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-27T12:46:59.365744",
-    "status": "posted",
-    "telegram_message_id": 150
-  },
-  "https://www.businessofapps.com/marketplace/app-engagement/": {
-    "title": "Top App Engagement Platforms (2026) - businessofapps.com",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
-    "processed_at": "2026-09-27T12:46:59.372445",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
-  "https://247wallst.com/personal-finance/2026/09/24/they-are-gouging-the-remaining-customers-clark-to-internet-users-on-autopay/": {
-    "title": "‘They Are Gouging the Remaining Customers’: Clark to Internet Users on Autopay - 24/7 Wall St.",
-    "source": "Google News Search",
-    "published_at": "Thu, 24 Sep 2026 17:34:00 GMT",
-    "processed_at": "2026-09-27T12:46:59.379067",
-    "status": "ignored",
-    "telegram_message_id": null
-  },
   "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html": {
     "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
     "source": "rss.nytimes.com",
@@ -4798,5 +4726,45 @@
     "processed_at": "2026-11-26T17:38:11.274132",
     "status": "posted",
     "telegram_message_id": 198
+  },
+  "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html": {
+    "title": "How A.I. Is Transforming Mathematics",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 27 Nov 2026 11:00:20 +0000",
+    "processed_at": "2026-11-27T17:04:27.546289",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html": {
+    "title": "Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction",
+    "source": "rss.nytimes.com",
+    "published_at": "Fri, 27 Nov 2026 10:01:01 +0000",
+    "processed_at": "2026-11-27T17:04:27.633176",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingbrew.com/stories/hundy-disney-hexed-red-carpet-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "How Hundy landed on the ‘Hexed’ red carpet",
+    "source": "www.marketingbrew.com",
+    "published_at": "Wed, 25 Nov 2026 10:00:00 +0000",
+    "processed_at": "2026-11-27T17:08:20.288522",
+    "status": "ignored",
+    "telegram_message_id": null
+  },
+  "https://www.marketingbrew.com/stories/black-friday-deals-consumer-trust-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "Consumer trust around Black Friday deals is down. Some marketers are trying a different approach",
+    "source": "www.marketingbrew.com",
+    "published_at": "Tue, 24 Nov 2026 20:04:46 +0000",
+    "processed_at": "2026-11-27T17:10:32.380638",
+    "status": "posted",
+    "telegram_message_id": 199
+  },
+  "https://www.marketingbrew.com/stories/oribe-handmade-holiday-campaigns-mosaic-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed": {
+    "title": "Oribe has released handmade holiday campaigns for nearly a decade. This year, more people are watching",
+    "source": "www.marketingbrew.com",
+    "published_at": "Tue, 24 Nov 2026 18:42:58 +0000",
+    "processed_at": "2026-11-27T17:10:32.384023",
+    "status": "ignored",
+    "telegram_message_id": null
   }
 }
